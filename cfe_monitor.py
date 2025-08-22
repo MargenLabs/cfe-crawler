@@ -318,10 +318,10 @@ def compare_and_alert(old: dict, new: dict):
     for num, data in new.items():
         if num not in old:
             msg = (
-                f"🚨 **Licitación Nueva** 🚨\n"
-                f"**Descripción:** {data['descripcion']}\n"
-                f"**No:** {data['numero']}\n"
-                f"**Fecha:** {data['fecha_publicacion'] or 'Fecha no disponible'}"
+                f"🚨 Licitación Nueva 🚨\n"
+                f"{data['descripcion']}\n"
+                f"{data['numero']}\n"
+                f"{data['fecha_publicacion'] or 'Fecha no disponible'}"
             )
             print("[NEW]", msg)
             send_telegram(msg)
@@ -344,10 +344,10 @@ def compare_and_alert(old: dict, new: dict):
     
             if diffs:
                 msg = (
-                    f"⚠️ **Actualización de licitación**\n"
-                    f"**Descripción:** {data['descripcion']}\n"
-                    f"**No:** {data['numero']}\n"
-                    f"**Cambios:**\n- " + "\n- ".join(diffs)
+                    f"⚠️ Actualización de licitación\n"
+                    f"{data['descripcion']}\n"
+                    f"{data['numero']}\n"
+                    f"Cambios:\n- " + "\n- ".join(diffs)
                 )
                 print("[CHG]", msg)
                 send_telegram(msg)

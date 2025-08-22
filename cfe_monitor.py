@@ -224,6 +224,19 @@ async def scrape_listings():
                 for r in range(header_row_idx + 1, row_count):
                     row = rows.nth(r)
                     cells = row.locator("td")
+                    link = cells.locator("a")
+                    detalle_url = ""
+                    if await link.count():
+                        try:
+                            href = await link.first.get_attribute("href")
+                            if href:
+                                # Convierte href relativo a absoluto sin navegar
+                                detalle_url = await page.evaluate(
+                                    "href => new URL(href, window.location.href).href",
+                                    href
+                                )
+                        except:
+                            pass
                     if not await cells.count():
                         continue
         
@@ -245,6 +258,7 @@ async def scrape_listings():
                         "adjudicado_a": adjudicado_a,
                         "monto_adjudicado": monto_adjudicado,
                         "ultima_lectura": now_tijuana().isoformat(),
+                        "url": detalle_url,
                     }
         
             # --- Paginación ---
@@ -309,9 +323,12 @@ def compare_and_alert(old: dict, new: dict):
     # Nuevas
     for num, data in new.items():
         if num not in old:
+            link_line = f"\n• Ver: {data.get('url')}" if data.get('url') else ""
             msg = (
-                f"Licitación Nueva {data['numero']}, "
-                f"{data['descripcion']}, "
+                f"🚨 Licitación Nueva 🚨\n"
+                f"- Descripción: {data['descripcion']}\n"
+                f"- No: {data['numero']}\n"
+                f"{link_line}\n"
                 f"{data['fecha_publicacion'] or 'Fecha no disponible'}"
             )
             print("[NEW]", msg)
@@ -334,10 +351,13 @@ def compare_and_alert(old: dict, new: dict):
                     diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
     
             if diffs:
+                link_line = f"\n• Ver: {data.get('url')}" if data.get('url') else ""
                 msg = (
-                    f"🔁 Actualización de licitación\n"
-                    f"• Nº: {data['numero']}\n"
-                    f"• Cambios:\n- " + "\n- ".join(diffs)
+                    f"⚠️ Actualización de licitación\n"
+                    f"- Descripción: {data['descripcion']}\n"
+                    f"- Nº: {data['numero']}\n"
+                    f"- Cambios:\n- " + "\n- ".join(diffs) +
+                    link_line
                 )
                 print("[CHG]", msg)
                 send_telegram(msg)

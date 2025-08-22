@@ -4,5 +4,4 @@ __pycache__/
 **/.DS_Store
 ms-playwright/
 playwright/.cache/
-cfe_state.json
 .runs_*.txt

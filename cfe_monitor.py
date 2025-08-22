@@ -59,7 +59,7 @@ STATE_FILE = "cfe_state.json"
 # Horario laboral (hora de Tijuana) y número máximo de ejecuciones/día
 WORK_START = 0   # 09:00
 WORK_END   = 24  # 19:00
-RUNS_PER_DAY = 4
+RUNS_PER_DAY = 99
 
 # Paginación: ¿cuántas páginas revisar?
 MAX_PAGES = int(os.getenv("MAX_PAGES", "1"))  # 1 = solo la primera página
@@ -319,18 +319,25 @@ def compare_and_alert(old: dict, new: dict):
             updated[num] = data
 
     # Cambios
-    campos = ["descripcion", "estado", "adjudicado_a", "monto_adjudicado"]
+    campos = ["descripcion", "fecha_publicacion", "estado", "adjudicado_a", "monto_adjudicado"]
     for num, data in new.items():
         if num in old:
             prev = old[num]
-            changed = any((prev.get(c, "").strip() != data.get(c, "").strip()) for c in campos)
-            if changed:
+            diffs = []
+            for c in campos:
+                pv = (prev.get(c, "") or "").strip()
+                nv = (data.get(c, "") or "").strip()
+                if pv != nv:
+                    # recorta por si hay textos muy largos
+                    pv_show = (pv[:180] + "…") if len(pv) > 180 else pv
+                    nv_show = (nv[:180] + "…") if len(nv) > 180 else nv
+                    diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
+    
+            if diffs:
                 msg = (
-                    f"Cambios en {data['numero']}, "
-                    f"{data.get('descripcion','')}, "
-                    f"{data.get('estado','') or 'Estado no disponible'}, "
-                    f"{data.get('adjudicado_a','') or 'N/D'}, "
-                    f"{data.get('monto_adjudicado','') or 'N/D'}"
+                    f"🔁 Actualización de licitación\n"
+                    f"• Nº: {data['numero']}\n"
+                    f"• Cambios:\n- " + "\n- ".join(diffs)
                 )
                 print("[CHG]", msg)
                 send_telegram(msg)

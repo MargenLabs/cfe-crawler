@@ -64,9 +64,9 @@ ESTADO_OBJETIVO = "Baja California"
 STATE_FILE = "cfe_state.json"
 
 # Horario laboral (hora de Tijuana) y número máximo de ejecuciones/día
-WORK_START = 0   # 09:00
-WORK_END   = 24  # 19:00
-RUNS_PER_DAY = 99
+WORK_START = 9   # 09:00
+WORK_END   = 19  # 19:00
+RUNS_PER_DAY = 4
 
 # Paginación: ¿cuántas páginas revisar?
 MAX_PAGES = int(os.getenv("MAX_PAGES", "1"))  # 1 = solo la primera página

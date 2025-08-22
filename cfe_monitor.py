@@ -9,6 +9,46 @@ from zoneinfo import ZoneInfo
 import requests
 from playwright.async_api import async_playwright
 
+# --- Envío a Telegram con control de rate limit 429 y pequeña pausa entre mensajes ---
+def send_telegram(text, bot_token, chat_id):
+    """
+    Envía un mensaje a Telegram, respetando rate limit (429 retry_after)
+    y añadiendo una pausa corta entre mensajes para no saturar el chat.
+    Devuelve True si se envió, False si falló con error no recuperable.
+    """
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    data = {
+        "chat_id": chat_id,
+        "text": text,
+        "disable_web_page_preview": True,
+    }
+    while True:
+        r = requests.post(url, data=data, timeout=30)
+        if r.ok:
+            # Pausa mínima para no “floodear” (≈ 1 msg/seg)
+            time.sleep(1.2)
+            return True
+
+        # Si Telegram responde 429, respeta retry_after y reintenta
+        if r.status_code == 429:
+            retry_after = 5
+            try:
+                retry_after = r.json().get("parameters", {}).get("retry_after", 5)
+            except Exception:
+                pass
+            time.sleep(int(retry_after) + 1)
+            continue
+
+        # Otros errores: loguea y no reintentes infinitamente
+        print(f"[ERROR] Telegram {r.status_code}: {r.text}")
+        return False
+
+
+# Alias por compatibilidad: si en el código se usa send_to_telegram(...),
+# lo redirigimos aquí para NO tener que cambiar llamadas en otras partes.
+def send_to_telegram(text, bot_token, chat_id):
+    return send_telegram(text, bot_token, chat_id)
+
 # ---------------------------
 # CONFIGURACIÓN GENERAL
 # ---------------------------
@@ -17,8 +57,8 @@ ESTADO_OBJETIVO = "Baja California"
 STATE_FILE = "cfe_state.json"
 
 # Horario laboral (hora de Tijuana) y número máximo de ejecuciones/día
-WORK_START = 9   # 09:00
-WORK_END   = 19  # 19:00
+WORK_START = 0   # 09:00
+WORK_END   = 24  # 19:00
 RUNS_PER_DAY = 4
 
 # Telegram (coloca estos valores como "Secrets" en GitHub)

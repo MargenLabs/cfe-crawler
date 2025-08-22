@@ -106,16 +106,18 @@ def save_state(data: dict):
 # ---------------------------
 async def scrape_listings():
     """
-    Devuelve un diccionario {numero_procedimiento: datos} con, al menos:
-      - numero
-      - descripcion
-      - fecha_publicacion
-      - estado (si aparece)
-      - adjudicado_a (si aparece)
-      - monto_adjudicado (si aparece)
-    Nota: El portal puede cambiar. Este scraper usa selectores robustos por texto y fallback.
+    Lee SOLO lo que aparece en la tabla de resultados (sin abrir detalle).
+    Devuelve {numero: {numero, descripcion, fecha_publicacion, estado, adjudicado_a, monto_adjudicado, ultima_lectura}}
+    Respeta MAX_PAGES (por defecto 1 = primera página).
     """
     results = {}
+
+    def norm(text: str) -> str:
+        t = (text or "").lower().replace("\n", " ").strip()
+        # normalización suave para buscar encabezados
+        return (t
+                .replace("ñ", "n")
+                .replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u"))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -124,12 +126,9 @@ async def scrape_listings():
 
         # 1) Ir al sitio
         await page.goto(CFE_URL, wait_until="domcontentloaded")
-        # Algunos sitios ASP.NET cargan dinámico: esperemos unos segundos extra
         await page.wait_for_timeout(3000)
 
-        # 2) Seleccionar entidad federativa "Baja California"
-        # Intenta localizar el <select> por etiqueta o nombre común
-        # Ajustable si el sitio cambia: inspecciona y actualiza el selector.
+        # 2) Seleccionar "Baja California"
         select_locator_candidates = [
             "select:has(option:text('Baja California'))",
             "select[formcontrolname*='Entidad'], select[name*='Entidad'], select[id*='Entidad']",
@@ -139,153 +138,94 @@ async def scrape_listings():
         for cand in select_locator_candidates:
             loc = page.locator(cand)
             if await loc.count():
-                # Verifica que la opción exista
                 try:
                     await loc.select_option(label=ESTADO_OBJETIVO)
                     select = loc
                     break
                 except:
                     pass
-
         if not select:
-            # Otra estrategia: intentar hacer click en un combobox tipo Angular/PrimeNG
-            # Buscamos un componente que se despliega y filtra por texto
             try:
-                # Abre el combo
                 await page.get_by_text("Entidad", exact=False).click(timeout=2000)
                 await page.get_by_role("option", name=ESTADO_OBJETIVO, exact=True).click(timeout=2000)
             except:
-                print("[WARN] No se pudo seleccionar el estado por los selectores comunes. Revisa el selector en el código.")
-        
-        # 3) Dar click en "Buscar"/"Consultar"
-        # Tratamos nombres típicos de botones
+                print("[WARN] No se pudo seleccionar el estado. Revisa el selector.")
+
+        # 3) Click en Buscar/Consultar
         for button_text in ["Buscar", "Consultar", "Filtrar", "Aceptar"]:
             btn = page.get_by_role("button", name=button_text, exact=False)
             if await btn.count():
                 await btn.first.click()
                 break
-
-        # Espera carga de tabla
         await page.wait_for_timeout(3000)
 
-        # 4) Recorremos las páginas de resultados
-        for i in range(MAX_PAGES):
-            # Ubicar tabla
+        # 4) Recorremos páginas (sin abrir detalle)
+        page_idx = 0
+        while True:
+            page_idx += 1
+
             table = page.locator("table")
             if not await table.count():
-                # A veces la tabla es un <div role="table">
                 table = page.locator("[role='table']")
-            
+
             if not await table.count():
                 print("[WARN] No se encontró tabla en la página actual.")
             else:
-                # Parsear filas (excluyendo encabezado)
-                rows = table.locator("tr")
-                nrows = await rows.count()
-                for i in range(nrows):
-                    row = rows.nth(i)
-                    # Filtra encabezados
-                    tag = await row.evaluate("(el) => el.tagName.toLowerCase()")
-                    cls = (await row.get_attribute("class")) or ""
-                    if "header" in cls.lower() or tag == "thead":
+                # --- Mapear encabezados -> índices ---
+                header_cells = table.locator("thead tr th, thead tr td, tr:first-child th, tr:first-child td")
+                hcount = await header_cells.count()
+                headers = [norm(await header_cells.nth(i).inner_text()) for i in range(hcount)] if hcount else []
+
+                def find_col(*needles):
+                    for i, h in enumerate(headers):
+                        if any(n in h for n in needles):
+                            return i
+                    return None
+
+                idx_num   = find_col("numero de procedimiento", "numero", "procedimiento")
+                idx_desc  = find_col("descripcion")
+                idx_fecha = find_col("fecha public")
+                idx_est   = find_col("estado", "estatus", "situacion")
+                idx_adj   = find_col("adjudicado a", "empresa adjudicada", "contratista")
+                idx_monto = find_col("monto adjudicado", "monto adjudicado en pesos", "importe")
+
+                # --- Filas de datos ---
+                body_rows = table.locator("tbody tr")
+                if not await body_rows.count():
+                    # fallback si no hay <tbody>
+                    body_rows = table.locator("tr").nth(1)  # evitar la fila de encabezado
+                    # mejor: todas menos la primera
+                    all_rows = table.locator("tr")
+                    start_at = 1 if (await all_rows.count()) > 1 else 0
+                    rows = [all_rows.nth(i) for i in range(start_at, await all_rows.count())]
+                else:
+                    rows = [body_rows.nth(i) for i in range(await body_rows.count())]
+
+                for r in rows:
+                    cells = r.locator("td")
+                    ccount = await cells.count()
+                    if not ccount:
                         continue
 
-                    cells = row.locator("td")
-                    if not await cells.count():
-                        continue
+                    def get_cell(idx):
+                        if idx is None or idx >= ccount:
+                            return ""
+                        return (await cells.nth(idx).inner_text()).strip()
 
-                    # Por lo general las columnas incluyen: número de procedimiento, descripción, fecha, y un enlace a detalle
-                    # Intentamos mapeo por índice flexible:
-                    text_cells = []
-                    for c in range(await cells.count()):
-                        text_cells.append((await cells.nth(c).inner_text()).strip())
+                    numero = get_cell(idx_num)
+                    descripcion = get_cell(idx_desc)
+                    fecha_publicacion = get_cell(idx_fecha)
+                    estado = get_cell(idx_est)
+                    adjudicado_a = get_cell(idx_adj)
+                    monto_adjudicado = get_cell(idx_monto)
 
-                    # Heurística: buscar número de procedimiento por un patrón típico (por ej. "CFE-...")
-                    numero = ""
-                    for t in text_cells:
-                        if "CFE-" in t or "L0" in t or "OM-" in t or "-" in t:
-                            # Toma la primera "celda con guiones" como candidato
-                            numero = t.split("\n")[0].strip()
-                            break
-
-                    # Descripción = la celda con más texto
-                    descripcion = max(text_cells, key=len).replace("\n", " ").strip() if text_cells else ""
-
-                    # Fecha probable: busca algo con "/" o formato dd/mm/aaaa
-                    fecha_publicacion = ""
-                    for t in text_cells:
-                        if "/" in t or "-" in t:
-                            # muy genérico; nos quedamos con el primer match que parezca fecha corta
-                            if any(m in t for m in ["/202", "-202"]):
-                                fecha_publicacion = t.strip()
-                                break
-
-                    # Intentar entrar al detalle (si la fila tiene un link)
-                    estado = ""
-                    adjudicado_a = ""
-                    monto_adjudicado = ""
-
-                    link = cells.locator("a")
-                    if await link.count():
-                        detail_page = None
-                        try:
-                            # Si el click abre una NUEVA pestaña/ventana:
-                            async with context.expect_page(timeout=3000) as new_page_info:
-                                await link.first.click()
-                            detail_page = await new_page_info.value
-                        except Exception:
-                            # No se abrió nueva pestaña: asumimos navegación en la MISMA página
-                            await link.first.click()
-                            detail_page = page
-                            await page.wait_for_timeout(1000)
-
-                        # Espera a que cargue el detalle
-                        await detail_page.wait_for_timeout(1500)
-
-                        # Extrae pares campo:valor por etiquetas comunes
-                        # Buscamos con contains para robustez
-                        for label in ["Estado", "Estatus", "Situación"]:
-                            lbl = detail_page.get_by_text(label, exact=False)
-                            if await lbl.count():
-                                # Toma el contenedor y extrae el siguiente texto
-                                try:
-                                    parent = lbl.first.locator("xpath=..")
-                                    estado = (await parent.inner_text()).split(":")[-1].strip()
-                                    break
-                                except:
-                                    pass
-
-                        for label in ["Adjudicado a", "Empresa adjudicada", "Contratista"]:
-                            lbl = detail_page.get_by_text(label, exact=False)
-                            if await lbl.count():
-                                try:
-                                    parent = lbl.first.locator("xpath=..")
-                                    adjudicado_a = (await parent.inner_text()).split(":")[-1].strip()
-                                    break
-                                except:
-                                    pass
-
-                        for label in ["Monto Adjudicado", "Importe adjudicado", "Monto"]:
-                            lbl = detail_page.get_by_text(label, exact=False)
-                            if await lbl.count():
-                                try:
-                                    parent = lbl.first.locator("xpath=..")
-                                    monto_adjudicado = (await parent.inner_text()).split(":")[-1].strip()
-                                    break
-                                except:
-                                    pass
-
-                        # Volver a la lista si navegó en la misma pestaña
-                        if detail_page == page:
-                            await page.go_back()
-                            await page.wait_for_timeout(1000)
-                        else:
-                            await detail_page.close()
-
-                    # Si no detectamos un "número" razonable, generamos uno básico
+                    # Fallbacks mínimos si faltó mapeo:
                     if not numero:
-                        # Usa 2 primeras celdas concatenadas como fallback
-                        numero = (text_cells[0] if text_cells else f"PROC-{i}").strip()
+                        numero = (await cells.nth(0).inner_text()).strip()
+                    if not descripcion:
+                        # toma la celda más larga como descripción aproximada
+                        texts = [(await cells.nth(i).inner_text()).strip() for i in range(ccount)]
+                        descripcion = max(texts, key=len).replace("\n", " ") if texts else ""
 
                     key = numero
                     results[key] = {
@@ -295,19 +235,17 @@ async def scrape_listings():
                         "estado": estado,
                         "adjudicado_a": adjudicado_a,
                         "monto_adjudicado": monto_adjudicado,
-                        "ultima_lectura": now_tijuana().isoformat()
+                        "ultima_lectura": now_tijuana().isoformat(),
                     }
 
-            # Si ya procesamos la última página permitida, no intentamos avanzar
-            if i >= MAX_PAGES - 1:
+            # ¿Más páginas? Solo si no alcanzamos el tope
+            if page_idx >= MAX_PAGES:
                 break
 
-            # Intentar ir a "Siguiente" página si existe
             went_next = False
             for next_text in ["Siguiente", ">", ">>", "Siguiente »", "Next"]:
                 nxt = page.get_by_role("button", name=next_text, exact=False)
                 if await nxt.count():
-                    # Verifica si está habilitado
                     try:
                         disabled = await nxt.first.is_disabled()
                     except:
@@ -317,7 +255,6 @@ async def scrape_listings():
                         went_next = True
                         await page.wait_for_timeout(1500)
                         break
-
             if not went_next:
                 break
 

@@ -188,19 +188,17 @@ async def scrape_listings():
 
                     link = cells.locator("a")
                     if await link.count():
-                        with context.expect_page() as new_page_info:
-                            try:
-                                await link.first.click()
-                            except:
-                                # si abre en la misma pestaña
-                                new_page_info = None
-
                         detail_page = None
-                        if new_page_info:
+                        try:
+                            # Si el click abre una NUEVA pestaña/ventana:
+                            async with context.expect_page(timeout=3000) as new_page_info:
+                                await link.first.click()
                             detail_page = await new_page_info.value
-                        else:
-                            # Puede haber navegado en la misma página
+                        except Exception:
+                            # No se abrió nueva pestaña: asumimos navegación en la MISMA página
+                            await link.first.click()
                             detail_page = page
+                            await page.wait_for_timeout(1000)
 
                         # Espera a que cargue el detalle
                         await detail_page.wait_for_timeout(1500)

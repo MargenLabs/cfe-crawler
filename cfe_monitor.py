@@ -318,7 +318,7 @@ def compare_and_alert(old: dict, new: dict):
     for num, data in new.items():
         if num not in old:
             msg = (
-                f"🚨 Licitación Nueva 🚨\n"
+                f"🚨 Nueva Licitación\n"
                 f"{data['descripcion']}\n"
                 f"{data['numero']}\n"
                 f"{data['fecha_publicacion'] or 'Fecha no disponible'}"
@@ -344,7 +344,7 @@ def compare_and_alert(old: dict, new: dict):
     
             if diffs:
                 msg = (
-                    f"⚠️ Actualización de licitación\n"
+                    f"⚠️ Actualización\n"
                     f"{data['descripcion']}\n"
                     f"{data['numero']}\n"
                     f"Cambios:\n- " + "\n- ".join(diffs)

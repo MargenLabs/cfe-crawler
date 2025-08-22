@@ -9,6 +9,13 @@ from zoneinfo import ZoneInfo
 import requests
 from playwright.async_api import async_playwright
 
+# PARA REALIZAR PRUEBAS
+# Cambiar horario laboral a 0 y 24
+# Cambiar RUNS_PER_DAY a 99
+# Modificar el cfe_state.json ya sea eliminar una licitacion o modificar un dato 
+# Despues regresar todo a su lugar
+
+
 # --- Envío a Telegram con control de rate limit 429 y pequeña pausa entre mensajes ---
 def send_telegram_rate_limited(text, bot_token, chat_id):
     """

@@ -1,6 +1,5 @@
 # cfe_monitor.py
 import os
-import re
 import json
 import time
 import asyncio
@@ -232,48 +231,7 @@ async def scrape_listings():
                     numero = await get_cell(cells, idx_numero)
                     if not numero:
                         continue  # sin número no podemos identificar
-                
-                    # ===== Resolver URL de detalle con varias estrategias =====
-                    detalle_url = ""
-                
-                    # 1) <a href="...">
-                    a = row.get_by_role("link")
-                    if await a.count():
-                        href = await a.first.get_attribute("href")
-                        if href and not href.strip().lower().startswith("javascript"):
-                            detalle_url = await page.evaluate(
-                                "href => new URL(href, window.location.href).href", href
-                            )
-                
-                    # 2) <a routerLink="..."> o ng-reflect-router-link
-                    if not detalle_url:
-                        a2 = row.locator("a[routerLink], a[ng-reflect-router-link]")
-                        if await a2.count():
-                            rlink = await a2.first.get_attribute("routerLink")
-                            if not rlink:
-                                rlink = await a2.first.get_attribute("ng-reflect-router-link")
-                            if rlink:
-                                base = await page.evaluate("() => window.location.origin")
-                                detalle_url = base + (rlink if rlink.startswith("/") else "/" + rlink)
-                
-                    # 3) onclick="window.open('...')" u otras variantes con http(s)
-                    if not detalle_url:
-                        clickable = row.locator("[onclick]")
-                        if await clickable.count():
-                            onclick = await clickable.first.get_attribute("onclick") or ""
-                            m = re.search(r"open\(['\"]([^'\"]+)['\"]", onclick)
-                            if m:
-                                raw = m.group(1)
-                                if raw and not raw.strip().lower().startswith("javascript"):
-                                    detalle_url = await page.evaluate(
-                                        "href => new URL(href, window.location.href).href", raw
-                                    )
-                
-                    # 4) Fallback: al menos deja la lista filtrada + pista para buscar por Nº
-                    if not detalle_url:
-                        detalle_url = f"{page.url}  (busca el Nº {numero})"
-                
-                    # ===== Lee el resto de columnas visibles =====
+    
                     descripcion       = (await get_cell(cells, idx_desc))   or ""
                     fecha_publicacion = (await get_cell(cells, idx_fecha))  or ""
                     estado            = (await get_cell(cells, idx_estado)) or ""
@@ -288,7 +246,6 @@ async def scrape_listings():
                         "adjudicado_a": adjudicado_a,
                         "monto_adjudicado": monto_adjudicado,
                         "ultima_lectura": now_tijuana().isoformat(),
-                        "url": detalle_url,
                     }
         
             # --- Paginación ---
@@ -353,12 +310,10 @@ def compare_and_alert(old: dict, new: dict):
     # Nuevas
     for num, data in new.items():
         if num not in old:
-            link_line = f"\n• Ver: {data.get('url')}" if data.get('url') else ""
             msg = (
                 f"🚨 Licitación Nueva 🚨\n"
                 f"- Descripción: {data['descripcion']}\n"
                 f"- No: {data['numero']}\n"
-                f"{link_line}\n"
                 f"{data['fecha_publicacion'] or 'Fecha no disponible'}"
             )
             print("[NEW]", msg)
@@ -381,13 +336,11 @@ def compare_and_alert(old: dict, new: dict):
                     diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
     
             if diffs:
-                link_line = f"\n• Ver: {data.get('url')}" if data.get('url') else ""
                 msg = (
                     f"⚠️ Actualización de licitación\n"
                     f"- Descripción: {data['descripcion']}\n"
                     f"- Nº: {data['numero']}\n"
-                    f"- Cambios:\n- " + "\n- ".join(diffs) +
-                    link_line
+                    f"- Cambios:\n- " + "\n- ".join(diffs)
                 )
                 print("[CHG]", msg)
                 send_telegram(msg)

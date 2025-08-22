@@ -159,84 +159,115 @@ async def scrape_listings():
                 break
         await page.wait_for_timeout(3000)
 
-        # 4) Recorremos páginas (sin abrir detalle)
-        page_idx = 0
-        while True:
-            page_idx += 1
+        # 4) Recorremos las páginas de resultados (solo lista, sin entrar al detalle)
+for page_idx in range(MAX_PAGES):
+    # Ubicar tabla
+    table = page.locator("table")
+    if not await table.count():
+        table = page.locator("[role='table']")
 
-            table = page.locator("table")
-            if not await table.count():
-                table = page.locator("[role='table']")
+    if not await table.count():
+        print("[WARN] No se encontró tabla en la página actual.")
+    else:
+        # Filas de la tabla
+        rows = table.locator("tr")
+        row_count = await rows.count()
+        if row_count == 0:
+            break
 
-            if not await table.count():
-                print("[WARN] No se encontró tabla en la página actual.")
-            else:
-                # --- Mapear encabezados -> índices ---
-                header_cells = table.locator("thead tr th, thead tr td, tr:first-child th, tr:first-child td")
-                hcount = await header_cells.count()
-                headers = [norm(await header_cells.nth(i).inner_text()) for i in range(hcount)] if hcount else []
+        # --- Detectar encabezados y mapear índices ---
+        header_row_idx = 0
+        header_cells = None
+        # Busca una fila con <th>
+        for j in range(min(row_count, 5)):
+            ths = rows.nth(j).locator("th")
+            if await ths.count():
+                header_row_idx = j
+                header_cells = ths
+                break
+        if header_cells is None:
+            # Fallback: usa la primera fila como encabezado
+            header_cells = rows.nth(0).locator("td,th")
+            header_row_idx = 0
 
-                def find_col(*needles):
-                    for i, h in enumerate(headers):
-                        if any(n in h for n in needles):
-                            return i
-                    return None
+        hcount = await header_cells.count()
+        headers = []
+        for k in range(hcount):
+            txt = (await header_cells.nth(k).inner_text()).strip().lower()
+            headers.append(txt)
 
-                idx_num   = find_col("numero de procedimiento", "numero", "procedimiento")
-                idx_desc  = find_col("descripcion")
-                idx_fecha = find_col("fecha public")
-                idx_est   = find_col("estado", "estatus", "situacion")
-                idx_adj   = find_col("adjudicado a", "empresa adjudicada", "contratista")
-                idx_monto = find_col("monto adjudicado", "monto adjudicado en pesos", "importe")
+        def find_idx(opts):
+            opts = [o.lower() for o in opts]
+            for idx, h in enumerate(headers):
+                for o in opts:
+                    if o in h:
+                        return idx
+            return None
 
-                # --- Filas de datos ---
-                body_rows = table.locator("tbody tr")
-                if not await body_rows.count():
-                    # fallback si no hay <tbody>
-                    body_rows = table.locator("tr").nth(1)  # evitar la fila de encabezado
-                    # mejor: todas menos la primera
-                    all_rows = table.locator("tr")
-                    start_at = 1 if (await all_rows.count()) > 1 else 0
-                    rows = [all_rows.nth(i) for i in range(start_at, await all_rows.count())]
-                else:
-                    rows = [body_rows.nth(i) for i in range(await body_rows.count())]
+        idx_numero = find_idx(["número de procedimiento", "numero de procedimiento"])
+        idx_desc   = find_idx(["descripción", "descripcion"])
+        idx_fecha  = find_idx(["fecha publicación", "fecha publicacion"])
+        idx_estado = find_idx(["estado"])
+        idx_adj    = find_idx(["adjudicado a"])
+        idx_monto  = find_idx(["monto adjudicado en pesos", "monto adjudicado", "monto"])
 
-                for r in rows:
-                    cells = r.locator("td")
-                    ccount = await cells.count()
-                    if not ccount:
-                        continue
+        # Helper async para leer una celda
+        async def get_cell(cells, idx):
+            if idx is None:
+                return ""
+            ccount = await cells.count()
+            if idx >= ccount:
+                return ""
+            return (await cells.nth(idx).inner_text()).strip()
 
-                    def get_cell(idx):
-                        if idx is None or idx >= ccount:
-                            return ""
-                        return (await cells.nth(idx).inner_text()).strip()
+        # --- Recorrer filas de datos (después del encabezado) ---
+        for r in range(header_row_idx + 1, row_count):
+            row = rows.nth(r)
+            cells = row.locator("td")
+            if not await cells.count():
+                continue
 
-                    numero = get_cell(idx_num)
-                    descripcion = get_cell(idx_desc)
-                    fecha_publicacion = get_cell(idx_fecha)
-                    estado = get_cell(idx_est)
-                    adjudicado_a = get_cell(idx_adj)
-                    monto_adjudicado = get_cell(idx_monto)
+            numero = await get_cell(cells, idx_numero)
+            if not numero:
+                continue  # sin número no podemos identificar
 
-                    # Fallbacks mínimos si faltó mapeo:
-                    if not numero:
-                        numero = (await cells.nth(0).inner_text()).strip()
-                    if not descripcion:
-                        # toma la celda más larga como descripción aproximada
-                        texts = [(await cells.nth(i).inner_text()).strip() for i in range(ccount)]
-                        descripcion = max(texts, key=len).replace("\n", " ") if texts else ""
+            descripcion       = (await get_cell(cells, idx_desc))  or ""
+            fecha_publicacion = (await get_cell(cells, idx_fecha)) or ""
+            estado            = (await get_cell(cells, idx_estado)) or ""
+            adjudicado_a      = (await get_cell(cells, idx_adj))   or ""
+            monto_adjudicado  = (await get_cell(cells, idx_monto))  or ""
 
-                    key = numero
-                    results[key] = {
-                        "numero": numero,
-                        "descripcion": descripcion,
-                        "fecha_publicacion": fecha_publicacion,
-                        "estado": estado,
-                        "adjudicado_a": adjudicado_a,
-                        "monto_adjudicado": monto_adjudicado,
-                        "ultima_lectura": now_tijuana().isoformat(),
-                    }
+            results[numero] = {
+                "numero": numero,
+                "descripcion": descripcion.replace("\n", " ").strip(),
+                "fecha_publicacion": fecha_publicacion,
+                "estado": estado,
+                "adjudicado_a": adjudicado_a,
+                "monto_adjudicado": monto_adjudicado,
+                "ultima_lectura": now_tijuana().isoformat(),
+            }
+
+    # Solo seguimos si queremos más páginas
+    if page_idx >= MAX_PAGES - 1:
+        break
+
+    # Intentar ir a "Siguiente"
+    went_next = False
+    for next_text in ["Siguiente", ">", ">>", "Siguiente »", "Next"]:
+        nxt = page.get_by_role("button", name=next_text, exact=False)
+        if await nxt.count():
+            try:
+                disabled = await nxt.first.is_disabled()
+            except:
+                disabled = False
+            if not disabled:
+                await nxt.first.click()
+                went_next = True
+                await page.wait_for_timeout(1500)
+                break
+    if not went_next:
+        break
+
 
             # ¿Más páginas? Solo si no alcanzamos el tope
             if page_idx >= MAX_PAGES:

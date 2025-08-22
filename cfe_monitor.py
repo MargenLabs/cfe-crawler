@@ -61,6 +61,9 @@ WORK_START = 0   # 09:00
 WORK_END   = 24  # 19:00
 RUNS_PER_DAY = 4
 
+# Paginación: ¿cuántas páginas revisar?
+MAX_PAGES = int(os.getenv("MAX_PAGES", "1"))  # 1 = solo la primera página
+
 # Telegram (coloca estos valores como "Secrets" en GitHub)
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID   = os.getenv("TELEGRAM_CHAT_ID", "").strip()

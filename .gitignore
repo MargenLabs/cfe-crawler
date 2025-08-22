@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 .DS_Store
+**/.DS_Store
 ms-playwright/
 playwright/.cache/
 cfe_state.json

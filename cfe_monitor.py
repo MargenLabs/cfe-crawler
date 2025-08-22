@@ -10,7 +10,7 @@ import requests
 from playwright.async_api import async_playwright
 
 # --- Envío a Telegram con control de rate limit 429 y pequeña pausa entre mensajes ---
-def send_telegram(text, bot_token, chat_id):
+def send_telegram_rate_limited(text, bot_token, chat_id):
     """
     Envía un mensaje a Telegram, respetando rate limit (429 retry_after)
     y añadiendo una pausa corta entre mensajes para no saturar el chat.
@@ -47,7 +47,7 @@ def send_telegram(text, bot_token, chat_id):
 # Alias por compatibilidad: si en el código se usa send_to_telegram(...),
 # lo redirigimos aquí para NO tener que cambiar llamadas en otras partes.
 def send_to_telegram(text, bot_token, chat_id):
-    return send_telegram(text, bot_token, chat_id)
+    return send_telegram_rate_limited(text, bot_token, chat_id)
 
 # ---------------------------
 # CONFIGURACIÓN GENERAL
@@ -82,15 +82,11 @@ def send_telegram(msg: str):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("[WARN] TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID no configurados. Mensaje NO enviado.")
         return
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    try:
-        r = requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text": msg})
-        if r.status_code != 200:
-            print(f"[ERROR] Telegram status {r.status_code}: {r.text}")
-        else:
-            print("[OK] Mensaje enviado a Telegram")
-    except Exception as e:
-        print(f"[ERROR] Envío a Telegram: {e}")
+    ok = send_telegram_rate_limited(msg, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+    if ok:
+        print("[OK] Mensaje enviado a Telegram")
+    else:
+        print("[ERROR] Falló el envío a Telegram")
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -173,7 +169,7 @@ async def scrape_listings():
         await page.wait_for_timeout(3000)
 
         # 4) Recorremos las páginas de resultados
-        while True:
+        for i in range(MAX_PAGES):
             # Ubicar tabla
             table = page.locator("table")
             if not await table.count():
@@ -301,6 +297,10 @@ async def scrape_listings():
                         "monto_adjudicado": monto_adjudicado,
                         "ultima_lectura": now_tijuana().isoformat()
                     }
+
+            # Si ya procesamos la última página permitida, no intentamos avanzar
+            if i >= MAX_PAGES - 1:
+                break
 
             # Intentar ir a "Siguiente" página si existe
             went_next = False

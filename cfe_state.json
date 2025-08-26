@@ -1825,5 +1825,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-26T09:26:52.168629-07:00"
+  },
+  "CFE-0201-CSCON-0009-2025": {
+    "numero": "CFE-0201-CSCON-0009-2025",
+    "descripcion": "MANTENIMIENTO DE CASETAS DE SEGURIDAD EN SUBESTACIONES DE LA ZONA DE TRANSMISIÓN SUR",
+    "fecha_publicacion": "26-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-26T15:17:53.765772-07:00"
+  },
+  "CFE-0201-CSSAN-0005-2025": {
+    "numero": "CFE-0201-CSSAN-0005-2025",
+    "descripcion": "SERVICIO DE APLICACIÓN DE EXÁMENES MÉDICOS",
+    "fecha_publicacion": "26-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-26T15:17:53.826286-07:00"
+  },
+  "CFE-0604-CSAAA-0009-2025": {
+    "numero": "CFE-0604-CSAAA-0009-2025",
+    "descripcion": "ADQUISICIÓN DE TRANSFORMADORES DE POTENCIAL Y FUSIBLES PARA LAS UNIDADES 1 Y 2 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "26-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-26T15:17:53.881372-07:00"
   }
 }

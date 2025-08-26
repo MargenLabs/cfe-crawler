@@ -1807,5 +1807,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-22T12:19:31.574108-07:00"
+  },
+  "CFE-0101-CSSAN-0025-2025": {
+    "numero": "CFE-0101-CSSAN-0025-2025",
+    "descripcion": "MANTENIMIENTO, REFACCIONAMIENTO Y CALIBRACION DE MAQUINA PROBADORA DE GUANTES, MANGAS Y MANTAS.",
+    "fecha_publicacion": "26-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-26T09:26:52.112225-07:00"
+  },
+  "CFE-0201-CSAAN-0007-2025": {
+    "numero": "CFE-0201-CSAAN-0007-2025",
+    "descripcion": "ADQUISICIÓN DE EQUIPO DE PROTECCIÓN PERSONAL SEDE Y ZONAS DE TRANSMISIÓN DE LA GRTBC",
+    "fecha_publicacion": "25-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-26T09:26:52.168629-07:00"
   }
 }

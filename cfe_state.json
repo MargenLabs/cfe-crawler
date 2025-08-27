@@ -93,10 +93,10 @@
     "numero": "CFE-0301-CSSAN-0023-2025",
     "descripcion": "Servicio de Mensajería y Paquetería para la División Comercial Baja California",
     "fecha_publicacion": "15-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.495570-07:00"
+    "ultima_lectura": "2025-08-27T15:18:09.400480-07:00"
   },
   "CFE-0101-CSAAN-0015-2025": {
     "numero": "CFE-0101-CSAAN-0015-2025",
@@ -120,10 +120,10 @@
     "numero": "CFE-0614-CSSAN-0030-2025",
     "descripcion": "Servicio de reparación de alojamientos de sello dumming en carcasa de turbina de la unidad 10 C.G. Cerro Prieto",
     "fecha_publicacion": "14-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.662113-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO INDUSTRIAL GARCON SA DE CV,",
+    "monto_adjudicado": "$1,454,895.00",
+    "ultima_lectura": "2025-08-27T15:18:09.557176-07:00"
   },
   "CFE-0101-CSAAN-0016-2025": {
     "numero": "CFE-0101-CSAAN-0016-2025",
@@ -192,10 +192,10 @@
     "numero": "CFE-0301-CSSAN-0020-2025",
     "descripcion": "Servicio de Flete Especializado para la División Baja California",
     "fecha_publicacion": "11-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:19.103774-07:00"
+    "ultima_lectura": "2025-08-27T15:18:09.982145-07:00"
   },
   "CFE-0201-CSCON-0008-2025": {
     "numero": "CFE-0201-CSCON-0008-2025",
@@ -1861,5 +1861,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-27T09:27:37.960031-07:00"
+  },
+  "CFE-0201-CSSON-0003-2025": {
+    "numero": "CFE-0201-CSSON-0003-2025",
+    "descripcion": "ELABORACIÓN DEL PROYECTO EJECUTIVO PARA LA CONSTRUCCIÓN DE AULAS DE CAPACITACIÓN PARA LA ZONA DE TRANSMISIÓN SUR",
+    "fecha_publicacion": "27-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-27T15:18:08.216258-07:00"
+  },
+  "CFE-0301-CSSAN-0026-2025": {
+    "numero": "CFE-0301-CSSAN-0026-2025",
+    "descripcion": "Servicio de Mensajería y Paquetería para la División Comercial Baja California",
+    "fecha_publicacion": "27-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-27T15:18:08.272757-07:00"
+  },
+  "CFE-0301-CSSAN-0025-2025": {
+    "numero": "CFE-0301-CSSAN-0025-2025",
+    "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
+    "fecha_publicacion": "27-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-27T15:18:08.327249-07:00"
   }
 }

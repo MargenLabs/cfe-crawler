@@ -84,10 +84,10 @@
     "numero": "CFE-0604-CSAAN-0013-2025",
     "descripcion": "ADQUISICIÓN DE CONTENEDORES PARA SEPARACIÓN DE RESIDUOS DE LA C.T. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "15-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.442173-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BALAFF SA DE CV,COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,MARCELA CABRERA GARCIA,",
+    "monto_adjudicado": "$846,546.00",
+    "ultima_lectura": "2025-08-27T09:27:38.925248-07:00"
   },
   "CFE-0301-CSSAN-0023-2025": {
     "numero": "CFE-0301-CSSAN-0023-2025",
@@ -1852,5 +1852,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-26T15:17:53.881372-07:00"
+  },
+  "CFE-0051-CSAAN-0001-2025": {
+    "numero": "CFE-0051-CSAAN-0001-2025",
+    "descripcion": "CALZADO DE TRABAJO",
+    "fecha_publicacion": "26-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-27T09:27:37.960031-07:00"
   }
 }

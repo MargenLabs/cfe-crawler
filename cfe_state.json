@@ -201,10 +201,10 @@
     "numero": "CFE-0201-CSCON-0008-2025",
     "descripcion": "AMPLIACIÓN DE ALMACÉN ARCHIVO INACTIVO DE LA ZTC",
     "fecha_publicacion": "11-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:19.155219-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OSCAR ALEJANDRO VAZQUEZ ARIAS,",
+    "monto_adjudicado": "$1,428,563.51",
+    "ultima_lectura": "2025-08-28T09:27:26.449142-07:00"
   },
   "CFE-0301-CSSAN-0018-2025": {
     "numero": "CFE-0301-CSSAN-0018-2025",
@@ -1888,5 +1888,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-27T15:18:08.327249-07:00"
+  },
+  "CFE-0201-CSSAN-0006-2025": {
+    "numero": "CFE-0201-CSSAN-0006-2025",
+    "descripcion": "“MANTENIMIENTO A PLANTAS DE EMERGENCIA”",
+    "fecha_publicacion": "28-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-28T09:27:24.557102-07:00"
   }
 }

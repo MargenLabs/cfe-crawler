@@ -30,10 +30,10 @@
     "numero": "CFE-0301-CSAAA-0007-2025",
     "descripcion": "Refacciones y Accesorios para Equipo de Cómputo",
     "fecha_publicacion": "20-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.087450-07:00"
+    "ultima_lectura": "2025-08-28T15:18:41.820981-07:00"
   },
   "CFE-0614-CSAAA-0013-2025": {
     "numero": "CFE-0614-CSAAA-0013-2025",
@@ -1897,5 +1897,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-28T09:27:24.557102-07:00"
+  },
+  "CFE-0201-CSAAN-0008-2025": {
+    "numero": "CFE-0201-CSAAN-0008-2025",
+    "descripcion": "ADQUISICION DE CHAMARRAS PARA PERSONAL DE CAMPO 2025",
+    "fecha_publicacion": "28-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-28T15:18:40.845555-07:00"
   }
 }

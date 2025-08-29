@@ -381,10 +381,10 @@
     "numero": "CFE-0101-CACON-0026-2025",
     "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA LA PAZ, B.C.S.",
     "fecha_publicacion": "29-07-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:20.239667-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCO COTA OLACHEA,",
+    "monto_adjudicado": "$656,171.11",
+    "ultima_lectura": "2025-08-29T09:26:41.079530-07:00"
   },
   "CFE-0101-CSSAN-0024-2025": {
     "numero": "CFE-0101-CSSAN-0024-2025",
@@ -1906,5 +1906,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-28T15:18:40.845555-07:00"
+  },
+  "CFE-0604-CSSAN-0029-2025": {
+    "numero": "CFE-0604-CSSAN-0029-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO PREVENTIVO A MOTORES DE GENERADOR DIESEL DE EMERGENCIA, MOTORES DIESEL DE BOMBAS VS INCENDIOS Y MOTORES DIESEL DE LA DRAGA MARINA PD-14S Y ADQUISICIÓN DE RADIADORES DE LA C.T",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T09:26:37.766137-07:00"
+  },
+  "CFE-0604-CSSAN-0028-2025": {
+    "numero": "CFE-0604-CSSAN-0028-2025",
+    "descripcion": "SERVICIO DE IMPARTICIÓN DE CURSO DE MANEJO DE SOFTWARE EASY POWER",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T09:26:37.827884-07:00"
   }
 }

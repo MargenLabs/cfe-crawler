@@ -1924,5 +1924,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-29T09:26:37.827884-07:00"
+  },
+  "CFE-0201-CACON-0002-2025": {
+    "numero": "CFE-0201-CACON-0002-2025",
+    "descripcion": "OBRAS CIVILES EN BAHÍA DE 230 KV EN SUBESTACIÓN OLAS ALTAS DE LA ZONA DE TRANSMISIÓN SUR",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T12:18:39.124983-07:00"
+  },
+  "CFE-0614-CSAAN-0006-2025": {
+    "numero": "CFE-0614-CSAAN-0006-2025",
+    "descripcion": "Adquisición de madera a base de pino tratada con sales hidrosolubles para torres de enfriamiento CG Cerro Prieto",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T12:18:39.180225-07:00"
+  },
+  "CFE-0101-CACON-0034-2025": {
+    "numero": "CFE-0101-CACON-0034-2025",
+    "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA TIJUANA, B.C.",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T12:18:39.233585-07:00"
+  },
+  "CFE-0051-CSSAN-0002-2025": {
+    "numero": "CFE-0051-CSSAN-0002-2025",
+    "descripcion": "REPARACIÓN DE MOTOR VERTICAL DE 150 HP",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T12:18:39.290036-07:00"
   }
 }

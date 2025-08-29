@@ -165,10 +165,10 @@
     "numero": "CFE-0301-CSSAN-0022-2025",
     "descripcion": "“Servicio de Mudanza para la División Comercial Baja California”",
     "fecha_publicacion": "12-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.927947-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
+    "monto_adjudicado": "$120,000.00",
+    "ultima_lectura": "2025-08-29T15:18:40.376374-07:00"
   },
   "CFE-0604-CSSAN-0027-2025": {
     "numero": "CFE-0604-CSSAN-0027-2025",
@@ -1960,5 +1960,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-29T12:18:39.290036-07:00"
+  },
+  "CFE-0201-CSCON-0010-2025": {
+    "numero": "CFE-0201-CSCON-0010-2025",
+    "descripcion": "MANTENIMIENTO A EDIFICIOS Y REPARACIÓN DE ACCESOS DE LA SEDE DE LA GRT BAJA CALIFORNIA",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-29T15:18:38.260445-07:00"
   }
 }

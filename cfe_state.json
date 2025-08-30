@@ -39,10 +39,10 @@
     "numero": "CFE-0614-CSAAA-0013-2025",
     "descripcion": "Adquisición de Refaccionamiento para los sistemas fijos Contra Incendio de la C. G. Cerro Prieto",
     "fecha_publicacion": "19-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.143021-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LIDIA RAMIREZ ZENTENO,PROOIL DE MEXICO SA DE CV,SISTEMAS INTELIGENTES DE SUPRECION SA DE CV,",
+    "monto_adjudicado": "$2,044,378.67",
+    "ultima_lectura": "2025-08-30T09:22:19.099528-07:00"
   },
   "CFE-0201-CSSAN-0004-2025": {
     "numero": "CFE-0201-CSSAN-0004-2025",
@@ -147,10 +147,10 @@
     "numero": "CFE-0614-CSAAN-0005-2025",
     "descripcion": "Adquisición de Equipo de Protección Personal, para el personal de la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "13-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.822410-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,SEGISA CHIHUAHUA SA DE CV,SAFETY SPOT SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,DIQMA SOLUTIONS SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,AEE MARINE SERVICES SA DE CV,",
+    "monto_adjudicado": "$829,881.22",
+    "ultima_lectura": "2025-08-30T09:22:19.717508-07:00"
   },
   "CFE-0101-CSAAN-0014-2025": {
     "numero": "CFE-0101-CSAAN-0014-2025",
@@ -1969,5 +1969,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-29T15:18:38.260445-07:00"
+  },
+  "CFE-0604-ADSAN-0001-2025": {
+    "numero": "CFE-0604-ADSAN-0001-2025",
+    "descripcion": "SERVICIO DE VERIFICACIÓN DE LÍNEAS DE DRENAJE Y AUMENTO DE TAMAÑO DEL DRENAJE DEL SUMIDERO D1 DE LA UNIDAD AERODERIVADA 4 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "30-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-30T09:22:17.561797-07:00"
+  },
+  "CFE-0101-ADCON-0007-2025": {
+    "numero": "CFE-0101-ADCON-0007-2025",
+    "descripcion": "Construccion de Base para Transformador Provisional para Condiciones de Verano Zona Mexicali 2025",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-30T09:22:17.617788-07:00"
+  },
+  "CFE-0101-ADCON-0006-2025": {
+    "numero": "CFE-0101-ADCON-0006-2025",
+    "descripcion": "Trabajos de Restablecimiento del Servicio Publico de Energia Electrica por Daños Ocasionados en el Circuito 53020 ENL como consecuencia de Vientos Fuertes con Riesgo de Incendios en Zona Tijuana",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-30T09:22:17.672696-07:00"
+  },
+  "CFE-0101-ADCON-0005-2025": {
+    "numero": "CFE-0101-ADCON-0005-2025",
+    "descripcion": "Trabajos de Restablecimiento del Servicio Publico de Energia Electrica por Daños Ocasionados en el Circuito 53020 ENL como consecuencia de Vientos Fuertes con Riesgo de Incendios en Zona Tijuana",
+    "fecha_publicacion": "29-08-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-08-30T09:22:17.727219-07:00"
   }
 }

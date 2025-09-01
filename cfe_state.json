@@ -57,10 +57,10 @@
     "numero": "CFE-0614-CSAAA-0012-2025",
     "descripcion": "Adquisición de empaques para mantenimientos programados 2025 de la C.G. Cerro Prieto”",
     "fecha_publicacion": "18-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.255049-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,PROCESS FACTOR MEXICO SA DE CV,",
+    "monto_adjudicado": "$201,641.60",
+    "ultima_lectura": "2025-09-01T15:17:14.106102-07:00"
   },
   "CFE-0101-CACON-0032-2025": {
     "numero": "CFE-0101-CACON-0032-2025",
@@ -1974,10 +1974,10 @@
     "numero": "CFE-0604-ADSAN-0001-2025",
     "descripcion": "SERVICIO DE VERIFICACIÓN DE LÍNEAS DE DRENAJE Y AUMENTO DE TAMAÑO DEL DRENAJE DEL SUMIDERO D1 DE LA UNIDAD AERODERIVADA 4 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "30-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-30T09:22:17.561797-07:00"
+    "ultima_lectura": "2025-09-01T15:17:12.384968-07:00"
   },
   "CFE-0101-ADCON-0007-2025": {
     "numero": "CFE-0101-ADCON-0007-2025",
@@ -2005,5 +2005,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-08-30T09:22:17.727219-07:00"
+  },
+  "CFE-0101-IRAAN-0001-2025": {
+    "numero": "CFE-0101-IRAAN-0001-2025",
+    "descripcion": "LUMINARIAS",
+    "fecha_publicacion": "01-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-01T15:17:12.266734-07:00"
+  },
+  "CFE-0201-CSCON-0011-2025": {
+    "numero": "CFE-0201-CSCON-0011-2025",
+    "descripcion": "TRABAJOS DE PAVIMENTACIÓN EN LAS INSTALACIONES DE LA SEDE DE LA GRTBC Y ZONA DE TRANSMISIÓN VALLE",
+    "fecha_publicacion": "01-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-01T15:17:12.328164-07:00"
   }
 }

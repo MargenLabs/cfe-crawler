@@ -48,10 +48,10 @@
     "numero": "CFE-0201-CSSAN-0004-2025",
     "descripcion": "DESHIERBE DE PREDIOS DE LA GRTBC",
     "fecha_publicacion": "18-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.199316-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NODO INGENIERIA SA DE CV,MARLUQUIN CONSTRUCTORES SA DE CV,CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,",
+    "monto_adjudicado": "$1,249,400.00",
+    "ultima_lectura": "2025-09-02T09:26:55.351104-07:00"
   },
   "CFE-0614-CSAAA-0012-2025": {
     "numero": "CFE-0614-CSAAA-0012-2025",
@@ -1803,10 +1803,10 @@
     "numero": "CFE-0301-CSSAN-0024-2025",
     "descripcion": "Servicio de Instalación de Equipo de Aire Acondicionado tipo Chiller",
     "fecha_publicacion": "22-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-22T12:19:31.574108-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RENE RAYMUNDO GUADALUPE OSUNA FUENTES,",
+    "monto_adjudicado": "$2,236,000.00",
+    "ultima_lectura": "2025-09-02T09:26:54.985707-07:00"
   },
   "CFE-0101-CSSAN-0025-2025": {
     "numero": "CFE-0101-CSSAN-0025-2025",
@@ -2023,5 +2023,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-01T15:17:12.328164-07:00"
+  },
+  "CFE-0604-ADSAN-0002-2025": {
+    "numero": "CFE-0604-ADSAN-0002-2025",
+    "descripcion": "SERVICIO DE VERIFICACIÓN DE LÍNEAS DE DRENAJE Y AUMENTO DE TAMAÑO DEL DRENAJE DEL SUMIDERO D1 DE LA UNIDAD AERODERIVADA 4 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "01-09-2025",
+    "estado": "Desierto",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-02T09:26:53.468148-07:00"
+  },
+  "CFE-0301-CSSAN-0027-2025": {
+    "numero": "CFE-0301-CSSAN-0027-2025",
+    "descripcion": "Servicio de Flete Especializado",
+    "fecha_publicacion": "01-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-02T09:26:53.532992-07:00"
+  },
+  "CFE-0201-CACON-0003-2025": {
+    "numero": "CFE-0201-CACON-0003-2025",
+    "descripcion": "REHABILITACION DE CIMENTACIONES EN ESTRUCTURAS DE ACERO DE LÍNEAS DE TRANSMISIÓN DE LA ZONA DE TRANSMISIÓN SUR",
+    "fecha_publicacion": "01-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-02T09:26:53.587072-07:00"
   }
 }

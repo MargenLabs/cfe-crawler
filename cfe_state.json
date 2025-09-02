@@ -327,10 +327,10 @@
     "numero": "CFE-0101-CACON-0027-2025",
     "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA SAN LUIS, SONORA",
     "fecha_publicacion": "30-07-2025",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:19.929075-07:00"
+    "ultima_lectura": "2025-09-02T15:17:27.390054-07:00"
   },
   "CFE-0301-CSAAN-0004-2025": {
     "numero": "CFE-0301-CSAAN-0004-2025",
@@ -2050,5 +2050,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-02T09:26:53.587072-07:00"
+  },
+  "CFE-0604-ADSAN-0003-2025": {
+    "numero": "CFE-0604-ADSAN-0003-2025",
+    "descripcion": "SERVICIO DE VERIFICACIÓN DE LÍNEAS DE DRENAJE Y AUMENTO DE TAMAÑO DEL DRENAJE DEL SUMIDERO D1 DE LA UNIDAD AERODERIVADA 4 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "02-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-02T15:17:23.834646-07:00"
   }
 }

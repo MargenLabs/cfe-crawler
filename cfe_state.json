@@ -66,10 +66,10 @@
     "numero": "CFE-0101-CACON-0032-2025",
     "descripcion": "CONSTRUCCIÓN DE UNA OBRA DE ELECTRIFICACIÓN DE EXTENSIÓN DE RED PROGRAMA FSUE, 1 (UNA) OBRA DEL BLOQUE 35 RESPECTIVAMENTE, EN LA LOCALIDAD LA LADRILLERA EN EL MUNICIPIO DE MEXICALI, B.C., PERTENECIENT",
     "fecha_publicacion": "15-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.309493-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
+    "monto_adjudicado": "$724,139.46",
+    "ultima_lectura": "2025-09-03T15:16:31.052653-07:00"
   },
   "CFE-0101-CACON-0031-2025": {
     "numero": "CFE-0101-CACON-0031-2025",
@@ -1884,10 +1884,10 @@
     "numero": "CFE-0301-CSSAN-0025-2025",
     "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
     "fecha_publicacion": "27-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-27T15:18:08.327249-07:00"
+    "ultima_lectura": "2025-09-03T15:16:30.218149-07:00"
   },
   "CFE-0201-CSSAN-0006-2025": {
     "numero": "CFE-0201-CSSAN-0006-2025",

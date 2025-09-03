@@ -2055,9 +2055,54 @@
     "numero": "CFE-0604-ADSAN-0003-2025",
     "descripcion": "SERVICIO DE VERIFICACIÓN DE LÍNEAS DE DRENAJE Y AUMENTO DE TAMAÑO DEL DRENAJE DEL SUMIDERO D1 DE LA UNIDAD AERODERIVADA 4 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "02-09-2025",
+    "estado": "Adjudicado",
+    "adjudicado_a": "MAINTENANCE AND ASSET CARE S DE RL DE CV,",
+    "monto_adjudicado": "$1,213,550.91",
+    "ultima_lectura": "2025-09-03T09:25:11.743388-07:00"
+  },
+  "CFE-0051-CSSAN-0003-2025": {
+    "numero": "CFE-0051-CSSAN-0003-2025",
+    "descripcion": "MONITOREO PARA LA CONSERVACIÓN, PROTECCIÓN DE LA FAUNA TERRESTRE Y ACUÁTICA (AVES ACUÁTICAS Y SEMIACUÁTICAS)",
+    "fecha_publicacion": "03-09-2025",
     "estado": "Vigente",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-02T15:17:23.834646-07:00"
+    "ultima_lectura": "2025-09-03T09:25:11.449345-07:00"
+  },
+  "CFE-0101-CSAAA-0010-2025": {
+    "numero": "CFE-0101-CSAAA-0010-2025",
+    "descripcion": "HERRAMIENTA MAYOR",
+    "fecha_publicacion": "03-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-03T09:25:11.506849-07:00"
+  },
+  "CFE-0101-ADAAN-0001-2025": {
+    "numero": "CFE-0101-ADAAN-0001-2025",
+    "descripcion": "TAPAS DE FIBRA DE VIDRIO",
+    "fecha_publicacion": "02-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-03T09:25:11.561945-07:00"
+  },
+  "CFE-0201-CSCON-0013-2025": {
+    "numero": "CFE-0201-CSCON-0013-2025",
+    "descripcion": "MANTENIMIENTO DE OBRA CIVIL A LA INFRAESTRUCTURA DE SUBESTACION CETYS DE LA ZONA DE TRANSMISIÓN VALLE",
+    "fecha_publicacion": "02-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-03T09:25:11.624614-07:00"
+  },
+  "CFE-0201-CSCON-0012-2025": {
+    "numero": "CFE-0201-CSCON-0012-2025",
+    "descripcion": "REFUERZO DE BARDA COSTADO SUR DE SUBESTACION CETYS DE LA ZONA DE TRANSMISION VALLE",
+    "fecha_publicacion": "02-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-03T09:25:11.687563-07:00"
   }
 }

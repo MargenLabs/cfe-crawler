@@ -12,10 +12,10 @@
     "numero": "CFE-0614-CSAAA-0014-2025",
     "descripcion": "Adquisición de materiales e insumos químicos para la C.C.I. Altar 2025",
     "fecha_publicacion": "20-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:17.968050-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,LAUKA MEXICANA SA DE CV,",
+    "monto_adjudicado": "$133,648.90",
+    "ultima_lectura": "2025-09-04T09:27:37.239893-07:00"
   },
   "CFE-0101-CSAAA-0008-2025": {
     "numero": "CFE-0101-CSAAA-0008-2025",
@@ -2113,5 +2113,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-03T12:18:48.498596-07:00"
+  },
+  "CFE-0101-CACON-0035-2025": {
+    "numero": "CFE-0101-CACON-0035-2025",
+    "descripcion": "CONSTRUCCIÓN DE OBRAS DE ELECTRIFICACIÓN DE EXTENSIÓN DE REDES PROGRAMA FSUE: 1 (UNA) OBRA DEL BLOQUE 35, 2 (DOS) OBRAS DEL BLOQUE 37, EN EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR",
+    "fecha_publicacion": "04-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-04T09:27:35.082042-07:00"
   }
 }

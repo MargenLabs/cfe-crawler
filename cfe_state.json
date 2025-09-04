@@ -3,10 +3,10 @@
     "numero": "CFE-0201-CSAAN-0006-2025",
     "descripcion": "ADQUISICION DE CABLE PORTAELECTRODO PARA ELABORACIÓN DE TIERRAS AUXILIARES",
     "fecha_publicacion": "21-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:17.854061-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO FERRETERIA CALZADA SA DE CV,MC DISTRIBUIDORA ELECTRICA SA DE CV,",
+    "monto_adjudicado": "$366,800.00",
+    "ultima_lectura": "2025-09-04T15:18:07.354840-07:00"
   },
   "CFE-0614-CSAAA-0014-2025": {
     "numero": "CFE-0614-CSAAA-0014-2025",
@@ -75,10 +75,10 @@
     "numero": "CFE-0101-CACON-0031-2025",
     "descripcion": "CONSTRUCCIÓN DE SE. ORIENTE BCO. 2, (1T-3F-30 MVA 115/13.8KV-0/4A+2.4 MVAR), EN EL MUNICIPIO DE PUERTO PEÑASCO, SONORA",
     "fecha_publicacion": "15-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.387916-07:00"
+    "ultima_lectura": "2025-09-04T15:18:07.836423-07:00"
   },
   "CFE-0604-CSAAN-0013-2025": {
     "numero": "CFE-0604-CSAAN-0013-2025",
@@ -1848,10 +1848,10 @@
     "numero": "CFE-0604-CSAAA-0009-2025",
     "descripcion": "ADQUISICIÓN DE TRANSFORMADORES DE POTENCIAL Y FUSIBLES PARA LAS UNIDADES 1 Y 2 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "26-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-26T15:17:53.881372-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$274,816.80",
+    "ultima_lectura": "2025-09-04T15:18:07.143597-07:00"
   },
   "CFE-0051-CSAAN-0001-2025": {
     "numero": "CFE-0051-CSAAN-0001-2025",
@@ -1956,10 +1956,10 @@
     "numero": "CFE-0051-CSSAN-0002-2025",
     "descripcion": "REPARACIÓN DE MOTOR VERTICAL DE 150 HP",
     "fecha_publicacion": "29-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-29T12:18:39.290036-07:00"
+    "ultima_lectura": "2025-09-04T15:18:06.555340-07:00"
   },
   "CFE-0201-CSCON-0010-2025": {
     "numero": "CFE-0201-CSCON-0010-2025",
@@ -2122,5 +2122,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-04T09:27:35.082042-07:00"
+  },
+  "CFE-0614-CSSAN-0032-2025": {
+    "numero": "CFE-0614-CSSAN-0032-2025",
+    "descripcion": "Servicio de reparación de ruedas de alabes, guías, diafragma y suministro de flejes y sellos de turbina de vapor de 30mw C.G. Cerro Prieto",
+    "fecha_publicacion": "04-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-04T15:18:05.223559-07:00"
+  },
+  "CFE-0051-CSSAN-0004-2025": {
+    "numero": "CFE-0051-CSSAN-0004-2025",
+    "descripcion": "MONITOREO POBLACIONAL DEL PEZ CACHORRITO DEL DESIERTO (CYPRINODON MACULARIUS) EN EL CAMPO GEOTÉRMICO CERRO PRIETO, MEXICALI, B.C.",
+    "fecha_publicacion": "04-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-04T15:18:05.286045-07:00"
   }
 }

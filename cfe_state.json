@@ -2140,5 +2140,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-04T15:18:05.286045-07:00"
+  },
+  "CFE-0201-CSAAN-0009-2025": {
+    "numero": "CFE-0201-CSAAN-0009-2025",
+    "descripcion": "ADQUISICIÓN DE EQUIPOS DE TRABAJOS EN ALTURAS GRTBC",
+    "fecha_publicacion": "05-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-05T09:24:41.244119-07:00"
+  },
+  "CFE-0614-CSAAA-0015-2025": {
+    "numero": "CFE-0614-CSAAA-0015-2025",
+    "descripcion": "Suministro de reactivos químicos y materiales de laboratorio para la Central de Combustión Interna Mexicali Oriente 2do evento",
+    "fecha_publicacion": "04-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-05T09:24:41.307258-07:00"
   }
 }

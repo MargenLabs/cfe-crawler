@@ -2158,5 +2158,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-05T09:24:41.307258-07:00"
+  },
+  "CFE-0301-CSSAN-0028-2025": {
+    "numero": "CFE-0301-CSSAN-0028-2025",
+    "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
+    "fecha_publicacion": "05-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-05T12:18:20.033295-07:00"
   }
 }

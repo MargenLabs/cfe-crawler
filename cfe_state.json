@@ -156,10 +156,10 @@
     "numero": "CFE-0101-CSAAN-0014-2025",
     "descripcion": "REMATE PREFORMADO",
     "fecha_publicacion": "13-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.875508-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PREFORMADOS DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$903,075.00",
+    "ultima_lectura": "2025-09-05T15:18:15.523327-07:00"
   },
   "CFE-0301-CSSAN-0022-2025": {
     "numero": "CFE-0301-CSSAN-0022-2025",
@@ -2167,5 +2167,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-05T12:18:20.033295-07:00"
+  },
+  "CFE-0101-CACON-0036-2025": {
+    "numero": "CFE-0101-CACON-0036-2025",
+    "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA SAN LUIS, SONORA",
+    "fecha_publicacion": "05-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-05T15:18:12.186502-07:00"
   }
 }

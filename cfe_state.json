@@ -291,10 +291,10 @@
     "numero": "CFE-0101-CACON-0028-2025",
     "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA ENSENADA, B.C.",
     "fecha_publicacion": "01-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:19.713075-07:00"
+    "ultima_lectura": "2025-09-06T09:22:34.245508-07:00"
   },
   "CFE-0201-CSSAN-0002-2025": {
     "numero": "CFE-0201-CSSAN-0002-2025",
@@ -2176,5 +2176,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-05T15:18:12.186502-07:00"
+  },
+  "CFE-0604-CSAAN-0014-2025": {
+    "numero": "CFE-0604-CSAAN-0014-2025",
+    "descripcion": "ADQUISICIÓN DE REFACCIONES ESPECIALES PARA BOMBAS DE AGUA DE ENFRIAMIENTO PRINCIPAL DE UNIDADES 8 Y 9 DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "06-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-06T09:22:29.503872-07:00"
   }
 }

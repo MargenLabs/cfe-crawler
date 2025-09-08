@@ -2194,5 +2194,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-08T09:24:01.513960-07:00"
+  },
+  "CFE-0604-CSAAA-0010-2025": {
+    "numero": "CFE-0604-CSAAA-0010-2025",
+    "descripcion": "ADQUISICIÓN DE SUSTANCIAS QUÍMICAS Y MATERIAL DE LABORATORIO C.C.C. PRESIDENTE JUÁREZ-SEGUNDO EVENTO.",
+    "fecha_publicacion": "08-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-08T15:19:24.232693-07:00"
+  },
+  "CFE-0101-ADSAN-0001-2025": {
+    "numero": "CFE-0101-ADSAN-0001-2025",
+    "descripcion": "SERVICIO DE PREPARACIÓN DE ALIMENTOS PARA LA ATENCIÓN DE LA CONTINGENCIA DE VIENTOS FUERTES CON RIESGO DE INCENDIO EN ZONA LOS TIJUANA",
+    "fecha_publicacion": "08-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-08T15:19:24.297194-07:00"
   }
 }

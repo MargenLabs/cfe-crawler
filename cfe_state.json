@@ -1821,10 +1821,10 @@
     "numero": "CFE-0201-CSAAN-0007-2025",
     "descripcion": "ADQUISICIÓN DE EQUIPO DE PROTECCIÓN PERSONAL SEDE Y ZONAS DE TRANSMISIÓN DE LA GRTBC",
     "fecha_publicacion": "25-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-26T09:26:52.168629-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO SILZ SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,XHITAO SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$3,022,199.05",
+    "ultima_lectura": "2025-09-09T12:18:25.479856-07:00"
   },
   "CFE-0201-CSCON-0009-2025": {
     "numero": "CFE-0201-CSCON-0009-2025",
@@ -2010,10 +2010,10 @@
     "numero": "CFE-0101-IRAAN-0001-2025",
     "descripcion": "LUMINARIAS",
     "fecha_publicacion": "01-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-01T15:17:12.266734-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MACRO DISTRIBUIDORA ELECTRICA MRJ SA DE CV,",
+    "monto_adjudicado": "$1,382,261.76",
+    "ultima_lectura": "2025-09-09T12:18:24.290774-07:00"
   },
   "CFE-0201-CSCON-0011-2025": {
     "numero": "CFE-0201-CSCON-0011-2025",

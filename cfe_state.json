@@ -102,10 +102,10 @@
     "numero": "CFE-0101-CSAAN-0015-2025",
     "descripcion": "TARJETA DE ESCALAMIENTO HIBRIDA",
     "fecha_publicacion": "15-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:18.550096-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO TECNOLOGIAS EOS SA DE CV,",
+    "monto_adjudicado": "$4,660,150.00",
+    "ultima_lectura": "2025-09-10T12:20:56.534075-07:00"
   },
   "CFE-0201-CSSAN-0003-2025": {
     "numero": "CFE-0201-CSSAN-0003-2025",
@@ -1839,10 +1839,10 @@
     "numero": "CFE-0201-CSSAN-0005-2025",
     "descripcion": "SERVICIO DE APLICACIÓN DE EXÁMENES MÉDICOS",
     "fecha_publicacion": "26-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-26T15:17:53.826286-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OMAR HERNANDEZ CAZAREZ,",
+    "monto_adjudicado": "$390,000.00",
+    "ultima_lectura": "2025-09-10T12:20:55.631863-07:00"
   },
   "CFE-0604-CSAAA-0009-2025": {
     "numero": "CFE-0604-CSAAA-0009-2025",
@@ -2239,5 +2239,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-09T09:27:30.434116-07:00"
+  },
+  "CFE-0604-CSSAN-0032-2025": {
+    "numero": "CFE-0604-CSSAN-0032-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO CORRECTIVO A VÁLVULAS MANUALES DE LAS UNIDADES DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "10-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-10T12:20:53.084836-07:00"
+  },
+  "CFE-0604-CSSAN-0031-2025": {
+    "numero": "CFE-0604-CSSAN-0031-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO A VENTILADORES DE TIRO INDUCIDO, VENTILADORES DE TIRO FORZADO Y VENTILADORES RECIRCULADORES DE GASES DE LA UNIDAD 5 DE LA C.T. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "10-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-10T12:20:53.141518-07:00"
+  },
+  "CFE-0604-CSSAN-0030-2025": {
+    "numero": "CFE-0604-CSSAN-0030-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO PREVENTIVO A MOTORES ELÉCTRICOS DE LA UNIDAD 5 Y UNIDAD 10/11 DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "10-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-10T12:20:53.195336-07:00"
   }
 }

@@ -237,10 +237,10 @@
     "numero": "CFE-0101-CSAAN-0013-2025",
     "descripcion": "ESLABON FUSIBLE",
     "fecha_publicacion": "08-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-21T21:02:19.402416-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA MAYECEN SA DE CV,ELECTRAMEX SA DE CV,ELEMENTOS ELECTRICOS SA DE CV,",
+    "monto_adjudicado": "$3,269,540.00",
+    "ultima_lectura": "2025-09-11T15:18:43.620257-07:00"
   },
   "CFE-0301-CSSAN-0019-2025": {
     "numero": "CFE-0301-CSSAN-0019-2025",
@@ -2154,10 +2154,10 @@
     "numero": "CFE-0614-CSAAA-0015-2025",
     "descripcion": "Suministro de reactivos químicos y materiales de laboratorio para la Central de Combustión Interna Mexicali Oriente 2do evento",
     "fecha_publicacion": "04-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-05T09:24:41.307258-07:00"
+    "ultima_lectura": "2025-09-11T15:18:40.092632-07:00"
   },
   "CFE-0301-CSSAN-0028-2025": {
     "numero": "CFE-0301-CSSAN-0028-2025",

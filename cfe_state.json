@@ -3,10 +3,10 @@
     "numero": "CFE-0201-CSAAN-0006-2025",
     "descripcion": "ADQUISICION DE CABLE PORTAELECTRODO PARA ELABORACIÓN DE TIERRAS AUXILIARES",
     "fecha_publicacion": "21-08-2025",
-    "estado": "Impugnado",
-    "adjudicado_a": "GRUPO FERRETERIA CALZADA SA DE CV,MC DISTRIBUIDORA ELECTRICA SA DE CV,",
-    "monto_adjudicado": "$366,800.00",
-    "ultima_lectura": "2025-09-08T12:21:05.359760-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MC DISTRIBUIDORA ELECTRICA SA DE CV,",
+    "monto_adjudicado": "$371,200.00",
+    "ultima_lectura": "2025-09-12T09:20:55.230298-07:00"
   },
   "CFE-0614-CSAAA-0014-2025": {
     "numero": "CFE-0614-CSAAA-0014-2025",
@@ -2181,10 +2181,10 @@
     "numero": "CFE-0604-CSAAN-0014-2025",
     "descripcion": "ADQUISICIÓN DE REFACCIONES ESPECIALES PARA BOMBAS DE AGUA DE ENFRIAMIENTO PRINCIPAL DE UNIDADES 8 Y 9 DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "06-09-2025",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-06T09:22:29.503872-07:00"
+    "ultima_lectura": "2025-09-12T09:20:52.765463-07:00"
   },
   "CFE-0051-CSAAN-0002-2025": {
     "numero": "CFE-0051-CSAAN-0002-2025",
@@ -2266,5 +2266,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-10T12:20:53.195336-07:00"
+  },
+  "CFE-0604-CSSAA-0003-2025": {
+    "numero": "CFE-0604-CSSAA-0003-2025",
+    "descripcion": "MANTENIMIENTO AL SISTEMA DE CONTROL DE QUEMADORES MARCA FORNEY DE LA UNIDAD 5 DE LA C.T. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "12-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-12T09:20:52.154053-07:00"
   }
 }

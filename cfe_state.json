@@ -1857,10 +1857,10 @@
     "numero": "CFE-0051-CSAAN-0001-2025",
     "descripcion": "CALZADO DE TRABAJO",
     "fecha_publicacion": "26-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-27T09:27:37.960031-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
+    "monto_adjudicado": "$736,920.00",
+    "ultima_lectura": "2025-09-12T15:18:03.723372-07:00"
   },
   "CFE-0201-CSSON-0003-2025": {
     "numero": "CFE-0201-CSSON-0003-2025",
@@ -1893,19 +1893,19 @@
     "numero": "CFE-0201-CSSAN-0006-2025",
     "descripcion": "“MANTENIMIENTO A PLANTAS DE EMERGENCIA”",
     "fecha_publicacion": "28-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-28T09:27:24.557102-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FREDY ORTEGA PEREZ,HUGO CORTES RANGEL,LEYSON CORP. INDUSTRIAL AND SERVICE SA DE CV,",
+    "monto_adjudicado": "$1,352,340.45",
+    "ultima_lectura": "2025-09-12T15:18:03.510171-07:00"
   },
   "CFE-0201-CSAAN-0008-2025": {
     "numero": "CFE-0201-CSAAN-0008-2025",
     "descripcion": "ADQUISICION DE CHAMARRAS PARA PERSONAL DE CAMPO 2025",
     "fecha_publicacion": "28-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-28T15:18:40.845555-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
+    "monto_adjudicado": "$634,240.00",
+    "ultima_lectura": "2025-09-12T15:18:03.457948-07:00"
   },
   "CFE-0604-CSSAN-0029-2025": {
     "numero": "CFE-0604-CSSAN-0029-2025",

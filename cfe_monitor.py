@@ -65,8 +65,8 @@ STATE_FILE = "cfe_state.json"
 
 # Horario laboral (hora de Tijuana) y número máximo de ejecuciones/día
 WORK_START = 9   # 09:00
-WORK_END   = 19  # 19:00
-RUNS_PER_DAY = 4
+WORK_END   = 20  # 20:00
+RUNS_PER_DAY = 5
 
 # Paginación: ¿cuántas páginas revisar?
 MAX_PAGES = int(os.getenv("MAX_PAGES", "1"))  # 1 = solo la primera página
@@ -399,7 +399,7 @@ def increment_run_counter():
 async def main():
     # 1) Limitar a horario laboral
     if not within_business_hours():
-        print("[INFO] Fuera de horario laboral de 09:00–19:00 (America/Tijuana). Saliendo.")
+        print("[INFO] Fuera de horario laboral de 09:00–20:00 (America/Tijuana). Saliendo.")
         return
 
     # 2) (Opcional) Limitar número de corridas por día si programaste más triggers

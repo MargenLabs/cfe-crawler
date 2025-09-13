@@ -2208,10 +2208,10 @@
     "numero": "CFE-0101-ADSAN-0001-2025",
     "descripcion": "SERVICIO DE PREPARACIÓN DE ALIMENTOS PARA LA ATENCIÓN DE LA CONTINGENCIA DE VIENTOS FUERTES CON RIESGO DE INCENDIO EN ZONA LOS TIJUANA",
     "fecha_publicacion": "08-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-08T15:19:24.297194-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HANZ WALTER ALVAREZ HUERTA,",
+    "monto_adjudicado": "$557,000.00",
+    "ultima_lectura": "2025-09-13T09:22:08.811664-07:00"
   },
   "CFE-0101-CSSAN-0027-2025": {
     "numero": "CFE-0101-CSSAN-0027-2025",
@@ -2284,5 +2284,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-12T12:18:53.897187-07:00"
+  },
+  "CFE-0604-CSCON-0004-2025": {
+    "numero": "CFE-0604-CSCON-0004-2025",
+    "descripcion": "MANTENIMIENTO CASA DE FILTRO UNIDAD 10 Y 11 DE LA CCC PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "13-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-13T09:22:08.140085-07:00"
+  },
+  "CFE-0201-CSCON-0015-2025": {
+    "numero": "CFE-0201-CSCON-0015-2025",
+    "descripcion": "LIMPIEZA DE BRECHA EN LÍNEAS DE TRANSMISIÓN DE LA ZONA DE TRANSMISIÓN VALLE 2025",
+    "fecha_publicacion": "12-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-13T09:22:08.200755-07:00"
   }
 }

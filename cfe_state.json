@@ -1812,10 +1812,10 @@
     "numero": "CFE-0101-CSSAN-0025-2025",
     "descripcion": "MANTENIMIENTO, REFACCIONAMIENTO Y CALIBRACION DE MAQUINA PROBADORA DE GUANTES, MANGAS Y MANTAS.",
     "fecha_publicacion": "26-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-26T09:26:52.112225-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FONKEL MEXICANA SA DE CV,",
+    "monto_adjudicado": "$1,397,038.72",
+    "ultima_lectura": "2025-09-18T12:19:35.483202-07:00"
   },
   "CFE-0201-CSAAN-0007-2025": {
     "numero": "CFE-0201-CSAAN-0007-2025",
@@ -2244,10 +2244,10 @@
     "numero": "CFE-0604-CSSAN-0032-2025",
     "descripcion": "SERVICIO DE MANTENIMIENTO CORRECTIVO A VÁLVULAS MANUALES DE LAS UNIDADES DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "10-09-2025",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-10T12:20:53.084836-07:00"
+    "ultima_lectura": "2025-09-18T12:19:32.800515-07:00"
   },
   "CFE-0604-CSSAN-0031-2025": {
     "numero": "CFE-0604-CSSAN-0031-2025",

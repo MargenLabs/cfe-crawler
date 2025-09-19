@@ -2037,10 +2037,10 @@
     "numero": "CFE-0301-CSSAN-0027-2025",
     "descripcion": "Servicio de Flete Especializado",
     "fecha_publicacion": "01-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-02T09:26:53.532992-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
+    "monto_adjudicado": "$337,000.00",
+    "ultima_lectura": "2025-09-19T15:17:03.219998-07:00"
   },
   "CFE-0201-CACON-0003-2025": {
     "numero": "CFE-0201-CACON-0003-2025",
@@ -2109,10 +2109,10 @@
     "numero": "CFE-0614-CSSAN-0031-2025",
     "descripcion": "Servicio de recolección, transporte y disposición final de residuos peligrosos para la Central de Combustión Interna Mexicali Oriente y Central Turbogas González ortega",
     "fecha_publicacion": "03-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-03T12:18:48.498596-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BAVAL SERVICIOS AMBIENTALES RECIKLAN SA DE CV,",
+    "monto_adjudicado": "$68,317.40",
+    "ultima_lectura": "2025-09-19T15:17:02.787954-07:00"
   },
   "CFE-0101-CACON-0035-2025": {
     "numero": "CFE-0101-CACON-0035-2025",

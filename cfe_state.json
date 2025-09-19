@@ -1830,10 +1830,10 @@
     "numero": "CFE-0201-CSCON-0009-2025",
     "descripcion": "MANTENIMIENTO DE CASETAS DE SEGURIDAD EN SUBESTACIONES DE LA ZONA DE TRANSMISIÓN SUR",
     "fecha_publicacion": "26-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-26T15:17:53.765772-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LUIS DANIEL GOMEZ VERDUGO,",
+    "monto_adjudicado": "$3,361,094.64",
+    "ultima_lectura": "2025-09-18T19:19:13.156073-07:00"
   },
   "CFE-0201-CSSAN-0005-2025": {
     "numero": "CFE-0201-CSSAN-0005-2025",
@@ -1965,10 +1965,10 @@
     "numero": "CFE-0201-CSCON-0010-2025",
     "descripcion": "MANTENIMIENTO A EDIFICIOS Y REPARACIÓN DE ACCESOS DE LA SEDE DE LA GRT BAJA CALIFORNIA",
     "fecha_publicacion": "29-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-29T15:18:38.260445-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
+    "monto_adjudicado": "$2,398,810.60",
+    "ultima_lectura": "2025-09-18T19:19:12.477606-07:00"
   },
   "CFE-0604-ADSAN-0001-2025": {
     "numero": "CFE-0604-ADSAN-0001-2025",
@@ -2356,5 +2356,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-18T15:16:53.855254-07:00"
+  },
+  "CFE-0301-CSAAN-0005-2025": {
+    "numero": "CFE-0301-CSAAN-0005-2025",
+    "descripcion": "Adquisición de Luminarias de Emergencia",
+    "fecha_publicacion": "19-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-18T19:19:10.067925-07:00"
   }
 }

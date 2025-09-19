@@ -1866,10 +1866,10 @@
     "numero": "CFE-0201-CSSON-0003-2025",
     "descripcion": "ELABORACIÓN DEL PROYECTO EJECUTIVO PARA LA CONSTRUCCIÓN DE AULAS DE CAPACITACIÓN PARA LA ZONA DE TRANSMISIÓN SUR",
     "fecha_publicacion": "27-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-27T15:18:08.216258-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARES PROYECTOS Y CONSTRUCCION S DE RL DE CV,",
+    "monto_adjudicado": "$1,168,902.94",
+    "ultima_lectura": "2025-09-19T12:17:59.348759-07:00"
   },
   "CFE-0301-CSSAN-0026-2025": {
     "numero": "CFE-0301-CSSAN-0026-2025",
@@ -2073,10 +2073,10 @@
     "numero": "CFE-0101-CSAAA-0010-2025",
     "descripcion": "HERRAMIENTA MAYOR",
     "fecha_publicacion": "03-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-03T09:25:11.506849-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PRODUCTOS DIELECTRICOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$4,090,575.00",
+    "ultima_lectura": "2025-09-19T12:17:58.155240-07:00"
   },
   "CFE-0101-ADAAN-0001-2025": {
     "numero": "CFE-0101-ADAAN-0001-2025",
@@ -2163,10 +2163,10 @@
     "numero": "CFE-0301-CSSAN-0028-2025",
     "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
     "fecha_publicacion": "05-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-05T12:18:20.033295-07:00"
+    "ultima_lectura": "2025-09-19T12:17:57.729168-07:00"
   },
   "CFE-0101-CACON-0036-2025": {
     "numero": "CFE-0101-CACON-0036-2025",

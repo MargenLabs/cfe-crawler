@@ -2019,10 +2019,10 @@
     "numero": "CFE-0201-CSCON-0011-2025",
     "descripcion": "TRABAJOS DE PAVIMENTACIÓN EN LAS INSTALACIONES DE LA SEDE DE LA GRTBC Y ZONA DE TRANSMISIÓN VALLE",
     "fecha_publicacion": "01-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-01T15:17:12.328164-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONCRETOS Y OBRAS BAJA S DE RL DE CV,",
+    "monto_adjudicado": "$4,428,280.27",
+    "ultima_lectura": "2025-09-24T15:17:37.640666-07:00"
   },
   "CFE-0604-ADSAN-0002-2025": {
     "numero": "CFE-0604-ADSAN-0002-2025",
@@ -2046,10 +2046,10 @@
     "numero": "CFE-0201-CACON-0003-2025",
     "descripcion": "REHABILITACION DE CIMENTACIONES EN ESTRUCTURAS DE ACERO DE LÍNEAS DE TRANSMISIÓN DE LA ZONA DE TRANSMISIÓN SUR",
     "fecha_publicacion": "01-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-02T09:26:53.587072-07:00"
+    "ultima_lectura": "2025-09-24T15:17:37.537298-07:00"
   },
   "CFE-0604-ADSAN-0003-2025": {
     "numero": "CFE-0604-ADSAN-0003-2025",
@@ -2091,10 +2091,10 @@
     "numero": "CFE-0201-CSCON-0013-2025",
     "descripcion": "MANTENIMIENTO DE OBRA CIVIL A LA INFRAESTRUCTURA DE SUBESTACION CETYS DE LA ZONA DE TRANSMISIÓN VALLE",
     "fecha_publicacion": "02-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-03T09:25:11.624614-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HT INGENIERIA DEL NOROESTE SA DE CV,",
+    "monto_adjudicado": "$2,682,269.50",
+    "ultima_lectura": "2025-09-24T15:17:37.276840-07:00"
   },
   "CFE-0201-CSCON-0012-2025": {
     "numero": "CFE-0201-CSCON-0012-2025",
@@ -2280,10 +2280,10 @@
     "numero": "CFE-0604-CSAAN-0016-2025",
     "descripcion": "ADQUISICIÓN DE REFACCIONES ESPECIALES PARA BOMBAS DE AGUA DE ENFRIAMIENTO PRINCIPAL DE UNIDADES 8 Y 9 DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "12-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-12T12:18:53.897187-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "WILCOX MACHINE CO. MEXICO SA DE CV,",
+    "monto_adjudicado": "$809,129.72",
+    "ultima_lectura": "2025-09-24T15:17:36.030266-07:00"
   },
   "CFE-0604-CSCON-0004-2025": {
     "numero": "CFE-0604-CSCON-0004-2025",

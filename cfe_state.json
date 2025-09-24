@@ -1929,10 +1929,10 @@
     "numero": "CFE-0201-CACON-0002-2025",
     "descripcion": "OBRAS CIVILES EN BAHÍA DE 230 KV EN SUBESTACIÓN OLAS ALTAS DE LA ZONA DE TRANSMISIÓN SUR",
     "fecha_publicacion": "29-08-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-29T12:18:39.124983-07:00"
+    "ultima_lectura": "2025-09-24T09:26:57.874847-07:00"
   },
   "CFE-0614-CSAAN-0006-2025": {
     "numero": "CFE-0614-CSAAN-0006-2025",
@@ -2064,10 +2064,10 @@
     "numero": "CFE-0051-CSSAN-0003-2025",
     "descripcion": "MONITOREO PARA LA CONSERVACIÓN, PROTECCIÓN DE LA FAUNA TERRESTRE Y ACUÁTICA (AVES ACUÁTICAS Y SEMIACUÁTICAS)",
     "fecha_publicacion": "03-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-03T09:25:11.449345-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GORGONIO RUIZ CAMPOS,",
+    "monto_adjudicado": "$250,000.00",
+    "ultima_lectura": "2025-09-24T09:26:57.011345-07:00"
   },
   "CFE-0101-CSAAA-0010-2025": {
     "numero": "CFE-0101-CSAAA-0010-2025",
@@ -2100,10 +2100,10 @@
     "numero": "CFE-0201-CSCON-0012-2025",
     "descripcion": "REFUERZO DE BARDA COSTADO SUR DE SUBESTACION CETYS DE LA ZONA DE TRANSMISION VALLE",
     "fecha_publicacion": "02-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-03T09:25:11.687563-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$4,200,315.64",
+    "ultima_lectura": "2025-09-24T09:26:57.219391-07:00"
   },
   "CFE-0614-CSSAN-0031-2025": {
     "numero": "CFE-0614-CSSAN-0031-2025",
@@ -2136,10 +2136,10 @@
     "numero": "CFE-0051-CSSAN-0004-2025",
     "descripcion": "MONITOREO POBLACIONAL DEL PEZ CACHORRITO DEL DESIERTO (CYPRINODON MACULARIUS) EN EL CAMPO GEOTÉRMICO CERRO PRIETO, MEXICALI, B.C.",
     "fecha_publicacion": "04-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-04T15:18:05.286045-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GORGONIO RUIZ CAMPOS,",
+    "monto_adjudicado": "$250,000.00",
+    "ultima_lectura": "2025-09-24T09:26:56.852810-07:00"
   },
   "CFE-0201-CSAAN-0009-2025": {
     "numero": "CFE-0201-CSAAN-0009-2025",
@@ -2271,10 +2271,10 @@
     "numero": "CFE-0604-CSSAA-0003-2025",
     "descripcion": "MANTENIMIENTO AL SISTEMA DE CONTROL DE QUEMADORES MARCA FORNEY DE LA UNIDAD 5 DE LA C.T. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "12-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-12T09:20:52.154053-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$1,583,849.46",
+    "ultima_lectura": "2025-09-24T09:26:55.950193-07:00"
   },
   "CFE-0604-CSAAN-0016-2025": {
     "numero": "CFE-0604-CSAAN-0016-2025",
@@ -2374,5 +2374,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-19T19:12:19.721432-07:00"
+  },
+  "CFE-0101-ADSAN-0002-2025": {
+    "numero": "CFE-0101-ADSAN-0002-2025",
+    "descripcion": "Mantto. por caso fortuito consistente en Servicios en general para la confiabilidad del servicio eléctrico en zona Mexicali 2025",
+    "fecha_publicacion": "24-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T09:26:55.110559-07:00"
+  },
+  "CFE-0301-CSSAN-0029-2025": {
+    "numero": "CFE-0301-CSSAN-0029-2025",
+    "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
+    "fecha_publicacion": "22-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T09:26:55.166878-07:00"
+  },
+  "CFE-0604-CSSAN-0034-2025": {
+    "numero": "CFE-0604-CSSAN-0034-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO CORRECTIVO A VÁLVULAS MANUALES DE LAS UNIDADES DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "22-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T09:26:55.220443-07:00"
+  },
+  "CFE-0101-CSAAN-0021-2025": {
+    "numero": "CFE-0101-CSAAN-0021-2025",
+    "descripcion": "ALIMENTOS PARA CURSOS PRESENCIALES DE CAPACITACIÓN P.D.",
+    "fecha_publicacion": "22-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T09:26:55.276448-07:00"
   }
 }

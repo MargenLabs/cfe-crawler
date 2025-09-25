@@ -2410,5 +2410,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-24T09:26:55.276448-07:00"
+  },
+  "CFE-0101-CACON-0039-2025": {
+    "numero": "CFE-0101-CACON-0039-2025",
+    "descripcion": "Trabajos de obra civil y electromecánica para instalación o sustitución de transformadores pedestal por tipo sumergible, en Zona Constitución, B.C.S.",
+    "fecha_publicacion": "25-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T19:18:17.785396-07:00"
+  },
+  "CFE-0301-CSAAA-0009-2025": {
+    "numero": "CFE-0301-CSAAA-0009-2025",
+    "descripcion": "Artículos de papelería para la Subgerencia Comercial División Baja California",
+    "fecha_publicacion": "24-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-24T19:18:17.849543-07:00"
   }
 }

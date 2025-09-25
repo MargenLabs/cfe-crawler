@@ -2428,5 +2428,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-24T19:18:17.849543-07:00"
+  },
+  "CFE-0101-CSSAN-0029-2025": {
+    "numero": "CFE-0101-CSSAN-0029-2025",
+    "descripcion": "REPARACION Y MANTTO DE TRANSFORMADORES DE DISTRIBUCION",
+    "fecha_publicacion": "25-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-25T12:20:49.741915-07:00"
   }
 }

@@ -2437,5 +2437,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-25T12:20:49.741915-07:00"
+  },
+  "CFE-0101-CSAAA-0011-2025": {
+    "numero": "CFE-0101-CSAAA-0011-2025",
+    "descripcion": "REFACCIONES PARA TABLETA NEWLAND",
+    "fecha_publicacion": "25-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-25T15:15:57.754752-07:00"
+  },
+  "CFE-0614-CSAAA-0018-2025": {
+    "numero": "CFE-0614-CSAAA-0018-2025",
+    "descripcion": "Adquisición de Refaccionamiento para los sistemas fijos Contra Incendio de la C G Cerro Prieto",
+    "fecha_publicacion": "25-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-25T15:15:57.814582-07:00"
   }
 }

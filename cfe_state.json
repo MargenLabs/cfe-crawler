@@ -48,10 +48,10 @@
     "numero": "CFE-0201-CSSAN-0004-2025",
     "descripcion": "DESHIERBE DE PREDIOS DE LA GRTBC",
     "fecha_publicacion": "18-08-2025",
-    "estado": "Adjudicado",
-    "adjudicado_a": "NODO INGENIERIA SA DE CV,MARLUQUIN CONSTRUCTORES SA DE CV,CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,",
-    "monto_adjudicado": "$1,249,400.00",
-    "ultima_lectura": "2025-09-02T09:26:55.351104-07:00"
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:36.075224-07:00"
   },
   "CFE-0614-CSAAA-0012-2025": {
     "numero": "CFE-0614-CSAAA-0012-2025",
@@ -2190,10 +2190,10 @@
     "numero": "CFE-0051-CSAAN-0002-2025",
     "descripcion": "DIÉSEL INDUSTRIAL BAJO EN AZUFRE",
     "fecha_publicacion": "08-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-08T09:24:01.513960-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA DAGAL SA DE CV,",
+    "monto_adjudicado": "$229,971.00",
+    "ultima_lectura": "2025-09-26T19:12:33.485916-07:00"
   },
   "CFE-0604-CSAAA-0010-2025": {
     "numero": "CFE-0604-CSAAA-0010-2025",
@@ -2455,5 +2455,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-25T15:15:57.814582-07:00"
+  },
+  "CFE-0301-CSAAN-0006-2025": {
+    "numero": "CFE-0301-CSAAN-0006-2025",
+    "descripcion": "Adquisición de Papel Bond",
+    "fecha_publicacion": "27-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:31.598350-07:00"
+  },
+  "CFE-0301-CSAAA-0010-2025": {
+    "numero": "CFE-0301-CSAAA-0010-2025",
+    "descripcion": "Adquisición de Refacciones y Accesorios para Equipo de Cómputo",
+    "fecha_publicacion": "27-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:31.658214-07:00"
+  },
+  "CFE-0604-CSSAN-0035-2025": {
+    "numero": "CFE-0604-CSSAN-0035-2025",
+    "descripcion": "SERVICIO DE BOROSCOPIA Y SINTONIZACIÓN PARA UNIDADES AERODERIVADAS LM6000 PF",
+    "fecha_publicacion": "26-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:31.711215-07:00"
+  },
+  "CFE-0101-ADCON-0008-2025": {
+    "numero": "CFE-0101-ADCON-0008-2025",
+    "descripcion": "“Reposición de 0.169 km de línea subterránea de media tensión del circuito 4145 de subestación cetys en Zona Mexicali dañado durante el verano 2025 en Mexicali, B.C.”",
+    "fecha_publicacion": "26-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:31.767419-07:00"
+  },
+  "CFE-0614-CSAAN-0008-2025": {
+    "numero": "CFE-0614-CSAAN-0008-2025",
+    "descripcion": "Adquisición de Toallas y Jabones dotación 2025 para personal de la Central Geotermoeléctrica Cerro Prieto y Central Turbo Gas Mexicali",
+    "fecha_publicacion": "26-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-26T19:12:31.828834-07:00"
   }
 }

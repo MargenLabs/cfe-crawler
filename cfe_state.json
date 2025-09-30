@@ -2289,10 +2289,10 @@
     "numero": "CFE-0604-CSCON-0004-2025",
     "descripcion": "MANTENIMIENTO CASA DE FILTRO UNIDAD 10 Y 11 DE LA CCC PRESIDENTE JUÁREZ",
     "fecha_publicacion": "13-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-13T09:22:08.140085-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
+    "monto_adjudicado": "$2,979,194.56",
+    "ultima_lectura": "2025-09-29T19:15:35.694508-07:00"
   },
   "CFE-0201-CSCON-0015-2025": {
     "numero": "CFE-0201-CSCON-0015-2025",

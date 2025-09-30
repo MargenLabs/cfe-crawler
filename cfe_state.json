@@ -2334,10 +2334,10 @@
     "numero": "CFE-0614-CSAAA-0017-2025",
     "descripcion": "Adquisición de bomba para equipo HPU de unidad 5 de la CG Cerro Prieto",
     "fecha_publicacion": "18-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-18T15:16:53.742292-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$152,838.91",
+    "ultima_lectura": "2025-09-30T15:18:12.073227-07:00"
   },
   "CFE-0614-CSAAA-0016-2025": {
     "numero": "CFE-0614-CSAAA-0016-2025",
@@ -2518,5 +2518,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-30T12:18:36.806374-07:00"
+  },
+  "CFE-0604-CSSAN-0036-2025": {
+    "numero": "CFE-0604-CSSAN-0036-2025",
+    "descripcion": "SERVICIO DE AGUA PURIFICADA PARA EL CONSUMO DE LOS TRABAJADORES DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "30-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-30T15:18:11.018890-07:00"
   }
 }

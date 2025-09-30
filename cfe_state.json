@@ -2500,5 +2500,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-26T19:12:31.828834-07:00"
+  },
+  "CFE-0101-CSSAN-0030-2025": {
+    "numero": "CFE-0101-CSSAN-0030-2025",
+    "descripcion": "MANIOBRA DE CARGA Y DESCARGA DE POSTES",
+    "fecha_publicacion": "30-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-30T12:18:36.750565-07:00"
+  },
+  "CFE-0101-CSAAN-0017-2025": {
+    "numero": "CFE-0101-CSAAN-0017-2025",
+    "descripcion": "PLANTA GENERADORA ELECTRICA",
+    "fecha_publicacion": "30-09-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-09-30T12:18:36.806374-07:00"
   }
 }

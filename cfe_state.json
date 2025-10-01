@@ -1947,10 +1947,10 @@
     "numero": "CFE-0101-CACON-0034-2025",
     "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA TIJUANA, B.C.",
     "fecha_publicacion": "29-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-08-29T12:18:39.233585-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INGENIERIA ROJO S DE RL DE CV,",
+    "monto_adjudicado": "$1,680,002.41",
+    "ultima_lectura": "2025-10-01T09:25:54.968873-07:00"
   },
   "CFE-0051-CSSAN-0002-2025": {
     "numero": "CFE-0051-CSSAN-0002-2025",
@@ -2217,10 +2217,10 @@
     "numero": "CFE-0101-CSSAN-0027-2025",
     "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A TERMINALES PORTATILES",
     "fecha_publicacion": "09-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-09T09:27:30.323133-07:00"
+    "ultima_lectura": "2025-10-01T09:25:53.239005-07:00"
   },
   "CFE-0201-CSCON-0014-2025": {
     "numero": "CFE-0201-CSCON-0014-2025",

@@ -2352,10 +2352,10 @@
     "numero": "CFE-0614-CSAAN-0007-2025",
     "descripcion": "Adquisición de tapas toriesfericas, carretes y accesorios para separadores de humedad de la unidad 5 de la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "18-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-18T15:16:53.855254-07:00"
+    "ultima_lectura": "2025-10-01T15:17:22.330942-07:00"
   },
   "CFE-0301-CSAAN-0005-2025": {
     "numero": "CFE-0301-CSAAN-0005-2025",
@@ -2379,10 +2379,10 @@
     "numero": "CFE-0101-ADSAN-0002-2025",
     "descripcion": "Mantto. por caso fortuito consistente en Servicios en general para la confiabilidad del servicio eléctrico en zona Mexicali 2025",
     "fecha_publicacion": "24-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-24T09:26:55.110559-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ENERGIA Y CONFORT DEL NOROESTE S DE RL DE CV,IRIS SUSANA IBARRA BIBIANO,JORGE ALFREDO MARTINEZ GONZALEZ,MA. DEL SOCORRO LOZANO AGUILAR,",
+    "monto_adjudicado": "$2,199,603.35",
+    "ultima_lectura": "2025-10-01T15:17:21.863819-07:00"
   },
   "CFE-0301-CSSAN-0029-2025": {
     "numero": "CFE-0301-CSSAN-0029-2025",
@@ -2397,10 +2397,10 @@
     "numero": "CFE-0604-CSSAN-0034-2025",
     "descripcion": "SERVICIO DE MANTENIMIENTO CORRECTIVO A VÁLVULAS MANUALES DE LAS UNIDADES DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "22-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-24T09:26:55.220443-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RAMON REGALADO CASTORENA,",
+    "monto_adjudicado": "$2,675,559.60",
+    "ultima_lectura": "2025-10-01T15:17:21.980710-07:00"
   },
   "CFE-0101-CSAAN-0021-2025": {
     "numero": "CFE-0101-CSAAN-0021-2025",

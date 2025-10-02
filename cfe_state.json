@@ -2361,10 +2361,10 @@
     "numero": "CFE-0301-CSAAN-0005-2025",
     "descripcion": "Adquisición de Luminarias de Emergencia",
     "fecha_publicacion": "19-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-18T19:19:10.067925-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$114,076.25",
+    "ultima_lectura": "2025-10-01T19:14:55.843660-07:00"
   },
   "CFE-0101-CACON-0038-2025": {
     "numero": "CFE-0101-CACON-0038-2025",

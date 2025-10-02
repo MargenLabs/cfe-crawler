@@ -2118,10 +2118,10 @@
     "numero": "CFE-0101-CACON-0035-2025",
     "descripcion": "CONSTRUCCIÓN DE OBRAS DE ELECTRIFICACIÓN DE EXTENSIÓN DE REDES PROGRAMA FSUE: 1 (UNA) OBRA DEL BLOQUE 35, 2 (DOS) OBRAS DEL BLOQUE 37, EN EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR",
     "fecha_publicacion": "04-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-04T09:27:35.082042-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCO COTA OLACHEA,",
+    "monto_adjudicado": "$1,680,969.44",
+    "ultima_lectura": "2025-10-02T15:16:47.658828-07:00"
   },
   "CFE-0614-CSSAN-0032-2025": {
     "numero": "CFE-0614-CSSAN-0032-2025",
@@ -2343,10 +2343,10 @@
     "numero": "CFE-0614-CSAAA-0016-2025",
     "descripcion": "Adquisición de juntas de expansión para succión y descarga de bombas de pozo caliente de unidad 5 de la CG Cerro Prieto",
     "fecha_publicacion": "18-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-18T15:16:53.800090-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUCIONES TECNOLOGICAS INDUSTRIALES Y SERVICIOS SA DE CV,",
+    "monto_adjudicado": "$240,035.66",
+    "ultima_lectura": "2025-10-02T15:16:46.252380-07:00"
   },
   "CFE-0614-CSAAN-0007-2025": {
     "numero": "CFE-0614-CSAAN-0007-2025",
@@ -2388,10 +2388,10 @@
     "numero": "CFE-0301-CSSAN-0029-2025",
     "descripcion": "Mantenimiento Preventivo Aires Acondicionados",
     "fecha_publicacion": "22-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-24T09:26:55.166878-07:00"
+    "ultima_lectura": "2025-10-02T15:16:45.883557-07:00"
   },
   "CFE-0604-CSSAN-0034-2025": {
     "numero": "CFE-0604-CSSAN-0034-2025",

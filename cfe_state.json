@@ -2433,10 +2433,10 @@
     "numero": "CFE-0101-CSSAN-0029-2025",
     "descripcion": "REPARACION Y MANTTO DE TRANSFORMADORES DE DISTRIBUCION",
     "fecha_publicacion": "25-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-25T12:20:49.741915-07:00"
+    "ultima_lectura": "2025-10-03T12:19:13.026762-07:00"
   },
   "CFE-0101-CSAAA-0011-2025": {
     "numero": "CFE-0101-CSAAA-0011-2025",
@@ -2527,5 +2527,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-09-30T15:18:11.018890-07:00"
+  },
+  "CFE-0614-CSAAN-0009-2025": {
+    "numero": "CFE-0614-CSAAN-0009-2025",
+    "descripcion": "Adquisición de tapas toriesfericas, carretes y accesorios para separadores de humedad de la unidad 5 de la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "03-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-03T12:19:12.253738-07:00"
   }
 }

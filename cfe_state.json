@@ -2545,5 +2545,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-03T19:10:28.485277-07:00"
+  },
+  "CFE-0301-CSAAN-0007-2025": {
+    "numero": "CFE-0301-CSAAN-0007-2025",
+    "descripcion": "Artículos de Limpieza",
+    "fecha_publicacion": "04-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-04T09:22:49.022539-07:00"
   }
 }

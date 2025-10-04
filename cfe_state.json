@@ -48,10 +48,10 @@
     "numero": "CFE-0201-CSSAN-0004-2025",
     "descripcion": "DESHIERBE DE PREDIOS DE LA GRTBC",
     "fecha_publicacion": "18-08-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-26T19:12:36.075224-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,NODO INGENIERIA SA DE CV,",
+    "monto_adjudicado": "$762,400.00",
+    "ultima_lectura": "2025-10-03T19:10:33.201027-07:00"
   },
   "CFE-0614-CSAAA-0012-2025": {
     "numero": "CFE-0614-CSAAA-0012-2025",
@@ -2145,10 +2145,10 @@
     "numero": "CFE-0201-CSAAN-0009-2025",
     "descripcion": "ADQUISICIÓN DE EQUIPOS DE TRABAJOS EN ALTURAS GRTBC",
     "fecha_publicacion": "05-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-02T19:15:56.763356-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DRECOMT SA DE CV,",
+    "monto_adjudicado": "$5,228,997.00",
+    "ultima_lectura": "2025-10-03T19:10:30.817379-07:00"
   },
   "CFE-0614-CSAAA-0015-2025": {
     "numero": "CFE-0614-CSAAA-0015-2025",
@@ -2487,10 +2487,10 @@
     "numero": "CFE-0101-ADCON-0008-2025",
     "descripcion": "“Reposición de 0.169 km de línea subterránea de media tensión del circuito 4145 de subestación cetys en Zona Mexicali dañado durante el verano 2025 en Mexicali, B.C.”",
     "fecha_publicacion": "26-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-26T19:12:31.767419-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$307,817.37",
+    "ultima_lectura": "2025-10-03T19:10:28.936386-07:00"
   },
   "CFE-0614-CSAAN-0008-2025": {
     "numero": "CFE-0614-CSAAN-0008-2025",
@@ -2536,5 +2536,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-03T12:19:12.253738-07:00"
+  },
+  "CFE-0614-CSCON-0001-2025": {
+    "numero": "CFE-0614-CSCON-0001-2025",
+    "descripcion": "Rehabilitación y Mantenimiento de Casa de Filtros de compresor Axial de Unidad Uno de la Central Turbogas Mexicali",
+    "fecha_publicacion": "03-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-03T19:10:28.485277-07:00"
   }
 }

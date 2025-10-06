@@ -2478,10 +2478,10 @@
     "numero": "CFE-0604-CSSAN-0035-2025",
     "descripcion": "SERVICIO DE BOROSCOPIA Y SINTONIZACIÓN PARA UNIDADES AERODERIVADAS LM6000 PF",
     "fecha_publicacion": "26-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-26T19:12:31.711215-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "TURBOALEACIONES SA DE CV,",
+    "monto_adjudicado": "$1,149,987.27",
+    "ultima_lectura": "2025-10-06T15:17:01.218467-07:00"
   },
   "CFE-0101-ADCON-0008-2025": {
     "numero": "CFE-0101-ADCON-0008-2025",
@@ -2563,5 +2563,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-06T12:19:48.661108-07:00"
+  },
+  "CFE-0101-CSAAN-0022-2025": {
+    "numero": "CFE-0101-CSAAN-0022-2025",
+    "descripcion": "HERRAJES",
+    "fecha_publicacion": "06-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-06T15:17:00.676370-07:00"
   }
 }

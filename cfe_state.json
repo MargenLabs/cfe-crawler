@@ -2572,5 +2572,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-06T15:17:00.676370-07:00"
+  },
+  "CFE-0201-CSSAN-0008-2025": {
+    "numero": "CFE-0201-CSSAN-0008-2025",
+    "descripcion": "SERVICIO DE DEPURACIÓN Y DIGITALIZACIÓN DE ARCHIVO HISTÓRICO",
+    "fecha_publicacion": "07-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-06T19:17:49.304946-07:00"
   }
 }

@@ -2172,10 +2172,10 @@
     "numero": "CFE-0101-CACON-0036-2025",
     "descripcion": "TRABAJOS DE OBRA CIVIL Y ELECTROMECÁNICA PARA INSTALACIÓN O SUSTITUCIÓN DE TRANSFORMADORES PEDESTAL POR TIPO SUMERGIBLE, EN ZONA SAN LUIS, SONORA",
     "fecha_publicacion": "05-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-05T15:18:12.186502-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "TRANS MOTOR DE ORIENTE SA DE CV,",
+    "monto_adjudicado": "$825,618.76",
+    "ultima_lectura": "2025-10-07T15:18:47.353095-07:00"
   },
   "CFE-0604-CSAAN-0014-2025": {
     "numero": "CFE-0604-CSAAN-0014-2025",
@@ -2590,5 +2590,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-07T12:20:36.319972-07:00"
+  },
+  "CFE-0101-CSSAN-0031-2025": {
+    "numero": "CFE-0101-CSSAN-0031-2025",
+    "descripcion": "REPARACION Y MANTENIMIENTO DE TRANSFORMADORES DE DISTRIBUCION RESTO DEL AÑO P.D.",
+    "fecha_publicacion": "07-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-07T15:18:44.837225-07:00"
   }
 }

@@ -2469,10 +2469,10 @@
     "numero": "CFE-0301-CSAAA-0010-2025",
     "descripcion": "Adquisición de Refacciones y Accesorios para Equipo de Cómputo",
     "fecha_publicacion": "27-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-26T19:12:31.658214-07:00"
+    "ultima_lectura": "2025-10-07T12:20:36.942524-07:00"
   },
   "CFE-0604-CSSAN-0035-2025": {
     "numero": "CFE-0604-CSSAN-0035-2025",
@@ -2581,5 +2581,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-06T19:17:49.304946-07:00"
+  },
+  "CFE-0101-ADSAN-0003-2025": {
+    "numero": "CFE-0101-ADSAN-0003-2025",
+    "descripcion": "Mantenimiento por caso fortuito consistente en Servicios en general para la confiabilidad del servicio eléctrico en zona Mexicali 2025 Partida Desierta",
+    "fecha_publicacion": "07-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-07T12:20:36.319972-07:00"
   }
 }

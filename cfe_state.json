@@ -2496,10 +2496,10 @@
     "numero": "CFE-0614-CSAAN-0008-2025",
     "descripcion": "Adquisición de Toallas y Jabones dotación 2025 para personal de la Central Geotermoeléctrica Cerro Prieto y Central Turbo Gas Mexicali",
     "fecha_publicacion": "26-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-26T19:12:31.828834-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,ESSENSTIALWEAR SAS DE CV,",
+    "monto_adjudicado": "$661,197.40",
+    "ultima_lectura": "2025-10-09T12:28:19.418262-07:00"
   },
   "CFE-0101-CSSAN-0030-2025": {
     "numero": "CFE-0101-CSSAN-0030-2025",

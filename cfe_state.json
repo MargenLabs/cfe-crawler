@@ -2608,5 +2608,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-08T15:18:44.527643-07:00"
+  },
+  "CFE-0604-CSCON-0005-2025": {
+    "numero": "CFE-0604-CSCON-0005-2025",
+    "descripcion": "REHABILITACION DE JUNTAS DE EXPANSION CALDERA U 5 DE LA C.T. PRESIDENTE JUAREZ",
+    "fecha_publicacion": "09-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-09T15:19:27.359696-07:00"
+  },
+  "CFE-0201-CSCON-0016-2025": {
+    "numero": "CFE-0201-CSCON-0016-2025",
+    "descripcion": "INSTALACIÓN DE GRAVA EN PLATAFORMAS DE OPERACIÓN DE SUBESTACIONES DE LA ZONA TRANSMISIÓN VALLE",
+    "fecha_publicacion": "09-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-09T15:19:27.416835-07:00"
   }
 }

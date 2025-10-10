@@ -2370,10 +2370,10 @@
     "numero": "CFE-0101-CACON-0038-2025",
     "descripcion": "TRABAJOS DE SEGURIDAD FÍSICA Y FIRMES, EN AGENCIA CABO SAN LUCAS Y CENTRO DE SERVICIOS LOS BARRILES, EN ZONA LOS CABOS, EN EL MUNICIPIO DE LOS CABOS, EN B.C.S.",
     "fecha_publicacion": "19-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-19T19:12:19.721432-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
+    "monto_adjudicado": "$686,737.96",
+    "ultima_lectura": "2025-10-09T19:18:46.270808-07:00"
   },
   "CFE-0101-ADSAN-0002-2025": {
     "numero": "CFE-0101-ADSAN-0002-2025",
@@ -2523,10 +2523,10 @@
     "numero": "CFE-0604-CSSAN-0036-2025",
     "descripcion": "SERVICIO DE AGUA PURIFICADA PARA EL CONSUMO DE LOS TRABAJADORES DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
     "fecha_publicacion": "30-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-30T15:18:11.018890-07:00"
+    "ultima_lectura": "2025-10-09T19:18:45.347718-07:00"
   },
   "CFE-0614-CSAAN-0009-2025": {
     "numero": "CFE-0614-CSAAN-0009-2025",

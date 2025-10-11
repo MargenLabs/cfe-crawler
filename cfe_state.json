@@ -2635,5 +2635,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-10T12:20:12.751709-07:00"
+  },
+  "CFE-0028-CSCON-0001-2025": {
+    "numero": "CFE-0028-CSCON-0001-2025",
+    "descripcion": "Trabajos de impermeabilización, pintura y mantenimiento en edificios de la Residencia General de Construcción II Rosarito",
+    "fecha_publicacion": "10-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-10T19:13:23.629813-07:00"
+  },
+  "CFE-0604-CSSAN-0037-2025": {
+    "numero": "CFE-0604-CSSAN-0037-2025",
+    "descripcion": "SERVICIO DE MANTENIMIENTO PREVENTIVO A GRÚAS PUENTE DE CASA DE MÁQUINAS UNIDADES 8,9 Y 11 DE LA C.C.C. PRESIDENTE JUÁREZ 2025",
+    "fecha_publicacion": "10-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-10T19:13:23.684589-07:00"
   }
 }

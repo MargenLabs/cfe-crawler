@@ -2514,10 +2514,10 @@
     "numero": "CFE-0101-CSAAN-0017-2025",
     "descripcion": "PLANTA GENERADORA ELECTRICA",
     "fecha_publicacion": "30-09-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-30T12:18:36.806374-07:00"
+    "ultima_lectura": "2025-10-13T15:19:35.362394-07:00"
   },
   "CFE-0604-CSSAN-0036-2025": {
     "numero": "CFE-0604-CSSAN-0036-2025",
@@ -2577,10 +2577,10 @@
     "numero": "CFE-0201-CSSAN-0008-2025",
     "descripcion": "SERVICIO DE DEPURACIÓN Y DIGITALIZACIÓN DE ARCHIVO HISTÓRICO",
     "fecha_publicacion": "07-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-06T19:17:49.304946-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IRWING ALFREDO RODRIGUEZ LOPEZ,",
+    "monto_adjudicado": "$5,197,440.00",
+    "ultima_lectura": "2025-10-13T15:19:34.923316-07:00"
   },
   "CFE-0101-ADSAN-0003-2025": {
     "numero": "CFE-0101-ADSAN-0003-2025",
@@ -2653,5 +2653,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-10T19:13:23.684589-07:00"
+  },
+  "CFE-0201-CSCON-0018-2025": {
+    "numero": "CFE-0201-CSCON-0018-2025",
+    "descripcion": "ADECUACIÓN DE BARDA DE SUBESTACIÓN TECNOLÓGICO DE LA ZONA DE TRANSMISIÓN VALLE",
+    "fecha_publicacion": "13-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-13T15:19:34.412195-07:00"
   }
 }

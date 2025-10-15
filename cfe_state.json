@@ -2707,5 +2707,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-14T19:22:08.504525-07:00"
+  },
+  "CFE-0101-ADAAN-0002-2025": {
+    "numero": "CFE-0101-ADAAN-0002-2025",
+    "descripcion": "ALIMENTOS PARA EMERGENCIA TORMENTA Y FUERTES VIENTOS",
+    "fecha_publicacion": "15-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-15T12:20:15.751734-07:00"
   }
 }

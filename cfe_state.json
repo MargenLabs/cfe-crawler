@@ -2698,5 +2698,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-14T15:18:00.649622-07:00"
+  },
+  "CFE-0101-CSSAN-0034-2025": {
+    "numero": "CFE-0101-CSSAN-0034-2025",
+    "descripcion": "Regeneración de aceite aislante en Transformadores de Potencia",
+    "fecha_publicacion": "15-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-14T19:22:08.504525-07:00"
   }
 }

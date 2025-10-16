@@ -2415,10 +2415,10 @@
     "numero": "CFE-0101-CACON-0039-2025",
     "descripcion": "Trabajos de obra civil y electromecánica para instalación o sustitución de transformadores pedestal por tipo sumergible, en Zona Constitución, B.C.S.",
     "fecha_publicacion": "25-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-24T19:18:17.785396-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
+    "monto_adjudicado": "$315,136.85",
+    "ultima_lectura": "2025-10-16T15:17:22.557144-07:00"
   },
   "CFE-0301-CSAAA-0009-2025": {
     "numero": "CFE-0301-CSAAA-0009-2025",
@@ -2532,10 +2532,10 @@
     "numero": "CFE-0614-CSAAN-0009-2025",
     "descripcion": "Adquisición de tapas toriesfericas, carretes y accesorios para separadores de humedad de la unidad 5 de la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "03-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-03T12:19:12.253738-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RICARDO FLORES MENDOZA,TUBERIAS Y SISTEMAS DE ENERGIA EN GAS NATURAL DEL NOROESTE S DE,EQUIPOS TERMOMECANICOS SA DE CV,",
+    "monto_adjudicado": "$1,584,926.70",
+    "ultima_lectura": "2025-10-16T15:17:21.833623-07:00"
   },
   "CFE-0614-CSCON-0001-2025": {
     "numero": "CFE-0614-CSCON-0001-2025",
@@ -2734,5 +2734,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-16T12:18:05.889331-07:00"
+  },
+  "CFE-0101-ADSAN-0004-2025": {
+    "numero": "CFE-0101-ADSAN-0004-2025",
+    "descripcion": "FLETES POR ALTAS TEMPERATURAS",
+    "fecha_publicacion": "16-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-16T15:17:20.362785-07:00"
   }
 }

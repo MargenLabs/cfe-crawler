@@ -2550,10 +2550,10 @@
     "numero": "CFE-0301-CSAAN-0007-2025",
     "descripcion": "Artículos de Limpieza",
     "fecha_publicacion": "04-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-04T09:22:49.022539-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MAKORP SA DE CV,ROXANA ALFARO VALENCIA,",
+    "monto_adjudicado": "$415,508.38",
+    "ultima_lectura": "2025-10-15T19:19:42.668960-07:00"
   },
   "CFE-0051-CSSAN-0005-2025": {
     "numero": "CFE-0051-CSSAN-0005-2025",
@@ -2586,10 +2586,10 @@
     "numero": "CFE-0101-ADSAN-0003-2025",
     "descripcion": "Mantenimiento por caso fortuito consistente en Servicios en general para la confiabilidad del servicio eléctrico en zona Mexicali 2025 Partida Desierta",
     "fecha_publicacion": "07-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-07T12:20:36.319972-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,",
+    "monto_adjudicado": "$606,515.89",
+    "ultima_lectura": "2025-10-15T19:19:42.453925-07:00"
   },
   "CFE-0101-CSSAN-0031-2025": {
     "numero": "CFE-0101-CSSAN-0031-2025",
@@ -2716,5 +2716,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-15T12:20:15.751734-07:00"
+  },
+  "CFE-0101-ADSAN-0005-2025": {
+    "numero": "CFE-0101-ADSAN-0005-2025",
+    "descripcion": "FLETES POR FUERTES VIENTOS ZONA TIJUANA",
+    "fecha_publicacion": "16-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-15T19:19:41.609913-07:00"
   }
 }

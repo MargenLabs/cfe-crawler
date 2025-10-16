@@ -2442,10 +2442,10 @@
     "numero": "CFE-0101-CSAAA-0011-2025",
     "descripcion": "REFACCIONES PARA TABLETA NEWLAND",
     "fecha_publicacion": "25-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-25T15:15:57.754752-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABEL ALEJANDRO CABRERA RODRIGUEZ,",
+    "monto_adjudicado": "$116,595.00",
+    "ultima_lectura": "2025-10-16T12:18:07.848915-07:00"
   },
   "CFE-0614-CSAAA-0018-2025": {
     "numero": "CFE-0614-CSAAA-0018-2025",
@@ -2725,5 +2725,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-15T19:19:41.609913-07:00"
+  },
+  "CFE-0301-CSAAN-0008-2025": {
+    "numero": "CFE-0301-CSAAN-0008-2025",
+    "descripcion": "Adquisición de Papel Bond",
+    "fecha_publicacion": "16-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-16T12:18:05.889331-07:00"
   }
 }

@@ -2613,10 +2613,10 @@
     "numero": "CFE-0604-CSCON-0005-2025",
     "descripcion": "REHABILITACION DE JUNTAS DE EXPANSION CALDERA U 5 DE LA C.T. PRESIDENTE JUAREZ",
     "fecha_publicacion": "09-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-09T15:19:27.359696-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
+    "monto_adjudicado": "$1,949,639.94",
+    "ultima_lectura": "2025-10-16T19:20:15.461153-07:00"
   },
   "CFE-0201-CSCON-0016-2025": {
     "numero": "CFE-0201-CSCON-0016-2025",
@@ -2743,5 +2743,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-16T15:17:20.362785-07:00"
+  },
+  "CFE-0604-CSAAN-0017-2025": {
+    "numero": "CFE-0604-CSAAN-0017-2025",
+    "descripcion": "ADQUISICIÓN DE EQUIPO ESPECIAL PARA EL DEPARTAMENTO MECÁNICO DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "16-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-16T19:20:14.455706-07:00"
+  },
+  "CFE-0301-CSAAN-0009-2025": {
+    "numero": "CFE-0301-CSAAN-0009-2025",
+    "descripcion": "Artículos de Limpieza",
+    "fecha_publicacion": "16-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-16T19:20:14.527420-07:00"
   }
 }

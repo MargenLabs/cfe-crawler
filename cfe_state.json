@@ -2761,5 +2761,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-16T19:20:14.527420-07:00"
+  },
+  "CFE-0101-CSAAA-0013-2025": {
+    "numero": "CFE-0101-CSAAA-0013-2025",
+    "descripcion": "LLAVES PARA ARO DE SEGURIDAD",
+    "fecha_publicacion": "17-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-17T15:17:09.283079-07:00"
+  },
+  "CFE-0101-CSAAA-0012-2025": {
+    "numero": "CFE-0101-CSAAA-0012-2025",
+    "descripcion": "ARTICULOS DE LIMPIEZA",
+    "fecha_publicacion": "17-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-17T15:17:09.343034-07:00"
   }
 }

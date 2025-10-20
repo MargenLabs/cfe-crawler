@@ -2604,10 +2604,10 @@
     "numero": "CFE-0101-CSSAN-0032-2025",
     "descripcion": "MANTTO PREVENTIVO CORRECTIVO A TERMINALES PORTATILES PARTIDAS DESIERTAS",
     "fecha_publicacion": "08-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-08T15:18:44.527643-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IDALI MARRON VILLARRUEL,",
+    "monto_adjudicado": "$700,000.00",
+    "ultima_lectura": "2025-10-20T15:19:22.937132-07:00"
   },
   "CFE-0604-CSCON-0005-2025": {
     "numero": "CFE-0604-CSCON-0005-2025",
@@ -2779,5 +2779,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-17T15:17:09.343034-07:00"
+  },
+  "CFE-0101-CSSAN-0033-2025": {
+    "numero": "CFE-0101-CSSAN-0033-2025",
+    "descripcion": "SUMINISTRO DE AGUA Y HIELO",
+    "fecha_publicacion": "20-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-20T15:19:21.864167-07:00"
   }
 }

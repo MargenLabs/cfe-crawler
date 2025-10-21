@@ -2649,10 +2649,10 @@
     "numero": "CFE-0604-CSSAN-0037-2025",
     "descripcion": "SERVICIO DE MANTENIMIENTO PREVENTIVO A GRÚAS PUENTE DE CASA DE MÁQUINAS UNIDADES 8,9 Y 11 DE LA C.C.C. PRESIDENTE JUÁREZ 2025",
     "fecha_publicacion": "10-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-10T19:13:23.684589-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE B C S DE RL DE CV,",
+    "monto_adjudicado": "$2,097,750.00",
+    "ultima_lectura": "2025-10-21T15:18:41.922011-07:00"
   },
   "CFE-0201-CSCON-0018-2025": {
     "numero": "CFE-0201-CSCON-0018-2025",
@@ -2806,5 +2806,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-21T09:29:41.643173-07:00"
+  },
+  "CFE-0101-CSSAN-0036-2025": {
+    "numero": "CFE-0101-CSSAN-0036-2025",
+    "descripcion": "SERVICIO DE FLETES 2025",
+    "fecha_publicacion": "21-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-21T15:18:40.850708-07:00"
   }
 }

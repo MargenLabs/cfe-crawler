@@ -2505,10 +2505,10 @@
     "numero": "CFE-0101-CSSAN-0030-2025",
     "descripcion": "MANIOBRA DE CARGA Y DESCARGA DE POSTES",
     "fecha_publicacion": "30-09-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-09-30T12:18:36.750565-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ZULEMA ELVIRA DOMINGUEZ VERDUGO,",
+    "monto_adjudicado": "$448,000.00",
+    "ultima_lectura": "2025-10-20T19:22:24.113465-07:00"
   },
   "CFE-0101-CSAAN-0017-2025": {
     "numero": "CFE-0101-CSAAN-0017-2025",
@@ -2541,10 +2541,10 @@
     "numero": "CFE-0614-CSCON-0001-2025",
     "descripcion": "Rehabilitación y Mantenimiento de Casa de Filtros de compresor Axial de Unidad Uno de la Central Turbogas Mexicali",
     "fecha_publicacion": "03-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-03T19:10:28.485277-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IAR091228FA2/JCO071213J46 - INGENIERIA ARGUZ SA DE CV,",
+    "monto_adjudicado": "$1,551,760.56",
+    "ultima_lectura": "2025-10-20T19:22:23.954943-07:00"
   },
   "CFE-0301-CSAAN-0007-2025": {
     "numero": "CFE-0301-CSAAN-0007-2025",
@@ -2788,5 +2788,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-20T15:19:21.864167-07:00"
+  },
+  "CFE-0101-CSAAN-0024-2025": {
+    "numero": "CFE-0101-CSAAN-0024-2025",
+    "descripcion": "ALIMENTOS PARA CURSOS PRESENCIALES DE CAPACITACIÓN P.D.",
+    "fecha_publicacion": "20-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-20T19:22:22.415493-07:00"
   }
 }

@@ -2797,5 +2797,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-20T19:22:22.415493-07:00"
+  },
+  "CFE-0101-CSAAN-0023-2025": {
+    "numero": "CFE-0101-CSAAN-0023-2025",
+    "descripcion": "PLANTA GENERADORA ELECTRICA PARTIDAS DESIERTAS",
+    "fecha_publicacion": "21-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-21T09:29:41.643173-07:00"
   }
 }

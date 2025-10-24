@@ -2842,5 +2842,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-23T19:17:16.005884-07:00"
+  },
+  "CFE-0101-CSSAN-0037-2025": {
+    "numero": "CFE-0101-CSSAN-0037-2025",
+    "descripcion": "LIMPIEZA RESTO DEL AÑO 2025",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T12:21:00.285897-07:00"
   }
 }

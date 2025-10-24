@@ -2685,10 +2685,10 @@
     "numero": "CFE-0604-CSSAN-0038-2025",
     "descripcion": "SERVICIO DE AGUA PURIFICADA PARA EL CONSUMO DE LOS TRABAJADORES DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ- SEGUNDO EVENTO",
     "fecha_publicacion": "14-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-14T12:20:34.743051-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA EMBOTELLADORA DEL FUERTE S DE RL DE CV,",
+    "monto_adjudicado": "$112,000.00",
+    "ultima_lectura": "2025-10-23T19:17:16.918017-07:00"
   },
   "CFE-0604-CSSAN-0039-2025": {
     "numero": "CFE-0604-CSSAN-0039-2025",
@@ -2824,5 +2824,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-22T19:22:05.307712-07:00"
+  },
+  "CFE-0101-CSAAN-0025-2025": {
+    "numero": "CFE-0101-CSAAN-0025-2025",
+    "descripcion": "EQUIPO DE PROTECCIÓN PERSONAL BÁSICO",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-23T19:17:15.942680-07:00"
+  },
+  "CFE-0101-CSAAA-0014-2025": {
+    "numero": "CFE-0101-CSAAA-0014-2025",
+    "descripcion": "CONSUMIBLES DE COMPUTO PARTIDAS DESIERTAS 2025",
+    "fecha_publicacion": "23-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-23T19:17:16.005884-07:00"
   }
 }

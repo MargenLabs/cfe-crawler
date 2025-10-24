@@ -2851,5 +2851,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-24T12:21:00.285897-07:00"
+  },
+  "CFE-0101-ADCON-0012-2025": {
+    "numero": "CFE-0101-ADCON-0012-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T15:20:06.025541-07:00"
+  },
+  "CFE-0101-ADCON-0011-2025": {
+    "numero": "CFE-0101-ADCON-0011-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T15:20:06.086076-07:00"
+  },
+  "CFE-0101-ADCON-0010-2025": {
+    "numero": "CFE-0101-ADCON-0010-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T15:20:06.141959-07:00"
+  },
+  "CFE-0101-ADCON-0009-2025": {
+    "numero": "CFE-0101-ADCON-0009-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T15:20:06.199556-07:00"
+  },
+  "CFE-0101-CSAAA-0009-2025": {
+    "numero": "CFE-0101-CSAAA-0009-2025",
+    "descripcion": "PARTICULARIDADES 2025",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T15:20:06.256686-07:00"
   }
 }

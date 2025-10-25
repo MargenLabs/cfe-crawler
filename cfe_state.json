@@ -2896,5 +2896,77 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-24T15:20:06.256686-07:00"
+  },
+  "CFE-0101-ADCON-0020-2025": {
+    "numero": "CFE-0101-ADCON-0020-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.027720-07:00"
+  },
+  "CFE-0101-ADCON-0019-2025": {
+    "numero": "CFE-0101-ADCON-0019-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.082781-07:00"
+  },
+  "CFE-0101-ADCON-0018-2025": {
+    "numero": "CFE-0101-ADCON-0018-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.135066-07:00"
+  },
+  "CFE-0101-ADCON-0017-2025": {
+    "numero": "CFE-0101-ADCON-0017-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.189779-07:00"
+  },
+  "CFE-0101-ADCON-0016-2025": {
+    "numero": "CFE-0101-ADCON-0016-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.243647-07:00"
+  },
+  "CFE-0101-ADCON-0015-2025": {
+    "numero": "CFE-0101-ADCON-0015-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.296282-07:00"
+  },
+  "CFE-0101-ADCON-0014-2025": {
+    "numero": "CFE-0101-ADCON-0014-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.348856-07:00"
+  },
+  "CFE-0101-ADCON-0013-2025": {
+    "numero": "CFE-0101-ADCON-0013-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "24-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-24T19:19:09.400298-07:00"
   }
 }

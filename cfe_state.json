@@ -2739,10 +2739,10 @@
     "numero": "CFE-0101-ADSAN-0004-2025",
     "descripcion": "FLETES POR ALTAS TEMPERATURAS",
     "fecha_publicacion": "16-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-16T15:17:20.362785-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
+    "monto_adjudicado": "$304,793.82",
+    "ultima_lectura": "2025-10-27T15:19:25.507380-07:00"
   },
   "CFE-0604-CSAAN-0017-2025": {
     "numero": "CFE-0604-CSAAN-0017-2025",

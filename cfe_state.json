@@ -2640,10 +2640,10 @@
     "numero": "CFE-0028-CSCON-0001-2025",
     "descripcion": "Trabajos de impermeabilización, pintura y mantenimiento en edificios de la Residencia General de Construcción II Rosarito",
     "fecha_publicacion": "10-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-10T19:13:23.629813-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IMA-NIP SA DE CV,",
+    "monto_adjudicado": "$489,541.79",
+    "ultima_lectura": "2025-10-27T19:22:59.886944-07:00"
   },
   "CFE-0604-CSSAN-0037-2025": {
     "numero": "CFE-0604-CSSAN-0037-2025",

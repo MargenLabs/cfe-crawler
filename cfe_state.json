@@ -2968,5 +2968,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-24T19:19:09.400298-07:00"
+  },
+  "CFE-0101-ADAAN-0004-2025": {
+    "numero": "CFE-0101-ADAAN-0004-2025",
+    "descripcion": "ALIMENTOS PARA LA ATENCION DE LA CONTINGENCIA DE LA ONDA TROPICAL 33",
+    "fecha_publicacion": "29-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-28T19:30:08.514434-07:00"
   }
 }

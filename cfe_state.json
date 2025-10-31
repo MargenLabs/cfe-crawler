@@ -2766,10 +2766,10 @@
     "numero": "CFE-0101-CSAAA-0013-2025",
     "descripcion": "LLAVES PARA ARO DE SEGURIDAD",
     "fecha_publicacion": "17-10-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-17T15:17:09.283079-07:00"
+    "ultima_lectura": "2025-10-31T12:18:06.267889-07:00"
   },
   "CFE-0101-CSAAA-0012-2025": {
     "numero": "CFE-0101-CSAAA-0012-2025",
@@ -3067,5 +3067,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-30T19:25:09.258574-07:00"
+  },
+  "CFE-0101-ADSAN-0009-2025": {
+    "numero": "CFE-0101-ADSAN-0009-2025",
+    "descripcion": "FLETES POR T.T. LORENA ZONA CONSTITUCION",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T12:18:04.229613-07:00"
   }
 }

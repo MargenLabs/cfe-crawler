@@ -2977,5 +2977,95 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-28T19:30:08.514434-07:00"
+  },
+  "CFE-0201-ADSAN-0004-2025": {
+    "numero": "CFE-0201-ADSAN-0004-2025",
+    "descripcion": "“SERVICIO PARA REPOTENCIAR BUS DE S.E. INA”",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:08.778470-07:00"
+  },
+  "CFE-0301-CSSAN-0030-2025": {
+    "numero": "CFE-0301-CSSAN-0030-2025",
+    "descripcion": "Servicio de mudanza Zona Mexicali",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:08.837846-07:00"
+  },
+  "CFE-0101-ADAAN-0005-2025": {
+    "numero": "CFE-0101-ADAAN-0005-2025",
+    "descripcion": "Alimentos para emergencia tormenta y fuertes vientos",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:08.890606-07:00"
+  },
+  "CFE-0101-ADCON-0021-2025": {
+    "numero": "CFE-0101-ADCON-0021-2025",
+    "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:08.943294-07:00"
+  },
+  "CFE-0201-ADSAN-0003-2025": {
+    "numero": "CFE-0201-ADSAN-0003-2025",
+    "descripcion": "SERVICIO DE PODA SELECTIVA Y DESRAME EN LÍNEAS DE TRANSMISIÓN EN LA GRTBC",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:08.998201-07:00"
+  },
+  "CFE-0201-ADSAN-0002-2025": {
+    "numero": "CFE-0201-ADSAN-0002-2025",
+    "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURA H CON POSTES DE MADERA DE LT LMA – 83150 – RZC POR EMERGENCIA",
+    "fecha_publicacion": "30-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:09.050861-07:00"
+  },
+  "CFE-0028-ADSAN-0001-2025": {
+    "numero": "CFE-0028-ADSAN-0001-2025",
+    "descripcion": "SERVICIOS JURÍDICOS PARA PARA COMPARECER A JUICIO DENTRO DEL CASO 1 :24- CV-09739-LAP EN EL TRIBUNAL DEL DISTRITO SUR DE NUEVA YORK, EN LOS ESTADOS UNIDOS DE AMÉRICA",
+    "fecha_publicacion": "30-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:09.101563-07:00"
+  },
+  "CFE-0614-CSSAN-0033-2025": {
+    "numero": "CFE-0614-CSSAN-0033-2025",
+    "descripcion": "servicio de Transporte de personal de Operación, áreas técnicas y Administrativas de la CCI Mexicali Oriente y CC González Ortega",
+    "fecha_publicacion": "30-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:09.153083-07:00"
+  },
+  "CFE-0101-CSSAN-0038-2025": {
+    "numero": "CFE-0101-CSSAN-0038-2025",
+    "descripcion": "SERVICIO DE ELABORACIÓN E IMPRESIÓN DE FORMATOS 2025",
+    "fecha_publicacion": "30-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:09.205086-07:00"
+  },
+  "CFE-0201-ADSAN-0001-2025": {
+    "numero": "CFE-0201-ADSAN-0001-2025",
+    "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURAS EN LT ENT-73170-MIN POR EMERGENCIA",
+    "fecha_publicacion": "30-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-30T19:25:09.258574-07:00"
   }
 }

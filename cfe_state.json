@@ -2748,10 +2748,10 @@
     "numero": "CFE-0604-CSAAN-0017-2025",
     "descripcion": "ADQUISICIÓN DE EQUIPO ESPECIAL PARA EL DEPARTAMENTO MECÁNICO DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "16-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-16T19:20:14.455706-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,P&R INDUSTRIAL S DE RL DE CV,FERNAN CICERON ALFARO HERNANDEZ,FERRETERIA POPULAR DEL NORTE SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,VICTOR ADAN SANCHEZ MENDEZ,XHITAO SA DE CV,",
+    "monto_adjudicado": "$2,687,766.05",
+    "ultima_lectura": "2025-10-31T19:28:43.331260-07:00"
   },
   "CFE-0301-CSAAN-0009-2025": {
     "numero": "CFE-0301-CSAAN-0009-2025",
@@ -3112,5 +3112,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-31T15:19:02.633578-07:00"
+  },
+  "CFE-0201-ADSAN-0007-2025": {
+    "numero": "CFE-0201-ADSAN-0007-2025",
+    "descripcion": "“SERVICIO DE REHABILITACIÓN DE INFRAESTRUCTURA LÍNEA DE TRANSMISIÓN PANAMERICA DE POTENCIA-63130-DURAZNO Y METROPOLI-63720-DURAZNO”",
+    "fecha_publicacion": "01-11-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T19:28:40.428848-07:00"
+  },
+  "CFE-0101-CSAAA-0015-2025": {
+    "numero": "CFE-0101-CSAAA-0015-2025",
+    "descripcion": "ACCESORIOS SUBTERRANEOS",
+    "fecha_publicacion": "01-11-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T19:28:40.495868-07:00"
+  },
+  "CFE-0201-ADSAN-0006-2025": {
+    "numero": "CFE-0201-ADSAN-0006-2025",
+    "descripcion": "SUMINISTRO E INSTALACIÓN DE TERMINALES PARA CABLE SUBTERRÁNEO EN LA ZTC",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T19:28:40.555453-07:00"
+  },
+  "CFE-0101-CSSAN-0039-2025": {
+    "numero": "CFE-0101-CSSAN-0039-2025",
+    "descripcion": "REUBICACION DE TRANSFORMADORES DE POTENCIA BCA",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T19:28:40.616888-07:00"
+  },
+  "CFE-0101-CACON-0040-2025": {
+    "numero": "CFE-0101-CACON-0040-2025",
+    "descripcion": "Remodelación de baños de Liniero y Edificio Técnico del Centro de Distribución Zona La Paz",
+    "fecha_publicacion": "31-10-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-10-31T19:28:40.685067-07:00"
   }
 }

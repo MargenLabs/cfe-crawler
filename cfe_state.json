@@ -2568,10 +2568,10 @@
     "numero": "CFE-0101-CSAAN-0022-2025",
     "descripcion": "HERRAJES",
     "fecha_publicacion": "06-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-06T15:17:00.676370-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,DISTRIBUCIONES CANTILEVER S DE RL DE CV,FG MANUFACTURING SERVICES S DE RL DE CV,INDUSTRIA REAL SA DE CV,POWERTRUSION DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$5,187,238.22",
+    "ultima_lectura": "2025-11-03T18:25:22.948320-08:00"
   },
   "CFE-0201-CSSAN-0008-2025": {
     "numero": "CFE-0201-CSSAN-0008-2025",
@@ -2820,10 +2820,10 @@
     "numero": "CFE-0101-ADSAN-0007-2025",
     "descripcion": "SERVICIO DE MANTENIMIENTO POR CASO FORTUITO, CONSISTENTE EN SERVICIOS EN GENERAL PARA LA CONFIABILIDAD DEL SERVICIO ELECTRICO EN ZONA TIJUANA 2025.",
     "fecha_publicacion": "23-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-22T19:22:05.307712-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,NEZCO SA DE CV,",
+    "monto_adjudicado": "$1,500,000.00",
+    "ultima_lectura": "2025-11-03T18:25:21.233695-08:00"
   },
   "CFE-0101-CSAAN-0025-2025": {
     "numero": "CFE-0101-CSAAN-0025-2025",

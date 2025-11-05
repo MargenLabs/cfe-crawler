@@ -2667,10 +2667,10 @@
     "numero": "CFE-0101-CSSAN-0035-2025",
     "descripcion": "MANTTO PREVENTIVO CORRECTIVO PV MOTOR DIÉSEL 2025 P.D.",
     "fecha_publicacion": "14-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-13T19:19:03.748704-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTERNATIONAL DE BAJA CALIFORNIA SA DE CV,JOSE BRANDON LOBO RIVAS,MC 300 BAJA S DE RL DE CV,",
+    "monto_adjudicado": "$5,100,000.00",
+    "ultima_lectura": "2025-11-04T18:26:57.290322-08:00"
   },
   "CFE-0201-CSSAN-0009-2025": {
     "numero": "CFE-0201-CSSAN-0009-2025",
@@ -3081,10 +3081,10 @@
     "numero": "CFE-0201-ADSAN-0005-2025",
     "descripcion": "CONTRATACIÓN DE RETROEXCAVADORA PARA LIMPIEZA PERIMETRAL DE SUBESTACIONES",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T15:19:02.464184-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OSCAR ALEJANDRO VAZQUEZ ARIAS,",
+    "monto_adjudicado": "$408,845.83",
+    "ultima_lectura": "2025-11-04T18:26:54.743630-08:00"
   },
   "CFE-0101-CSSAN-0040-2025": {
     "numero": "CFE-0101-CSSAN-0040-2025",

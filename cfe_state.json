@@ -2793,10 +2793,10 @@
     "numero": "CFE-0101-CSAAN-0024-2025",
     "descripcion": "ALIMENTOS PARA CURSOS PRESENCIALES DE CAPACITACIÓN P.D.",
     "fecha_publicacion": "20-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-20T19:22:22.415493-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ARMANDINA VALENZUELA VEGA,OPERADORA RIO COLORADO S DE RL DE CV,",
+    "monto_adjudicado": "$528,360.00",
+    "ultima_lectura": "2025-11-05T14:19:43.363255-08:00"
   },
   "CFE-0101-CSAAN-0023-2025": {
     "numero": "CFE-0101-CSAAN-0023-2025",
@@ -2982,10 +2982,10 @@
     "numero": "CFE-0201-ADSAN-0004-2025",
     "descripcion": "“SERVICIO PARA REPOTENCIAR BUS DE S.E. INA”",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:08.778470-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NEZCO SA DE CV,",
+    "monto_adjudicado": "$1,810,390.87",
+    "ultima_lectura": "2025-11-05T14:19:41.718287-08:00"
   },
   "CFE-0301-CSSAN-0030-2025": {
     "numero": "CFE-0301-CSSAN-0030-2025",
@@ -3018,19 +3018,19 @@
     "numero": "CFE-0201-ADSAN-0003-2025",
     "descripcion": "SERVICIO DE PODA SELECTIVA Y DESRAME EN LÍNEAS DE TRANSMISIÓN EN LA GRTBC",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:08.998201-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$1,511,800.00",
+    "ultima_lectura": "2025-11-05T14:19:41.941891-08:00"
   },
   "CFE-0201-ADSAN-0002-2025": {
     "numero": "CFE-0201-ADSAN-0002-2025",
     "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURA H CON POSTES DE MADERA DE LT LMA – 83150 – RZC POR EMERGENCIA",
     "fecha_publicacion": "30-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:09.050861-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$740,000.00",
+    "ultima_lectura": "2025-11-05T14:19:41.999030-08:00"
   },
   "CFE-0028-ADSAN-0001-2025": {
     "numero": "CFE-0028-ADSAN-0001-2025",
@@ -3045,10 +3045,10 @@
     "numero": "CFE-0614-CSSAN-0033-2025",
     "descripcion": "servicio de Transporte de personal de Operación, áreas técnicas y Administrativas de la CCI Mexicali Oriente y CC González Ortega",
     "fecha_publicacion": "30-10-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:09.153083-07:00"
+    "ultima_lectura": "2025-11-05T14:19:42.110425-08:00"
   },
   "CFE-0101-CSSAN-0038-2025": {
     "numero": "CFE-0101-CSSAN-0038-2025",
@@ -3063,10 +3063,10 @@
     "numero": "CFE-0201-ADSAN-0001-2025",
     "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURAS EN LT ENT-73170-MIN POR EMERGENCIA",
     "fecha_publicacion": "30-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:09.258574-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$2,678,880.00",
+    "ultima_lectura": "2025-11-05T14:19:42.216920-08:00"
   },
   "CFE-0101-ADSAN-0009-2025": {
     "numero": "CFE-0101-ADSAN-0009-2025",

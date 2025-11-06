@@ -2856,37 +2856,37 @@
     "numero": "CFE-0101-ADCON-0012-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T15:20:06.025541-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JORGE ALFREDO MARTINEZ GONZALEZ,",
+    "monto_adjudicado": "$390,081.25",
+    "ultima_lectura": "2025-11-06T11:19:43.811466-08:00"
   },
   "CFE-0101-ADCON-0011-2025": {
     "numero": "CFE-0101-ADCON-0011-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T15:20:06.086076-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
+    "monto_adjudicado": "$1,074,859.86",
+    "ultima_lectura": "2025-11-06T11:19:43.863520-08:00"
   },
   "CFE-0101-ADCON-0010-2025": {
     "numero": "CFE-0101-ADCON-0010-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T15:20:06.141959-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$413,246.34",
+    "ultima_lectura": "2025-11-06T11:19:43.917973-08:00"
   },
   "CFE-0101-ADCON-0009-2025": {
     "numero": "CFE-0101-ADCON-0009-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T15:20:06.199556-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRALTA CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$434,483.03",
+    "ultima_lectura": "2025-11-06T11:19:43.969674-08:00"
   },
   "CFE-0101-CSAAA-0009-2025": {
     "numero": "CFE-0101-CSAAA-0009-2025",
@@ -2928,46 +2928,46 @@
     "numero": "CFE-0101-ADCON-0017-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.189779-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$965,679.59",
+    "ultima_lectura": "2025-11-06T11:19:43.535822-08:00"
   },
   "CFE-0101-ADCON-0016-2025": {
     "numero": "CFE-0101-ADCON-0016-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.243647-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
+    "monto_adjudicado": "$1,304,814.55",
+    "ultima_lectura": "2025-11-06T11:19:43.591302-08:00"
   },
   "CFE-0101-ADCON-0015-2025": {
     "numero": "CFE-0101-ADCON-0015-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.296282-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA ELECTRICA KOTKOFF SA DE CV,",
+    "monto_adjudicado": "$311,270.96",
+    "ultima_lectura": "2025-11-06T11:19:43.643808-08:00"
   },
   "CFE-0101-ADCON-0014-2025": {
     "numero": "CFE-0101-ADCON-0014-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.348856-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABRAHAM ESTRADA VEGA,",
+    "monto_adjudicado": "$266,993.25",
+    "ultima_lectura": "2025-11-06T11:19:43.704014-08:00"
   },
   "CFE-0101-ADCON-0013-2025": {
     "numero": "CFE-0101-ADCON-0013-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.400298-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
+    "monto_adjudicado": "$707,564.44",
+    "ultima_lectura": "2025-11-06T11:19:43.758628-08:00"
   },
   "CFE-0101-ADAAN-0004-2025": {
     "numero": "CFE-0101-ADAAN-0004-2025",

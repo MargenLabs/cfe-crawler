@@ -2901,28 +2901,28 @@
     "numero": "CFE-0101-ADCON-0020-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.027720-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$215,868.29",
+    "ultima_lectura": "2025-11-06T18:24:53.785290-08:00"
   },
   "CFE-0101-ADCON-0019-2025": {
     "numero": "CFE-0101-ADCON-0019-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.082781-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MR ENERGY MANAGER S DE RL DE CV,",
+    "monto_adjudicado": "$231,750.51",
+    "ultima_lectura": "2025-11-06T18:24:53.837107-08:00"
   },
   "CFE-0101-ADCON-0018-2025": {
     "numero": "CFE-0101-ADCON-0018-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en el mes de Septiembre en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T19:19:09.135066-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABRAHAM ESTRADA VEGA,",
+    "monto_adjudicado": "$146,348.56",
+    "ultima_lectura": "2025-11-06T18:24:53.907669-08:00"
   },
   "CFE-0101-ADCON-0017-2025": {
     "numero": "CFE-0101-ADCON-0017-2025",
@@ -3009,10 +3009,10 @@
     "numero": "CFE-0101-ADCON-0021-2025",
     "descripcion": "“Trabajos de restablecimiento del servicio público de energía eléctrica, por presencia de tormenta en Zona Mexicali”, en Mexicali, B.C.",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:08.943294-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,",
+    "monto_adjudicado": "$588,824.53",
+    "ultima_lectura": "2025-11-06T18:24:53.355726-08:00"
   },
   "CFE-0201-ADSAN-0003-2025": {
     "numero": "CFE-0201-ADSAN-0003-2025",

@@ -2784,10 +2784,10 @@
     "numero": "CFE-0101-CSSAN-0033-2025",
     "descripcion": "SUMINISTRO DE AGUA Y HIELO",
     "fecha_publicacion": "20-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-20T15:19:21.864167-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CRISTINA LUNA AVILA,",
+    "monto_adjudicado": "$914,792.00",
+    "ultima_lectura": "2025-11-10T14:19:08.950578-08:00"
   },
   "CFE-0101-CSAAN-0024-2025": {
     "numero": "CFE-0101-CSAAN-0024-2025",
@@ -2802,10 +2802,10 @@
     "numero": "CFE-0101-CSAAN-0023-2025",
     "descripcion": "PLANTA GENERADORA ELECTRICA PARTIDAS DESIERTAS",
     "fecha_publicacion": "21-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-21T09:29:41.643173-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IGSA SA DE CV,",
+    "monto_adjudicado": "$6,873,115.20",
+    "ultima_lectura": "2025-11-10T14:19:08.844194-08:00"
   },
   "CFE-0101-CSSAN-0036-2025": {
     "numero": "CFE-0101-CSSAN-0036-2025",
@@ -3072,10 +3072,10 @@
     "numero": "CFE-0101-ADSAN-0009-2025",
     "descripcion": "FLETES POR T.T. LORENA ZONA CONSTITUCION",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T12:18:04.229613-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
+    "monto_adjudicado": "$200,094.06",
+    "ultima_lectura": "2025-11-10T14:19:07.213946-08:00"
   },
   "CFE-0201-ADSAN-0005-2025": {
     "numero": "CFE-0201-ADSAN-0005-2025",

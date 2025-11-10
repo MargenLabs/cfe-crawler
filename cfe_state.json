@@ -2775,10 +2775,10 @@
     "numero": "CFE-0101-CSAAA-0012-2025",
     "descripcion": "ARTICULOS DE LIMPIEZA",
     "fecha_publicacion": "17-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-17T15:17:09.343034-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BL DISEÑO Y MANTENIMIENTO EMPRESARIAL SA DE CV,COMERCIALIZADORA PROAR DEL PACIFICO S DE RL DE CV,MAKORP SA DE CV,MARIA CECILIA CUENCA CALPE,PROVEEDORA DEL ESTADO SA DE CV,SEGURIDAD PRIVADA ADECO DE OCCIDENTE SA DE CV,SERVNOR SA DE CV,",
+    "monto_adjudicado": "$2,995,561.08",
+    "ultima_lectura": "2025-11-10T11:20:06.669530-08:00"
   },
   "CFE-0101-CSSAN-0033-2025": {
     "numero": "CFE-0101-CSSAN-0033-2025",
@@ -3036,10 +3036,10 @@
     "numero": "CFE-0028-ADSAN-0001-2025",
     "descripcion": "SERVICIOS JURÍDICOS PARA PARA COMPARECER A JUICIO DENTRO DEL CASO 1 :24- CV-09739-LAP EN EL TRIBUNAL DEL DISTRITO SUR DE NUEVA YORK, EN LOS ESTADOS UNIDOS DE AMÉRICA",
     "fecha_publicacion": "30-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:09.101563-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GARCIA ALCOCER ABOGADOS SC,",
+    "monto_adjudicado": "$3,165,961.00",
+    "ultima_lectura": "2025-11-10T11:20:05.193028-08:00"
   },
   "CFE-0614-CSSAN-0033-2025": {
     "numero": "CFE-0614-CSSAN-0033-2025",

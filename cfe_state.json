@@ -2685,10 +2685,10 @@
     "numero": "CFE-0604-CSSAN-0038-2025",
     "descripcion": "SERVICIO DE AGUA PURIFICADA PARA EL CONSUMO DE LOS TRABAJADORES DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ- SEGUNDO EVENTO",
     "fecha_publicacion": "14-10-2025",
-    "estado": "Adjudicado",
-    "adjudicado_a": "COMPAÑIA EMBOTELLADORA DEL FUERTE S DE RL DE CV,",
-    "monto_adjudicado": "$112,000.00",
-    "ultima_lectura": "2025-10-23T19:17:16.918017-07:00"
+    "estado": "Cancelado",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-11-11T11:19:45.150234-08:00"
   },
   "CFE-0604-CSSAN-0039-2025": {
     "numero": "CFE-0604-CSSAN-0039-2025",

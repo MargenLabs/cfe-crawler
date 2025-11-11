@@ -2991,10 +2991,10 @@
     "numero": "CFE-0301-CSSAN-0030-2025",
     "descripcion": "Servicio de mudanza Zona Mexicali",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:08.837846-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INARK CONSTRUCTORA S DE RL DE CV,",
+    "monto_adjudicado": "$203,071.02",
+    "ultima_lectura": "2025-11-10T19:43:07.968323-08:00"
   },
   "CFE-0101-ADAAN-0005-2025": {
     "numero": "CFE-0101-ADAAN-0005-2025",

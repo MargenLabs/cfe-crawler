@@ -2811,10 +2811,10 @@
     "numero": "CFE-0101-CSSAN-0036-2025",
     "descripcion": "SERVICIO DE FLETES 2025",
     "fecha_publicacion": "21-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-21T15:18:40.850708-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
+    "monto_adjudicado": "$2,500,000.00",
+    "ultima_lectura": "2025-11-12T14:19:16.981100-08:00"
   },
   "CFE-0101-ADSAN-0007-2025": {
     "numero": "CFE-0101-ADSAN-0007-2025",
@@ -2838,10 +2838,10 @@
     "numero": "CFE-0101-CSAAA-0014-2025",
     "descripcion": "CONSUMIBLES DE COMPUTO PARTIDAS DESIERTAS 2025",
     "fecha_publicacion": "23-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-23T19:17:16.005884-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPUPROVEEDORES SA DE CV,ENERBATERY SA DE CV,SUMIPAC DISTRIBUCION SA DE CV,",
+    "monto_adjudicado": "$220,913.00",
+    "ultima_lectura": "2025-11-12T14:19:16.875423-08:00"
   },
   "CFE-0101-CSSAN-0037-2025": {
     "numero": "CFE-0101-CSSAN-0037-2025",

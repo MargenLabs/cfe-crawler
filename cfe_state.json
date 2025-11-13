@@ -2892,10 +2892,10 @@
     "numero": "CFE-0101-CSAAA-0009-2025",
     "descripcion": "PARTICULARIDADES 2025",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T15:20:06.256686-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FENIGIA ZEFER SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,MARIO RAMON DIAZ DE LA VEGA HERNANDEZ,",
+    "monto_adjudicado": "$4,185,946.16",
+    "ultima_lectura": "2025-11-13T14:19:30.414264-08:00"
   },
   "CFE-0101-ADCON-0020-2025": {
     "numero": "CFE-0101-ADCON-0020-2025",

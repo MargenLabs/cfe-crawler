@@ -2829,10 +2829,10 @@
     "numero": "CFE-0101-CSAAN-0025-2025",
     "descripcion": "EQUIPO DE PROTECCIÓN PERSONAL BÁSICO",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-23T19:17:15.942680-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DIANA GUTIERREZ CASAÑAS,FERRELEX DE MEXICO SA DE CV,GOLDIE AUTHENTIC 2695 SAS DE CV,NIKSERVI SA DE CV,PLASTICOS DEL GOLFO SUR SA DE CV,RAYHSA VALLEJO SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$2,000,941.98",
+    "ultima_lectura": "2025-11-12T18:29:04.168484-08:00"
   },
   "CFE-0101-CSAAA-0014-2025": {
     "numero": "CFE-0101-CSAAA-0014-2025",
@@ -2847,10 +2847,10 @@
     "numero": "CFE-0101-CSSAN-0037-2025",
     "descripcion": "LIMPIEZA RESTO DEL AÑO 2025",
     "fecha_publicacion": "24-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-24T12:21:00.285897-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORA DE SERVICIOS HIDALGOLOZ SA DE CV,",
+    "monto_adjudicado": "$1,286,360.00",
+    "ultima_lectura": "2025-11-12T18:29:04.111780-08:00"
   },
   "CFE-0101-ADCON-0012-2025": {
     "numero": "CFE-0101-ADCON-0012-2025",

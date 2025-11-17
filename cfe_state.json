@@ -3090,10 +3090,10 @@
     "numero": "CFE-0101-CSSAN-0040-2025",
     "descripcion": "SERVICIO DE MOVIMIENTO DE TRANSFORMADORES DE POTENCIA ZONA TIJUANA",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T15:19:02.523108-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERMANTT SA DE CV,",
+    "monto_adjudicado": "$2,320,000.00",
+    "ultima_lectura": "2025-11-17T11:19:22.241988-08:00"
   },
   "CFE-0101-ADSAN-0008-2025": {
     "numero": "CFE-0101-ADSAN-0008-2025",
@@ -3126,10 +3126,10 @@
     "numero": "CFE-0101-CSAAA-0015-2025",
     "descripcion": "ACCESORIOS SUBTERRANEOS",
     "fecha_publicacion": "01-11-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T19:28:40.495868-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RTE DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$768,275.83",
+    "ultima_lectura": "2025-11-17T11:19:21.949530-08:00"
   },
   "CFE-0201-ADSAN-0006-2025": {
     "numero": "CFE-0201-ADSAN-0006-2025",
@@ -3157,5 +3157,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-10-31T19:28:40.685067-07:00"
+  },
+  "CFE-0604-ADABA-0001-2025": {
+    "numero": "CFE-0604-ADABA-0001-2025",
+    "descripcion": "SERVICIO DE ARRENDAMIENTO DE EQUIPO DE TENSIÓN HIDRAULICA CON ASISTENCIA Y SOPORTE TECNICO PARA AFLOJAR Y APRETAR TORNILLERIA DE CARCASA TURBINA DE GAS MARCA SIEMENS MODELO 501 FD3 UNI 10",
+    "fecha_publicacion": "15-11-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-11-17T11:19:21.780640-08:00"
+  },
+  "CFE-0604-ADSAN-0004-2025": {
+    "numero": "CFE-0604-ADSAN-0004-2025",
+    "descripcion": "SERVICIO DE ASISTENCIA TÉCNICA DE CAMPO (TFA) PARA EL MANTTO DE PARTES CALIENTES (HOT GAS PATH) TE TURBINA DE GAS MARCA SIEMENS, MODELO W501FD3 DE UNI 10 DE LA CCC PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "14-11-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-11-17T11:19:21.837194-08:00"
   }
 }

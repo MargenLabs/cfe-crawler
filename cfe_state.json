@@ -3054,10 +3054,10 @@
     "numero": "CFE-0101-CSSAN-0038-2025",
     "descripcion": "SERVICIO DE ELABORACIÓN E IMPRESIÓN DE FORMATOS 2025",
     "fecha_publicacion": "30-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-30T19:25:09.205086-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERVICIOS Y FORMAS GRAFICAS SA DE CV,",
+    "monto_adjudicado": "$1,721,802.44",
+    "ultima_lectura": "2025-11-18T11:19:59.489542-08:00"
   },
   "CFE-0201-ADSAN-0001-2025": {
     "numero": "CFE-0201-ADSAN-0001-2025",
@@ -3144,10 +3144,10 @@
     "numero": "CFE-0101-CSSAN-0039-2025",
     "descripcion": "REUBICACION DE TRANSFORMADORES DE POTENCIA BCA",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T19:28:40.616888-07:00"
+    "ultima_lectura": "2025-11-18T11:19:58.660203-08:00"
   },
   "CFE-0101-CACON-0040-2025": {
     "numero": "CFE-0101-CACON-0040-2025",

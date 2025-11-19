@@ -3153,27 +3153,27 @@
     "numero": "CFE-0101-CACON-0040-2025",
     "descripcion": "Remodelación de baños de Liniero y Edificio Técnico del Centro de Distribución Zona La Paz",
     "fecha_publicacion": "31-10-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-10-31T19:28:40.685067-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCO COTA OLACHEA,",
+    "monto_adjudicado": "$1,407,131.40",
+    "ultima_lectura": "2025-11-18T19:41:30.250576-08:00"
   },
   "CFE-0604-ADABA-0001-2025": {
     "numero": "CFE-0604-ADABA-0001-2025",
     "descripcion": "SERVICIO DE ARRENDAMIENTO DE EQUIPO DE TENSIÓN HIDRAULICA CON ASISTENCIA Y SOPORTE TECNICO PARA AFLOJAR Y APRETAR TORNILLERIA DE CARCASA TURBINA DE GAS MARCA SIEMENS MODELO 501 FD3 UNI 10",
     "fecha_publicacion": "15-11-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-11-17T11:19:21.780640-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
+    "monto_adjudicado": "$2,211,120.00",
+    "ultima_lectura": "2025-11-18T19:41:29.909179-08:00"
   },
   "CFE-0604-ADSAN-0004-2025": {
     "numero": "CFE-0604-ADSAN-0004-2025",
     "descripcion": "SERVICIO DE ASISTENCIA TÉCNICA DE CAMPO (TFA) PARA EL MANTTO DE PARTES CALIENTES (HOT GAS PATH) TE TURBINA DE GAS MARCA SIEMENS, MODELO W501FD3 DE UNI 10 DE LA CCC PRESIDENTE JUÁREZ",
     "fecha_publicacion": "14-11-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-11-17T11:19:21.837194-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
+    "monto_adjudicado": "$1,947,107.00",
+    "ultima_lectura": "2025-11-18T19:41:29.966708-08:00"
   }
 }

@@ -3184,5 +3184,14 @@
     "adjudicado_a": "SAME POTENCIA S DE RL DE CV,",
     "monto_adjudicado": "$711,298.19",
     "ultima_lectura": "2025-11-24T18:27:49.187204-08:00"
+  },
+  "CFE-0101-ADSAN-0010-2025": {
+    "numero": "CFE-0101-ADSAN-0010-2025",
+    "descripcion": "MANTENIMIENTO POR CASO FORTUITO CONSISTENTE EN SERVICIOS EN GENERAL PARA LA CONFIABILIDAD DEL SERVICIO ELECTRICO EN ZONA TIJUANA",
+    "fecha_publicacion": "26-11-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-11-26T14:19:07.194155-08:00"
   }
 }

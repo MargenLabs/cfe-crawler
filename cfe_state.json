@@ -3193,5 +3193,14 @@
     "adjudicado_a": "EDGAR ADRIAN MEDINA ZENDEJAS,FRALTA CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,500,000.00",
     "ultima_lectura": "2025-12-04T18:30:38.496976-08:00"
+  },
+  "CFE-0101-ADCON-0022-2025": {
+    "numero": "CFE-0101-ADCON-0022-2025",
+    "descripcion": "TRABAJOS DE RESTABLECIMIENTO DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA, POR DAÑOS OCASIONADOS POR LA PRESENCIA DEL FRENTE FRIO NO. 14 EN ZONA ENSENADA, EN ENSENADA, B.C.",
+    "fecha_publicacion": "11-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-11T11:24:20.491962-08:00"
   }
 }

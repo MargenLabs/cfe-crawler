@@ -3220,5 +3220,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-12-18T18:46:53.722925-08:00"
+  },
+  "CFE-0201-CSAAN-0013-2025": {
+    "numero": "CFE-0201-CSAAN-0013-2025",
+    "descripcion": "ADQUISICIÓN DE TOALLAS Y JABONES PARA ZONAS DE TRANSMISIÓN DE LA GRTBC",
+    "fecha_publicacion": "19-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-19T14:20:31.896880-08:00"
+  },
+  "CFE-0201-CSAAN-0010-2025": {
+    "numero": "CFE-0201-CSAAN-0010-2025",
+    "descripcion": "ADQUISICION DE CHAMARRAS PARA PERSONAL DE CAMPO",
+    "fecha_publicacion": "19-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-19T14:20:31.959487-08:00"
+  },
+  "CFE-0201-CSAAN-0012-2025": {
+    "numero": "CFE-0201-CSAAN-0012-2025",
+    "descripcion": "Adquisición de Botas Dieléctricas para personal de campo",
+    "fecha_publicacion": "19-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-19T14:20:32.014690-08:00"
   }
 }

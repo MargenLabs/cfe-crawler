@@ -3198,10 +3198,10 @@
     "numero": "CFE-0101-ADCON-0022-2025",
     "descripcion": "TRABAJOS DE RESTABLECIMIENTO DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA, POR DAÑOS OCASIONADOS POR LA PRESENCIA DEL FRENTE FRIO NO. 14 EN ZONA ENSENADA, EN ENSENADA, B.C.",
     "fecha_publicacion": "11-12-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-12-11T11:24:20.491962-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INGENIERIA ROJO S DE RL DE CV,",
+    "monto_adjudicado": "$389,852.30",
+    "ultima_lectura": "2025-12-19T18:27:00.326617-08:00"
   },
   "CFE-0201-CSSAN-0010-2025": {
     "numero": "CFE-0201-CSSAN-0010-2025",
@@ -3247,5 +3247,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-12-19T14:20:32.014690-08:00"
+  },
+  "CFE-0201-CSAAA-0005-2025": {
+    "numero": "CFE-0201-CSAAA-0005-2025",
+    "descripcion": "Adquisición de bota de liniero para la Gerencia Regional de Transmisión",
+    "fecha_publicacion": "20-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-19T18:26:59.945696-08:00"
+  },
+  "CFE-0614-CSSAN-0034-2025": {
+    "numero": "CFE-0614-CSSAN-0034-2025",
+    "descripcion": "Servicio de manejo de residuos peligrosos y residuos de manejo especial de la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "19-12-2025",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2025-12-19T18:27:00.001414-08:00"
   }
 }

@@ -3283,5 +3283,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2025-12-22T18:48:27.847990-08:00"
+  },
+  "CFE-0101-CACON-0001-2026": {
+    "numero": "CFE-0101-CACON-0001-2026",
+    "descripcion": "Construcción de obras de media y baja tensión en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "09-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-09T18:46:07.735326-08:00"
   }
 }

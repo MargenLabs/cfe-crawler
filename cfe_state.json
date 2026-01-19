@@ -3243,10 +3243,10 @@
     "numero": "CFE-0201-CSAAN-0012-2025",
     "descripcion": "Adquisición de Botas Dieléctricas para personal de campo",
     "fecha_publicacion": "19-12-2025",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-12-19T14:20:32.014690-08:00"
+    "ultima_lectura": "2026-01-19T11:23:30.240934-08:00"
   },
   "CFE-0201-CSAAA-0005-2025": {
     "numero": "CFE-0201-CSAAA-0005-2025",
@@ -3301,5 +3301,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-15T14:21:39.942176-08:00"
+  },
+  "CFE-0614-CSAAN-0001-2026": {
+    "numero": "CFE-0614-CSAAN-0001-2026",
+    "descripcion": "Adquisición de chamarra de loneta de trabajo, para el personal de campo de la Central Geotermoeléctrica Cerro Prieto y personal de la Central Turbogas Mexicali",
+    "fecha_publicacion": "16-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-19T11:23:29.601256-08:00"
+  },
+  "CFE-0101-CASON-0001-2026": {
+    "numero": "CFE-0101-CASON-0001-2026",
+    "descripcion": "Elaboración de estudio de mecánica de suelos y escaneo por georradar para edificio de Oficinas Divisionales de CFE, en Mexicali, B.C.",
+    "fecha_publicacion": "16-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-19T11:23:29.658414-08:00"
   }
 }

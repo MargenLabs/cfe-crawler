@@ -3270,10 +3270,10 @@
     "numero": "CFE-0604-CSAAN-0018-2025",
     "descripcion": "ADQUISICION DE EQUIPO DE PROTECCION PERSONAL DE LA C.T. PRESIDENTE JUÁREZ 2025",
     "fecha_publicacion": "22-12-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-12-22T14:20:39.392611-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CADECO SA DE CV,CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,CORPORATIVO INDUSTRIAL GSEGOLD SA DE CV,INOX VER SA DE CV,RAYHSA VALLEJO SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$1,866,206.00",
+    "ultima_lectura": "2026-01-20T18:54:04.838549-08:00"
   },
   "CFE-0604-CSSAN-0040-2025": {
     "numero": "CFE-0604-CSSAN-0040-2025",
@@ -3337,5 +3337,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-20T12:15:50.145657-08:00"
+  },
+  "CFE-0101-CACON-0002-2026": {
+    "numero": "CFE-0101-CACON-0002-2026",
+    "descripcion": "Trabajos de habilitación de campo de entrenamiento y capacitación para linieros de Zona San Luis, en San Luis Rio Colorado, Sonora",
+    "fecha_publicacion": "21-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-20T18:54:04.260966-08:00"
+  },
+  "CFE-0604-CSAAA-0001-2026": {
+    "numero": "CFE-0604-CSAAA-0001-2026",
+    "descripcion": "ADQUISICIÓN DE PLACAS PARA INTERCAMBIADORES DE CALOR DE CIRCUITO CERRADO DE UNIDADES DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "20-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-20T18:54:04.321826-08:00"
+  },
+  "CFE-0614-CSAAA-0001-2026": {
+    "numero": "CFE-0614-CSAAA-0001-2026",
+    "descripcion": "Adquisición de pantallas para monitoreo del sistema de alarmas de la CG Cerro Prieto",
+    "fecha_publicacion": "20-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-20T18:54:04.377739-08:00"
   }
 }

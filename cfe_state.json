@@ -3373,5 +3373,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-21T18:59:23.120094-08:00"
+  },
+  "CFE-0051-CSSAN-0003-2026": {
+    "numero": "CFE-0051-CSSAN-0003-2026",
+    "descripcion": "CALIBRACIÓN Y MANTENIMIENTO DE LOS EQUIPOS DE MONITOREO DE H2S DEL C.G.C.P.",
+    "fecha_publicacion": "22-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-22T11:29:21.917803-08:00"
   }
 }

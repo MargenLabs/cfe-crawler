@@ -3382,5 +3382,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-22T11:29:21.917803-08:00"
+  },
+  "CFE-0051-CSSAN-0005-2026": {
+    "numero": "CFE-0051-CSSAN-0005-2026",
+    "descripcion": "MONITOREO PARA LA CONSERVACIÓN, PROTECCIÓN DE LA FAUNA TERRESTRE Y ACUÁTICA (AVES ACUÁTICAS Y SEMIACUÁTICAS) EN EL CAMPO GEOTÉRMICO CERRO PRIETO, MEXICALI, B.C.",
+    "fecha_publicacion": "23-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-23T11:28:23.646873-08:00"
+  },
+  "CFE-0051-CSSAN-0004-2026": {
+    "numero": "CFE-0051-CSSAN-0004-2026",
+    "descripcion": "MONITOREO POBLACIONAL DEL PEZ CACHORRITO DEL DESIERTO (CYPRINODON MACULARIUS) EN EL CAMPO GEOTÉRMICO CERRO PRIETO, MEXICALI, B.C.",
+    "fecha_publicacion": "23-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-23T11:28:23.710404-08:00"
   }
 }

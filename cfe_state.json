@@ -3216,10 +3216,10 @@
     "numero": "CFE-0201-CSAAN-0011-2025",
     "descripcion": "ADQUISICIÓN DE ROPA DE TRABAJO PARA PERSONAL DE CAMPO",
     "fecha_publicacion": "19-12-2025",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2025-12-18T18:46:53.722925-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRENCH CHIC SA DE CV,",
+    "monto_adjudicado": "$5,543,764.00",
+    "ultima_lectura": "2026-01-23T18:48:50.192042-08:00"
   },
   "CFE-0201-CSAAN-0013-2025": {
     "numero": "CFE-0201-CSAAN-0013-2025",
@@ -3288,10 +3288,10 @@
     "numero": "CFE-0101-CACON-0001-2026",
     "descripcion": "Construcción de obras de media y baja tensión en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "09-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-09T18:46:07.735326-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EDISON CONSTRUCTORA DE BAJA CALIFORNIA S DE RL DE CV,",
+    "monto_adjudicado": "$4,194,932.50",
+    "ultima_lectura": "2026-01-23T18:48:49.689518-08:00"
   },
   "CFE-0051-CSSAN-0001-2026": {
     "numero": "CFE-0051-CSSAN-0001-2026",
@@ -3400,5 +3400,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-23T11:28:23.710404-08:00"
+  },
+  "CFE-0614-CSAAA-0002-2026": {
+    "numero": "CFE-0614-CSAAA-0002-2026",
+    "descripcion": "Adquisición de bombas centrifugas autocebantes tragasólidos para cárcamo de pozo caliente para las unidades 110 MW de la C.G. Cerro Prieto",
+    "fecha_publicacion": "23-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-23T18:48:48.966162-08:00"
   }
 }

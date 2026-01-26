@@ -3324,10 +3324,10 @@
     "numero": "CFE-0604-CSSAN-0001-2026",
     "descripcion": "SERVICIO DE ANÁLISIS FISICOQUÍMICOS DE LAS DESCARGAS DE AGUA RESIDUAL Y ENTRADA DE AGUA DE MAR DE LA C.T. PRESIDENTE JUÁREZ 2026",
     "fecha_publicacion": "20-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-20T12:15:50.079886-08:00"
+    "ultima_lectura": "2026-01-26T11:28:07.273780-08:00"
   },
   "CFE-0051-CSSAN-0002-2026": {
     "numero": "CFE-0051-CSSAN-0002-2026",
@@ -3409,5 +3409,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-23T18:48:48.966162-08:00"
+  },
+  "CFE-0051-CSAAN-0002-2026": {
+    "numero": "CFE-0051-CSAAN-0002-2026",
+    "descripcion": "DIÉSEL INDUSTRIAL BAJO EN AZUFRE",
+    "fecha_publicacion": "26-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-26T11:28:06.710338-08:00"
+  },
+  "CFE-0051-CSAAN-0001-2026": {
+    "numero": "CFE-0051-CSAAN-0001-2026",
+    "descripcion": "CALZADO DE TRABAJO",
+    "fecha_publicacion": "26-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-26T11:28:06.769167-08:00"
   }
 }

@@ -3427,5 +3427,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-26T11:28:06.769167-08:00"
+  },
+  "CFE-0101-CASON-0002-2026": {
+    "numero": "CFE-0101-CASON-0002-2026",
+    "descripcion": "Elaboración de estudio de necesidades de energía eléctrica en localidades de los Estados de Baja California, para la integración de proyectos de electrificación pertenecientes a Zona Ensenada",
+    "fecha_publicacion": "27-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-26T19:00:12.864267-08:00"
+  },
+  "CFE-0101-CSSAN-0001-2026": {
+    "numero": "CFE-0101-CSSAN-0001-2026",
+    "descripcion": "MANTENIMIENTO A TRANSFORMADORES DE POTENCIA 2026",
+    "fecha_publicacion": "26-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-26T19:00:12.919954-08:00"
   }
 }

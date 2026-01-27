@@ -3454,5 +3454,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-27T11:31:21.215078-08:00"
+  },
+  "CFE-0614-CSAAN-0002-2026": {
+    "numero": "CFE-0614-CSAAN-0002-2026",
+    "descripcion": "Adquisición de filtros de succión y separador de condensado para el sistema de extracción de gases de las unidades 6 y 9 de 110 MW de la CG Cerro Prieto",
+    "fecha_publicacion": "27-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-27T14:23:04.353755-08:00"
   }
 }

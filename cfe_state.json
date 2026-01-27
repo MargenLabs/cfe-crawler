@@ -3445,5 +3445,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-26T19:00:12.919954-08:00"
+  },
+  "CFE-0101-CSSAN-0002-2026": {
+    "numero": "CFE-0101-CSSAN-0002-2026",
+    "descripcion": "REPARACIÓN Y MANTENIMIENTO DE TRANSFORMADORES DE DISTRIBUCIÓN 2026",
+    "fecha_publicacion": "27-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-27T11:31:21.215078-08:00"
   }
 }

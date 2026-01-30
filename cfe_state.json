@@ -3481,5 +3481,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-28T19:19:30.160769-08:00"
+  },
+  "CFE-0614-CSAAA-0003-2026": {
+    "numero": "CFE-0614-CSAAA-0003-2026",
+    "descripcion": "Adquisición de balanceadora horizontal de banda con medición y calibración por computadora para la C.G Cerro Prieto",
+    "fecha_publicacion": "29-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-29T19:21:33.848892-08:00"
   }
 }

@@ -3499,5 +3499,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-01-30T11:36:37.630926-08:00"
+  },
+  "CFE-0614-ADSAN-0002-2026": {
+    "numero": "CFE-0614-ADSAN-0002-2026",
+    "descripcion": "Servicio de reparación de transformador principal unidad 10 de la CG Cerro Prieto",
+    "fecha_publicacion": "30-01-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-01-30T19:13:24.925754-08:00"
   }
 }

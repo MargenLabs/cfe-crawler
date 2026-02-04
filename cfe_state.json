@@ -3369,10 +3369,10 @@
     "numero": "CFE-0614-CSSAN-0001-2026",
     "descripcion": "Servicio de manejo de residuos peligrosos y residuos de manejo especial de la Central Geotermoeléctrica Cerro Prieto- segundo evento-",
     "fecha_publicacion": "21-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-21T18:59:23.120094-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SBR1801235B7/SEC070502TK4 - SUAMMEX BAJA RECYCLING SA DE CV,",
+    "monto_adjudicado": "$2,501,644.50",
+    "ultima_lectura": "2026-02-03T19:26:11.167808-08:00"
   },
   "CFE-0051-CSSAN-0003-2026": {
     "numero": "CFE-0051-CSSAN-0003-2026",
@@ -3508,5 +3508,14 @@
     "adjudicado_a": "TRANSFORMADORES MONTERREY SA DE CV,",
     "monto_adjudicado": "$125,000.00",
     "ultima_lectura": "2026-02-03T14:29:35.144165-08:00"
+  },
+  "CFE-0604-CSAAN-0001-2026": {
+    "numero": "CFE-0604-CSAAN-0001-2026",
+    "descripcion": "ADQUISICIÓN DE SELLOS MECÁNICOS,COPLES,BALEROS Y RETENES PARA EVAPORADORES DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "03-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-03T19:26:09.963885-08:00"
   }
 }

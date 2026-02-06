@@ -3315,10 +3315,10 @@
     "numero": "CFE-0101-CASON-0001-2026",
     "descripcion": "Elaboración de estudio de mecánica de suelos y escaneo por georradar para edificio de Oficinas Divisionales de CFE, en Mexicali, B.C.",
     "fecha_publicacion": "16-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-19T11:23:29.658414-08:00"
+    "ultima_lectura": "2026-02-06T11:39:46.228303-08:00"
   },
   "CFE-0604-CSSAN-0001-2026": {
     "numero": "CFE-0604-CSSAN-0001-2026",
@@ -3342,10 +3342,10 @@
     "numero": "CFE-0101-CACON-0002-2026",
     "descripcion": "Trabajos de habilitación de campo de entrenamiento y capacitación para linieros de Zona San Luis, en San Luis Rio Colorado, Sonora",
     "fecha_publicacion": "21-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-20T18:54:04.260966-08:00"
+    "ultima_lectura": "2026-02-06T11:39:45.880143-08:00"
   },
   "CFE-0604-CSAAA-0001-2026": {
     "numero": "CFE-0604-CSAAA-0001-2026",
@@ -3405,10 +3405,10 @@
     "numero": "CFE-0614-CSAAA-0002-2026",
     "descripcion": "Adquisición de bombas centrifugas autocebantes tragasólidos para cárcamo de pozo caliente para las unidades 110 MW de la C.G. Cerro Prieto",
     "fecha_publicacion": "23-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-23T18:48:48.966162-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$983,569.31",
+    "ultima_lectura": "2026-02-06T11:39:45.612194-08:00"
   },
   "CFE-0051-CSAAN-0002-2026": {
     "numero": "CFE-0051-CSAAN-0002-2026",
@@ -3486,10 +3486,10 @@
     "numero": "CFE-0614-CSAAA-0003-2026",
     "descripcion": "Adquisición de balanceadora horizontal de banda con medición y calibración por computadora para la C.G Cerro Prieto",
     "fecha_publicacion": "29-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-29T19:21:33.848892-08:00"
+    "ultima_lectura": "2026-02-06T11:39:45.102851-08:00"
   },
   "CFE-0051-CSSAN-0006-2026": {
     "numero": "CFE-0051-CSSAN-0006-2026",
@@ -3517,5 +3517,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-03T19:26:09.963885-08:00"
+  },
+  "CFE-0051-CSSAN-0007-2026": {
+    "numero": "CFE-0051-CSSAN-0007-2026",
+    "descripcion": "REPARACIÓN Y MANTENIMIENTO A SISTEMA HIDRÁULICO DE BRAZO GRÚA TIPO HIAB Y CARROCERÍA DE CAMIÓN INTERNATIONAL 4700 MODELO 1997",
+    "fecha_publicacion": "05-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-06T11:39:44.710041-08:00"
+  },
+  "CFE-0101-CACON-0003-2026": {
+    "numero": "CFE-0101-CACON-0003-2026",
+    "descripcion": "Trabajos de habilitación de campo de entrenamiento y capacitación para linieros de Zona San Luis, en San Luis Rio Colorado, Sonora",
+    "fecha_publicacion": "05-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-06T11:39:44.767332-08:00"
+  },
+  "CFE-0614-CSSAN-0002-2026": {
+    "numero": "CFE-0614-CSSAN-0002-2026",
+    "descripcion": "Servicio de agua potable de uso industrial para la central combustión interna Mexicali Oriente",
+    "fecha_publicacion": "04-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-06T11:39:44.821711-08:00"
+  },
+  "CFE-0101-CSSAN-0004-2026": {
+    "numero": "CFE-0101-CSSAN-0004-2026",
+    "descripcion": "PODA DE ÁRBOLES EN MEDIA Y BAJA TENSIÓN 2026",
+    "fecha_publicacion": "04-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-06T11:39:44.875642-08:00"
   }
 }

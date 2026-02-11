@@ -3333,10 +3333,10 @@
     "numero": "CFE-0051-CSSAN-0002-2026",
     "descripcion": "CONTROL QUÍMICO PARA PLANTAS DE TRATAMIENTO DE AGUA RESIDUAL DEL C.G.C.P.",
     "fecha_publicacion": "20-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-20T12:15:50.145657-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LABORATORIOS ABC QUIMICA INVESTIGACION Y ANALISIS SA DE CV,",
+    "monto_adjudicado": "$2,234,296.12",
+    "ultima_lectura": "2026-02-11T14:29:22.392642-08:00"
   },
   "CFE-0101-CACON-0002-2026": {
     "numero": "CFE-0101-CACON-0002-2026",
@@ -3562,5 +3562,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-11T09:05:47.356006-08:00"
+  },
+  "CFE-0614-CSSAN-0003-2026": {
+    "numero": "CFE-0614-CSSAN-0003-2026",
+    "descripcion": "Servicio de desazolve de fosas sépticas de la C.C.I. Mexicali Oriente",
+    "fecha_publicacion": "11-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-11T14:29:20.852498-08:00"
   }
 }

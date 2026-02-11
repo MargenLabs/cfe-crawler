@@ -3553,5 +3553,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-06T11:39:44.875642-08:00"
+  },
+  "CFE-0051-CSAAN-0003-2026": {
+    "numero": "CFE-0051-CSAAN-0003-2026",
+    "descripcion": "EMPAQUES",
+    "fecha_publicacion": "10-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-11T09:05:47.356006-08:00"
   }
 }

@@ -3571,5 +3571,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-11T14:29:20.852498-08:00"
+  },
+  "CFE-0101-CSSAN-0005-2026": {
+    "numero": "CFE-0101-CSSAN-0005-2026",
+    "descripcion": "LIMPIEZA Y DESHIERBE DE SUBESTACIONES 2026",
+    "fecha_publicacion": "12-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-11T19:37:03.738722-08:00"
+  },
+  "CFE-0614-CSAAA-0005-2026": {
+    "numero": "CFE-0614-CSAAA-0005-2026",
+    "descripcion": "Adquisición de reductores de velocidad 1800 RPM 300HP 2.65/1 enfriado por agua para la C.G. Cerro Prieto",
+    "fecha_publicacion": "11-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-11T19:37:03.802739-08:00"
+  },
+  "CFE-0614-CSAAA-0004-2026": {
+    "numero": "CFE-0614-CSAAA-0004-2026",
+    "descripcion": "Adquisición de soplador de aire rotatorio para fosas para la CG Cerro Prieto",
+    "fecha_publicacion": "11-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-11T19:37:03.860516-08:00"
   }
 }

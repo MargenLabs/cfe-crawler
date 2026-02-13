@@ -3396,10 +3396,10 @@
     "numero": "CFE-0051-CSSAN-0004-2026",
     "descripcion": "MONITOREO POBLACIONAL DEL PEZ CACHORRITO DEL DESIERTO (CYPRINODON MACULARIUS) EN EL CAMPO GEOTÉRMICO CERRO PRIETO, MEXICALI, B.C.",
     "fecha_publicacion": "23-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-23T11:28:23.710404-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GORGONIO RUIZ CAMPOS,",
+    "monto_adjudicado": "$500,000.00",
+    "ultima_lectura": "2026-02-13T14:33:09.648457-08:00"
   },
   "CFE-0614-CSAAA-0002-2026": {
     "numero": "CFE-0614-CSAAA-0002-2026",
@@ -3616,5 +3616,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-13T11:44:55.640962-08:00"
+  },
+  "CFE-0614-CSABN-0001-2026": {
+    "numero": "CFE-0614-CSABN-0001-2026",
+    "descripcion": "Servicio de arrendamiento de caseta móvil para el personal de seguridad física para la C.C.I. Mexicali Oriente",
+    "fecha_publicacion": "13-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-13T14:33:08.155943-08:00"
   }
 }

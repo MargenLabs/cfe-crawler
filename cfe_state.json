@@ -3378,10 +3378,10 @@
     "numero": "CFE-0051-CSSAN-0003-2026",
     "descripcion": "CALIBRACIÓN Y MANTENIMIENTO DE LOS EQUIPOS DE MONITOREO DE H2S DEL C.G.C.P.",
     "fecha_publicacion": "22-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-22T11:29:21.917803-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "REPRESENTACIONES MEXICANAS DE MAQUINARIA Y EQUIPO SA DE CV,",
+    "monto_adjudicado": "$1,360,578.41",
+    "ultima_lectura": "2026-02-12T19:35:31.354236-08:00"
   },
   "CFE-0051-CSSAN-0005-2026": {
     "numero": "CFE-0051-CSSAN-0005-2026",
@@ -3459,10 +3459,10 @@
     "numero": "CFE-0614-CSAAN-0002-2026",
     "descripcion": "Adquisición de filtros de succión y separador de condensado para el sistema de extracción de gases de las unidades 6 y 9 de 110 MW de la CG Cerro Prieto",
     "fecha_publicacion": "27-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-27T14:23:04.353755-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "WILCOX MACHINE CO. MEXICO SA DE CV,INGENIERIA TURBO MAQ SA DE CV,",
+    "monto_adjudicado": "$2,338,905.80",
+    "ultima_lectura": "2026-02-12T19:35:30.875023-08:00"
   },
   "CFE-0614-ADSAN-0001-2026": {
     "numero": "CFE-0614-ADSAN-0001-2026",
@@ -3598,5 +3598,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-11T19:37:03.860516-08:00"
+  },
+  "CFE-0051-CSSAN-0008-2026": {
+    "numero": "CFE-0051-CSSAN-0008-2026",
+    "descripcion": "RECOLECCIÓN DE BASURA",
+    "fecha_publicacion": "12-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-12T19:35:29.950082-08:00"
   }
 }

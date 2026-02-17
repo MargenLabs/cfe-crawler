@@ -3414,19 +3414,19 @@
     "numero": "CFE-0051-CSAAN-0002-2026",
     "descripcion": "DIÉSEL INDUSTRIAL BAJO EN AZUFRE",
     "fecha_publicacion": "26-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-26T11:28:06.710338-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA DAGAL SA DE CV,",
+    "monto_adjudicado": "$467,600.00",
+    "ultima_lectura": "2026-02-17T11:49:27.779293-08:00"
   },
   "CFE-0051-CSAAN-0001-2026": {
     "numero": "CFE-0051-CSAAN-0001-2026",
     "descripcion": "CALZADO DE TRABAJO",
     "fecha_publicacion": "26-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-26T11:28:06.769167-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
+    "monto_adjudicado": "$867,240.00",
+    "ultima_lectura": "2026-02-17T11:49:27.834165-08:00"
   },
   "CFE-0101-CASON-0002-2026": {
     "numero": "CFE-0101-CASON-0002-2026",

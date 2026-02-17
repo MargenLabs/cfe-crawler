@@ -3540,10 +3540,10 @@
     "numero": "CFE-0614-CSSAN-0002-2026",
     "descripcion": "Servicio de agua potable de uso industrial para la central combustión interna Mexicali Oriente",
     "fecha_publicacion": "04-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-06T11:39:44.821711-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ROE INMOBILIARIA Y ARRENDADORA S DE RL DE CV,",
+    "monto_adjudicado": "$2,002,000.00",
+    "ultima_lectura": "2026-02-17T14:31:33.577802-08:00"
   },
   "CFE-0101-CSSAN-0004-2026": {
     "numero": "CFE-0101-CSSAN-0004-2026",

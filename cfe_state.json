@@ -3751,5 +3751,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-18T11:50:49.118678-08:00"
+  },
+  "CFE-0604-CSSAN-0002-2026": {
+    "numero": "CFE-0604-CSSAN-0002-2026",
+    "descripcion": "SERVICIO DE LIMPIEZA DE EDIFICIOS Y OFICINAS OPERATIVAS,TÉCNICAS Y ADMINISTRATIVAS DEL COMPLEJO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "18-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-18T14:33:08.635666-08:00"
   }
 }

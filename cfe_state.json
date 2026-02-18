@@ -3715,5 +3715,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-17T19:32:34.977521-08:00"
+  },
+  "CFE-0604-CSAAN-0002-2026": {
+    "numero": "CFE-0604-CSAAN-0002-2026",
+    "descripcion": "ADQUISICIÓN DE SEÑALAMIENTOS DE SEGURIDAD DIVERSOS PARA LAS INSTALACIONES DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "18-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-18T09:05:58.128267-08:00"
+  },
+  "CFE-0101-CSSAN-0007-2026": {
+    "numero": "CFE-0101-CSSAN-0007-2026",
+    "descripcion": "Servicio de Monitoreo de Alarma",
+    "fecha_publicacion": "18-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-18T09:05:58.186130-08:00"
   }
 }

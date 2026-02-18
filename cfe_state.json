@@ -3441,10 +3441,10 @@
     "numero": "CFE-0101-CSSAN-0001-2026",
     "descripcion": "MANTENIMIENTO A TRANSFORMADORES DE POTENCIA 2026",
     "fecha_publicacion": "26-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-26T19:00:12.919954-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INDUSTRIAS SELECCTRIC SA DE CV,JESUS RAMON SALAZAR GARCIA,RESERVIMEX SA DE CV,",
+    "monto_adjudicado": "$5,709,000.00",
+    "ultima_lectura": "2026-02-17T19:32:36.645927-08:00"
   },
   "CFE-0101-CSSAN-0002-2026": {
     "numero": "CFE-0101-CSSAN-0002-2026",
@@ -3531,10 +3531,10 @@
     "numero": "CFE-0101-CACON-0003-2026",
     "descripcion": "Trabajos de habilitación de campo de entrenamiento y capacitación para linieros de Zona San Luis, en San Luis Rio Colorado, Sonora",
     "fecha_publicacion": "05-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-06T11:39:44.767332-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MANUEL MEDINA ALVARADO,",
+    "monto_adjudicado": "$2,430,856.52",
+    "ultima_lectura": "2026-02-17T19:32:35.996985-08:00"
   },
   "CFE-0614-CSSAN-0002-2026": {
     "numero": "CFE-0614-CSSAN-0002-2026",
@@ -3697,5 +3697,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-16T19:29:43.998439-08:00"
+  },
+  "CFE-0101-CSAAN-0001-2026": {
+    "numero": "CFE-0101-CSAAN-0001-2026",
+    "descripcion": "POSTES DE MADERA",
+    "fecha_publicacion": "18-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-17T19:32:34.921459-08:00"
+  },
+  "CFE-0604-CSAAA-0002-2026": {
+    "numero": "CFE-0604-CSAAA-0002-2026",
+    "descripcion": "ADQUISICIÓN DE PLACAS PARA INTERCAMBIADORES DE CALOR DE CIRCUITO CERRADO DE UNIDADES DE LA C.C.C. PRESIDENTE JUÁREZ-SEGUNDO EVENTO-",
+    "fecha_publicacion": "18-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-17T19:32:34.977521-08:00"
   }
 }

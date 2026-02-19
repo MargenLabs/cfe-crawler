@@ -3760,5 +3760,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-18T14:33:08.635666-08:00"
+  },
+  "CFE-0101-CACON-0004-2026": {
+    "numero": "CFE-0101-CACON-0004-2026",
+    "descripcion": "Construcción de 3 obras: PO-269/2025, CTO. VIO-5520, Area Suroeste, CD. Constitución, PO-293/2025, CTO. DOM-5220, La Purisima y PO-271/2025, CTO LRO-4165, FONATUR Polígono II Loreto, en los Municipios",
+    "fecha_publicacion": "19-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-18T19:31:24.650409-08:00"
+  },
+  "CFE-0604-CSSAN-0003-2026": {
+    "numero": "CFE-0604-CSSAN-0003-2026",
+    "descripcion": "SERVICIO DE INSPECCIÓN BOROSCOPICA Y SINTONIZACIÓN DE TURBINA DE GAS MARCA SIEMENS, MODELO 501FD3 DE LA U10 DE C.C.C PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "19-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-18T19:31:24.712661-08:00"
   }
 }

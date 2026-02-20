@@ -3778,5 +3778,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-18T19:31:24.712661-08:00"
+  },
+  "CFE-0604-CSCON-0001-2026": {
+    "numero": "CFE-0604-CSCON-0001-2026",
+    "descripcion": "MANTENIMIENTO A INFRAESTRUCTURA VIAL INTERNA DEL COMPLEJO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-19T19:26:40.817874-08:00"
   }
 }

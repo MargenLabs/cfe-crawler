@@ -3477,10 +3477,10 @@
     "numero": "CFE-0101-CSSAN-0003-2026",
     "descripcion": "Reparación y Mantenimiento de Transformadores de Pedestal y Sumergibles 2026",
     "fecha_publicacion": "28-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-28T19:19:30.160769-08:00"
+    "ultima_lectura": "2026-02-23T14:40:57.288099-08:00"
   },
   "CFE-0614-CSAAA-0003-2026": {
     "numero": "CFE-0614-CSAAA-0003-2026",
@@ -3495,10 +3495,10 @@
     "numero": "CFE-0051-CSSAN-0006-2026",
     "descripcion": "REPARACIÓN DE MOTOR VERTICAL DE 150HP",
     "fecha_publicacion": "30-01-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-30T11:36:37.630926-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
+    "monto_adjudicado": "$656,000.00",
+    "ultima_lectura": "2026-02-23T14:40:57.108214-08:00"
   },
   "CFE-0614-ADSAN-0002-2026": {
     "numero": "CFE-0614-ADSAN-0002-2026",

@@ -3450,10 +3450,10 @@
     "numero": "CFE-0101-CSSAN-0002-2026",
     "descripcion": "REPARACIÓN Y MANTENIMIENTO DE TRANSFORMADORES DE DISTRIBUCIÓN 2026",
     "fecha_publicacion": "27-01-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-01-27T11:31:21.215078-08:00"
+    "ultima_lectura": "2026-02-23T11:59:06.627313-08:00"
   },
   "CFE-0614-CSAAN-0002-2026": {
     "numero": "CFE-0614-CSAAN-0002-2026",
@@ -3787,5 +3787,68 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-19T19:26:40.817874-08:00"
+  },
+  "CFE-0101-CACON-0005-2026": {
+    "numero": "CFE-0101-CACON-0005-2026",
+    "descripcion": "CONSTRUCCION DE 4 OBRAS DE ELECTRIFICACION DE EXTENSIONES DE REDES PROGRAMA FSUE: 1 (UNA) DEL BLOQUE 41 Y 3 (TRES) DEL BLOQUE 43 EN EL MUNICIPIO DE SAN QUINTIN; PERTENECIENTES A ZONA ENSENADA",
+    "fecha_publicacion": "21-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.065059-08:00"
+  },
+  "CFE-0604-CSSAN-0004-2026": {
+    "numero": "CFE-0604-CSSAN-0004-2026",
+    "descripcion": "SERVICIO DE REHABILITACIÓN DE EQUIPOS ELÉCTRICOS 4160 V. PARA LA C.T. Y C.C.C PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "21-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.123392-08:00"
+  },
+  "CFE-0051-CSAAN-0006-2026": {
+    "numero": "CFE-0051-CSAAN-0006-2026",
+    "descripcion": "FERRETERIA",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.181256-08:00"
+  },
+  "CFE-0101-ADCON-0003-2026": {
+    "numero": "CFE-0101-ADCON-0003-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.237593-08:00"
+  },
+  "CFE-0101-ADCON-0002-2026": {
+    "numero": "CFE-0101-ADCON-0002-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.302010-08:00"
+  },
+  "CFE-0101-ADCON-0001-2026": {
+    "numero": "CFE-0101-ADCON-0001-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.362085-08:00"
+  },
+  "CFE-0051-CSSAN-0009-2026": {
+    "numero": "CFE-0051-CSSAN-0009-2026",
+    "descripcion": "REPARACIÓN DE VÁLVULAS DE COMPUERTA",
+    "fecha_publicacion": "20-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-23T11:59:04.421036-08:00"
   }
 }

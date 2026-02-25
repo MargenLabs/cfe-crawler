@@ -3594,10 +3594,10 @@
     "numero": "CFE-0614-CSAAA-0004-2026",
     "descripcion": "Adquisición de soplador de aire rotatorio para fosas para la CG Cerro Prieto",
     "fecha_publicacion": "11-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-11T19:37:03.860516-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEQUIP SA DE CV,",
+    "monto_adjudicado": "$603,999.24",
+    "ultima_lectura": "2026-02-24T19:31:15.767635-08:00"
   },
   "CFE-0051-CSSAN-0008-2026": {
     "numero": "CFE-0051-CSSAN-0008-2026",
@@ -3711,10 +3711,10 @@
     "numero": "CFE-0604-CSAAA-0002-2026",
     "descripcion": "ADQUISICIÓN DE PLACAS PARA INTERCAMBIADORES DE CALOR DE CIRCUITO CERRADO DE UNIDADES DE LA C.C.C. PRESIDENTE JUÁREZ-SEGUNDO EVENTO-",
     "fecha_publicacion": "18-02-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-17T19:32:34.977521-08:00"
+    "ultima_lectura": "2026-02-24T19:31:14.926791-08:00"
   },
   "CFE-0604-CSAAN-0002-2026": {
     "numero": "CFE-0604-CSAAN-0002-2026",
@@ -3850,5 +3850,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-23T11:59:04.421036-08:00"
+  },
+  "CFE-0101-CACON-0006-2026": {
+    "numero": "CFE-0101-CACON-0006-2026",
+    "descripcion": "Construcción de 2 obras de Electrificación de extensiones de redes, programa FSUE del bloque 43 en localidad Santa Fe-Braulio Maldonado en el Municipio de San Quintin; pertenecientes a Zona Ensenada",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-24T19:31:13.808430-08:00"
+  },
+  "CFE-0604-CSAAA-0003-2026": {
+    "numero": "CFE-0604-CSAAA-0003-2026",
+    "descripcion": "ADQUISICIÓN DE FUSIBLES PARA CONTACTORES EN VACÍO DE MEDIA TENSIÓN DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-24T19:31:13.870839-08:00"
+  },
+  "CFE-0604-CSAAN-0004-2026": {
+    "numero": "CFE-0604-CSAAN-0004-2026",
+    "descripcion": "ADQUISICIÓN DE VENTILADORES DE MOTORES ELÉCTRICOS PARA CIRCUITO CERRADO DE LA CENTRAL TURBOGAS TIJUANA UNIDADES 1 Y 2",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-24T19:31:13.927469-08:00"
   }
 }

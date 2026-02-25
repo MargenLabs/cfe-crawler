@@ -3621,10 +3621,10 @@
     "numero": "CFE-0614-CSABN-0001-2026",
     "descripcion": "Servicio de arrendamiento de caseta móvil para el personal de seguridad física para la C.C.I. Mexicali Oriente",
     "fecha_publicacion": "13-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-13T14:33:08.155943-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
+    "monto_adjudicado": "$1,799,291.80",
+    "ultima_lectura": "2026-02-25T11:50:51.292996-08:00"
   },
   "CFE-0614-CSAAA-0007-2026": {
     "numero": "CFE-0614-CSAAA-0007-2026",
@@ -3877,5 +3877,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-24T19:31:13.927469-08:00"
+  },
+  "CFE-0604-CSSAN-0005-2026": {
+    "numero": "CFE-0604-CSSAN-0005-2026",
+    "descripcion": "SERVICIO DE ANÁLISIS DE RIESGO Y PELIGROS DE AGENTES QUIMICOS CONTAMINANTES DEL AMBIENTE LABORAL-RECONOCIMIENTO BAJO LA NOM-010-STP-2014 DE LA C.T. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-25T11:50:49.550246-08:00"
+  },
+  "CFE-0101-CSSAN-0008-2026": {
+    "numero": "CFE-0101-CSSAN-0008-2026",
+    "descripcion": "SERVICIO DE RECOLECCIÓN DE BASURA PARA LOS CENTROS DE ATENCIÓN A CLIENTES DIVISIÓN B.C.",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-25T11:50:49.610792-08:00"
+  },
+  "CFE-0101-ADSAN-0002-2026": {
+    "numero": "CFE-0101-ADSAN-0002-2026",
+    "descripcion": "SERVICIO DE PREPARACIÓN DE ALIMENTOS PARA LA ATENCIÓN DE LA CONTINGENCIA DE FRENTE FRIO NO. 23 EN ZONA TIJUANA",
+    "fecha_publicacion": "25-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-25T11:50:49.665290-08:00"
   }
 }

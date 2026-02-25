@@ -3585,10 +3585,10 @@
     "numero": "CFE-0614-CSAAA-0005-2026",
     "descripcion": "Adquisición de reductores de velocidad 1800 RPM 300HP 2.65/1 enfriado por agua para la C.G. Cerro Prieto",
     "fecha_publicacion": "11-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-11T19:37:03.802739-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$2,132,682.09",
+    "ultima_lectura": "2026-02-25T14:33:54.730010-08:00"
   },
   "CFE-0614-CSAAA-0004-2026": {
     "numero": "CFE-0614-CSAAA-0004-2026",

@@ -3522,10 +3522,10 @@
     "numero": "CFE-0051-CSSAN-0007-2026",
     "descripcion": "REPARACIÓN Y MANTENIMIENTO A SISTEMA HIDRÁULICO DE BRAZO GRÚA TIPO HIAB Y CARROCERÍA DE CAMIÓN INTERNATIONAL 4700 MODELO 1997",
     "fecha_publicacion": "05-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-06T11:39:44.710041-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABASTECEDORA DE REFACCIONES Y SERVICIO HIDRAULICO SA DE CV,",
+    "monto_adjudicado": "$305,000.00",
+    "ultima_lectura": "2026-02-26T14:33:29.461533-08:00"
   },
   "CFE-0101-CACON-0003-2026": {
     "numero": "CFE-0101-CACON-0003-2026",
@@ -3630,10 +3630,10 @@
     "numero": "CFE-0614-CSAAA-0007-2026",
     "descripcion": "Adquisición de Válvulas y actuadores para ramales de Media y Baja Presión de Zona de Regulación de Unidad 5 de la C.G. Cerro Prieto",
     "fecha_publicacion": "13-02-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-13T19:22:22.435290-08:00"
+    "ultima_lectura": "2026-02-26T14:33:28.800705-08:00"
   },
   "CFE-0101-ADSAN-0001-2026": {
     "numero": "CFE-0101-ADSAN-0001-2026",
@@ -3657,10 +3657,10 @@
     "numero": "CFE-0614-CSAAA-0006-2026",
     "descripcion": "Adquisición de balanceadora horizontal de banda con medición y calibración por computadora para la C.G. Cerro Prieto",
     "fecha_publicacion": "13-02-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-13T19:22:22.608357-08:00"
+    "ultima_lectura": "2026-02-26T14:33:28.967768-08:00"
   },
   "CFE-0101-CSAAA-0001-2026": {
     "numero": "CFE-0101-CSAAA-0001-2026",
@@ -3693,10 +3693,10 @@
     "numero": "CFE-0604-CSAAN-0003-2026",
     "descripcion": "ADQUISICIÓN DE SUSTANCIAS QUÍMICAS PARA LA C.C.C PRESIDENTE JUÁREZ 2026",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-16T19:29:43.998439-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA QUIMICA DE SONORA SA DE CV,K E N T H O QUIMICA DE MONTERREY SA DE CV,LAUKA MEXICANA SA DE CV,SERVICAL MEXICANA SA DE CV,",
+    "monto_adjudicado": "$2,080,891.80",
+    "ultima_lectura": "2026-02-26T14:33:28.744410-08:00"
   },
   "CFE-0101-CSAAN-0001-2026": {
     "numero": "CFE-0101-CSAAN-0001-2026",
@@ -3819,28 +3819,28 @@
     "numero": "CFE-0101-ADCON-0003-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
     "fecha_publicacion": "20-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.237593-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,",
+    "monto_adjudicado": "$953,700.94",
+    "ultima_lectura": "2026-02-26T14:33:27.670487-08:00"
   },
   "CFE-0101-ADCON-0002-2026": {
     "numero": "CFE-0101-ADCON-0002-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
     "fecha_publicacion": "20-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.302010-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRALTA CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$1,530,928.54",
+    "ultima_lectura": "2026-02-26T14:33:27.735656-08:00"
   },
   "CFE-0101-ADCON-0001-2026": {
     "numero": "CFE-0101-ADCON-0001-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por los frentes frios del 24 de diciembre de 2025 y 01 de enero de 2026 y vientos de santa ana del 29 de d",
     "fecha_publicacion": "20-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.362085-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EDGAR ADRIAN MEDINA ZENDEJAS,",
+    "monto_adjudicado": "$1,650,876.89",
+    "ultima_lectura": "2026-02-26T14:33:27.793925-08:00"
   },
   "CFE-0051-CSSAN-0009-2026": {
     "numero": "CFE-0051-CSSAN-0009-2026",
@@ -3904,5 +3904,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-25T11:50:49.665290-08:00"
+  },
+  "CFE-0101-CACON-0007-2026": {
+    "numero": "CFE-0101-CACON-0007-2026",
+    "descripcion": "Construcción de 3 obras: PO-109/2025, PEC-24/2025, Cto. SJC-4165, Col. Guaymitas; PO-151/2025, PEC-43/2025, Cto. SJC-4175, Col. Santa Rosa, y PO-166/2025, PEC-48/2025, Cto. SJC-4165, Col. Puerto Los C",
+    "fecha_publicacion": "26-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-02-26T14:33:27.048915-08:00"
   }
 }

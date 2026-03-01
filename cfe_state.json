@@ -3639,10 +3639,10 @@
     "numero": "CFE-0101-ADSAN-0001-2026",
     "descripcion": "Vigilancia y Seguridad para las Instalaciones de la División Baja California",
     "fecha_publicacion": "13-02-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-13T19:22:22.497421-08:00"
+    "ultima_lectura": "2026-03-01T11:26:55.892973-08:00"
   },
   "CFE-0101-CSSAN-0006-2026": {
     "numero": "CFE-0101-CSSAN-0006-2026",
@@ -3922,5 +3922,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-02-26T19:24:19.778843-08:00"
+  },
+  "CFE-0604-CSABN-0001-2026": {
+    "numero": "CFE-0604-CSABN-0001-2026",
+    "descripcion": "SERVICIO DE ARRENDAMIENTO DE MAQUINARIA PESADA Y EXTRACCION DE SOLIDOS ARENOSOS PARA LA C.C.C. PRESIDENTE JUAREZ",
+    "fecha_publicacion": "28-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-01T11:26:54.021003-08:00"
+  },
+  "CFE-0101-CSAAN-0002-2026": {
+    "numero": "CFE-0101-CSAAN-0002-2026",
+    "descripcion": "Adquisición de Papel Bond",
+    "fecha_publicacion": "28-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-01T11:26:54.080264-08:00"
+  },
+  "CFE-0604-CSAAN-0005-2026": {
+    "numero": "CFE-0604-CSAAN-0005-2026",
+    "descripcion": "Adquisición de insumos y equipo menores para el departamento mecánico de la C.T. Presidente Juárez y C.TG. Tijuana",
+    "fecha_publicacion": "28-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-01T11:26:54.131721-08:00"
+  },
+  "CFE-0604-CSSAN-0007-2026": {
+    "numero": "CFE-0604-CSSAN-0007-2026",
+    "descripcion": "SERVICIO DE ANÁLISIS FISICOQUÍMICOS DE LAS DESCARGAS DE AGUA RESIDUAL Y ENTRADA DE AGUA DE MAR DE LA C.T. PRESIDENTE JUÁREZ 2026",
+    "fecha_publicacion": "27-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-01T11:26:54.185928-08:00"
+  },
+  "CFE-0101-CACON-0008-2026": {
+    "numero": "CFE-0101-CACON-0008-2026",
+    "descripcion": "Construcción de 2 obras de electrificación de extensiones de redes, programa FSUE del bloque 43 en localidades Buenavista y los Eucaliptos en el Municipio de San Quintin; pertenecientes a Zona Ensenad",
+    "fecha_publicacion": "27-02-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-01T11:26:54.245438-08:00"
   }
 }

@@ -3549,10 +3549,10 @@
     "numero": "CFE-0101-CSSAN-0004-2026",
     "descripcion": "PODA DE ÁRBOLES EN MEDIA Y BAJA TENSIÓN 2026",
     "fecha_publicacion": "04-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-06T11:39:44.875642-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,NODO INGENIERIA SA DE CV,",
+    "monto_adjudicado": "$3,417,213.30",
+    "ultima_lectura": "2026-03-02T19:28:09.775485-08:00"
   },
   "CFE-0051-CSAAN-0003-2026": {
     "numero": "CFE-0051-CSAAN-0003-2026",
@@ -3967,5 +3967,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-01T11:26:54.245438-08:00"
+  },
+  "CFE-0614-CSAAA-0008-2026": {
+    "numero": "CFE-0614-CSAAA-0008-2026",
+    "descripcion": "Adquisición de equipo de calibración para el área de Instrumentación y Control de la CG Cerro Prieto",
+    "fecha_publicacion": "02-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-02T19:28:06.943294-08:00"
   }
 }

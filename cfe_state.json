@@ -3558,10 +3558,10 @@
     "numero": "CFE-0051-CSAAN-0003-2026",
     "descripcion": "EMPAQUES",
     "fecha_publicacion": "10-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-11T09:05:47.356006-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GARLOCK DE MEXICO SA DE CV,INSUMOS INDUSTRIALES Y EMPAQUETADURAS SA DE CV,",
+    "monto_adjudicado": "$1,329,556.56",
+    "ultima_lectura": "2026-03-03T19:18:50.363898-08:00"
   },
   "CFE-0614-CSSAN-0003-2026": {
     "numero": "CFE-0614-CSSAN-0003-2026",
@@ -3765,10 +3765,10 @@
     "numero": "CFE-0101-CACON-0004-2026",
     "descripcion": "Construcción de 3 obras: PO-269/2025, CTO. VIO-5520, Area Suroeste, CD. Constitución, PO-293/2025, CTO. DOM-5220, La Purisima y PO-271/2025, CTO LRO-4165, FONATUR Polígono II Loreto, en los Municipios",
     "fecha_publicacion": "19-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-18T19:31:24.650409-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCO COTA OLACHEA,",
+    "monto_adjudicado": "$1,946,093.66",
+    "ultima_lectura": "2026-03-03T19:18:49.014839-08:00"
   },
   "CFE-0604-CSSAN-0003-2026": {
     "numero": "CFE-0604-CSSAN-0003-2026",
@@ -3976,5 +3976,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-02T19:28:06.943294-08:00"
+  },
+  "CFE-0101-CSSAN-0009-2026": {
+    "numero": "CFE-0101-CSSAN-0009-2026",
+    "descripcion": "Servicio de Mensajería",
+    "fecha_publicacion": "04-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-03T19:18:47.566697-08:00"
+  },
+  "CFE-0201-CSAAN-0001-2026": {
+    "numero": "CFE-0201-CSAAN-0001-2026",
+    "descripcion": "ADQUISICIÓN DE BOTAS DIELÉCTRICAS PARA PERSONAL DE CAMPO",
+    "fecha_publicacion": "03-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-03T19:18:47.627031-08:00"
+  },
+  "CFE-0614-CSAAA-0009-2026": {
+    "numero": "CFE-0614-CSAAA-0009-2026",
+    "descripcion": "Adquisión de post enfriador de compresor de aire estacionario para la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "03-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-03T19:18:47.683423-08:00"
   }
 }

@@ -3774,10 +3774,10 @@
     "numero": "CFE-0604-CSSAN-0003-2026",
     "descripcion": "SERVICIO DE INSPECCIÓN BOROSCOPICA Y SINTONIZACIÓN DE TURBINA DE GAS MARCA SIEMENS, MODELO 501FD3 DE LA U10 DE C.C.C PRESIDENTE JUÁREZ",
     "fecha_publicacion": "19-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-18T19:31:24.712661-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "TURBOALEACIONES SA DE CV,",
+    "monto_adjudicado": "$1,604,577.26",
+    "ultima_lectura": "2026-03-04T19:23:47.113399-08:00"
   },
   "CFE-0604-CSCON-0001-2026": {
     "numero": "CFE-0604-CSCON-0001-2026",
@@ -3801,10 +3801,10 @@
     "numero": "CFE-0604-CSSAN-0004-2026",
     "descripcion": "SERVICIO DE REHABILITACIÓN DE EQUIPOS ELÉCTRICOS 4160 V. PARA LA C.T. Y C.C.C PRESIDENTE JUÁREZ",
     "fecha_publicacion": "21-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.123392-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "REMSA USA-MEXICO SA DE CV,",
+    "monto_adjudicado": "$2,491,853.00",
+    "ultima_lectura": "2026-03-04T19:23:46.690987-08:00"
   },
   "CFE-0051-CSAAN-0006-2026": {
     "numero": "CFE-0051-CSAAN-0006-2026",
@@ -3900,10 +3900,10 @@
     "numero": "CFE-0101-ADSAN-0002-2026",
     "descripcion": "SERVICIO DE PREPARACIÓN DE ALIMENTOS PARA LA ATENCIÓN DE LA CONTINGENCIA DE FRENTE FRIO NO. 23 EN ZONA TIJUANA",
     "fecha_publicacion": "25-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-25T11:50:49.665290-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HANZ WALTER ALVAREZ HUERTA,",
+    "monto_adjudicado": "$700,000.00",
+    "ultima_lectura": "2026-03-04T19:23:46.415653-08:00"
   },
   "CFE-0101-CACON-0007-2026": {
     "numero": "CFE-0101-CACON-0007-2026",
@@ -4012,5 +4012,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-04T14:31:43.083570-08:00"
+  },
+  "CFE-0201-CSAAN-0002-2026": {
+    "numero": "CFE-0201-CSAAN-0002-2026",
+    "descripcion": "ADQUISICION DE TOALLAS Y JABONES PARA ZONAS DE TRANSMISION DE LA GRTBC",
+    "fecha_publicacion": "05-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-04T19:23:45.520510-08:00"
+  },
+  "CFE-0614-CSAAA-0011-2026": {
+    "numero": "CFE-0614-CSAAA-0011-2026",
+    "descripcion": "Adquisición de Válvulas y actuadores para ramales de Media y Baja Presión de Zona de Regulación de Unidad 5 de la C.G. Cerro Prieto",
+    "fecha_publicacion": "04-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-04T19:23:45.579083-08:00"
   }
 }

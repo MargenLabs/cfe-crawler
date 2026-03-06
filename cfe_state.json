@@ -4030,5 +4030,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-04T19:23:45.579083-08:00"
+  },
+  "CFE-0201-CSSAN-0001-2026": {
+    "numero": "CFE-0201-CSSAN-0001-2026",
+    "descripcion": "DESHIERBE DE PREDIOS PARA LA ZONA DE TRANSMISION VALLE",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-05T19:21:52.596400-08:00"
+  },
+  "CFE-0201-CSAAA-0001-2026": {
+    "numero": "CFE-0201-CSAAA-0001-2026",
+    "descripcion": "“ADQUISICIÓN DE BOTA DE LINIERO PARA LA GERENCIA REGIONAL DE TRANSMISIÓN”",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-05T19:21:52.652989-08:00"
+  },
+  "CFE-0101-CACON-0009-2026": {
+    "numero": "CFE-0101-CACON-0009-2026",
+    "descripcion": "Construcción de CTO. ETR-5310 línea aérea M.T. 33 KV-1C-3F-4H-1.66 KM 477AAC-PCR-3/0 AAC/AS, PO-636-2025, del programa de perdidas 2026, en Zona La Paz, B.C.S.",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-05T19:21:52.707596-08:00"
+  },
+  "CFE-0604-CSCON-0002-2026": {
+    "numero": "CFE-0604-CSCON-0002-2026",
+    "descripcion": "MANTENIMIENTO A INFRAESTRUCTURA VIAL INTERNA DEL COMPLEJO PRESIDENTE JUÁREZ-SEGUNDO EVENTO",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-05T19:21:52.763081-08:00"
+  },
+  "CFE-0614-CSSAN-0004-2026": {
+    "numero": "CFE-0614-CSSAN-0004-2026",
+    "descripcion": "Servicio de rehabilitación de válvulas tipo mariposa y compuerta de unidades de 110MW CG Cerro Prieto",
+    "fecha_publicacion": "05-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-05T19:21:52.824291-08:00"
   }
 }

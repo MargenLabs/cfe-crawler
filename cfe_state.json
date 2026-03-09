@@ -3684,10 +3684,10 @@
     "numero": "CFE-0051-CSAAN-0004-2026",
     "descripcion": "ESPÁRRAGOS",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-16T19:29:43.941349-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA FABRIL DE COATZACOALCOS SA DE CV,CST SOL S DE RL DE CV,INOX VER SA DE CV,",
+    "monto_adjudicado": "$360,031.19",
+    "ultima_lectura": "2026-03-09T15:28:42.717698-07:00"
   },
   "CFE-0604-CSAAN-0003-2026": {
     "numero": "CFE-0604-CSAAN-0003-2026",

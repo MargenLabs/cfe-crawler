@@ -3612,10 +3612,10 @@
     "numero": "CFE-0051-CSAAA-0001-2026",
     "descripcion": "VÁLVULAS",
     "fecha_publicacion": "13-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-13T11:44:55.640962-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BRAY VALVULAS DE MEXICO SA DE CV,COMERCIALIZADORA MOGALSA SA DE CV,INOX VER SA DE CV,VITA REC SA DE CV,",
+    "monto_adjudicado": "$818,609.10",
+    "ultima_lectura": "2026-03-09T09:58:10.655711-07:00"
   },
   "CFE-0614-CSABN-0001-2026": {
     "numero": "CFE-0614-CSABN-0001-2026",
@@ -3792,10 +3792,10 @@
     "numero": "CFE-0101-CACON-0005-2026",
     "descripcion": "CONSTRUCCION DE 4 OBRAS DE ELECTRIFICACION DE EXTENSIONES DE REDES PROGRAMA FSUE: 1 (UNA) DEL BLOQUE 41 Y 3 (TRES) DEL BLOQUE 43 EN EL MUNICIPIO DE SAN QUINTIN; PERTENECIENTES A ZONA ENSENADA",
     "fecha_publicacion": "21-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.065059-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESPACIOS ARQUITECTONICOS PIMAR SA DE CV,",
+    "monto_adjudicado": "$2,637,813.74",
+    "ultima_lectura": "2026-03-09T09:58:09.265714-07:00"
   },
   "CFE-0604-CSSAN-0004-2026": {
     "numero": "CFE-0604-CSSAN-0004-2026",
@@ -3954,10 +3954,10 @@
     "numero": "CFE-0604-CSSAN-0007-2026",
     "descripcion": "SERVICIO DE ANÁLISIS FISICOQUÍMICOS DE LAS DESCARGAS DE AGUA RESIDUAL Y ENTRADA DE AGUA DE MAR DE LA C.T. PRESIDENTE JUÁREZ 2026",
     "fecha_publicacion": "27-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-01T11:26:54.185928-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIA Y SERVICIOS ANALITICOS SA DE CV,",
+    "monto_adjudicado": "$1,757,820.90",
+    "ultima_lectura": "2026-03-09T09:58:08.713366-07:00"
   },
   "CFE-0101-CACON-0008-2026": {
     "numero": "CFE-0101-CACON-0008-2026",
@@ -4075,5 +4075,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-05T19:21:52.824291-08:00"
+  },
+  "CFE-0101-CSAAN-0005-2026": {
+    "numero": "CFE-0101-CSAAN-0005-2026",
+    "descripcion": "CRUCETAS 2026",
+    "fecha_publicacion": "07-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-09T09:58:07.652514-07:00"
+  },
+  "CFE-0101-CSAAN-0004-2026": {
+    "numero": "CFE-0101-CSAAN-0004-2026",
+    "descripcion": "PLACAS GRABADAS",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-09T09:58:07.710354-07:00"
+  },
+  "CFE-0201-CSSAN-0003-2026": {
+    "numero": "CFE-0201-CSSAN-0003-2026",
+    "descripcion": "SERVICIO RECOLECCIÓN DE BASURA EN INSTALACIONES GRTBC",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-09T09:58:07.784070-07:00"
+  },
+  "CFE-0201-CSSAN-0002-2026": {
+    "numero": "CFE-0201-CSSAN-0002-2026",
+    "descripcion": "SERVICIO RECOLECCÓN DE BASURA EN INSTALACIONES GRTBC",
+    "fecha_publicacion": "06-03-2026",
+    "estado": "Cancelado",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-09T09:58:07.840680-07:00"
   }
 }

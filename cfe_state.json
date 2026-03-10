@@ -3603,10 +3603,10 @@
     "numero": "CFE-0051-CSSAN-0008-2026",
     "descripcion": "RECOLECCIÓN DE BASURA",
     "fecha_publicacion": "12-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-12T19:35:29.950082-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MEXICALI AMBIENTAL S A P I DE CV,",
+    "monto_adjudicado": "$327,600.00",
+    "ultima_lectura": "2026-03-10T12:40:51.818245-07:00"
   },
   "CFE-0051-CSAAA-0001-2026": {
     "numero": "CFE-0051-CSAAA-0001-2026",

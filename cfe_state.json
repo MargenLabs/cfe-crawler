@@ -3747,10 +3747,10 @@
     "numero": "CFE-0051-CSAAN-0005-2026",
     "descripcion": "PINTURAS",
     "fecha_publicacion": "18-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-18T11:50:49.118678-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA ARCOS IRIS 2000 SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,MACO SA,",
+    "monto_adjudicado": "$371,634.00",
+    "ultima_lectura": "2026-03-11T15:26:55.030579-07:00"
   },
   "CFE-0604-CSSAN-0002-2026": {
     "numero": "CFE-0604-CSSAN-0002-2026",
@@ -3918,10 +3918,10 @@
     "numero": "CFE-0604-CSSAN-0006-2026",
     "descripcion": "Servicio de rehabilitación de bomba vertical de extracción de condensado principal marca ruhrpumpen modelo VTP de Unidad 11 de la C.C.C. Presidente Juárez",
     "fecha_publicacion": "26-02-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-26T19:24:19.778843-08:00"
+    "ultima_lectura": "2026-03-11T15:26:53.927155-07:00"
   },
   "CFE-0604-CSABN-0001-2026": {
     "numero": "CFE-0604-CSABN-0001-2026",

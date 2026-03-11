@@ -4120,5 +4120,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-10T09:57:06.395997-07:00"
+  },
+  "CFE-0101-CACON-0011-2026": {
+    "numero": "CFE-0101-CACON-0011-2026",
+    "descripcion": "Construcción de CTO. ETR-5330 línea aérea M.T. 33 KV-1C-3F-4H-11.50 KM 477AAC-PCR-3/0 AAC/AS, PO-488/2025, del programa de perdidas 2026, en Zona La Paz, B.C.S.",
+    "fecha_publicacion": "11-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-11T09:54:41.299340-07:00"
+  },
+  "CFE-0101-ADSAN-0003-2026": {
+    "numero": "CFE-0101-ADSAN-0003-2026",
+    "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN BAJA CALIFORNIA 2DO. EVENTO",
+    "fecha_publicacion": "11-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-11T09:54:41.361098-07:00"
   }
 }

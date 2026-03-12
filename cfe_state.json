@@ -3675,10 +3675,10 @@
     "numero": "CFE-0051-CSAAA-0002-2026",
     "descripcion": "INDICADORES DE NIVEL Y REFACCIONES",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-16T19:29:43.885781-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INGENIERIA ESPECIALIZADA DE QUERETARO SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,REYNOLDS SUMINISTROS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$488,927.75",
+    "ultima_lectura": "2026-03-12T15:25:59.356764-07:00"
   },
   "CFE-0051-CSAAN-0004-2026": {
     "numero": "CFE-0051-CSAAN-0004-2026",

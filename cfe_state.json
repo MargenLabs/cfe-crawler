@@ -4138,5 +4138,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-11T09:54:41.361098-07:00"
+  },
+  "CFE-0614-CSAAN-0003-2026": {
+    "numero": "CFE-0614-CSAAN-0003-2026",
+    "descripcion": "Adquisición de ropa de trabajo para el personal de la C.C.I. Altar 2026",
+    "fecha_publicacion": "12-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-12T09:59:39.598236-07:00"
   }
 }

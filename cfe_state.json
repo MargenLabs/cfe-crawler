@@ -3909,10 +3909,10 @@
     "numero": "CFE-0101-CACON-0007-2026",
     "descripcion": "Construcción de 3 obras: PO-109/2025, PEC-24/2025, Cto. SJC-4165, Col. Guaymitas; PO-151/2025, PEC-43/2025, Cto. SJC-4175, Col. Santa Rosa, y PO-166/2025, PEC-48/2025, Cto. SJC-4165, Col. Puerto Los C",
     "fecha_publicacion": "26-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-26T14:33:27.048915-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
+    "monto_adjudicado": "$735,361.64",
+    "ultima_lectura": "2026-03-13T15:27:59.696506-07:00"
   },
   "CFE-0604-CSSAN-0006-2026": {
     "numero": "CFE-0604-CSSAN-0006-2026",

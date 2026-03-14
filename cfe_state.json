@@ -3576,10 +3576,10 @@
     "numero": "CFE-0101-CSSAN-0005-2026",
     "descripcion": "LIMPIEZA Y DESHIERBE DE SUBESTACIONES 2026",
     "fecha_publicacion": "12-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-11T19:37:03.738722-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NODO INGENIERIA SA DE CV,",
+    "monto_adjudicado": "$2,503,750.00",
+    "ultima_lectura": "2026-03-14T09:34:51.065029-07:00"
   },
   "CFE-0614-CSAAA-0005-2026": {
     "numero": "CFE-0614-CSAAA-0005-2026",
@@ -3945,10 +3945,10 @@
     "numero": "CFE-0604-CSAAN-0005-2026",
     "descripcion": "Adquisición de insumos y equipo menores para el departamento mecánico de la C.T. Presidente Juárez y C.TG. Tijuana",
     "fecha_publicacion": "28-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-01T11:26:54.131721-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,IAM TOOLS S DE RL DE CV,INGENIERIA Y DESARROLLO DE PROYECTOS DIDACTICOS SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$2,349,787.16",
+    "ultima_lectura": "2026-03-14T09:34:48.923816-07:00"
   },
   "CFE-0604-CSSAN-0007-2026": {
     "numero": "CFE-0604-CSSAN-0007-2026",
@@ -4183,5 +4183,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-13T09:42:03.821898-07:00"
+  },
+  "CFE-0101-CACON-0013-2026": {
+    "numero": "CFE-0101-CACON-0013-2026",
+    "descripcion": "Construcción de 2 obras: PO-666/2025, CTO. SQN-5110, LMT 1C-33KV-3F-4H-1.5KM-477ACSR-3/0ACSR, en Punta Colonet, B.C. y PO-643/2025, CTO. SQN-5140, LMT 1C-33KV-3F-4H-1.7KM-477ACSR-3/0ACSR, en San Quint",
+    "fecha_publicacion": "13-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-14T09:34:47.285665-07:00"
   }
 }

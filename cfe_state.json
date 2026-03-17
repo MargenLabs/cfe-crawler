@@ -3738,10 +3738,10 @@
     "numero": "CFE-0051-CSAAA-0003-2026",
     "descripcion": "DISCOS DE RUPTURA Y PORTADISCOS",
     "fecha_publicacion": "18-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-18T11:50:49.056848-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INGENIERIA ESPECIALIZADA DE QUERETARO SA DE CV,VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$997,334.45",
+    "ultima_lectura": "2026-03-17T12:55:22.029284-07:00"
   },
   "CFE-0051-CSAAN-0005-2026": {
     "numero": "CFE-0051-CSAAN-0005-2026",

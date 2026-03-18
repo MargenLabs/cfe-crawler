@@ -3936,10 +3936,10 @@
     "numero": "CFE-0101-CSAAN-0002-2026",
     "descripcion": "Adquisición de Papel Bond",
     "fecha_publicacion": "28-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-01T11:26:54.080264-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DISTRIBUIDORA SAJOR SA DE CV,",
+    "monto_adjudicado": "$621,840.00",
+    "ultima_lectura": "2026-03-18T10:02:10.231534-07:00"
   },
   "CFE-0604-CSAAN-0005-2026": {
     "numero": "CFE-0604-CSAAN-0005-2026",
@@ -3981,10 +3981,10 @@
     "numero": "CFE-0101-CSSAN-0009-2026",
     "descripcion": "Servicio de Mensajería",
     "fecha_publicacion": "04-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-03T19:18:47.566697-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BAJA PAK SA DE CV,",
+    "monto_adjudicado": "$166,345.00",
+    "ultima_lectura": "2026-03-18T10:02:09.960102-07:00"
   },
   "CFE-0201-CSAAN-0001-2026": {
     "numero": "CFE-0201-CSAAN-0001-2026",
@@ -3999,10 +3999,10 @@
     "numero": "CFE-0614-CSAAA-0009-2026",
     "descripcion": "Adquisión de post enfriador de compresor de aire estacionario para la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "03-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-03T19:18:47.683423-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DURPLATE S DE RL DE CV,",
+    "monto_adjudicado": "$379,452.60",
+    "ultima_lectura": "2026-03-18T10:02:10.074752-07:00"
   },
   "CFE-0614-CSAAA-0010-2026": {
     "numero": "CFE-0614-CSAAA-0010-2026",
@@ -4192,5 +4192,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-14T09:34:47.285665-07:00"
+  },
+  "CFE-0614-CSSAN-0005-2026": {
+    "numero": "CFE-0614-CSSAN-0005-2026",
+    "descripcion": "Servicio de agua potable de uso industrial mediante pipas para la Central de Combustión Interna Altar 2026",
+    "fecha_publicacion": "18-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-18T10:02:08.702087-07:00"
   }
 }

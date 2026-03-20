@@ -4210,5 +4210,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-18T15:32:19.830998-07:00"
+  },
+  "CFE-0101-CACON-0015-2026": {
+    "numero": "CFE-0101-CACON-0015-2026",
+    "descripcion": "Recalibración 0.43 KM en CTO FMX-4115 PO-845/2025 y construcción de 1.48 KM de L.M.T. 3F-4H 3/0 ACSR NC 1/0 ACSR, reubicación e instalación de transformadores de diferentes capacidades del programa de",
+    "fecha_publicacion": "20-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-20T15:28:51.298168-07:00"
   }
 }

@@ -3729,10 +3729,10 @@
     "numero": "CFE-0101-CSSAN-0007-2026",
     "descripcion": "Servicio de Monitoreo de Alarma",
     "fecha_publicacion": "18-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-18T09:05:58.186130-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO CORPORATIVO PIBC S DE RL DE CV,",
+    "monto_adjudicado": "$378,810.00",
+    "ultima_lectura": "2026-03-21T09:32:36.925010-07:00"
   },
   "CFE-0051-CSAAA-0003-2026": {
     "numero": "CFE-0051-CSAAA-0003-2026",
@@ -4008,10 +4008,10 @@
     "numero": "CFE-0614-CSAAA-0010-2026",
     "descripcion": "Adquisición de balanceadora horizontal de banda con medición y calibración por computadora para la C.G. Cerro Prieto",
     "fecha_publicacion": "04-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-04T14:31:43.083570-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$741,090.33",
+    "ultima_lectura": "2026-03-21T09:32:35.168827-07:00"
   },
   "CFE-0201-CSAAN-0002-2026": {
     "numero": "CFE-0201-CSAAN-0002-2026",
@@ -4026,10 +4026,10 @@
     "numero": "CFE-0614-CSAAA-0011-2026",
     "descripcion": "Adquisición de Válvulas y actuadores para ramales de Media y Baja Presión de Zona de Regulación de Unidad 5 de la C.G. Cerro Prieto",
     "fecha_publicacion": "04-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-04T19:23:45.579083-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTEGRACION DE SISTEMAS DE ACTUACION SA DE CV,",
+    "monto_adjudicado": "$1,496,829.98",
+    "ultima_lectura": "2026-03-21T09:32:35.113193-07:00"
   },
   "CFE-0201-CSSAN-0001-2026": {
     "numero": "CFE-0201-CSSAN-0001-2026",
@@ -4053,10 +4053,10 @@
     "numero": "CFE-0101-CACON-0009-2026",
     "descripcion": "Construcción de CTO. ETR-5310 línea aérea M.T. 33 KV-1C-3F-4H-1.66 KM 477AAC-PCR-3/0 AAC/AS, PO-636-2025, del programa de perdidas 2026, en Zona La Paz, B.C.S.",
     "fecha_publicacion": "06-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-05T19:21:52.707596-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
+    "monto_adjudicado": "$649,045.53",
+    "ultima_lectura": "2026-03-21T09:32:34.876481-07:00"
   },
   "CFE-0604-CSCON-0002-2026": {
     "numero": "CFE-0604-CSCON-0002-2026",
@@ -4219,5 +4219,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-20T15:28:51.298168-07:00"
+  },
+  "CFE-0614-CSSAN-0006-2026": {
+    "numero": "CFE-0614-CSSAN-0006-2026",
+    "descripcion": "Servicio de desazolve de fosas sépticas de la Central de Combustión Interna Altar 2026",
+    "fecha_publicacion": "21-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-21T09:32:33.772896-07:00"
   }
 }

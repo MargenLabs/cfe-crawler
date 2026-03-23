@@ -4116,10 +4116,10 @@
     "numero": "CFE-0101-CACON-0010-2026",
     "descripcion": "Construcción de CTO. ETR-5320 línea aérea M.T. 33 KV-1C-3F-4H-10 KM 477AAC-PCR-3/0 AAC/AS, PO-416/2025, del programa de perdidas 2026, en Zona La Paz, B.C.S.",
     "fecha_publicacion": "10-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-10T09:57:06.395997-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
+    "monto_adjudicado": "$2,993,440.14",
+    "ultima_lectura": "2026-03-23T12:50:37.306269-07:00"
   },
   "CFE-0101-CACON-0011-2026": {
     "numero": "CFE-0101-CACON-0011-2026",
@@ -4228,5 +4228,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-21T09:32:33.772896-07:00"
+  },
+  "CFE-0051-CSAAN-0007-2026": {
+    "numero": "CFE-0051-CSAAN-0007-2026",
+    "descripcion": "ESTROBOS Y CABLES DE ACERO",
+    "fecha_publicacion": "23-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-23T12:50:36.570365-07:00"
   }
 }

@@ -4035,10 +4035,10 @@
     "numero": "CFE-0201-CSSAN-0001-2026",
     "descripcion": "DESHIERBE DE PREDIOS PARA LA ZONA DE TRANSMISION VALLE",
     "fecha_publicacion": "06-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-05T19:21:52.596400-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SAULO EMANUEL DIAZ CORRAL,",
+    "monto_adjudicado": "$1,260,000.00",
+    "ultima_lectura": "2026-03-24T10:01:01.964744-07:00"
   },
   "CFE-0201-CSAAA-0001-2026": {
     "numero": "CFE-0201-CSAAA-0001-2026",
@@ -4237,5 +4237,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-23T12:50:36.570365-07:00"
+  },
+  "CFE-0614-CSSAN-0007-2026": {
+    "numero": "CFE-0614-CSSAN-0007-2026",
+    "descripcion": "Servicio de monitoreo de ruido perimetral, calidad del aire y emisiones para la C.C.I. Altar 2026",
+    "fecha_publicacion": "24-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-24T10:01:00.863366-07:00"
   }
 }

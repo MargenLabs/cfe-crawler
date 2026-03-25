@@ -3810,10 +3810,10 @@
     "numero": "CFE-0051-CSAAN-0006-2026",
     "descripcion": "FERRETERIA",
     "fecha_publicacion": "20-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-23T11:59:04.181256-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA MOGALSA SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,MACO SA,VAESYCO INDUSTRIAL Y MINERO SA DE CV,",
+    "monto_adjudicado": "$206,136.60",
+    "ultima_lectura": "2026-03-25T15:36:03.043883-07:00"
   },
   "CFE-0101-ADCON-0003-2026": {
     "numero": "CFE-0101-ADCON-0003-2026",
@@ -4125,10 +4125,10 @@
     "numero": "CFE-0101-CACON-0011-2026",
     "descripcion": "Construcción de CTO. ETR-5330 línea aérea M.T. 33 KV-1C-3F-4H-11.50 KM 477AAC-PCR-3/0 AAC/AS, PO-488/2025, del programa de perdidas 2026, en Zona La Paz, B.C.S.",
     "fecha_publicacion": "11-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-11T09:54:41.299340-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCO COTA OLACHEA,",
+    "monto_adjudicado": "$3,265,268.82",
+    "ultima_lectura": "2026-03-25T15:36:01.198096-07:00"
   },
   "CFE-0101-ADSAN-0003-2026": {
     "numero": "CFE-0101-ADSAN-0003-2026",

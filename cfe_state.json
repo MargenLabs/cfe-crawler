@@ -4098,10 +4098,10 @@
     "numero": "CFE-0201-CSSAN-0003-2026",
     "descripcion": "SERVICIO RECOLECCIÓN DE BASURA EN INSTALACIONES GRTBC",
     "fecha_publicacion": "06-03-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-09T09:58:07.784070-07:00"
+    "ultima_lectura": "2026-03-25T10:04:10.601257-07:00"
   },
   "CFE-0201-CSSAN-0002-2026": {
     "numero": "CFE-0201-CSSAN-0002-2026",
@@ -4134,10 +4134,10 @@
     "numero": "CFE-0101-ADSAN-0003-2026",
     "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN BAJA CALIFORNIA 2DO. EVENTO",
     "fecha_publicacion": "11-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-11T09:54:41.361098-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA DE SEGURIDAD PRIVADA CON RESPONSABILIDAD SOCIAL,PREVINIENDO SC,PROVEEDORA DE SERVICIOS HIDALGOLOZ SA DE CV,",
+    "monto_adjudicado": "$10,823,669.93",
+    "ultima_lectura": "2026-03-25T10:04:10.374909-07:00"
   },
   "CFE-0614-CSAAN-0003-2026": {
     "numero": "CFE-0614-CSAAN-0003-2026",
@@ -4255,5 +4255,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-24T15:31:56.534140-07:00"
+  },
+  "CFE-0051-CSSAN-0010-2026": {
+    "numero": "CFE-0051-CSSAN-0010-2026",
+    "descripcion": "EXÁMENES MEDICOS PARA PERSONAL DE LA RGCP",
+    "fecha_publicacion": "25-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-25T10:04:09.435237-07:00"
+  },
+  "CFE-0101-CSSAN-0010-2026": {
+    "numero": "CFE-0101-CSSAN-0010-2026",
+    "descripcion": "REUBICACIÓN DE TRANSFORMADORES DE POTENCIA BCA",
+    "fecha_publicacion": "25-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-25T10:04:09.498593-07:00"
   }
 }

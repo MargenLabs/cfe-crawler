@@ -3990,10 +3990,10 @@
     "numero": "CFE-0201-CSAAN-0001-2026",
     "descripcion": "ADQUISICIÓN DE BOTAS DIELÉCTRICAS PARA PERSONAL DE CAMPO",
     "fecha_publicacion": "03-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-03T19:18:47.627031-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMANDO SA DE CV,",
+    "monto_adjudicado": "$1,617,720.00",
+    "ultima_lectura": "2026-03-26T10:04:19.274100-07:00"
   },
   "CFE-0614-CSAAA-0009-2026": {
     "numero": "CFE-0614-CSAAA-0009-2026",
@@ -4273,5 +4273,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-25T10:04:09.498593-07:00"
+  },
+  "CFE-0051-CSAAN-0008-2026": {
+    "numero": "CFE-0051-CSAAN-0008-2026",
+    "descripcion": "MATERIAL DE SOLDADURA",
+    "fecha_publicacion": "26-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-26T10:04:17.321032-07:00"
+  },
+  "CFE-0101-CACON-0016-2026": {
+    "numero": "CFE-0101-CACON-0016-2026",
+    "descripcion": "Construcción de 2 obras: PO-667/2025, CTO. FMX-04135, LMT 1C-3F-4H-13KV-5.185KM-477ACSR/AS y PO-668/2025, CTO. FMX-04145, LMT 1C-3F-4H-13KV-3.3KM-477ACSR/AS, en el Valle de Mexicali, B.C. del programa",
+    "fecha_publicacion": "26-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-26T10:04:17.379877-07:00"
+  },
+  "CFE-0614-CSAAA-0012-2026": {
+    "numero": "CFE-0614-CSAAA-0012-2026",
+    "descripcion": "Adquisición de tarjetas remanufacturadas para sistema de gobierno y PLC de Unidad 5 de la CG Cerro Prieto",
+    "fecha_publicacion": "25-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-26T10:04:17.435944-07:00"
   }
 }

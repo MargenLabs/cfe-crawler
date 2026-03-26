@@ -4300,5 +4300,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-26T10:04:17.435944-07:00"
+  },
+  "CFE-0101-ADAAN-0001-2026": {
+    "numero": "CFE-0101-ADAAN-0001-2026",
+    "descripcion": "ALIMENTOS PARA EMERGENCIA FRENTE FRIO No.35 Y UN NUEVO FRENTE FRIO",
+    "fecha_publicacion": "26-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-26T15:29:57.807652-07:00"
   }
 }

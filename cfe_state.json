@@ -4318,5 +4318,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-27T12:42:35.453689-07:00"
+  },
+  "CFE-0051-CSSAN-0011-2026": {
+    "numero": "CFE-0051-CSSAN-0011-2026",
+    "descripcion": "REPARACIÓN DE GRÚAS",
+    "fecha_publicacion": "27-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-27T15:32:33.369189-07:00"
+  },
+  "CFE-0101-CACON-0017-2026": {
+    "numero": "CFE-0101-CACON-0017-2026",
+    "descripcion": "Construcción de obra de electrificación de extensión de redes programa FSUE del Bloque 41 localidad Brisas de San Telmo; pertenecientes a Zona Ensenada en el Municipio de Ensenada, B.C.",
+    "fecha_publicacion": "27-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-27T15:32:33.425767-07:00"
   }
 }

@@ -4309,5 +4309,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-26T15:29:57.807652-07:00"
+  },
+  "CFE-0614-CSAAA-0013-2026": {
+    "numero": "CFE-0614-CSAAA-0013-2026",
+    "descripcion": "Adquisición de tornilleria para actividades de mantenimiento CG Cerro Prieto",
+    "fecha_publicacion": "27-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-27T12:42:35.453689-07:00"
   }
 }

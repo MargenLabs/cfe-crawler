@@ -4143,10 +4143,10 @@
     "numero": "CFE-0614-CSAAN-0003-2026",
     "descripcion": "Adquisición de ropa de trabajo para el personal de la C.C.I. Altar 2026",
     "fecha_publicacion": "12-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-12T09:59:39.598236-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$302,114.44",
+    "ultima_lectura": "2026-03-28T09:36:53.741946-07:00"
   },
   "CFE-0604-CSCON-0003-2026": {
     "numero": "CFE-0604-CSCON-0003-2026",
@@ -4197,10 +4197,10 @@
     "numero": "CFE-0614-CSSAN-0005-2026",
     "descripcion": "Servicio de agua potable de uso industrial mediante pipas para la Central de Combustión Interna Altar 2026",
     "fecha_publicacion": "18-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-18T10:02:08.702087-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JOSE FRANCISCO TAPIA LOPEZ,",
+    "monto_adjudicado": "$619,500.00",
+    "ultima_lectura": "2026-03-28T09:36:53.389180-07:00"
   },
   "CFE-0101-CACON-0014-2026": {
     "numero": "CFE-0101-CACON-0014-2026",
@@ -4336,5 +4336,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-27T15:32:33.425767-07:00"
+  },
+  "CFE-0604-CSSAN-0008-2026": {
+    "numero": "CFE-0604-CSSAN-0008-2026",
+    "descripcion": "SERVICIO DE ACONDICIONAMIENTO DE ACEITE DE LA C.T. PRESIDENTE JUÁREZ, C.C.C. PRESIDENTE JUÁREZ Y C.T.G. TIJUANA",
+    "fecha_publicacion": "28-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-28T09:36:52.416342-07:00"
+  },
+  "CFE-0604-CSAAA-0004-2026": {
+    "numero": "CFE-0604-CSAAA-0004-2026",
+    "descripcion": "ADQUISICIÓN DE BOMBAS PARA EQUIPOS AUXILIARES DE LAS UNIDADES 5 Y 6 DE LA C.T. PRESIDENTE JUÁREZ Y DE LAS UNIDADES 8,9 Y 10 DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "28-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-03-28T09:36:52.476944-07:00"
   }
 }

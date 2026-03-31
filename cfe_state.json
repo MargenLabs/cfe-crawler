@@ -4179,10 +4179,10 @@
     "numero": "CFE-0101-CACON-0012-2026",
     "descripcion": "Construcción de LMT 1C-13KV-3F-4H-1.5KM-477ACSR-3/0ACSR, PO-668/2025, PEC-224/2025, CTO. VLP-4115, el Porvenir, en Ensenada, B.C. del programa de perdidas 2026",
     "fecha_publicacion": "13-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-13T09:42:03.821898-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA ELECTRICA KOTKOFF SA DE CV,",
+    "monto_adjudicado": "$979,863.31",
+    "ultima_lectura": "2026-03-31T15:34:31.835439-07:00"
   },
   "CFE-0101-CACON-0013-2026": {
     "numero": "CFE-0101-CACON-0013-2026",

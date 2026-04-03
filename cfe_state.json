@@ -4080,10 +4080,10 @@
     "numero": "CFE-0101-CSAAN-0005-2026",
     "descripcion": "CRUCETAS 2026",
     "fecha_publicacion": "07-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-09T09:58:07.652514-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FORESTAL LA REFORMA SA DE CV,IMPREGNACIONES ESPECIALES SA DE CV,",
+    "monto_adjudicado": "$4,613,850.00",
+    "ultima_lectura": "2026-04-03T09:42:21.364969-07:00"
   },
   "CFE-0101-CSAAN-0004-2026": {
     "numero": "CFE-0101-CSAAN-0004-2026",
@@ -4363,5 +4363,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-03-30T15:35:39.537999-07:00"
+  },
+  "CFE-0101-CACON-0018-2026": {
+    "numero": "CFE-0101-CACON-0018-2026",
+    "descripcion": "Construcción de obras de media y baja tensión ejercicio 2026, en Zona La Paz, Municipio de La Paz, B.C.S.",
+    "fecha_publicacion": "01-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-03T09:42:19.629834-07:00"
+  },
+  "CFE-0614-CSSAN-0008-2026": {
+    "numero": "CFE-0614-CSSAN-0008-2026",
+    "descripcion": "Servicio de Rehabilitación de Motores Eléctricos de Baja Tensión de la CG Cerro Prieto",
+    "fecha_publicacion": "31-03-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-03T09:42:19.686849-07:00"
   }
 }

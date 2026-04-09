@@ -3666,10 +3666,10 @@
     "numero": "CFE-0101-CSAAA-0001-2026",
     "descripcion": "HERRAMIENTA MENOR 2026",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-02-16T19:29:43.827069-08:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EEPAT DE MEXICO SA DE CV,GRUPO SILZ SA DE CV,INDUSTRIAL FERRETERA SALAZAR SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$3,024,893.80",
+    "ultima_lectura": "2026-04-09T10:11:54.231804-07:00"
   },
   "CFE-0051-CSAAA-0002-2026": {
     "numero": "CFE-0051-CSAAA-0002-2026",
@@ -3693,10 +3693,10 @@
     "numero": "CFE-0604-CSAAN-0003-2026",
     "descripcion": "ADQUISICIÓN DE SUSTANCIAS QUÍMICAS PARA LA C.C.C PRESIDENTE JUÁREZ 2026",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Adjudicado",
+    "estado": "Contrato Sin Formalizar",
     "adjudicado_a": "DISTRIBUIDORA QUIMICA DE SONORA SA DE CV,K E N T H O QUIMICA DE MONTERREY SA DE CV,LAUKA MEXICANA SA DE CV,SERVICAL MEXICANA SA DE CV,",
     "monto_adjudicado": "$2,080,891.80",
-    "ultima_lectura": "2026-02-26T14:33:28.744410-08:00"
+    "ultima_lectura": "2026-04-09T10:11:54.384662-07:00"
   },
   "CFE-0101-CSAAN-0001-2026": {
     "numero": "CFE-0101-CSAAN-0001-2026",
@@ -4408,5 +4408,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-08T10:04:46.578549-07:00"
+  },
+  "CFE-0051-CSSAN-0012-2026": {
+    "numero": "CFE-0051-CSSAN-0012-2026",
+    "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES",
+    "fecha_publicacion": "09-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-09T10:11:49.813271-07:00"
+  },
+  "CFE-0101-CSAAN-0003-2026": {
+    "numero": "CFE-0101-CSAAN-0003-2026",
+    "descripcion": "ESLABON FUSIBLE",
+    "fecha_publicacion": "09-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-09T10:11:49.870072-07:00"
+  },
+  "CFE-0604-CSSAN-0010-2026": {
+    "numero": "CFE-0604-CSSAN-0010-2026",
+    "descripcion": "SERVICIO DE MONITOREO DE EMISIONES DE GASES A LA ATMÓSFERA EN CHIMENEAS DE FUENTES FIJAS, RUIDO PERIMETRAL, MEDICIÓN DE ILUMINACIÓN Y ANÁLISIS CRETI DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "08-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-09T10:11:49.925358-07:00"
   }
 }

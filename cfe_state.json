@@ -3693,10 +3693,10 @@
     "numero": "CFE-0604-CSAAN-0003-2026",
     "descripcion": "ADQUISICIÓN DE SUSTANCIAS QUÍMICAS PARA LA C.C.C PRESIDENTE JUÁREZ 2026",
     "fecha_publicacion": "16-02-2026",
-    "estado": "Contrato Sin Formalizar",
-    "adjudicado_a": "DISTRIBUIDORA QUIMICA DE SONORA SA DE CV,K E N T H O QUIMICA DE MONTERREY SA DE CV,LAUKA MEXICANA SA DE CV,SERVICAL MEXICANA SA DE CV,",
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERVICAL MEXICANA SA DE CV, LAUKA MEXICANA SA DE CV, DISTRIBUIDORA QUIMICA DE SONORA SA DE CV, K E N T H O QUIMICA DE MONTERREY SA DE CV",
     "monto_adjudicado": "$2,080,891.80",
-    "ultima_lectura": "2026-04-09T10:11:54.384662-07:00"
+    "ultima_lectura": "2026-04-09T13:03:31.867431-07:00"
   },
   "CFE-0101-CSAAN-0001-2026": {
     "numero": "CFE-0101-CSAAN-0001-2026",
@@ -4206,10 +4206,10 @@
     "numero": "CFE-0101-CACON-0014-2026",
     "descripcion": "Construcción de LMT 1C-33KV-3F-4H-1.5KM-477ACSR-3/0ACSR, PO-694/2025, PEC-221/2025, CTO. SMN-5120, Ej. Papalote, en San Quintin, B.C. del programa de perdidas 2026",
     "fecha_publicacion": "18-03-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-18T15:32:19.830998-07:00"
+    "ultima_lectura": "2026-04-09T13:03:28.751913-07:00"
   },
   "CFE-0101-CACON-0015-2026": {
     "numero": "CFE-0101-CACON-0015-2026",

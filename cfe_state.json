@@ -4296,10 +4296,10 @@
     "numero": "CFE-0614-CSAAA-0012-2026",
     "descripcion": "Adquisición de tarjetas remanufacturadas para sistema de gobierno y PLC de Unidad 5 de la CG Cerro Prieto",
     "fecha_publicacion": "25-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-26T10:04:17.435944-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,SOLUCIONES INDUSTRIALES XHITAO SA DE CV,",
+    "monto_adjudicado": "$2,149,685.34",
+    "ultima_lectura": "2026-04-10T15:37:29.761120-07:00"
   },
   "CFE-0101-ADAAN-0001-2026": {
     "numero": "CFE-0101-ADAAN-0001-2026",
@@ -4350,10 +4350,10 @@
     "numero": "CFE-0604-CSAAA-0004-2026",
     "descripcion": "ADQUISICIÓN DE BOMBAS PARA EQUIPOS AUXILIARES DE LAS UNIDADES 5 Y 6 DE LA C.T. PRESIDENTE JUÁREZ Y DE LAS UNIDADES 8,9 Y 10 DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "28-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-28T09:36:52.476944-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CENTRIFUGAL PUMPS, MECHANICAL SEALS, SERVICE, S.A. DE C.V.,INDUSTRIA REGIOMONTANA QUANTRON SA DE CV,",
+    "monto_adjudicado": "$1,121,670.47",
+    "ultima_lectura": "2026-04-10T15:37:29.357125-07:00"
   },
   "CFE-0614-CSAAN-0004-2026": {
     "numero": "CFE-0614-CSAAN-0004-2026",
@@ -4444,5 +4444,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-10T09:54:00.705254-07:00"
+  },
+  "CFE-0051-CSAAA-0004-2026": {
+    "numero": "CFE-0051-CSAAA-0004-2026",
+    "descripcion": "REFACCIONES PARA MANTENIMIENTO DE HERRAMIENTA",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-10T15:37:28.586868-07:00"
+  },
+  "CFE-0101-CSAAA-0002-2026": {
+    "numero": "CFE-0101-CSAAA-0002-2026",
+    "descripcion": "LLAVES PARA ARO DE SEGURIDAD",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-10T15:37:28.644694-07:00"
   }
 }

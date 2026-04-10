@@ -4435,5 +4435,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-09T10:11:49.925358-07:00"
+  },
+  "CFE-0101-CSAAN-0007-2026": {
+    "numero": "CFE-0101-CSAAN-0007-2026",
+    "descripcion": "SELLOS TIPO CANDADO",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-10T09:54:00.705254-07:00"
   }
 }

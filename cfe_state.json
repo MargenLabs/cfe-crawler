@@ -4462,5 +4462,68 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-10T15:37:28.644694-07:00"
+  },
+  "CFE-0101-CACON-0020-2026": {
+    "numero": "CFE-0101-CACON-0020-2026",
+    "descripcion": "Plan de Justicia Energética, Municipio de San Quintin, B.C., pertenecientes a la Zona Ensenada",
+    "fecha_publicacion": "11-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.081078-07:00"
+  },
+  "CFE-0604-ADSAN-0001-2026": {
+    "numero": "CFE-0604-ADSAN-0001-2026",
+    "descripcion": "SERVICIO DE MANTENIMIENTO DE ESTANCO EN SUBESTACIÓN ENCAPSULADA SF6 PARA CORRECIÓN DE FUGA DE ACEITE BOQUILLA FASE \"B\" DE ALTA TENSIÓN DE TRANSFORMADOR PRINCIPAL U9 DE LA C.C.C PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "11-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.147278-07:00"
+  },
+  "CFE-0101-ADCON-0008-2026": {
+    "numero": "CFE-0101-ADCON-0008-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.210285-07:00"
+  },
+  "CFE-0101-ADCON-0007-2026": {
+    "numero": "CFE-0101-ADCON-0007-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.272573-07:00"
+  },
+  "CFE-0101-ADCON-0006-2026": {
+    "numero": "CFE-0101-ADCON-0006-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.351822-07:00"
+  },
+  "CFE-0101-ADCON-0005-2026": {
+    "numero": "CFE-0101-ADCON-0005-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.437078-07:00"
+  },
+  "CFE-0101-ADCON-0004-2026": {
+    "numero": "CFE-0101-ADCON-0004-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "10-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-11T09:39:00.495767-07:00"
   }
 }

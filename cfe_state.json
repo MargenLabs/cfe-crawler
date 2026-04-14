@@ -4242,10 +4242,10 @@
     "numero": "CFE-0614-CSSAN-0007-2026",
     "descripcion": "Servicio de monitoreo de ruido perimetral, calidad del aire y emisiones para la C.C.I. Altar 2026",
     "fecha_publicacion": "24-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-24T10:01:00.863366-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIA Y SERVICIOS ANALITICOS SA DE CV,",
+    "monto_adjudicado": "$528,050.00",
+    "ultima_lectura": "2026-04-14T15:44:47.170303-07:00"
   },
   "CFE-0604-CSCON-0005-2026": {
     "numero": "CFE-0604-CSCON-0005-2026",
@@ -4476,10 +4476,10 @@
     "numero": "CFE-0604-ADSAN-0001-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO DE ESTANCO EN SUBESTACIÓN ENCAPSULADA SF6 PARA CORRECIÓN DE FUGA DE ACEITE BOQUILLA FASE \"B\" DE ALTA TENSIÓN DE TRANSFORMADOR PRINCIPAL U9 DE LA C.C.C PRESIDENTE JUÁREZ",
     "fecha_publicacion": "11-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.147278-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SAME POTENCIA S DE RL DE CV,",
+    "monto_adjudicado": "$338,050.17",
+    "ultima_lectura": "2026-04-14T15:44:45.479921-07:00"
   },
   "CFE-0101-ADCON-0008-2026": {
     "numero": "CFE-0101-ADCON-0008-2026",
@@ -4534,5 +4534,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-13T15:42:43.173176-07:00"
+  },
+  "CFE-0614-CSSAN-0009-2026": {
+    "numero": "CFE-0614-CSSAN-0009-2026",
+    "descripcion": "Servicio de análisis fisicoquímicos de aceite, agua y diésel de la Central de Combustión Interna Altar.",
+    "fecha_publicacion": "13-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-14T15:44:45.308059-07:00"
   }
 }

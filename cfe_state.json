@@ -4404,10 +4404,10 @@
     "numero": "CFE-0604-CSSAN-0009-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO DE CAJAS Y FLUXERÍA DE CONDENSADORES DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "06-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-08T10:04:46.578549-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
+    "monto_adjudicado": "$482,400.00",
+    "ultima_lectura": "2026-04-15T10:05:39.801415-07:00"
   },
   "CFE-0051-CSSAN-0012-2026": {
     "numero": "CFE-0051-CSSAN-0012-2026",
@@ -4543,5 +4543,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-14T15:44:45.308059-07:00"
+  },
+  "CFE-0051-CSAAA-0005-2026": {
+    "numero": "CFE-0051-CSAAA-0005-2026",
+    "descripcion": "ARRANCADOR A TENSIÓN REDUCIDA PARA MOTOR",
+    "fecha_publicacion": "15-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-15T10:05:38.791065-07:00"
   }
 }

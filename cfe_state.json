@@ -4269,10 +4269,10 @@
     "numero": "CFE-0101-CSSAN-0010-2026",
     "descripcion": "REUBICACIÓN DE TRANSFORMADORES DE POTENCIA BCA",
     "fecha_publicacion": "25-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-25T10:04:09.498593-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERMANTT SA DE CV,",
+    "monto_adjudicado": "$4,520,000.00",
+    "ultima_lectura": "2026-04-16T13:01:23.470988-07:00"
   },
   "CFE-0051-CSAAN-0008-2026": {
     "numero": "CFE-0051-CSAAN-0008-2026",
@@ -4287,10 +4287,10 @@
     "numero": "CFE-0101-CACON-0016-2026",
     "descripcion": "Construcción de 2 obras: PO-667/2025, CTO. FMX-04135, LMT 1C-3F-4H-13KV-5.185KM-477ACSR/AS y PO-668/2025, CTO. FMX-04145, LMT 1C-3F-4H-13KV-3.3KM-477ACSR/AS, en el Valle de Mexicali, B.C. del programa",
     "fecha_publicacion": "26-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-26T10:04:17.379877-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
+    "monto_adjudicado": "$2,568,868.39",
+    "ultima_lectura": "2026-04-16T13:01:23.303961-07:00"
   },
   "CFE-0614-CSAAA-0012-2026": {
     "numero": "CFE-0614-CSAAA-0012-2026",
@@ -4552,5 +4552,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-15T10:05:38.791065-07:00"
+  },
+  "CFE-0101-CSAAA-0003-2026": {
+    "numero": "CFE-0101-CSAAA-0003-2026",
+    "descripcion": "LLANTAS 2026",
+    "fecha_publicacion": "16-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-16T13:01:21.524055-07:00"
   }
 }

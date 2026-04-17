@@ -4377,10 +4377,10 @@
     "numero": "CFE-0614-CSSAN-0008-2026",
     "descripcion": "Servicio de Rehabilitación de Motores Eléctricos de Baja Tensión de la CG Cerro Prieto",
     "fecha_publicacion": "31-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-03T09:42:19.686849-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ALFA BOBINADOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$1,402,371.36",
+    "ultima_lectura": "2026-04-17T15:38:44.826860-07:00"
   },
   "CFE-0604-CSCON-0006-2026": {
     "numero": "CFE-0604-CSCON-0006-2026",
@@ -4615,5 +4615,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-17T09:56:01.365614-07:00"
+  },
+  "CFE-0604-CSAAN-0007-2026": {
+    "numero": "CFE-0604-CSAAN-0007-2026",
+    "descripcion": "ADQUISICIÓN DE INTERCAMBIADOR DE CALOR AIRE DE ATOMIZACIÓN Y SERVICIO DE INSTALACIÓN PARA UNIDAD 1 DE LA C.T.G. CIPRÉS",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T15:38:43.172489-07:00"
+  },
+  "CFE-0614-CSCON-0001-2026": {
+    "numero": "CFE-0614-CSCON-0001-2026",
+    "descripcion": "Mantenimiento y restauración de la estructura de la red del sistema contraincendios de la C.G. Cerro prieto",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T15:38:43.229660-07:00"
   }
 }

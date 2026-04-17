@@ -4431,10 +4431,10 @@
     "numero": "CFE-0604-CSSAN-0010-2026",
     "descripcion": "SERVICIO DE MONITOREO DE EMISIONES DE GASES A LA ATMÓSFERA EN CHIMENEAS DE FUENTES FIJAS, RUIDO PERIMETRAL, MEDICIÓN DE ILUMINACIÓN Y ANÁLISIS CRETI DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
     "fecha_publicacion": "08-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-09T10:11:49.925358-07:00"
+    "ultima_lectura": "2026-04-17T09:56:02.310539-07:00"
   },
   "CFE-0101-CSAAN-0007-2026": {
     "numero": "CFE-0101-CSAAN-0007-2026",
@@ -4561,5 +4561,59 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-16T13:01:21.524055-07:00"
+  },
+  "CFE-0101-ADCON-0012-2026": {
+    "numero": "CFE-0101-ADCON-0012-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica por daños ocasionados por presencia de frente frio No.35 en Zona San Luis, en el Valle de Mexicali, B.C.",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.082191-07:00"
+  },
+  "CFE-0101-ADCON-0011-2026": {
+    "numero": "CFE-0101-ADCON-0011-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica por daños ocasionados por presencia de frente frio No.35 en Zona San Luis, en el Valle de Mexicali, B.C.",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.137839-07:00"
+  },
+  "CFE-0101-ADCON-0010-2026": {
+    "numero": "CFE-0101-ADCON-0010-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica por daños ocasionados por presencia de frente frio No.35 en Zona San Luis, en el Valle de Mexicali, B.C.",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.192591-07:00"
+  },
+  "CFE-0101-ADCON-0009-2026": {
+    "numero": "CFE-0101-ADCON-0009-2026",
+    "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica por daños ocasionados por presencia de frente frio No.35 en Zona San Luis, en el Valle de Mexicali, B.C.",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.248805-07:00"
+  },
+  "CFE-0604-CSSAN-0011-2026": {
+    "numero": "CFE-0604-CSSAN-0011-2026",
+    "descripcion": "SERVICIO DE REHABILITACIÓN A MOTORES ELÉCTRICOS DE LA UNIDAD 6 Y UNIDAD 10/11 DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.309676-07:00"
+  },
+  "CFE-0604-CSAAA-0006-2026": {
+    "numero": "CFE-0604-CSAAA-0006-2026",
+    "descripcion": "ADQUISICIÓN DE EQUIPO ANALIZADOR DE GASES DISUELTOS EN EL ACEITE DEL TRANSFORMADOR EN LÍNEA Y SERVICIO DE INSTALACIÓN PARA LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "16-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-17T09:56:01.365614-07:00"
   }
 }

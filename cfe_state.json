@@ -4633,5 +4633,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-17T15:38:43.229660-07:00"
+  },
+  "CFE-0614-CSAAN-0005-2026": {
+    "numero": "CFE-0614-CSAAN-0005-2026",
+    "descripcion": "Adquisición de productos de limpieza para la C.C.I. Altar 2026.",
+    "fecha_publicacion": "18-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-18T09:42:35.825925-07:00"
+  },
+  "CFE-0101-CACON-0021-2026": {
+    "numero": "CFE-0101-CACON-0021-2026",
+    "descripcion": "Construcción de 3 obras: PO-666/2025, CTO. SQN-5110, LMT 1C-33KV-3F-4H-1.5KM-477ACSR-3/0ACSR, en Punta Colonet, B.C., PO-643/2025, CTO. SQN-5140, LMT 1C-33KV-3F-4H-1.7KM-477ACSR-3/0ACSR, en San Quinti",
+    "fecha_publicacion": "17-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-18T09:42:35.884793-07:00"
   }
 }

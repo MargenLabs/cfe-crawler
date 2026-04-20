@@ -4651,5 +4651,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-18T09:42:35.884793-07:00"
+  },
+  "CFE-0051-CSAAN-0009-2026": {
+    "numero": "CFE-0051-CSAAN-0009-2026",
+    "descripcion": "PLACAS",
+    "fecha_publicacion": "20-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-20T13:01:07.735914-07:00"
   }
 }

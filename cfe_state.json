@@ -4678,5 +4678,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-21T10:04:37.746141-07:00"
+  },
+  "CFE-0604-CSAAA-0007-2026": {
+    "numero": "CFE-0604-CSAAA-0007-2026",
+    "descripcion": "ADQUISICIÓN DE SERVOVÁLVULAS PARA LA C.C.C. PRESIDENTE JUÁREZ, C.T. PRESIDENTE JUÁREZ Y C.T.G. TIJUANA",
+    "fecha_publicacion": "21-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-21T15:37:49.715906-07:00"
+  },
+  "CFE-0101-CSAAN-0008-2026": {
+    "numero": "CFE-0101-CSAAN-0008-2026",
+    "descripcion": "REMATE PREFORMADO 2026",
+    "fecha_publicacion": "21-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-21T15:37:49.782914-07:00"
   }
 }

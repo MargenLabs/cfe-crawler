@@ -4368,10 +4368,10 @@
     "numero": "CFE-0101-CACON-0018-2026",
     "descripcion": "Construcción de obras de media y baja tensión ejercicio 2026, en Zona La Paz, Municipio de La Paz, B.C.S.",
     "fecha_publicacion": "01-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-03T09:42:19.629834-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
+    "monto_adjudicado": "$2,139,891.34",
+    "ultima_lectura": "2026-04-22T13:08:00.572436-07:00"
   },
   "CFE-0614-CSSAN-0008-2026": {
     "numero": "CFE-0614-CSSAN-0008-2026",
@@ -4714,5 +4714,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-22T10:03:54.934738-07:00"
+  },
+  "CFE-0101-CSAAA-0004-2026": {
+    "numero": "CFE-0101-CSAAA-0004-2026",
+    "descripcion": "BATERIAS EPROSEC",
+    "fecha_publicacion": "22-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-22T13:07:58.264180-07:00"
   }
 }

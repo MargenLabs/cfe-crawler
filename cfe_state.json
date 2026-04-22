@@ -4696,5 +4696,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-21T15:37:49.782914-07:00"
+  },
+  "CFE-0101-ADSAN-0004-2026": {
+    "numero": "CFE-0101-ADSAN-0004-2026",
+    "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN B.C.",
+    "fecha_publicacion": "22-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-22T10:03:54.872592-07:00"
+  },
+  "CFE-0604-CSSAN-0013-2026": {
+    "numero": "CFE-0604-CSSAN-0013-2026",
+    "descripcion": "SERVICIO ANUAL PARA LA RECOLECCIÓN DE RESIDUOS SÓLIDOS URBANOS DE LA C.T. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "21-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-22T10:03:54.934738-07:00"
   }
 }

@@ -4314,10 +4314,10 @@
     "numero": "CFE-0614-CSAAA-0013-2026",
     "descripcion": "Adquisición de tornilleria para actividades de mantenimiento CG Cerro Prieto",
     "fecha_publicacion": "27-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-27T12:42:35.453689-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,INOX VER SA DE CV,RICARDO FLORES MENDOZA,IAM TOOLS S DE RL DE CV,NABANI ENERGY SA DE CV,COMPAÑIA FLAT ENERGY S DE RL DE CV,",
+    "monto_adjudicado": "$2,038,862.90",
+    "ultima_lectura": "2026-04-22T15:47:58.811476-07:00"
   },
   "CFE-0051-CSSAN-0011-2026": {
     "numero": "CFE-0051-CSSAN-0011-2026",

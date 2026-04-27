@@ -4467,10 +4467,10 @@
     "numero": "CFE-0101-CACON-0020-2026",
     "descripcion": "Plan de Justicia Energética, Municipio de San Quintin, B.C., pertenecientes a la Zona Ensenada",
     "fecha_publicacion": "11-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.081078-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESPACIOS ARQUITECTONICOS PIMAR SA DE CV,",
+    "monto_adjudicado": "$7,399,623.52",
+    "ultima_lectura": "2026-04-27T13:11:36.929252-07:00"
   },
   "CFE-0604-ADSAN-0001-2026": {
     "numero": "CFE-0604-ADSAN-0001-2026",
@@ -4602,10 +4602,10 @@
     "numero": "CFE-0604-CSSAN-0011-2026",
     "descripcion": "SERVICIO DE REHABILITACIÓN A MOTORES ELÉCTRICOS DE LA UNIDAD 6 Y UNIDAD 10/11 DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "17-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-17T09:56:01.309676-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LERMA ELECTRICAL MOTORS SA DE CV,",
+    "monto_adjudicado": "$1,497,930.00",
+    "ultima_lectura": "2026-04-27T13:11:36.568388-07:00"
   },
   "CFE-0604-CSAAA-0006-2026": {
     "numero": "CFE-0604-CSAAA-0006-2026",

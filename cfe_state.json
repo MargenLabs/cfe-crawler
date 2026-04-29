@@ -4395,10 +4395,10 @@
     "numero": "CFE-0101-CACON-0019-2026",
     "descripcion": "Construcción de 2 obras PO-132-2025, en CTO. VPA-4155 L.M.T. 13 KV-3F-4H-2.08 KM 477AAC-PCR-3/0 ACSR, y PO-773-2025, CTO. GOR-4165 L.M.T. 13 KV-3F-4H-1.4 KM 477AAC-PCR-3/0 ACSR, del programa de perdid",
     "fecha_publicacion": "07-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-08T10:04:46.523496-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
+    "monto_adjudicado": "$1,766,124.70",
+    "ultima_lectura": "2026-04-29T10:40:45.102812-07:00"
   },
   "CFE-0604-CSSAN-0009-2026": {
     "numero": "CFE-0604-CSSAN-0009-2026",
@@ -4539,10 +4539,10 @@
     "numero": "CFE-0614-CSSAN-0009-2026",
     "descripcion": "Servicio de análisis fisicoquímicos de aceite, agua y diésel de la Central de Combustión Interna Altar.",
     "fecha_publicacion": "13-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-14T15:44:45.308059-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,",
+    "monto_adjudicado": "$4,747,829.67",
+    "ultima_lectura": "2026-04-29T10:40:44.163999-07:00"
   },
   "CFE-0051-CSAAA-0005-2026": {
     "numero": "CFE-0051-CSAAA-0005-2026",
@@ -4620,10 +4620,10 @@
     "numero": "CFE-0604-CSAAN-0007-2026",
     "descripcion": "ADQUISICIÓN DE INTERCAMBIADOR DE CALOR AIRE DE ATOMIZACIÓN Y SERVICIO DE INSTALACIÓN PARA UNIDAD 1 DE LA C.T.G. CIPRÉS",
     "fecha_publicacion": "17-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-17T15:38:43.172489-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RENDON HERNANDEZ SERVICIOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$1,264,200.00",
+    "ultima_lectura": "2026-04-29T10:40:43.558358-07:00"
   },
   "CFE-0614-CSCON-0001-2026": {
     "numero": "CFE-0614-CSCON-0001-2026",
@@ -4795,5 +4795,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-28T15:56:38.165668-07:00"
+  },
+  "CFE-0051-CSAAA-0006-2026": {
+    "numero": "CFE-0051-CSAAA-0006-2026",
+    "descripcion": "ALAMBRE DE ACERO INOXIDABLE",
+    "fecha_publicacion": "29-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-29T10:40:42.429201-07:00"
   }
 }

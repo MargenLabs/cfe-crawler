@@ -4233,10 +4233,10 @@
     "numero": "CFE-0051-CSAAN-0007-2026",
     "descripcion": "ESTROBOS Y CABLES DE ACERO",
     "fecha_publicacion": "23-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-23T12:50:36.570365-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MAYOREO ELECTROMECANICO SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$72,480.83",
+    "ultima_lectura": "2026-04-29T15:56:39.962616-07:00"
   },
   "CFE-0614-CSSAN-0007-2026": {
     "numero": "CFE-0614-CSSAN-0007-2026",
@@ -4485,46 +4485,46 @@
     "numero": "CFE-0101-ADCON-0008-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.210285-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
+    "monto_adjudicado": "$289,570.07",
+    "ultima_lectura": "2026-04-29T15:56:38.460347-07:00"
   },
   "CFE-0101-ADCON-0007-2026": {
     "numero": "CFE-0101-ADCON-0007-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.272573-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
+    "monto_adjudicado": "$236,375.43",
+    "ultima_lectura": "2026-04-29T15:56:38.509338-07:00"
   },
   "CFE-0101-ADCON-0006-2026": {
     "numero": "CFE-0101-ADCON-0006-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.351822-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EDISON CONSTRUCTORA DE BAJA CALIFORNIA S DE RL DE CV,",
+    "monto_adjudicado": "$70,261.08",
+    "ultima_lectura": "2026-04-29T15:56:38.559512-07:00"
   },
   "CFE-0101-ADCON-0005-2026": {
     "numero": "CFE-0101-ADCON-0005-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.437078-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$481,413.27",
+    "ultima_lectura": "2026-04-29T15:56:38.609394-07:00"
   },
   "CFE-0101-ADCON-0004-2026": {
     "numero": "CFE-0101-ADCON-0004-2026",
     "descripcion": "Trabajos de restablecimiento del servicio publico de energia electrica, por daños ocasionados por presencia de frente frio N.35 y un nuevo frente frio, en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-11T09:39:00.495767-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABRAHAM ESTRADA VEGA,",
+    "monto_adjudicado": "$154,430.47",
+    "ultima_lectura": "2026-04-29T15:56:38.659374-07:00"
   },
   "CFE-0604-CSAAA-0005-2026": {
     "numero": "CFE-0604-CSAAA-0005-2026",
@@ -4804,5 +4804,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-29T10:40:42.429201-07:00"
+  },
+  "CFE-0614-CSSAN-0011-2026": {
+    "numero": "CFE-0614-CSSAN-0011-2026",
+    "descripcion": "Servicio de limpieza a oficinas para la Subgerencia de Producción Termoeléctrica Baja California y la Central Turbogas Mexicali",
+    "fecha_publicacion": "29-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-29T15:56:36.606101-07:00"
+  },
+  "CFE-0614-CSSAN-0012-2026": {
+    "numero": "CFE-0614-CSSAN-0012-2026",
+    "descripcion": "Servicio de Recolección, Transporte y Disposición Final para los Residuos Peligrosos de la C.C.I. Altar 2026",
+    "fecha_publicacion": "29-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-29T15:56:36.661100-07:00"
   }
 }

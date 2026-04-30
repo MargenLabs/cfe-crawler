@@ -4323,10 +4323,10 @@
     "numero": "CFE-0051-CSSAN-0011-2026",
     "descripcion": "REPARACIÓN DE GRÚAS",
     "fecha_publicacion": "27-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-27T15:32:33.369189-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABASTECEDORA DE REFACCIONES Y SERVICIO HIDRAULICO SA DE CV,PROVEEDORES INDUSTRIALES DE B C S DE RL DE CV,",
+    "monto_adjudicado": "$987,466.00",
+    "ultima_lectura": "2026-04-30T15:52:58.958597-07:00"
   },
   "CFE-0101-CACON-0017-2026": {
     "numero": "CFE-0101-CACON-0017-2026",
@@ -4701,10 +4701,10 @@
     "numero": "CFE-0101-ADSAN-0004-2026",
     "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN B.C.",
     "fecha_publicacion": "22-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-22T10:03:54.872592-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA DE SEGURIDAD PRIVADA CON RESPONSABILIDAD SOCIAL,PREVINIENDO SC,SISTEMAS PRACTICOS EN SEGURIDAD PRIVADA SA DE CV,",
+    "monto_adjudicado": "$5,905,730.60",
+    "ultima_lectura": "2026-04-30T15:52:56.810895-07:00"
   },
   "CFE-0604-CSSAN-0013-2026": {
     "numero": "CFE-0604-CSSAN-0013-2026",
@@ -4840,5 +4840,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-30T10:23:18.515741-07:00"
+  },
+  "CFE-0614-CSSAN-0013-2026": {
+    "numero": "CFE-0614-CSSAN-0013-2026",
+    "descripcion": "Servicio de recolección y disposición final de residuos sólidos urbanos de la C.C.I. Altar 2026.",
+    "fecha_publicacion": "30-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-30T15:52:56.032268-07:00"
   }
 }

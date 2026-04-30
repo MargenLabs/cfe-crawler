@@ -4737,10 +4737,10 @@
     "numero": "CFE-0604-CSSAN-0014-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO A SISTEMA DE CONTROL DE TURBINA MARK V Y MARK VI PARA LAS UNIDADES DE LA C.T. PRESIDENTE JUÁREZ Y C.T.G. TIJUANA",
     "fecha_publicacion": "23-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-23T10:22:11.334945-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
+    "monto_adjudicado": "$2,399,492.26",
+    "ultima_lectura": "2026-04-30T10:23:19.144093-07:00"
   },
   "CFE-0101-CSAAN-0009-2026": {
     "numero": "CFE-0101-CSAAN-0009-2026",
@@ -4822,5 +4822,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-04-29T15:56:36.661100-07:00"
+  },
+  "CFE-0201-CACON-0002-2026": {
+    "numero": "CFE-0201-CACON-0002-2026",
+    "descripcion": "Rehabilitación de Cimentaciones en Estructuras de Acero de Líneas de Transmisión de la Zona de Transmisión Sur",
+    "fecha_publicacion": "29-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-30T10:23:18.457933-07:00"
+  },
+  "CFE-0604-CSSAN-0015-2026": {
+    "numero": "CFE-0604-CSSAN-0015-2026",
+    "descripcion": "SERVICIO DE MANTENIMIENTO PARA MOTORES ELÉCTRICOS DE LA C.T.G. CIPRÉS",
+    "fecha_publicacion": "29-04-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-04-30T10:23:18.515741-07:00"
   }
 }

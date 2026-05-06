@@ -4458,10 +4458,10 @@
     "numero": "CFE-0101-CSAAA-0002-2026",
     "descripcion": "LLAVES PARA ARO DE SEGURIDAD",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-10T15:37:28.644694-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ALEJANDRO BRETON BUSTOS,",
+    "monto_adjudicado": "$1,722,918.00",
+    "ultima_lectura": "2026-05-06T15:52:59.447990-07:00"
   },
   "CFE-0101-CACON-0020-2026": {
     "numero": "CFE-0101-CACON-0020-2026",
@@ -4912,5 +4912,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-06T10:55:22.272230-07:00"
+  },
+  "CFE-0604-CSCON-0007-2026": {
+    "numero": "CFE-0604-CSCON-0007-2026",
+    "descripcion": "MANTENIMIENTO INTEGRAL DE ESTACIONAMIENTOS INTERIORES DEL COMPLEJO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "06-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-06T15:52:56.558044-07:00"
   }
 }

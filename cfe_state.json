@@ -4755,10 +4755,10 @@
     "numero": "CFE-0614-CSAAA-0014-2026",
     "descripcion": "Adquisición de refacciones para PLC de variables de proceso de las unidades de 110 MW de la CG Cerro Prieto",
     "fecha_publicacion": "24-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-24T09:59:12.827222-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$488,332.22",
+    "ultima_lectura": "2026-05-07T16:00:28.003658-07:00"
   },
   "CFE-0614-CSSAN-0010-2026": {
     "numero": "CFE-0614-CSSAN-0010-2026",
@@ -4930,5 +4930,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-07T10:49:09.429572-07:00"
+  },
+  "CFE-0604-CSCON-0009-2026": {
+    "numero": "CFE-0604-CSCON-0009-2026",
+    "descripcion": "MANTENIMIENTO INTEGRAL DE LAS AERODERIVADAS DE LA C.T.G. TIJUANA",
+    "fecha_publicacion": "07-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-07T16:00:26.836919-07:00"
   }
 }

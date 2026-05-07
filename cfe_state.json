@@ -4413,10 +4413,10 @@
     "numero": "CFE-0051-CSSAN-0012-2026",
     "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES",
     "fecha_publicacion": "09-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-09T10:11:49.813271-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DP3 MEXICALI SA DE CV,",
+    "monto_adjudicado": "$185,289.00",
+    "ultima_lectura": "2026-05-07T13:18:03.782673-07:00"
   },
   "CFE-0101-CSAAN-0003-2026": {
     "numero": "CFE-0101-CSAAN-0003-2026",

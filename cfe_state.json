@@ -4440,10 +4440,10 @@
     "numero": "CFE-0101-CSAAN-0007-2026",
     "descripcion": "SELLOS TIPO CANDADO",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-10T09:54:00.705254-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AS SYSTEMS SA DE CV,GRAY SEAL SA DE CV,",
+    "monto_adjudicado": "$1,140,717.00",
+    "ultima_lectura": "2026-05-08T10:19:57.121246-07:00"
   },
   "CFE-0051-CSAAA-0004-2026": {
     "numero": "CFE-0051-CSAAA-0004-2026",
@@ -4939,5 +4939,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-07T16:00:26.836919-07:00"
+  },
+  "CFE-0051-CSSAN-0014-2026": {
+    "numero": "CFE-0051-CSSAN-0014-2026",
+    "descripcion": "MANTENIMIENTO A SISTEMAS DE ALARMAS CONTRA INCENDIO",
+    "fecha_publicacion": "08-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-08T10:19:53.782704-07:00"
+  },
+  "CFE-0028-CSSAN-0001-2026": {
+    "numero": "CFE-0028-CSSAN-0001-2026",
+    "descripcion": "Servicio de limpieza con \"turno\" de 8 horas de lunes a viernes en la Instalaciones de la Residencia General II Rosarito",
+    "fecha_publicacion": "08-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-08T10:19:53.841446-07:00"
+  },
+  "CFE-0101-CASON-0003-2026": {
+    "numero": "CFE-0101-CASON-0003-2026",
+    "descripcion": "Elaboración de estudio de mecánica de suelos y escaneo por georradar para Edificio de Oficinas Divisionales de CFE, en Mexicali, B.C.",
+    "fecha_publicacion": "08-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-08T10:19:53.898205-07:00"
+  },
+  "CFE-0604-CSSAN-0018-2026": {
+    "numero": "CFE-0604-CSSAN-0018-2026",
+    "descripcion": "SERVICIO DE RECARGA Y MANTENIMIENTO A EXTINTORES DE LA C.T. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "08-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-08T10:19:53.957268-07:00"
   }
 }

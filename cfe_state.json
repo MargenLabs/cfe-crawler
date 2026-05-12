@@ -4557,10 +4557,10 @@
     "numero": "CFE-0101-CSAAA-0003-2026",
     "descripcion": "LLANTAS 2026",
     "fecha_publicacion": "16-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-16T13:01:21.524055-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ADRIAN ALFREDO AYALA MARTINEZ,ALAN ENRIQUE AYALA MARTINEZ,",
+    "monto_adjudicado": "$1,350,092.40",
+    "ultima_lectura": "2026-05-12T13:42:40.967424-07:00"
   },
   "CFE-0101-ADCON-0012-2026": {
     "numero": "CFE-0101-ADCON-0012-2026",
@@ -4908,10 +4908,10 @@
     "numero": "CFE-0101-ADAAN-0002-2026",
     "descripcion": "CENTRO DE CARGA BASE DE MEDICION INTEGRAL M-1",
     "fecha_publicacion": "04-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:22.272230-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "JESUS CORRALES LOPEZ,",
+    "monto_adjudicado": "$1,476,483.26",
+    "ultima_lectura": "2026-05-12T13:42:39.174945-07:00"
   },
   "CFE-0604-CSCON-0007-2026": {
     "numero": "CFE-0604-CSCON-0007-2026",
@@ -4975,5 +4975,59 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-08T10:19:53.957268-07:00"
+  },
+  "CFE-0051-CSAAA-0007-2026": {
+    "numero": "CFE-0051-CSAAA-0007-2026",
+    "descripcion": "TUBERÍAS Y ACCESORIOS",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.073206-07:00"
+  },
+  "CFE-0101-ADSAN-0005-2026": {
+    "numero": "CFE-0101-ADSAN-0005-2026",
+    "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN B.C.",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.135470-07:00"
+  },
+  "CFE-0614-CSSAN-0014-2026": {
+    "numero": "CFE-0614-CSSAN-0014-2026",
+    "descripcion": "Servicio de jardinería para la sede de la Subgerencia de Producción Termoeléctrica Baja California y la Central Turbogas Mexical",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.190887-07:00"
+  },
+  "CFE-0051-CSSAN-0015-2026": {
+    "numero": "CFE-0051-CSSAN-0015-2026",
+    "descripcion": "MANTENIMIENTO AL SISTEMA DE CONTROL DEL CAMPO GEOTÉRMICO DE CERRO PRIETO",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.248569-07:00"
+  },
+  "CFE-0101-CSAAN-0010-2026": {
+    "numero": "CFE-0101-CSAAN-0010-2026",
+    "descripcion": "ALIMENTOS PARA CURSOS PRESENCIALES DE CAPACITACIÓN",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.311907-07:00"
+  },
+  "CFE-0101-CACON-0024-2026": {
+    "numero": "CFE-0101-CACON-0024-2026",
+    "descripcion": "Construcción de LMT subterránea, 1C-13KV-3F-4H-1.6KM-500KCM-AL-XLP-30ACS 7 No. 6, desde transición de CTO. CIP-4165 hasta seccionador de Hospital General Regional IMSS, en Ensenada, B.C.",
+    "fecha_publicacion": "12-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-12T13:42:38.368698-07:00"
   }
 }

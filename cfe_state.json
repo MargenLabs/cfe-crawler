@@ -5038,5 +5038,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-13T13:47:41.831373-07:00"
+  },
+  "CFE-0614-CSSAN-0015-2026": {
+    "numero": "CFE-0614-CSSAN-0015-2026",
+    "descripcion": "Servicio de Mantenimiento, recarga y adquisición de extintores de la C G Cerro Prieto”",
+    "fecha_publicacion": "13-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-13T16:04:42.007166-07:00"
+  },
+  "CFE-0101-CSAAN-0011-2026": {
+    "numero": "CFE-0101-CSAAN-0011-2026",
+    "descripcion": "TABLERO DE DISTRIBUCIÓN EN BAJA TENSIÓN PARTIDAS DESIERTAS",
+    "fecha_publicacion": "13-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-13T16:04:42.070074-07:00"
   }
 }

@@ -4548,10 +4548,10 @@
     "numero": "CFE-0051-CSAAA-0005-2026",
     "descripcion": "ARRANCADOR A TENSIÓN REDUCIDA PARA MOTOR",
     "fecha_publicacion": "15-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-15T10:05:38.791065-07:00"
+    "ultima_lectura": "2026-05-13T13:47:45.430821-07:00"
   },
   "CFE-0101-CSAAA-0003-2026": {
     "numero": "CFE-0101-CSAAA-0003-2026",
@@ -4638,10 +4638,10 @@
     "numero": "CFE-0614-CSAAN-0005-2026",
     "descripcion": "Adquisición de productos de limpieza para la C.C.I. Altar 2026.",
     "fecha_publicacion": "18-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-18T09:42:35.825925-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA PROAR DEL PACIFICO S DE RL DE CV,TORNILLOS Y MANGUERAS DE SONORA SA DE CV,MAKORP SA DE CV,",
+    "monto_adjudicado": "$139,065.17",
+    "ultima_lectura": "2026-05-13T13:47:44.723187-07:00"
   },
   "CFE-0101-CACON-0021-2026": {
     "numero": "CFE-0101-CACON-0021-2026",
@@ -4836,10 +4836,10 @@
     "numero": "CFE-0604-CSSAN-0015-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO PARA MOTORES ELÉCTRICOS DE LA C.T.G. CIPRÉS",
     "fecha_publicacion": "29-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-30T10:23:18.515741-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELECTROEMBOBINADOS DEL PACIFICO S DE RL DE CV,",
+    "monto_adjudicado": "$348,818.77",
+    "ultima_lectura": "2026-05-13T13:47:43.403835-07:00"
   },
   "CFE-0614-CSSAN-0013-2026": {
     "numero": "CFE-0614-CSSAN-0013-2026",
@@ -5029,5 +5029,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-12T13:42:38.368698-07:00"
+  },
+  "CFE-0101-CSAAA-0006-2026": {
+    "numero": "CFE-0101-CSAAA-0006-2026",
+    "descripcion": "MODULO CONVERTIDOR DE MEDIOS ETHERNET 2026",
+    "fecha_publicacion": "13-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-13T13:47:41.831373-07:00"
   }
 }

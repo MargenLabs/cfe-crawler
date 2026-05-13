@@ -4629,10 +4629,10 @@
     "numero": "CFE-0614-CSCON-0001-2026",
     "descripcion": "Mantenimiento y restauración de la estructura de la red del sistema contraincendios de la C.G. Cerro prieto",
     "fecha_publicacion": "17-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-17T15:38:43.229660-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA HUARACHA S DE RL DE CV,",
+    "monto_adjudicado": "$5,933,398.94",
+    "ultima_lectura": "2026-05-13T11:04:34.211225-07:00"
   },
   "CFE-0614-CSAAN-0005-2026": {
     "numero": "CFE-0614-CSAAN-0005-2026",
@@ -4746,10 +4746,10 @@
     "numero": "CFE-0101-CSAAN-0009-2026",
     "descripcion": "TABLERO DE DISTRIBUCIÓN EN BAJA TENSIÓN",
     "fecha_publicacion": "24-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-24T09:59:12.779720-07:00"
+    "ultima_lectura": "2026-05-13T11:04:33.357364-07:00"
   },
   "CFE-0614-CSAAA-0014-2026": {
     "numero": "CFE-0614-CSAAA-0014-2026",

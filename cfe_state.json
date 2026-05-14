@@ -5056,5 +5056,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-13T16:04:42.070074-07:00"
+  },
+  "CFE-0614-CSAAN-0006-2026": {
+    "numero": "CFE-0614-CSAAN-0006-2026",
+    "descripcion": "Servicio de Instalación, Mantenimiento y Adquisición de Sistema de Alarma y Detección de Incendios de la C.G. Cerro Prieto",
+    "fecha_publicacion": "14-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-14T15:56:23.506107-07:00"
   }
 }

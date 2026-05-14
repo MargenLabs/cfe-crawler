@@ -4422,10 +4422,10 @@
     "numero": "CFE-0101-CSAAN-0003-2026",
     "descripcion": "ESLABON FUSIBLE",
     "fecha_publicacion": "09-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-09T10:11:49.870072-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ALTA TECNOLOGIA EN FUSIBLES SA DE CV,ELEMENTOS ELECTRICOS SA DE CV,ELECTRAMEX SA DE CV,",
+    "monto_adjudicado": "$1,843,986.03",
+    "ultima_lectura": "2026-05-14T10:52:16.586160-07:00"
   },
   "CFE-0604-CSSAN-0010-2026": {
     "numero": "CFE-0604-CSSAN-0010-2026",

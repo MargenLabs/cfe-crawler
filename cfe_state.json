@@ -4260,10 +4260,10 @@
     "numero": "CFE-0051-CSSAN-0010-2026",
     "descripcion": "EXÁMENES MEDICOS PARA PERSONAL DE LA RGCP",
     "fecha_publicacion": "25-03-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-03-25T10:04:09.435237-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LABORATORIOS CLINICOS LOZANO SC,",
+    "monto_adjudicado": "$820,495.00",
+    "ultima_lectura": "2026-05-14T13:38:56.653225-07:00"
   },
   "CFE-0101-CSSAN-0010-2026": {
     "numero": "CFE-0101-CSSAN-0010-2026",
@@ -4692,10 +4692,10 @@
     "numero": "CFE-0101-CSAAN-0008-2026",
     "descripcion": "REMATE PREFORMADO 2026",
     "fecha_publicacion": "21-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-21T15:37:49.782914-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HELICOM SA DE CV,",
+    "monto_adjudicado": "$651,300.00",
+    "ultima_lectura": "2026-05-14T13:38:54.212583-07:00"
   },
   "CFE-0101-ADSAN-0004-2026": {
     "numero": "CFE-0101-ADSAN-0004-2026",
@@ -4809,19 +4809,19 @@
     "numero": "CFE-0614-CSSAN-0011-2026",
     "descripcion": "Servicio de limpieza a oficinas para la Subgerencia de Producción Termoeléctrica Baja California y la Central Turbogas Mexicali",
     "fecha_publicacion": "29-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-29T15:56:36.606101-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
+    "monto_adjudicado": "$523,756.84",
+    "ultima_lectura": "2026-05-14T13:38:53.414928-07:00"
   },
   "CFE-0614-CSSAN-0012-2026": {
     "numero": "CFE-0614-CSSAN-0012-2026",
     "descripcion": "Servicio de Recolección, Transporte y Disposición Final para los Residuos Peligrosos de la C.C.I. Altar 2026",
     "fecha_publicacion": "29-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-29T15:56:36.661100-07:00"
+    "ultima_lectura": "2026-05-14T13:38:53.467979-07:00"
   },
   "CFE-0201-CACON-0002-2026": {
     "numero": "CFE-0201-CACON-0002-2026",
@@ -4890,10 +4890,10 @@
     "numero": "CFE-0604-CSSAN-0016-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO A BOMBA CENTRIFUGA 10\" DE DRAGADO DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "05-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:22.159385-07:00"
+    "ultima_lectura": "2026-05-14T13:38:53.064653-07:00"
   },
   "CFE-0101-CACON-0023-2026": {
     "numero": "CFE-0101-CACON-0023-2026",

@@ -5074,5 +5074,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-15T10:38:45.524594-07:00"
+  },
+  "CFE-0614-CSAAA-0015-2026": {
+    "numero": "CFE-0614-CSAAA-0015-2026",
+    "descripcion": "Adquisición de relevadores de protección de generador y diferencial de grupo unidades 5, 10, 11, 12 y 13 para la C G Cerro Prieto",
+    "fecha_publicacion": "15-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-15T15:53:51.390303-07:00"
   }
 }

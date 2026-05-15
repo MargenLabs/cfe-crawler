@@ -4782,10 +4782,10 @@
     "numero": "CFE-0614-CSABN-0002-2026",
     "descripcion": "Servicio de arrendamiento de grúa telescópica y plataforma articulada para la C G Cerro Prieto",
     "fecha_publicacion": "27-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-27T15:51:59.824433-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ICI-ARK SA DE CV,",
+    "monto_adjudicado": "$540,000.00",
+    "ultima_lectura": "2026-05-15T10:38:47.380061-07:00"
   },
   "CFE-0201-CACON-0001-2026": {
     "numero": "CFE-0201-CACON-0001-2026",
@@ -4989,10 +4989,10 @@
     "numero": "CFE-0101-ADSAN-0005-2026",
     "descripcion": "SERVICIO DE VIGILANCIA Y SEGURIDAD PARA LAS INSTALACIONES DE LA DIVISIÓN B.C.",
     "fecha_publicacion": "12-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-12T13:42:38.135470-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO DE SEGURIDAD PRIVADA PRYSE DE MEXICO SA DE CV,PROVEEDORA DE SERVICIOS HIDALGOLOZ SA DE CV,",
+    "monto_adjudicado": "$3,243,384.36",
+    "ultima_lectura": "2026-05-15T10:38:45.900185-07:00"
   },
   "CFE-0614-CSSAN-0014-2026": {
     "numero": "CFE-0614-CSSAN-0014-2026",
@@ -5065,5 +5065,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-14T15:56:23.506107-07:00"
+  },
+  "CFE-0051-CSAAA-0008-2026": {
+    "numero": "CFE-0051-CSAAA-0008-2026",
+    "descripcion": "HERRAMIENTAS",
+    "fecha_publicacion": "15-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-15T10:38:45.524594-07:00"
   }
 }

@@ -4953,10 +4953,10 @@
     "numero": "CFE-0028-CSSAN-0001-2026",
     "descripcion": "Servicio de limpieza con \"turno\" de 8 horas de lunes a viernes en la Instalaciones de la Residencia General II Rosarito",
     "fecha_publicacion": "08-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-08T10:19:53.841446-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CPS COMERCIALIZADORA DE PRODUCTOS Y PROVEEDORA DE SERVICIOS DE L,",
+    "monto_adjudicado": "$185,677.77",
+    "ultima_lectura": "2026-05-16T09:59:45.089228-07:00"
   },
   "CFE-0101-CASON-0003-2026": {
     "numero": "CFE-0101-CASON-0003-2026",
@@ -5083,5 +5083,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-15T15:53:51.390303-07:00"
+  },
+  "CFE-0604-CSAAN-0009-2026": {
+    "numero": "CFE-0604-CSAAN-0009-2026",
+    "descripcion": "ADQUISICIÓN DE REFACCIONES PARA MANTENIMIENTO Y SERVICIO DE MANTENIMIENTO A MOTOR DIÉSEL DE ARRANQUE DE UNIDAD 1 C.T.G. CIPRÉS",
+    "fecha_publicacion": "16-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-16T09:59:44.244010-07:00"
   }
 }

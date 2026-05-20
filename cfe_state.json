@@ -5133,10 +5133,10 @@
     "numero": "CFE-0101-ADSAN-0006-2026",
     "descripcion": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE",
     "fecha_publicacion": "19-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.216952-07:00"
+    "ultima_lectura": "2026-05-20T16:12:41.695694-07:00"
   },
   "CFE-0101-CACON-0025-2026": {
     "numero": "CFE-0101-CACON-0025-2026",
@@ -5164,5 +5164,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-20T11:19:57.381846-07:00"
+  },
+  "CFE-0614-CSAAN-0008-2026": {
+    "numero": "CFE-0614-CSAAN-0008-2026",
+    "descripcion": "Adquisición de baleros y retenes para la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "20-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T16:12:41.353778-07:00"
+  },
+  "CFE-0101-CSAAA-0007-2026": {
+    "numero": "CFE-0101-CSAAA-0007-2026",
+    "descripcion": "LLANTAS PARTIDAS DESIERTAS 2026",
+    "fecha_publicacion": "20-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T16:12:41.411408-07:00"
   }
 }

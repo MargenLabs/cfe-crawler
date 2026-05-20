@@ -4449,10 +4449,10 @@
     "numero": "CFE-0051-CSAAA-0004-2026",
     "descripcion": "REFACCIONES PARA MANTENIMIENTO DE HERRAMIENTA",
     "fecha_publicacion": "10-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-10T15:37:28.586868-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$337,870.60",
+    "ultima_lectura": "2026-05-20T11:20:01.224255-07:00"
   },
   "CFE-0101-CSAAA-0002-2026": {
     "numero": "CFE-0101-CSAAA-0002-2026",
@@ -4719,10 +4719,10 @@
     "numero": "CFE-0101-CSAAA-0004-2026",
     "descripcion": "BATERIAS EPROSEC",
     "fecha_publicacion": "22-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-22T13:07:58.264180-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA MERC INTERNACIONAL SA DE CV,TEMPOEL MEXICO SA DE CV,",
+    "monto_adjudicado": "$498,549.80",
+    "ultima_lectura": "2026-05-20T11:19:59.692309-07:00"
   },
   "CFE-0201-ADAAN-0001-2026": {
     "numero": "CFE-0201-ADAAN-0001-2026",
@@ -4791,10 +4791,10 @@
     "numero": "CFE-0201-CACON-0001-2026",
     "descripcion": "Construcción de Barda Perimetral en Subestación Rosita",
     "fecha_publicacion": "28-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-28T15:56:38.165668-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$8,299,534.62",
+    "ultima_lectura": "2026-05-20T11:19:59.264650-07:00"
   },
   "CFE-0051-CSAAA-0006-2026": {
     "numero": "CFE-0051-CSAAA-0006-2026",
@@ -4854,19 +4854,19 @@
     "numero": "CFE-0604-CSSAN-0017-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A VEHÍCULOS DE LA C.T. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "06-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:21.924128-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
+    "monto_adjudicado": "$893,475.00",
+    "ultima_lectura": "2026-05-20T11:19:58.566682-07:00"
   },
   "CFE-0604-CSAAA-0008-2026": {
     "numero": "CFE-0604-CSAAA-0008-2026",
     "descripcion": "ADQUISICIÓN DE SERVOVÁLVULAS DE GAS DE LA TG U10 DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "06-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:21.984755-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$658,910.00",
+    "ultima_lectura": "2026-05-20T11:19:58.620189-07:00"
   },
   "CFE-0051-CSSAN-0013-2026": {
     "numero": "CFE-0051-CSSAN-0013-2026",
@@ -5092,5 +5092,77 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-16T09:59:44.244010-07:00"
+  },
+  "CFE-0101-CACON-0026-2026": {
+    "numero": "CFE-0101-CACON-0026-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 4115, 4125, 4135, 4145, 4155 KCH y 4115, 4125, 4155, 5140 SIS en Mexicali, B.C.",
+    "fecha_publicacion": "20-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:56.991913-07:00"
+  },
+  "CFE-0604-CSABN-0002-2026": {
+    "numero": "CFE-0604-CSABN-0002-2026",
+    "descripcion": "ARRENDAMIENTO DE PLANTA DE ÓSMOSIS INVERSA PARA LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "19-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.050334-07:00"
+  },
+  "CFE-0614-CSAAA-0016-2026": {
+    "numero": "CFE-0614-CSAAA-0016-2026",
+    "descripcion": "Adquisición de motor de arranque de motores Detroit Diésel modelo 12V-71T de 175 HP de las unidades HITACHI PG5341 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "19-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.105783-07:00"
+  },
+  "CFE-0614-CSAAN-0007-2026": {
+    "numero": "CFE-0614-CSAAN-0007-2026",
+    "descripcion": "Adquisición de ropa de trabajo para el personal de la C.C.I. Altar 2026 II Evento",
+    "fecha_publicacion": "19-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.159679-07:00"
+  },
+  "CFE-0101-ADSAN-0006-2026": {
+    "numero": "CFE-0101-ADSAN-0006-2026",
+    "descripcion": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE",
+    "fecha_publicacion": "19-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.216952-07:00"
+  },
+  "CFE-0101-CACON-0025-2026": {
+    "numero": "CFE-0101-CACON-0025-2026",
+    "descripcion": "Reforzamiento de postes de concreto dañados de su base, en Mexicali Baja California",
+    "fecha_publicacion": "19-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.272216-07:00"
+  },
+  "CFE-0101-CSAAA-0005-2026": {
+    "numero": "CFE-0101-CSAAA-0005-2026",
+    "descripcion": "CONSUMIBLES DE COMPUTO 2026",
+    "fecha_publicacion": "18-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.326560-07:00"
+  },
+  "CFE-0604-CSAAA-0009-2026": {
+    "numero": "CFE-0604-CSAAA-0009-2026",
+    "descripcion": "ADQUISICIÓN DE INSTRUMENTACIÓN Y REFACCIONES UNIDAD 1 C.T.G. CIPRÉS",
+    "fecha_publicacion": "18-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-20T11:19:57.381846-07:00"
   }
 }

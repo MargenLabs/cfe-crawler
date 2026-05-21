@@ -4773,10 +4773,10 @@
     "numero": "CFE-0101-CACON-0022-2026",
     "descripcion": "Trabajos de reubicación del transformador de potencia del Banco 2 de SE. Panamericana, en Tijuana, B.C.",
     "fecha_publicacion": "24-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-24T15:38:53.876859-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$1,499,506.94",
+    "ultima_lectura": "2026-05-21T16:03:20.587718-07:00"
   },
   "CFE-0614-CSABN-0002-2026": {
     "numero": "CFE-0614-CSABN-0002-2026",

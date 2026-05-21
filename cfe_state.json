@@ -4647,10 +4647,10 @@
     "numero": "CFE-0101-CACON-0021-2026",
     "descripcion": "Construcción de 3 obras: PO-666/2025, CTO. SQN-5110, LMT 1C-33KV-3F-4H-1.5KM-477ACSR-3/0ACSR, en Punta Colonet, B.C., PO-643/2025, CTO. SQN-5140, LMT 1C-33KV-3F-4H-1.7KM-477ACSR-3/0ACSR, en San Quinti",
     "fecha_publicacion": "17-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-18T09:42:35.884793-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
+    "monto_adjudicado": "$2,143,514.68",
+    "ultima_lectura": "2026-05-21T11:00:20.903859-07:00"
   },
   "CFE-0051-CSAAN-0009-2026": {
     "numero": "CFE-0051-CSAAN-0009-2026",
@@ -4827,10 +4827,10 @@
     "numero": "CFE-0201-CACON-0002-2026",
     "descripcion": "Rehabilitación de Cimentaciones en Estructuras de Acero de Líneas de Transmisión de la Zona de Transmisión Sur",
     "fecha_publicacion": "29-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-30T10:23:18.457933-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
+    "monto_adjudicado": "$7,283,965.51",
+    "ultima_lectura": "2026-05-21T11:00:19.705251-07:00"
   },
   "CFE-0604-CSSAN-0015-2026": {
     "numero": "CFE-0604-CSSAN-0015-2026",

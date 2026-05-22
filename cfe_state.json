@@ -5191,5 +5191,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-22T10:52:38.363851-07:00"
+  },
+  "CFE-0604-CSAAA-0010-2026": {
+    "numero": "CFE-0604-CSAAA-0010-2026",
+    "descripcion": "ADQUISICIÓN DE VÁLVULAS CHECK PARA LAS TORRES SECADORAS DEL SISTEMA DE AIRE DE INSTRUMENTOS DE LAS UNIDADES 8 Y 9 DE LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-22T15:58:25.415274-07:00"
+  },
+  "CFE-0614-CSAAA-0017-2026": {
+    "numero": "CFE-0614-CSAAA-0017-2026",
+    "descripcion": "Adquisición y servicio de ingeniería inversa para junta de expansión de escape de turbina de 25 MW de la CG Cerro Prieto",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-22T15:58:25.476488-07:00"
+  },
+  "CFE-0101-CSSAN-0012-2026": {
+    "numero": "CFE-0101-CSSAN-0012-2026",
+    "descripcion": "MANIOBRA DE CARGA Y/O DESCARGA DE POSTES DE MADERA",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-22T15:58:25.531946-07:00"
+  },
+  "CFE-0101-CSSAN-0011-2026": {
+    "numero": "CFE-0101-CSSAN-0011-2026",
+    "descripcion": "REPARACIÓN Y MANTENIMIENTO DE TRANSFORMADORES DE DISTRIBUCIÓN 2026",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-22T15:58:25.585808-07:00"
+  },
+  "CFE-0614-CSABN-0003-2026": {
+    "numero": "CFE-0614-CSABN-0003-2026",
+    "descripcion": "Servicio de renta de grúas de 50 y 20 toneladas para el mantenimiento de unidades HITACHI PG5341 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-22T15:58:25.643947-07:00"
   }
 }

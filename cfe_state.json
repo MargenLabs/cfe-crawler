@@ -5236,5 +5236,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-22T15:58:25.643947-07:00"
+  },
+  "CFE-0101-CSSAN-0013-2026": {
+    "numero": "CFE-0101-CSSAN-0013-2026",
+    "descripcion": "SERVICIO DE LIMPIEZA",
+    "fecha_publicacion": "22-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-23T10:00:42.665047-07:00"
   }
 }

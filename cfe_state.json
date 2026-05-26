@@ -5043,10 +5043,10 @@
     "numero": "CFE-0614-CSSAN-0015-2026",
     "descripcion": "Servicio de Mantenimiento, recarga y adquisición de extintores de la C G Cerro Prieto”",
     "fecha_publicacion": "13-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-13T16:04:42.007166-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DP3 MEXICALI SA DE CV,",
+    "monto_adjudicado": "$481,000.87",
+    "ultima_lectura": "2026-05-26T16:09:34.245331-07:00"
   },
   "CFE-0101-CSAAN-0011-2026": {
     "numero": "CFE-0101-CSAAN-0011-2026",
@@ -5290,5 +5290,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-26T13:57:01.617845-07:00"
+  },
+  "CFE-0101-CSSAN-0014-2026": {
+    "numero": "CFE-0101-CSSAN-0014-2026",
+    "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A MONTACARGAS",
+    "fecha_publicacion": "26-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-26T16:09:32.350512-07:00"
+  },
+  "CFE-0604-CSAAA-0012-2026": {
+    "numero": "CFE-0604-CSAAA-0012-2026",
+    "descripcion": "ADQUISICIÓN DE MÓDULO SECUENCIADOR PARA VÁLVULAS RATCH SISTEMA DE EMBRAGUE PARA C.T.G. U1 Y U2 TIJUANA",
+    "fecha_publicacion": "26-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-26T16:09:32.420043-07:00"
   }
 }

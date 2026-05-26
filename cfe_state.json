@@ -4899,10 +4899,10 @@
     "numero": "CFE-0101-CACON-0023-2026",
     "descripcion": "Construcción LMT 1C-13KV-3F-4H-2.14KM-500KCM-AL-XLP-3/0CU, PO-462/2025, PEC-181/2025, CTO. TCU-43055, en Tecate, B.C. del programa de perdidas 2026",
     "fecha_publicacion": "05-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:22.215895-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ALONSO DE LA CRUZ MEDINA,",
+    "monto_adjudicado": "$6,517,246.21",
+    "ultima_lectura": "2026-05-26T13:57:04.315301-07:00"
   },
   "CFE-0101-ADAAN-0002-2026": {
     "numero": "CFE-0101-ADAAN-0002-2026",
@@ -4971,10 +4971,10 @@
     "numero": "CFE-0604-CSSAN-0018-2026",
     "descripcion": "SERVICIO DE RECARGA Y MANTENIMIENTO A EXTINTORES DE LA C.T. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "08-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-08T10:19:53.957268-07:00"
+    "ultima_lectura": "2026-05-26T13:57:03.825624-07:00"
   },
   "CFE-0051-CSAAA-0007-2026": {
     "numero": "CFE-0051-CSAAA-0007-2026",
@@ -4998,10 +4998,10 @@
     "numero": "CFE-0614-CSSAN-0014-2026",
     "descripcion": "Servicio de jardinería para la sede de la Subgerencia de Producción Termoeléctrica Baja California y la Central Turbogas Mexical",
     "fecha_publicacion": "12-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-12T13:42:38.190887-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
+    "monto_adjudicado": "$343,356.90",
+    "ultima_lectura": "2026-05-26T13:57:03.442758-07:00"
   },
   "CFE-0051-CSSAN-0015-2026": {
     "numero": "CFE-0051-CSSAN-0015-2026",
@@ -5281,5 +5281,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-26T11:27:06.185571-07:00"
+  },
+  "CFE-0614-CSSAN-0016-2026": {
+    "numero": "CFE-0614-CSSAN-0016-2026",
+    "descripcion": "Servicio de recolección y disposición final de residuos sólidos urbanos de la C.C.I. Altar 2026 II Evento",
+    "fecha_publicacion": "26-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-26T13:57:01.617845-07:00"
   }
 }

@@ -4845,10 +4845,10 @@
     "numero": "CFE-0614-CSSAN-0013-2026",
     "descripcion": "Servicio de recolección y disposición final de residuos sólidos urbanos de la C.C.I. Altar 2026.",
     "fecha_publicacion": "30-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-30T15:52:56.032268-07:00"
+    "ultima_lectura": "2026-05-26T11:27:09.045303-07:00"
   },
   "CFE-0604-CSSAN-0017-2026": {
     "numero": "CFE-0604-CSSAN-0017-2026",
@@ -5263,5 +5263,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-25T16:00:56.189291-07:00"
+  },
+  "CFE-0101-CSAAA-0008-2026": {
+    "numero": "CFE-0101-CSAAA-0008-2026",
+    "descripcion": "REFACCIONAMIENTO PARA RESTAURADORES 2026",
+    "fecha_publicacion": "25-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-26T11:27:06.115749-07:00"
+  },
+  "CFE-0604-CSSAN-0019-2026": {
+    "numero": "CFE-0604-CSSAN-0019-2026",
+    "descripcion": "SERVICIO DE ASISTENCIA ESPECIALIZADA PARA INSPECCIÓN ACTUAL DE LOS SUMIDEROS D Y E DE LAS UNIDADES AERODERIVADAS 4 Y 6 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "25-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-26T11:27:06.185571-07:00"
   }
 }

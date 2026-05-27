@@ -5106,10 +5106,10 @@
     "numero": "CFE-0604-CSABN-0002-2026",
     "descripcion": "ARRENDAMIENTO DE PLANTA DE ÓSMOSIS INVERSA PARA LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "19-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.050334-07:00"
+    "ultima_lectura": "2026-05-27T11:27:03.616016-07:00"
   },
   "CFE-0614-CSAAA-0016-2026": {
     "numero": "CFE-0614-CSAAA-0016-2026",
@@ -5308,5 +5308,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-26T16:09:32.420043-07:00"
+  },
+  "CFE-0101-CSAAN-0012-2026": {
+    "numero": "CFE-0101-CSAAN-0012-2026",
+    "descripcion": "HERRAJES",
+    "fecha_publicacion": "27-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-27T11:27:02.595631-07:00"
   }
 }

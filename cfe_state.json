@@ -4656,10 +4656,10 @@
     "numero": "CFE-0051-CSAAN-0009-2026",
     "descripcion": "PLACAS",
     "fecha_publicacion": "20-04-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-20T13:01:07.735914-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$215,770.60",
+    "ultima_lectura": "2026-05-27T14:02:45.632640-07:00"
   },
   "CFE-0604-CSSAN-0012-2026": {
     "numero": "CFE-0604-CSSAN-0012-2026",
@@ -4926,10 +4926,10 @@
     "numero": "CFE-0604-CSCON-0008-2026",
     "descripcion": "MANTENIMIENTO A TANQUE DE ALMACENAMIENTO DE DIÉSEL VT-4",
     "fecha_publicacion": "07-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-07T10:49:09.429572-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "IAR091228FA2/JCO071213J46 - INGENIERIA ARGUZ SA DE CV,",
+    "monto_adjudicado": "$6,912,178.21",
+    "ultima_lectura": "2026-05-27T14:02:44.015504-07:00"
   },
   "CFE-0604-CSCON-0009-2026": {
     "numero": "CFE-0604-CSCON-0009-2026",
@@ -5317,5 +5317,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-27T11:27:02.595631-07:00"
+  },
+  "CFE-0604-CSSAN-0020-2026": {
+    "numero": "CFE-0604-CSSAN-0020-2026",
+    "descripcion": "SERVICIO DE LIMPIEZA DE ÁREAS DONDE SE MANEJAN, ALMACENAN Y TRANSPORTAN MATERIALES Y RESIDUOS PELIGROSOS DEL COMPLEJO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "27-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-27T14:02:41.330138-07:00"
   }
 }

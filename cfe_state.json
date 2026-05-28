@@ -4800,10 +4800,10 @@
     "numero": "CFE-0051-CSAAA-0006-2026",
     "descripcion": "ALAMBRE DE ACERO INOXIDABLE",
     "fecha_publicacion": "29-04-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-04-29T10:40:42.429201-07:00"
+    "ultima_lectura": "2026-05-28T16:16:16.367933-07:00"
   },
   "CFE-0614-CSSAN-0011-2026": {
     "numero": "CFE-0614-CSSAN-0011-2026",
@@ -5061,10 +5061,10 @@
     "numero": "CFE-0614-CSAAN-0006-2026",
     "descripcion": "Servicio de Instalación, Mantenimiento y Adquisición de Sistema de Alarma y Detección de Incendios de la C.G. Cerro Prieto",
     "fecha_publicacion": "14-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-14T15:56:23.506107-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SISTEMAS INTELIGENTES DE SUPRECION SA DE CV,",
+    "monto_adjudicado": "$1,625,146.58",
+    "ultima_lectura": "2026-05-28T16:16:14.635956-07:00"
   },
   "CFE-0051-CSAAA-0008-2026": {
     "numero": "CFE-0051-CSAAA-0008-2026",
@@ -5088,10 +5088,10 @@
     "numero": "CFE-0604-CSAAN-0009-2026",
     "descripcion": "ADQUISICIÓN DE REFACCIONES PARA MANTENIMIENTO Y SERVICIO DE MANTENIMIENTO A MOTOR DIÉSEL DE ARRANQUE DE UNIDAD 1 C.T.G. CIPRÉS",
     "fecha_publicacion": "16-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-16T09:59:44.244010-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
+    "monto_adjudicado": "$137,750.00",
+    "ultima_lectura": "2026-05-28T16:16:14.460206-07:00"
   },
   "CFE-0101-CACON-0026-2026": {
     "numero": "CFE-0101-CACON-0026-2026",
@@ -5160,10 +5160,10 @@
     "numero": "CFE-0604-CSAAA-0009-2026",
     "descripcion": "ADQUISICIÓN DE INSTRUMENTACIÓN Y REFACCIONES UNIDAD 1 C.T.G. CIPRÉS",
     "fecha_publicacion": "18-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.381846-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPONENTES Y EQUIPOS CABA SA DE CV,POWER PROCESS CONTROL SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,SOLUCIONES INDUSTRIALES XHITAO SA DE CV,",
+    "monto_adjudicado": "$2,041,111.92",
+    "ultima_lectura": "2026-05-28T16:16:14.402551-07:00"
   },
   "CFE-0614-CSAAN-0008-2026": {
     "numero": "CFE-0614-CSAAN-0008-2026",
@@ -5344,5 +5344,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-27T16:16:22.895439-07:00"
+  },
+  "CFE-0604-CSABN-0004-2026": {
+    "numero": "CFE-0604-CSABN-0004-2026",
+    "descripcion": "ARRENDAMIENTO E INSTALACIÓN DE ANDAMIOS PARA DIVERSAS ÁREAS DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "28-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-28T16:16:12.554209-07:00"
+  },
+  "CFE-0614-CSABN-0004-2026": {
+    "numero": "CFE-0614-CSABN-0004-2026",
+    "descripcion": "Servicio de arrendamiento de grúa telescópica para la C G Cerro Prieto 2do. Evento",
+    "fecha_publicacion": "28-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-28T16:16:12.617773-07:00"
   }
 }

@@ -5362,5 +5362,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-28T16:16:12.617773-07:00"
+  },
+  "CFE-0614-CSSAN-0017-2026": {
+    "numero": "CFE-0614-CSSAN-0017-2026",
+    "descripcion": "Servicio de Evaluación de Condiciones en Materia Laboral para la Central de Combustión Interna Altar 2026",
+    "fecha_publicacion": "29-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-29T14:09:38.259081-07:00"
   }
 }

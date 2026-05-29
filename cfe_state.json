@@ -5371,5 +5371,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-29T14:09:38.259081-07:00"
+  },
+  "CFE-0101-CACON-0028-2026": {
+    "numero": "CFE-0101-CACON-0028-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 4145, 4165, 4225 OZA, 4115, 4125, 4135, 4145, 4155, 4165 WIS en Mexicali, B.C.",
+    "fecha_publicacion": "29-05-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-05-29T16:12:36.127956-07:00"
   }
 }

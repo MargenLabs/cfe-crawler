@@ -5398,5 +5398,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-01T15:12:34.143725-07:00"
+  },
+  "CFE-0604-CSAAA-0013-2026": {
+    "numero": "CFE-0604-CSAAA-0013-2026",
+    "descripcion": "SERVICIO DE INSTALACION Y ADQUISICION DE EQUIPO DE ACONDICIONAMIENTO DE MUESTRAS DE LA U11 DE LA C.C.C. PRESIDENTE JUAREZ",
+    "fecha_publicacion": "01-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-01T16:27:04.896736-07:00"
   }
 }

@@ -4935,10 +4935,10 @@
     "numero": "CFE-0604-CSCON-0009-2026",
     "descripcion": "MANTENIMIENTO INTEGRAL DE LAS AERODERIVADAS DE LA C.T.G. TIJUANA",
     "fecha_publicacion": "07-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-07T16:00:26.836919-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
+    "monto_adjudicado": "$7,898,530.54",
+    "ultima_lectura": "2026-06-01T15:12:36.878508-07:00"
   },
   "CFE-0051-CSSAN-0014-2026": {
     "numero": "CFE-0051-CSSAN-0014-2026",
@@ -5380,5 +5380,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-05-29T16:12:36.127956-07:00"
+  },
+  "CFE-0614-CSSAN-0018-2026": {
+    "numero": "CFE-0614-CSSAN-0018-2026",
+    "descripcion": "Servicio de fumigación de la C.C.I. Altar 2026",
+    "fecha_publicacion": "01-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-01T15:12:34.085770-07:00"
+  },
+  "CFE-0604-CSSAN-0021-2026": {
+    "numero": "CFE-0604-CSSAN-0021-2026",
+    "descripcion": "SERVICIO DE RECARGA Y MANTENIMIENTO A EXTINTORES DE LA C.T. PRESIDENTE JUÁREZ- SEGUNDO EVENTO",
+    "fecha_publicacion": "01-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-01T15:12:34.143725-07:00"
   }
 }

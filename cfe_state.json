@@ -5142,10 +5142,10 @@
     "numero": "CFE-0101-CACON-0025-2026",
     "descripcion": "Reforzamiento de postes de concreto dañados de su base, en Mexicali Baja California",
     "fecha_publicacion": "19-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.272216-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
+    "monto_adjudicado": "$6,387,370.00",
+    "ultima_lectura": "2026-06-02T12:41:36.363539-07:00"
   },
   "CFE-0101-CSAAA-0005-2026": {
     "numero": "CFE-0101-CSAAA-0005-2026",
@@ -5407,5 +5407,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-01T16:27:04.896736-07:00"
+  },
+  "CFE-0614-CSAAA-0018-2026": {
+    "numero": "CFE-0614-CSAAA-0018-2026",
+    "descripcion": "Adquisición de relevadores de protección de generador y diferencial de grupo unidades 5, 10, 11, 12 y 13 para la C G Cerro Prieto 2do Evento",
+    "fecha_publicacion": "02-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-02T12:41:34.299177-07:00"
+  },
+  "CFE-0051-CSAAA-0009-2026": {
+    "numero": "CFE-0051-CSAAA-0009-2026",
+    "descripcion": "MATERIAL DE ACERO INOXIDABLE",
+    "fecha_publicacion": "02-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-02T12:41:34.362673-07:00"
+  },
+  "CFE-0101-CSAAA-0009-2026": {
+    "numero": "CFE-0101-CSAAA-0009-2026",
+    "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
+    "fecha_publicacion": "02-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-02T12:41:34.422178-07:00"
+  },
+  "CFE-0101-CACON-0029-2026": {
+    "numero": "CFE-0101-CACON-0029-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 4155, 4215 OZA en Mexicali, B.C.",
+    "fecha_publicacion": "02-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-02T12:41:34.479808-07:00"
   }
 }

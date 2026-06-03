@@ -4881,10 +4881,10 @@
     "numero": "CFE-0051-CSAAN-0010-2026",
     "descripcion": "EQUIPO DE PROTECCIÓN PERSONAL",
     "fecha_publicacion": "05-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-06T10:55:22.097344-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ABEL ALEJANDRO CABRERA RODRIGUEZ,AMJ EQUIPO INDUSTRIAL SA DE CV,EEPAT DE MEXICO SA DE CV,GRUPO SILZ SA DE CV,INGENIERIA Y DESARROLLO DE PROYECTOS DIDACTICOS SA DE CV,SAFETY SPOT SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$778,006.25",
+    "ultima_lectura": "2026-06-03T16:43:18.319209-07:00"
   },
   "CFE-0604-CSSAN-0016-2026": {
     "numero": "CFE-0604-CSSAN-0016-2026",
@@ -5196,10 +5196,10 @@
     "numero": "CFE-0604-CSAAA-0010-2026",
     "descripcion": "ADQUISICIÓN DE VÁLVULAS CHECK PARA LAS TORRES SECADORAS DEL SISTEMA DE AIRE DE INSTRUMENTOS DE LAS UNIDADES 8 Y 9 DE LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ",
     "fecha_publicacion": "22-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-22T15:58:25.415274-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$153,294.76",
+    "ultima_lectura": "2026-06-03T16:43:16.242538-07:00"
   },
   "CFE-0614-CSAAA-0017-2026": {
     "numero": "CFE-0614-CSAAA-0017-2026",
@@ -5443,5 +5443,59 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-02T12:41:34.479808-07:00"
+  },
+  "CFE-0614-CSSAN-0020-2026": {
+    "numero": "CFE-0614-CSSAN-0020-2026",
+    "descripcion": "Servicio de Limpieza de las Casas de Máquinas de la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "03-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.597485-07:00"
+  },
+  "CFE-0614-CSSAN-0019-2026": {
+    "numero": "CFE-0614-CSSAN-0019-2026",
+    "descripcion": "Servicio de mantenimiento a estaciones de bombas de transferencia de combustible de la Central Turbogas Mexicali",
+    "fecha_publicacion": "03-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.655110-07:00"
+  },
+  "CFE-0101-CSSAN-0015-2026": {
+    "numero": "CFE-0101-CSSAN-0015-2026",
+    "descripcion": "MANTENIMIENTO A SISTEMAS DE ENFRIAMIENTO.",
+    "fecha_publicacion": "03-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.710615-07:00"
+  },
+  "CFE-0604-CSSAN-0024-2026": {
+    "numero": "CFE-0604-CSSAN-0024-2026",
+    "descripcion": "Rectificado de bridas de carcasa principal y Top Hats (sombreros) de quemadores 5, 6, 7, 8 de turbina de gas marca Siemens, modelo 501FD3 de la U10 de la C.C.C. Presidente Juárez",
+    "fecha_publicacion": "03-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.766668-07:00"
+  },
+  "CFE-0604-CSSAN-0023-2026": {
+    "numero": "CFE-0604-CSSAN-0023-2026",
+    "descripcion": "CONTRATACIÓN DE MANO DE OBRA ESPECIALIZADA PARA EL MANTENIMIENTO DE LA UNIDAD 10 DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "03-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.827117-07:00"
+  },
+  "CFE-0604-CSSAN-0022-2026": {
+    "numero": "CFE-0604-CSSAN-0022-2026",
+    "descripcion": "Servicio de limpieza de carcasas de las turbinas de las Unidades del complejo Presidente Juárez",
+    "fecha_publicacion": "02-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-03T16:43:14.882812-07:00"
   }
 }

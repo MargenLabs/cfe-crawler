@@ -5205,10 +5205,10 @@
     "numero": "CFE-0614-CSAAA-0017-2026",
     "descripcion": "Adquisición y servicio de ingeniería inversa para junta de expansión de escape de turbina de 25 MW de la CG Cerro Prieto",
     "fecha_publicacion": "22-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-22T15:58:25.476488-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELASTOCONTROL SA DE CV,",
+    "monto_adjudicado": "$2,012,424.29",
+    "ultima_lectura": "2026-06-04T16:08:47.691663-07:00"
   },
   "CFE-0101-CSSAN-0012-2026": {
     "numero": "CFE-0101-CSSAN-0012-2026",

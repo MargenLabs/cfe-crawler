@@ -5277,10 +5277,10 @@
     "numero": "CFE-0604-CSSAN-0019-2026",
     "descripcion": "SERVICIO DE ASISTENCIA ESPECIALIZADA PARA INSPECCIÓN ACTUAL DE LOS SUMIDEROS D Y E DE LAS UNIDADES AERODERIVADAS 4 Y 6 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "25-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-26T11:27:06.185571-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CR SERVICIOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$1,663,036.36",
+    "ultima_lectura": "2026-06-08T14:11:56.113682-07:00"
   },
   "CFE-0614-CSSAN-0016-2026": {
     "numero": "CFE-0614-CSSAN-0016-2026",
@@ -5551,5 +5551,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-08T11:26:37.386235-07:00"
+  },
+  "CFE-0614-CSSAA-0001-2026": {
+    "numero": "CFE-0614-CSSAA-0001-2026",
+    "descripcion": "Servicio de desagüe de fosas sépticas para la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-08T14:11:54.154431-07:00"
+  },
+  "CFE-0101-CSSAN-0016-2026": {
+    "numero": "CFE-0101-CSSAN-0016-2026",
+    "descripcion": "Reparación y Mantenimiento de Transformadores de Distribución Tipo Pedestal y Sumergibles 2026",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-08T14:11:54.212902-07:00"
+  },
+  "CFE-0101-ADSAN-0007-2026": {
+    "numero": "CFE-0101-ADSAN-0007-2026",
+    "descripcion": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE 2DO EVENTO",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-08T14:11:54.271657-07:00"
   }
 }

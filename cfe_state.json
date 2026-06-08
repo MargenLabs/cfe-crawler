@@ -5533,5 +5533,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-06T10:16:36.387136-07:00"
+  },
+  "CFE-0101-CSSAN-0017-2026": {
+    "numero": "CFE-0101-CSSAN-0017-2026",
+    "descripcion": "PODA DE ÁRBOLES EN MEDIA Y BAJA TENSIÓN 2026 P.D.",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-08T11:26:37.325893-07:00"
+  },
+  "CFE-0051-CSAAN-0011-2026": {
+    "numero": "CFE-0051-CSAAN-0011-2026",
+    "descripcion": "MATERIAL Y REFACCIONES ELECTRICAS",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-08T11:26:37.386235-07:00"
   }
 }

@@ -5304,10 +5304,10 @@
     "numero": "CFE-0604-CSAAA-0012-2026",
     "descripcion": "ADQUISICIÓN DE MÓDULO SECUENCIADOR PARA VÁLVULAS RATCH SISTEMA DE EMBRAGUE PARA C.T.G. U1 Y U2 TIJUANA",
     "fecha_publicacion": "26-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-26T16:09:32.420043-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$3,088,387.08",
+    "ultima_lectura": "2026-06-09T11:07:12.770279-07:00"
   },
   "CFE-0101-CSAAN-0012-2026": {
     "numero": "CFE-0101-CSAAN-0012-2026",
@@ -5349,10 +5349,10 @@
     "numero": "CFE-0604-CSABN-0004-2026",
     "descripcion": "ARRENDAMIENTO E INSTALACIÓN DE ANDAMIOS PARA DIVERSAS ÁREAS DE LA C.T. Y C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "28-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-28T16:16:12.554209-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
+    "monto_adjudicado": "$1,857,590.00",
+    "ultima_lectura": "2026-06-09T11:07:12.402952-07:00"
   },
   "CFE-0614-CSABN-0004-2026": {
     "numero": "CFE-0614-CSABN-0004-2026",
@@ -5587,5 +5587,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-08T16:11:54.327763-07:00"
+  },
+  "CFE-0604-CSAAN-0011-2026": {
+    "numero": "CFE-0604-CSAAN-0011-2026",
+    "descripcion": "Adquisición de material de limpieza para la C.T. Presidente Juárez 2026",
+    "fecha_publicacion": "09-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-09T11:07:10.822450-07:00"
+  },
+  "CFE-0604-CSABN-0005-2026": {
+    "numero": "CFE-0604-CSABN-0005-2026",
+    "descripcion": "ARRENDAMIENTO DE PLANTA DE ÓSMOSIS INVERSA PARA LA C.C.C. PRESIDENTE JUÁREZ-TERCER EVENTO",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-09T11:07:10.881691-07:00"
+  },
+  "CFE-0604-CSAAN-0010-2026": {
+    "numero": "CFE-0604-CSAAN-0010-2026",
+    "descripcion": "Adquisición de escobillas para generadores eléctricos de la C.T. Presidente Juárez, C.C.C. Presidente Juárez y C.T.G. Tijuana",
+    "fecha_publicacion": "08-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-09T11:07:10.936730-07:00"
   }
 }

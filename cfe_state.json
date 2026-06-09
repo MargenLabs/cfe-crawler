@@ -5623,5 +5623,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-09T14:01:52.663426-07:00"
+  },
+  "CFE-0201-ADAAA-0001-2026": {
+    "numero": "CFE-0201-ADAAA-0001-2026",
+    "descripcion": "SUMINISTRO E INSTALACION DE REFACCIONAMIENTO T10 RUM",
+    "fecha_publicacion": "09-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-09T16:16:53.800603-07:00"
   }
 }

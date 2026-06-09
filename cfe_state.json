@@ -4980,10 +4980,10 @@
     "numero": "CFE-0051-CSAAA-0007-2026",
     "descripcion": "TUBERÍAS Y ACCESORIOS",
     "fecha_publicacion": "12-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-12T13:42:38.073206-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "VAESYCO INDUSTRIAL Y MINERO SA DE CV,",
+    "monto_adjudicado": "$32,931.50",
+    "ultima_lectura": "2026-06-09T14:01:56.253103-07:00"
   },
   "CFE-0101-ADSAN-0005-2026": {
     "numero": "CFE-0101-ADSAN-0005-2026",
@@ -5484,10 +5484,10 @@
     "numero": "CFE-0604-CSSAN-0023-2026",
     "descripcion": "CONTRATACIÓN DE MANO DE OBRA ESPECIALIZADA PARA EL MANTENIMIENTO DE LA UNIDAD 10 DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "03-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-03T16:43:14.827117-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CR SERVICIOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$3,899,240.40",
+    "ultima_lectura": "2026-06-09T14:01:53.656535-07:00"
   },
   "CFE-0604-CSSAN-0022-2026": {
     "numero": "CFE-0604-CSSAN-0022-2026",
@@ -5614,5 +5614,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-09T11:07:10.936730-07:00"
+  },
+  "CFE-0101-CACON-0031-2026": {
+    "numero": "CFE-0101-CACON-0031-2026",
+    "descripcion": "Ampliación del Banco 2 (Sustitución TR) de SE. Panamericana 1T-3F-30MVA-115/13.8KV-0/3/0A, 2C-13KV-3F-4H-0.6KM-750KCM-AL-XLP-3/0CU y 2C-13KV-3F-4H-2.01KM-477 AAC-3/0-PCR, en Tijuana, B.C.",
+    "fecha_publicacion": "09-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-09T14:01:52.663426-07:00"
   }
 }

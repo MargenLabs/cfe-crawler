@@ -5178,10 +5178,10 @@
     "numero": "CFE-0101-CSAAA-0007-2026",
     "descripcion": "LLANTAS PARTIDAS DESIERTAS 2026",
     "fecha_publicacion": "20-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T16:12:41.411408-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AGUSTIN PEREZ LLAMAS,LLANTAS Y SERVICIOS SALAZAR SA DE CV,TECNICENTRO ROYAL SA DE CV,",
+    "monto_adjudicado": "$5,905,316.00",
+    "ultima_lectura": "2026-06-11T11:47:25.141171-07:00"
   },
   "CFE-0101-CACON-0027-2026": {
     "numero": "CFE-0101-CACON-0027-2026",
@@ -5358,10 +5358,10 @@
     "numero": "CFE-0614-CSABN-0004-2026",
     "descripcion": "Servicio de arrendamiento de grúa telescópica para la C G Cerro Prieto 2do. Evento",
     "fecha_publicacion": "28-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-28T16:16:12.617773-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NIDIA DENISSE RODRIGUEZ PEREZ,",
+    "monto_adjudicado": "$2,961,880.00",
+    "ultima_lectura": "2026-06-11T11:47:24.314990-07:00"
   },
   "CFE-0614-CSSAN-0017-2026": {
     "numero": "CFE-0614-CSSAN-0017-2026",
@@ -5403,10 +5403,10 @@
     "numero": "CFE-0604-CSAAA-0013-2026",
     "descripcion": "SERVICIO DE INSTALACION Y ADQUISICION DE EQUIPO DE ACONDICIONAMIENTO DE MUESTRAS DE LA U11 DE LA C.C.C. PRESIDENTE JUAREZ",
     "fecha_publicacion": "01-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-01T16:27:04.896736-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SWAN ANALISIS MEXICO S DE RL DE CV,",
+    "monto_adjudicado": "$3,937,320.05",
+    "ultima_lectura": "2026-06-11T11:47:24.069765-07:00"
   },
   "CFE-0614-CSAAA-0018-2026": {
     "numero": "CFE-0614-CSAAA-0018-2026",
@@ -5493,10 +5493,10 @@
     "numero": "CFE-0604-CSSAN-0022-2026",
     "descripcion": "Servicio de limpieza de carcasas de las turbinas de las Unidades del complejo Presidente Juárez",
     "fecha_publicacion": "02-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-03T16:43:14.882812-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NORBERTO TORRES VEA,",
+    "monto_adjudicado": "$2,947,280.00",
+    "ultima_lectura": "2026-06-11T11:47:23.859009-07:00"
   },
   "CFE-0101-CACON-0030-2026": {
     "numero": "CFE-0101-CACON-0030-2026",
@@ -5641,5 +5641,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-10T14:26:15.918890-07:00"
+  },
+  "CFE-0101-CACON-0032-2026": {
+    "numero": "CFE-0101-CACON-0032-2026",
+    "descripcion": "CONSTRUCCIÓN DE TERRACERÍAS Y BARDA PERIMETRAL EN S.E. PAREDONES POTENCIA BANCO 01, PERTENECIENTE A ZONA SAN LUIS, EN MEXICALI B.C.",
+    "fecha_publicacion": "11-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-11T11:47:22.834459-07:00"
+  },
+  "CFE-0604-CSSAN-0027-2026": {
+    "numero": "CFE-0604-CSSAN-0027-2026",
+    "descripcion": "SERVICIO DE ASISTENCIA ESPECIALIZADA PARA INSPECCIÓN ACTUAL DE LOS SUMIDEROS D Y E DE LAS UNIDADES AERODERIVADAS 4 Y 6 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA SEGUNDO EVENTO",
+    "fecha_publicacion": "11-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-11T11:47:22.878114-07:00"
   }
 }

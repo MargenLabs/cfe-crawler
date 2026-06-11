@@ -5668,5 +5668,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-11T14:24:36.906990-07:00"
+  },
+  "CFE-0614-CSAAA-0019-2026": {
+    "numero": "CFE-0614-CSAAA-0019-2026",
+    "descripcion": "Adquisición de llaves hidráulicas y accesorios para mantenimiento a turbinas de la C G Cerro Prieto",
+    "fecha_publicacion": "11-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-11T16:22:02.036665-07:00"
   }
 }

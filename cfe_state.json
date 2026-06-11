@@ -5659,5 +5659,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-11T11:47:22.878114-07:00"
+  },
+  "CFE-0614-CSSAN-0022-2026": {
+    "numero": "CFE-0614-CSSAN-0022-2026",
+    "descripcion": "Servicio de mantenimiento a equipos de descarga diésel de la Central Turbogas Mexicali",
+    "fecha_publicacion": "11-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-11T14:24:36.906990-07:00"
   }
 }

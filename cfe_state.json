@@ -5740,5 +5740,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-15T12:48:52.609347-07:00"
+  },
+  "CFE-0614-CSSAN-0025-2026": {
+    "numero": "CFE-0614-CSSAN-0025-2026",
+    "descripcion": "Servicio de mantenimiento a torre de enfriamiento de unidad 1 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "15-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T14:46:34.178514-07:00"
   }
 }

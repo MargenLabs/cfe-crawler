@@ -5007,10 +5007,10 @@
     "numero": "CFE-0051-CSSAN-0015-2026",
     "descripcion": "MANTENIMIENTO AL SISTEMA DE CONTROL DEL CAMPO GEOTÉRMICO DE CERRO PRIETO",
     "fecha_publicacion": "12-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-12T13:42:38.248569-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DIEGO ARTURO VARGAS ANGULO,MIGUEL ANGEL NOH PECH,",
+    "monto_adjudicado": "$2,190,115.39",
+    "ultima_lectura": "2026-06-15T12:48:56.797264-07:00"
   },
   "CFE-0101-CSAAN-0010-2026": {
     "numero": "CFE-0101-CSAAN-0010-2026",
@@ -5214,10 +5214,10 @@
     "numero": "CFE-0101-CSSAN-0012-2026",
     "descripcion": "MANIOBRA DE CARGA Y/O DESCARGA DE POSTES DE MADERA",
     "fecha_publicacion": "22-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-22T15:58:25.531946-07:00"
+    "ultima_lectura": "2026-06-15T12:48:55.501177-07:00"
   },
   "CFE-0101-CSSAN-0011-2026": {
     "numero": "CFE-0101-CSSAN-0011-2026",
@@ -5250,10 +5250,10 @@
     "numero": "CFE-0051-CSSAN-0016-2026",
     "descripcion": "MONITOREO DE PARTÍCULAS EN EL C.G.C.P.",
     "fecha_publicacion": "25-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-25T10:44:52.116648-07:00"
+    "ultima_lectura": "2026-06-15T12:48:55.286038-07:00"
   },
   "CFE-0604-CSAAA-0011-2026": {
     "numero": "CFE-0604-CSAAA-0011-2026",
@@ -5520,19 +5520,19 @@
     "numero": "CFE-0604-CSSAN-0026-2026",
     "descripcion": "“Servicio de mantenimiento integral para maquinaria pesada de la Central Termoeléctrica Presidente Juárez”",
     "fecha_publicacion": "05-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-06T10:16:36.330399-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
+    "monto_adjudicado": "$1,821,924.00",
+    "ultima_lectura": "2026-06-15T12:48:53.606331-07:00"
   },
   "CFE-0604-CSSAN-0025-2026": {
     "numero": "CFE-0604-CSSAN-0025-2026",
     "descripcion": "\"SERVICIO DE AGUA PURIFICADA PARA LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ\"",
     "fecha_publicacion": "05-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-06T10:16:36.387136-07:00"
+    "ultima_lectura": "2026-06-15T12:48:53.660664-07:00"
   },
   "CFE-0101-CSSAN-0017-2026": {
     "numero": "CFE-0101-CSSAN-0017-2026",
@@ -5677,5 +5677,68 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-11T16:22:02.036665-07:00"
+  },
+  "CFE-0051-CSAAN-0012-2026": {
+    "numero": "CFE-0051-CSAAN-0012-2026",
+    "descripcion": "MATERIAL DE LIMPIEZA",
+    "fecha_publicacion": "15-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.256263-07:00"
+  },
+  "CFE-0604-CSAAA-0014-2026": {
+    "numero": "CFE-0604-CSAAA-0014-2026",
+    "descripcion": "Adquisición de trajes de bomberos para la C.T. Presidente Juárez",
+    "fecha_publicacion": "12-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.315247-07:00"
+  },
+  "CFE-0614-CSSAN-0024-2026": {
+    "numero": "CFE-0614-CSSAN-0024-2026",
+    "descripcion": "Servicio de agua purificada de la C G Cerro Prieto",
+    "fecha_publicacion": "12-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.373631-07:00"
+  },
+  "CFE-0101-CACON-0033-2026": {
+    "numero": "CFE-0101-CACON-0033-2026",
+    "descripcion": "Construcción de obras de electrificación para el Plan de Justicia Energética en el Municipio de San Quintin, B.C. paquete No. 2, pertenecientes a la Zona Ensenada",
+    "fecha_publicacion": "12-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.430540-07:00"
+  },
+  "CFE-0604-CSAAN-0012-2026": {
+    "numero": "CFE-0604-CSAAN-0012-2026",
+    "descripcion": "Adquisición de tanque de almacenamiento para ácido y sosa de la U11 C.C.C. Presidente Juarez",
+    "fecha_publicacion": "12-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.491990-07:00"
+  },
+  "CFE-0614-CSAAA-0020-2026": {
+    "numero": "CFE-0614-CSAAA-0020-2026",
+    "descripcion": "Adquisición de analizador de vibraciones para equipo rotativo y curso de capacitación para la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "12-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.550691-07:00"
+  },
+  "CFE-0614-CSSAN-0023-2026": {
+    "numero": "CFE-0614-CSSAN-0023-2026",
+    "descripcion": "Servicio Integral de Recolección de Residuos de Manejo Especial de la C G Cerro Prieto",
+    "fecha_publicacion": "11-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-15T12:48:52.609347-07:00"
   }
 }

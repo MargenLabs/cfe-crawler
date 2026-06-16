@@ -5574,10 +5574,10 @@
     "numero": "CFE-0101-ADSAN-0007-2026",
     "descripcion": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE 2DO EVENTO",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T14:11:54.271657-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HORIZON ESTRATEGIAS COMERCIALES DE OCCIDENTE SA DE CV,",
+    "monto_adjudicado": "$1,302,914.87",
+    "ultima_lectura": "2026-06-16T12:37:30.408010-07:00"
   },
   "CFE-0101-CSAAN-0013-2026": {
     "numero": "CFE-0101-CSAAN-0013-2026",
@@ -5601,10 +5601,10 @@
     "numero": "CFE-0604-CSABN-0005-2026",
     "descripcion": "ARRENDAMIENTO DE PLANTA DE ÓSMOSIS INVERSA PARA LA C.C.C. PRESIDENTE JUÁREZ-TERCER EVENTO",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-09T11:07:10.881691-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "K E N T H O QUIMICA DE MONTERREY SA DE CV,",
+    "monto_adjudicado": "$7,826,728.95",
+    "ultima_lectura": "2026-06-16T12:37:30.089098-07:00"
   },
   "CFE-0604-CSAAN-0010-2026": {
     "numero": "CFE-0604-CSAAN-0010-2026",
@@ -5749,5 +5749,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-15T14:46:34.178514-07:00"
+  },
+  "CFE-0101-CACON-0035-2026": {
+    "numero": "CFE-0101-CACON-0035-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4125, 4135, 43075, 43115 CNZ, 4115 PKD, 4125, 4135 STB en Mexicali, B.C.",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T12:37:28.901089-07:00"
+  },
+  "CFE-0101-CSSAN-0019-2026": {
+    "numero": "CFE-0101-CSSAN-0019-2026",
+    "descripcion": "MANIOBRA DE CARGA Y DESCARGA DE POSTES (SEGUNDO EVENTO)",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T12:37:28.959125-07:00"
+  },
+  "CFE-0101-CACON-0034-2026": {
+    "numero": "CFE-0101-CACON-0034-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4115, 4145, 4155, 4165, 43095, 43095 CNZ, 4115, 4135, 4155 CTY, 4125, 4165, 43100, 43120, 5110, 5140, 5150 GOR en Me",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T12:37:29.014737-07:00"
+  },
+  "CFE-0101-CSAAA-0011-2026": {
+    "numero": "CFE-0101-CSAAA-0011-2026",
+    "descripcion": "SILLA ERGONOMICA CON SOPORTE 150 K",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T12:37:29.071656-07:00"
+  },
+  "CFE-0101-CSSAN-0018-2026": {
+    "numero": "CFE-0101-CSSAN-0018-2026",
+    "descripcion": "SERVICIO DE LIMPIEZA PARTIDAS DESIERTAS",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T12:37:29.130920-07:00"
   }
 }

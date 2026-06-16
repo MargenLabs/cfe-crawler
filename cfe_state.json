@@ -5794,5 +5794,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-16T12:37:29.130920-07:00"
+  },
+  "CFE-0101-CSAAA-0012-2026": {
+    "numero": "CFE-0101-CSAAA-0012-2026",
+    "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026 ZONA TIJUANA",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T16:23:27.830025-07:00"
+  },
+  "CFE-0604-CSSAN-0028-2026": {
+    "numero": "CFE-0604-CSSAN-0028-2026",
+    "descripcion": "Servicio de agua purificada para la Central Termoeléctrica Presidente Juárez - Segundo evento",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-16T16:23:27.893155-07:00"
   }
 }

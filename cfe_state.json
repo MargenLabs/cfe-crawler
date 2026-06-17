@@ -5592,10 +5592,10 @@
     "numero": "CFE-0604-CSAAN-0011-2026",
     "descripcion": "Adquisición de material de limpieza para la C.T. Presidente Juárez 2026",
     "fecha_publicacion": "09-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-09T11:07:10.822450-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
+    "monto_adjudicado": "$1,700,329.02",
+    "ultima_lectura": "2026-06-17T14:12:17.628057-07:00"
   },
   "CFE-0604-CSABN-0005-2026": {
     "numero": "CFE-0604-CSABN-0005-2026",
@@ -5610,10 +5610,10 @@
     "numero": "CFE-0604-CSAAN-0010-2026",
     "descripcion": "Adquisición de escobillas para generadores eléctricos de la C.T. Presidente Juárez, C.C.C. Presidente Juárez y C.T.G. Tijuana",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-09T11:07:10.936730-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESCOBILLA INDUSTRIAL SA DE CV,",
+    "monto_adjudicado": "$820,815.00",
+    "ultima_lectura": "2026-06-17T14:12:17.733187-07:00"
   },
   "CFE-0101-CACON-0031-2026": {
     "numero": "CFE-0101-CACON-0031-2026",

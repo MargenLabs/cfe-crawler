@@ -5457,10 +5457,10 @@
     "numero": "CFE-0614-CSSAN-0019-2026",
     "descripcion": "Servicio de mantenimiento a estaciones de bombas de transferencia de combustible de la Central Turbogas Mexicali",
     "fecha_publicacion": "03-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-03T16:43:14.655110-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
+    "monto_adjudicado": "$848,390.40",
+    "ultima_lectura": "2026-06-17T16:23:44.761851-07:00"
   },
   "CFE-0101-CSSAN-0015-2026": {
     "numero": "CFE-0101-CSSAN-0015-2026",
@@ -5857,5 +5857,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-17T11:19:44.208048-07:00"
+  },
+  "CFE-0614-CSAAN-0009-2026": {
+    "numero": "CFE-0614-CSAAN-0009-2026",
+    "descripcion": "Adquisición de empaques para mantenimientos programados 2026 C.G. Cerro Prieto",
+    "fecha_publicacion": "17-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T16:23:42.452830-07:00"
   }
 }

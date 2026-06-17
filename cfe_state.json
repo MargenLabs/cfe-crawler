@@ -5223,10 +5223,10 @@
     "numero": "CFE-0101-CSSAN-0011-2026",
     "descripcion": "REPARACIÓN Y MANTENIMIENTO DE TRANSFORMADORES DE DISTRIBUCIÓN 2026",
     "fecha_publicacion": "22-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-22T15:58:25.585808-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FABRICA DE TRANSFORMADORES BUVE SA DE CV,",
+    "monto_adjudicado": "$5,597,540.00",
+    "ultima_lectura": "2026-06-17T11:19:47.998386-07:00"
   },
   "CFE-0614-CSABN-0003-2026": {
     "numero": "CFE-0614-CSABN-0003-2026",
@@ -5812,5 +5812,50 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-16T16:23:27.893155-07:00"
+  },
+  "CFE-0101-CACON-0037-2026": {
+    "numero": "CFE-0101-CACON-0037-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4125 NZI y 4115, 4125, 4135 OZA en Mexicali, B.C.",
+    "fecha_publicacion": "17-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T11:19:43.966022-07:00"
+  },
+  "CFE-0101-CACON-0036-2026": {
+    "numero": "CFE-0101-CACON-0036-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4115, 4125, 4135, 4165, 4175, 4185, 4195, 4215, 4225 APD en Mexicali, B.C.",
+    "fecha_publicacion": "17-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T11:19:44.026083-07:00"
+  },
+  "CFE-0604-CSSAN-0029-2026": {
+    "numero": "CFE-0604-CSSAN-0029-2026",
+    "descripcion": "Servicio preventivo y correctivo para motores diésel de arranque para unidades 1 y 2 de la C.TG. Tijuana",
+    "fecha_publicacion": "17-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T11:19:44.085545-07:00"
+  },
+  "CFE-0101-CSSAN-0021-2026": {
+    "numero": "CFE-0101-CSSAN-0021-2026",
+    "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES 2026 ZONA TIJUANA",
+    "fecha_publicacion": "17-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T11:19:44.144402-07:00"
+  },
+  "CFE-0101-CSSAN-0020-2026": {
+    "numero": "CFE-0101-CSSAN-0020-2026",
+    "descripcion": "SERVICIO DE SUMINISTRO DE GASOLINA MENOR A 92 OCTANOS POR MEDIO DE UN SISTEMA ELECTRÓNICO DE ADMINISTRACIÓN, PARA EL PARQUE EL VEHICULAR DE LA SUBGERENCIA COMERCIAL DE LA DIVISIÓN DE DISTRIBUCIÓN",
+    "fecha_publicacion": "16-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-17T11:19:44.208048-07:00"
   }
 }

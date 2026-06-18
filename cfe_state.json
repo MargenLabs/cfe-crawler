@@ -5448,10 +5448,10 @@
     "numero": "CFE-0614-CSSAN-0020-2026",
     "descripcion": "Servicio de Limpieza de las Casas de Máquinas de la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "03-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-03T16:43:14.597485-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CPS COMERCIALIZADORA DE PRODUCTOS Y PROVEEDORA DE SERVICIOS DE L,",
+    "monto_adjudicado": "$793,828.30",
+    "ultima_lectura": "2026-06-18T11:26:45.744032-07:00"
   },
   "CFE-0614-CSSAN-0019-2026": {
     "numero": "CFE-0614-CSSAN-0019-2026",
@@ -5866,5 +5866,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-17T16:23:42.452830-07:00"
+  },
+  "CFE-0101-CACON-0038-2026": {
+    "numero": "CFE-0101-CACON-0038-2026",
+    "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 43085 CNZ en Mexicali, B.C.",
+    "fecha_publicacion": "18-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-18T11:26:43.754364-07:00"
   }
 }

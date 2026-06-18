@@ -5556,10 +5556,10 @@
     "numero": "CFE-0614-CSSAA-0001-2026",
     "descripcion": "Servicio de desagüe de fosas sépticas para la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T14:11:54.154431-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRANCISCA BEJARANO ARIAS,",
+    "monto_adjudicado": "$325,143.94",
+    "ultima_lectura": "2026-06-18T16:49:34.682387-07:00"
   },
   "CFE-0101-CSSAN-0016-2026": {
     "numero": "CFE-0101-CSSAN-0016-2026",
@@ -5875,5 +5875,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-18T11:26:43.754364-07:00"
+  },
+  "CFE-0614-CSSAN-0026-2026": {
+    "numero": "CFE-0614-CSSAN-0026-2026",
+    "descripcion": "Servicio de oilflushing para sistemas de aceite lubricante y de control de unidades 7, 10, 12 de la C G Cerro Prieto.",
+    "fecha_publicacion": "18-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-18T16:49:32.804878-07:00"
   }
 }

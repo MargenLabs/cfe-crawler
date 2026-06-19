@@ -5151,10 +5151,10 @@
     "numero": "CFE-0101-CSAAA-0005-2026",
     "descripcion": "CONSUMIBLES DE COMPUTO 2026",
     "fecha_publicacion": "18-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.326560-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA FET SA DE CV,COMPUPROVEEDORES SA DE CV,SUMIPAC DISTRIBUCION SA DE CV,VCP TECNOLOGIA S DE RL DE CV,",
+    "monto_adjudicado": "$649,309.80",
+    "ultima_lectura": "2026-06-19T10:59:39.660009-07:00"
   },
   "CFE-0604-CSAAA-0009-2026": {
     "numero": "CFE-0604-CSAAA-0009-2026",
@@ -5628,10 +5628,10 @@
     "numero": "CFE-0201-ADAAA-0001-2026",
     "descripcion": "SUMINISTRO E INSTALACION DE REFACCIONAMIENTO T10 RUM",
     "fecha_publicacion": "09-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-09T16:16:53.800603-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MANTENIMIENTO A TRANSFORMADORES TRES SA DE CV,",
+    "monto_adjudicado": "$18,550,500.00",
+    "ultima_lectura": "2026-06-19T10:59:36.627794-07:00"
   },
   "CFE-0614-CSSAN-0021-2026": {
     "numero": "CFE-0614-CSSAN-0021-2026",
@@ -5884,5 +5884,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-18T16:49:32.804878-07:00"
+  },
+  "CFE-0604-CSAAA-0015-2026": {
+    "numero": "CFE-0604-CSAAA-0015-2026",
+    "descripcion": "ADQUISICIÓN DE RELEVADORES DE PROTECCIONES ELÉCTRICAS PARA MOTORES ELÉCTRICOS DE BUSES 4.16 kV PARA LA C.C.C. PRESIDENTE JUÁREZ y C.T.G. TIJUANA",
+    "fecha_publicacion": "19-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-19T10:59:34.995865-07:00"
   }
 }

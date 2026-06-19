@@ -5893,5 +5893,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-19T10:59:34.995865-07:00"
+  },
+  "CFE-0101-CACON-0039-2026": {
+    "numero": "CFE-0101-CACON-0039-2026",
+    "descripcion": "Instalación provisional de transformador en Subestación Monte Real Banco 2 de 10 MVA, en San Jose del Cabo, Baja California Sur",
+    "fecha_publicacion": "19-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-19T15:57:10.543726-07:00"
   }
 }

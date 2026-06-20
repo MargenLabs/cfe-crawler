@@ -5331,10 +5331,10 @@
     "numero": "CFE-0614-CSCON-0002-2026",
     "descripcion": "Mantenimiento de tubería de distribución de torre de enfriamiento de la unidad 7 de la C.G. Cerro Prieto",
     "fecha_publicacion": "27-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-27T16:16:22.835337-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SERAMAQ SA DE CV,",
+    "monto_adjudicado": "$2,136,746.12",
+    "ultima_lectura": "2026-06-20T10:27:16.865182-07:00"
   },
   "CFE-0604-CSABN-0003-2026": {
     "numero": "CFE-0604-CSABN-0003-2026",
@@ -5902,5 +5902,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-19T15:57:10.543726-07:00"
+  },
+  "CFE-0614-CSSAA-0002-2026": {
+    "numero": "CFE-0614-CSSAA-0002-2026",
+    "descripcion": "Servicio y adquisición de dispositivos de sistema de alertamiento ante emergencias para la C G Cerro Prieto",
+    "fecha_publicacion": "20-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-20T10:27:13.391969-07:00"
+  },
+  "CFE-0604-CSSAN-0030-2026": {
+    "numero": "CFE-0604-CSSAN-0030-2026",
+    "descripcion": "Servicios mecánicos especializados y arrendamiento de grúa con operador para mantenimiento a evaporadores de la C.C.C. Presidente Juárez.",
+    "fecha_publicacion": "19-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-20T10:27:13.452997-07:00"
   }
 }

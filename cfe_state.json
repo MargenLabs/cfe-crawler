@@ -5421,10 +5421,10 @@
     "numero": "CFE-0051-CSAAA-0009-2026",
     "descripcion": "MATERIAL DE ACERO INOXIDABLE",
     "fecha_publicacion": "02-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-02T12:41:34.362673-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SICMA DESARROLLO TECNOLOGICO SA DE CV,TUBOS Y MANGUERAS FLEXIBLES DEL SURESTE SA DE CV,",
+    "monto_adjudicado": "$239,768.92",
+    "ultima_lectura": "2026-06-24T16:03:03.401958-07:00"
   },
   "CFE-0101-CSAAA-0009-2026": {
     "numero": "CFE-0101-CSAAA-0009-2026",
@@ -5691,10 +5691,10 @@
     "numero": "CFE-0604-CSAAA-0014-2026",
     "descripcion": "Adquisición de trajes de bomberos para la C.T. Presidente Juárez",
     "fecha_publicacion": "12-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.315247-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MARCILLA E HIJOS SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$875,954.80",
+    "ultima_lectura": "2026-06-24T16:03:01.646570-07:00"
   },
   "CFE-0614-CSSAN-0024-2026": {
     "numero": "CFE-0614-CSSAN-0024-2026",
@@ -5835,10 +5835,10 @@
     "numero": "CFE-0604-CSSAN-0029-2026",
     "descripcion": "Servicio preventivo y correctivo para motores diésel de arranque para unidades 1 y 2 de la C.TG. Tijuana",
     "fecha_publicacion": "17-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T11:19:44.085545-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
+    "monto_adjudicado": "$3,528,000.00",
+    "ultima_lectura": "2026-06-24T16:03:00.991103-07:00"
   },
   "CFE-0101-CSSAN-0021-2026": {
     "numero": "CFE-0101-CSSAN-0021-2026",
@@ -5974,5 +5974,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-24T10:55:06.753187-07:00"
+  },
+  "CFE-0101-CASON-0004-2026": {
+    "numero": "CFE-0101-CASON-0004-2026",
+    "descripcion": "Servicio de levantamiento topográfico, estudio de resistividad del terreno, estudio geotécnico, diseño de sistema de drenaje y diseño estructural de obras civiles en 6 subestaciones eléctricas corresp",
+    "fecha_publicacion": "24-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T16:03:00.051529-07:00"
   }
 }

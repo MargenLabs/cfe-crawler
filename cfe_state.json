@@ -5124,10 +5124,10 @@
     "numero": "CFE-0614-CSAAN-0007-2026",
     "descripcion": "Adquisición de ropa de trabajo para el personal de la C.C.I. Altar 2026 II Evento",
     "fecha_publicacion": "19-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-20T11:19:57.159679-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FRENCH CHIC SA DE CV,",
+    "monto_adjudicado": "$586,794.50",
+    "ultima_lectura": "2026-06-24T10:55:13.814792-07:00"
   },
   "CFE-0101-ADSAN-0006-2026": {
     "numero": "CFE-0101-ADSAN-0006-2026",
@@ -5367,10 +5367,10 @@
     "numero": "CFE-0614-CSSAN-0017-2026",
     "descripcion": "Servicio de Evaluación de Condiciones en Materia Laboral para la Central de Combustión Interna Altar 2026",
     "fecha_publicacion": "29-05-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-29T14:09:38.259081-07:00"
+    "ultima_lectura": "2026-06-24T10:55:11.657648-07:00"
   },
   "CFE-0101-CACON-0028-2026": {
     "numero": "CFE-0101-CACON-0028-2026",
@@ -5385,10 +5385,10 @@
     "numero": "CFE-0614-CSSAN-0018-2026",
     "descripcion": "Servicio de fumigación de la C.C.I. Altar 2026",
     "fecha_publicacion": "01-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-01T15:12:34.085770-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BL DISEÑO Y MANTENIMIENTO EMPRESARIAL SA DE CV,",
+    "monto_adjudicado": "$79,503.93",
+    "ultima_lectura": "2026-06-24T10:55:11.370802-07:00"
   },
   "CFE-0604-CSSAN-0021-2026": {
     "numero": "CFE-0604-CSSAN-0021-2026",
@@ -5538,10 +5538,10 @@
     "numero": "CFE-0101-CSSAN-0017-2026",
     "descripcion": "PODA DE ÁRBOLES EN MEDIA Y BAJA TENSIÓN 2026 P.D.",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T11:26:37.325893-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,",
+    "monto_adjudicado": "$549,031.20",
+    "ultima_lectura": "2026-06-24T10:55:10.185253-07:00"
   },
   "CFE-0051-CSAAN-0011-2026": {
     "numero": "CFE-0051-CSAAN-0011-2026",
@@ -5655,10 +5655,10 @@
     "numero": "CFE-0604-CSSAN-0027-2026",
     "descripcion": "SERVICIO DE ASISTENCIA ESPECIALIZADA PARA INSPECCIÓN ACTUAL DE LOS SUMIDEROS D Y E DE LAS UNIDADES AERODERIVADAS 4 Y 6 MODELO LM 6000 DE LA CENTRAL TURBOGAS TIJUANA SEGUNDO EVENTO",
     "fecha_publicacion": "11-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-11T11:47:22.878114-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GE VERNOVA INTERNATIONAL OPERATIONS COMPANY, INC,",
+    "monto_adjudicado": "$1,302,556.01",
+    "ultima_lectura": "2026-06-24T10:55:09.312209-07:00"
   },
   "CFE-0614-CSSAN-0022-2026": {
     "numero": "CFE-0614-CSSAN-0022-2026",
@@ -5718,10 +5718,10 @@
     "numero": "CFE-0604-CSAAN-0012-2026",
     "descripcion": "Adquisición de tanque de almacenamiento para ácido y sosa de la U11 C.C.C. Presidente Juarez",
     "fecha_publicacion": "12-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.491990-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RICARDO FLORES MENDOZA,",
+    "monto_adjudicado": "$1,171,794.00",
+    "ultima_lectura": "2026-06-24T10:55:08.838359-07:00"
   },
   "CFE-0614-CSAAA-0020-2026": {
     "numero": "CFE-0614-CSAAA-0020-2026",
@@ -5808,10 +5808,10 @@
     "numero": "CFE-0604-CSSAN-0028-2026",
     "descripcion": "Servicio de agua purificada para la Central Termoeléctrica Presidente Juárez - Segundo evento",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T16:23:27.893155-07:00"
+    "ultima_lectura": "2026-06-24T10:55:07.888834-07:00"
   },
   "CFE-0101-CACON-0037-2026": {
     "numero": "CFE-0101-CACON-0037-2026",
@@ -5920,5 +5920,59 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-20T10:27:13.452997-07:00"
+  },
+  "CFE-0051-CSSAN-0017-2026": {
+    "numero": "CFE-0051-CSSAN-0017-2026",
+    "descripcion": "MEDICIÓN DE NIVELES PIEZOMÉTRICOS EN POZOS DE OBSERVACIÓN EN EL CAMPO GEOTÉRMICO DE CERRO PRIETO",
+    "fecha_publicacion": "24-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.330937-07:00"
+  },
+  "CFE-0614-CSSAN-0027-2026": {
+    "numero": "CFE-0614-CSSAN-0027-2026",
+    "descripcion": "Servicio de Control de Fauna Nociva para la Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "23-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.404785-07:00"
+  },
+  "CFE-0051-CSAAA-0010-2026": {
+    "numero": "CFE-0051-CSAAA-0010-2026",
+    "descripcion": "MATERIAL DE CALIBRACION Y CONTROL",
+    "fecha_publicacion": "23-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.483019-07:00"
+  },
+  "CFE-0604-CSAAN-0013-2026": {
+    "numero": "CFE-0604-CSAAN-0013-2026",
+    "descripcion": "“Adquisición de material aislante para cubrir líneas conductoras de fluidos de alta temperatura de las unidades de C.C.C. Presidente Juárez.“",
+    "fecha_publicacion": "23-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.585433-07:00"
+  },
+  "CFE-0604-CSSAN-0032-2026": {
+    "numero": "CFE-0604-CSSAN-0032-2026",
+    "descripcion": "Servicio de agua purificada para la Central Termoeléctrica Presidente Juárez - Tercer Evento",
+    "fecha_publicacion": "22-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.674880-07:00"
+  },
+  "CFE-0604-CSSAN-0031-2026": {
+    "numero": "CFE-0604-CSSAN-0031-2026",
+    "descripcion": "Servicio de mantenimiento a bomba centrifuga 10\" de dragado de la C.C.C. Presidente Juárez - Segundo Evento",
+    "fecha_publicacion": "22-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-24T10:55:06.753187-07:00"
   }
 }

@@ -5700,10 +5700,10 @@
     "numero": "CFE-0614-CSSAN-0024-2026",
     "descripcion": "Servicio de agua purificada de la C G Cerro Prieto",
     "fecha_publicacion": "12-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.373631-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ROE INMOBILIARIA Y ARRENDADORA S DE RL DE CV,",
+    "monto_adjudicado": "$384,800.00",
+    "ultima_lectura": "2026-06-25T16:17:34.236262-07:00"
   },
   "CFE-0101-CACON-0033-2026": {
     "numero": "CFE-0101-CACON-0033-2026",
@@ -5727,10 +5727,10 @@
     "numero": "CFE-0614-CSAAA-0020-2026",
     "descripcion": "Adquisición de analizador de vibraciones para equipo rotativo y curso de capacitación para la Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "12-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.550691-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EMERSON PROCESS MANAGEMENT SA DE CV,",
+    "monto_adjudicado": "$2,713,915.80",
+    "ultima_lectura": "2026-06-25T16:17:34.392944-07:00"
   },
   "CFE-0614-CSSAN-0023-2026": {
     "numero": "CFE-0614-CSSAN-0023-2026",
@@ -5916,10 +5916,10 @@
     "numero": "CFE-0604-CSSAN-0030-2026",
     "descripcion": "Servicios mecánicos especializados y arrendamiento de grúa con operador para mantenimiento a evaporadores de la C.C.C. Presidente Juárez.",
     "fecha_publicacion": "19-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-20T10:27:13.452997-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
+    "monto_adjudicado": "$2,514,878.00",
+    "ultima_lectura": "2026-06-25T16:17:33.080210-07:00"
   },
   "CFE-0051-CSSAN-0017-2026": {
     "numero": "CFE-0051-CSSAN-0017-2026",
@@ -6001,5 +6001,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-25T11:11:17.741056-07:00"
+  },
+  "CFE-0604-CSAAN-0014-2026": {
+    "numero": "CFE-0604-CSAAN-0014-2026",
+    "descripcion": "ADQUISICIÓN DE REFACCIONES Y MATERIALES PARA MANTENIMIENTO A MOTORES ELÉCTRICOS DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "25-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-25T16:17:32.462454-07:00"
   }
 }

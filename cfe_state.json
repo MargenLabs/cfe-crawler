@@ -5637,10 +5637,10 @@
     "numero": "CFE-0614-CSSAN-0021-2026",
     "descripcion": "Servicio de Fumigación para la CG Cerro Prieto",
     "fecha_publicacion": "10-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-10T14:26:15.918890-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "YADIRA GOMEZ ,",
+    "monto_adjudicado": "$292,337.60",
+    "ultima_lectura": "2026-06-25T11:11:20.112658-07:00"
   },
   "CFE-0101-CACON-0032-2026": {
     "numero": "CFE-0101-CACON-0032-2026",
@@ -5673,10 +5673,10 @@
     "numero": "CFE-0614-CSAAA-0019-2026",
     "descripcion": "Adquisición de llaves hidráulicas y accesorios para mantenimiento a turbinas de la C G Cerro Prieto",
     "fecha_publicacion": "11-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-11T16:22:02.036665-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA DEL ISTMO SA DE CV,",
+    "monto_adjudicado": "$1,183,921.14",
+    "ultima_lectura": "2026-06-25T11:11:19.887014-07:00"
   },
   "CFE-0051-CSAAN-0012-2026": {
     "numero": "CFE-0051-CSAAN-0012-2026",
@@ -5983,5 +5983,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-24T16:03:00.051529-07:00"
+  },
+  "CFE-0604-CSCON-0010-2026": {
+    "numero": "CFE-0604-CSCON-0010-2026",
+    "descripcion": "Mantenimiento almacén de baja rotación de la C.C.C. Presidente Juárez.",
+    "fecha_publicacion": "25-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-25T11:11:17.673113-07:00"
+  },
+  "CFE-0614-CSSAN-0028-2026": {
+    "numero": "CFE-0614-CSSAN-0028-2026",
+    "descripcion": "Servicio monitoreo emisiones en chimeneas, calidad del aire, monitoreo ruido perimetral y medición ruido laboral para la CCI Mexicali Oriente y CTG Glez. Ortega.",
+    "fecha_publicacion": "24-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-25T11:11:17.741056-07:00"
   }
 }

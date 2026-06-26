@@ -5466,10 +5466,10 @@
     "numero": "CFE-0101-CSSAN-0015-2026",
     "descripcion": "MANTENIMIENTO A SISTEMAS DE ENFRIAMIENTO.",
     "fecha_publicacion": "03-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-03T16:43:14.710615-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NODO INGENIERIA SA DE CV,",
+    "monto_adjudicado": "$1,489,250.00",
+    "ultima_lectura": "2026-06-26T10:49:28.850535-07:00"
   },
   "CFE-0604-CSSAN-0024-2026": {
     "numero": "CFE-0604-CSSAN-0024-2026",
@@ -5664,10 +5664,10 @@
     "numero": "CFE-0614-CSSAN-0022-2026",
     "descripcion": "Servicio de mantenimiento a equipos de descarga diésel de la Central Turbogas Mexicali",
     "fecha_publicacion": "11-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-11T14:24:36.906990-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
+    "monto_adjudicado": "$584,832.48",
+    "ultima_lectura": "2026-06-26T10:49:27.734403-07:00"
   },
   "CFE-0614-CSAAA-0019-2026": {
     "numero": "CFE-0614-CSAAA-0019-2026",
@@ -6010,5 +6010,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-25T16:17:32.462454-07:00"
+  },
+  "CFE-0604-CSCON-0011-2026": {
+    "numero": "CFE-0604-CSCON-0011-2026",
+    "descripcion": "Reparación estructural a aulas de capacitación de la C.C.C. Presidente Juárez.",
+    "fecha_publicacion": "26-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-26T10:49:25.489752-07:00"
+  },
+  "CFE-0614-CSSAN-0029-2026": {
+    "numero": "CFE-0614-CSSAN-0029-2026",
+    "descripcion": "Servicio de poda de árboles, palmeras y deshierbe Central Geotermoeléctrica Cerro Prieto",
+    "fecha_publicacion": "26-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-26T10:49:25.547333-07:00"
   }
 }

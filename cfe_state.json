@@ -5295,10 +5295,10 @@
     "numero": "CFE-0101-CSSAN-0014-2026",
     "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A MONTACARGAS",
     "fecha_publicacion": "26-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-26T16:09:32.350512-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CARLOS AMADEO VALDEZ FLORES,",
+    "monto_adjudicado": "$2,400,000.00",
+    "ultima_lectura": "2026-06-27T10:11:55.571984-07:00"
   },
   "CFE-0604-CSAAA-0012-2026": {
     "numero": "CFE-0604-CSAAA-0012-2026",
@@ -5745,10 +5745,10 @@
     "numero": "CFE-0614-CSSAN-0025-2026",
     "descripcion": "Servicio de mantenimiento a torre de enfriamiento de unidad 1 de la Central Turbogas Mexicali",
     "fecha_publicacion": "15-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T14:46:34.178514-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,",
+    "monto_adjudicado": "$705,253.83",
+    "ultima_lectura": "2026-06-27T10:11:52.979492-07:00"
   },
   "CFE-0101-CACON-0035-2026": {
     "numero": "CFE-0101-CACON-0035-2026",

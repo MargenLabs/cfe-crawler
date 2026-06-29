@@ -5187,10 +5187,10 @@
     "numero": "CFE-0101-CACON-0027-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 41775, 4185, 4195 OZA, 4135, 4145 SIS y 4114, 4125, 4135, 4145, 4155, 4175, 4185 XCO en Mexicali, B.C.",
     "fecha_publicacion": "22-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-22T10:52:38.363851-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESPACIOS ARQUITECTONICOS PIMAR SA DE CV,",
+    "monto_adjudicado": "$4,035,307.72",
+    "ultima_lectura": "2026-06-29T13:50:13.522596-07:00"
   },
   "CFE-0604-CSAAA-0010-2026": {
     "numero": "CFE-0604-CSAAA-0010-2026",
@@ -5430,10 +5430,10 @@
     "numero": "CFE-0101-CSAAA-0009-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
     "fecha_publicacion": "02-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-02T12:41:34.422178-07:00"
+    "ultima_lectura": "2026-06-29T13:50:12.130455-07:00"
   },
   "CFE-0101-CACON-0029-2026": {
     "numero": "CFE-0101-CACON-0029-2026",

@@ -5376,10 +5376,10 @@
     "numero": "CFE-0101-CACON-0028-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 4145, 4165, 4225 OZA, 4115, 4125, 4135, 4145, 4155, 4165 WIS en Mexicali, B.C.",
     "fecha_publicacion": "29-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-29T16:12:36.127956-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$3,862,351.87",
+    "ultima_lectura": "2026-06-30T16:12:15.221084-07:00"
   },
   "CFE-0614-CSSAN-0018-2026": {
     "numero": "CFE-0614-CSSAN-0018-2026",
@@ -6037,5 +6037,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-29T15:57:09.707952-07:00"
+  },
+  "CFE-0101-CSAAN-0015-2026": {
+    "numero": "CFE-0101-CSAAN-0015-2026",
+    "descripcion": "CUBIERTA PARA TC´S",
+    "fecha_publicacion": "30-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-06-30T16:12:10.972701-07:00"
   }
 }

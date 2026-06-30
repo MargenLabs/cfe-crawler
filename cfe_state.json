@@ -5583,10 +5583,10 @@
     "numero": "CFE-0101-CSAAN-0013-2026",
     "descripcion": "Tablero de Distribución en Baja Tensión 3er. Evento",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T16:11:54.327763-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORA DE MATERIAL DE COBRE SA,",
+    "monto_adjudicado": "$2,169,500.00",
+    "ultima_lectura": "2026-06-30T13:58:40.140145-07:00"
   },
   "CFE-0604-CSAAN-0011-2026": {
     "numero": "CFE-0604-CSAAN-0011-2026",

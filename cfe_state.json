@@ -5547,10 +5547,10 @@
     "numero": "CFE-0051-CSAAN-0011-2026",
     "descripcion": "MATERIAL Y REFACCIONES ELECTRICAS",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T11:26:37.386235-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ELECTRICA VIRGO SA DE CV,MAYOREO ELECTROMECANICO SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$234,755.12",
+    "ultima_lectura": "2026-07-03T13:17:28.955739-07:00"
   },
   "CFE-0614-CSSAA-0001-2026": {
     "numero": "CFE-0614-CSSAA-0001-2026",

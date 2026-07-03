@@ -6163,5 +6163,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-03T10:27:01.064480-07:00"
+  },
+  "CFE-0101-CSAAN-0016-2026": {
+    "numero": "CFE-0101-CSAAN-0016-2026",
+    "descripcion": "ACEITE DIELECTRICO TIPO NO INHIBIDO II",
+    "fecha_publicacion": "03-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T16:02:58.901445-07:00"
   }
 }

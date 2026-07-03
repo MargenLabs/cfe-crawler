@@ -5439,10 +5439,10 @@
     "numero": "CFE-0101-CACON-0029-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la Ciudad de Mexicali en los circuitos: 4155, 4215 OZA en Mexicali, B.C.",
     "fecha_publicacion": "02-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-02T12:41:34.479808-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$3,757,506.99",
+    "ultima_lectura": "2026-07-03T10:27:04.886177-07:00"
   },
   "CFE-0614-CSSAN-0020-2026": {
     "numero": "CFE-0614-CSSAN-0020-2026",
@@ -5619,10 +5619,10 @@
     "numero": "CFE-0101-CACON-0031-2026",
     "descripcion": "Ampliación del Banco 2 (Sustitución TR) de SE. Panamericana 1T-3F-30MVA-115/13.8KV-0/3/0A, 2C-13KV-3F-4H-0.6KM-750KCM-AL-XLP-3/0CU y 2C-13KV-3F-4H-2.01KM-477 AAC-3/0-PCR, en Tijuana, B.C.",
     "fecha_publicacion": "09-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-09T14:01:52.663426-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NOS1703299FA/DIN250829LE1 - NORESA OIL SERVICE SA DE CV,",
+    "monto_adjudicado": "$9,325,893.92",
+    "ultima_lectura": "2026-07-03T10:27:03.679563-07:00"
   },
   "CFE-0201-ADAAA-0001-2026": {
     "numero": "CFE-0201-ADAAA-0001-2026",
@@ -5646,10 +5646,10 @@
     "numero": "CFE-0101-CACON-0032-2026",
     "descripcion": "CONSTRUCCIÓN DE TERRACERÍAS Y BARDA PERIMETRAL EN S.E. PAREDONES POTENCIA BANCO 01, PERTENECIENTE A ZONA SAN LUIS, EN MEXICALI B.C.",
     "fecha_publicacion": "11-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-11T11:47:22.834459-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NOS1703299FA/DIN250829LE1 - NORESA OIL SERVICE SA DE CV,",
+    "monto_adjudicado": "$6,443,547.17",
+    "ultima_lectura": "2026-07-03T10:27:03.461048-07:00"
   },
   "CFE-0604-CSSAN-0027-2026": {
     "numero": "CFE-0604-CSSAN-0027-2026",
@@ -5853,19 +5853,19 @@
     "numero": "CFE-0101-CSSAN-0020-2026",
     "descripcion": "SERVICIO DE SUMINISTRO DE GASOLINA MENOR A 92 OCTANOS POR MEDIO DE UN SISTEMA ELECTRÓNICO DE ADMINISTRACIÓN, PARA EL PARQUE EL VEHICULAR DE LA SUBGERENCIA COMERCIAL DE LA DIVISIÓN DE DISTRIBUCIÓN",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T11:19:44.208048-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ADMINISTRADORA DEL COLORADO S DE RL DE CV,ENERGETICOS EN RED ELECTRONICA SA DE CV,",
+    "monto_adjudicado": "$1,244,540.00",
+    "ultima_lectura": "2026-07-03T10:27:02.497545-07:00"
   },
   "CFE-0614-CSAAN-0009-2026": {
     "numero": "CFE-0614-CSAAN-0009-2026",
     "descripcion": "Adquisición de empaques para mantenimientos programados 2026 C.G. Cerro Prieto",
     "fecha_publicacion": "17-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T16:23:42.452830-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GARLOCK DE MEXICO SA DE CV,INSUMOS INDUSTRIALES Y EMPAQUETADURAS SA DE CV,JEGOS SA DE CV,SOLUCIONES INDUSTRIALES XHITAO SA DE CV,",
+    "monto_adjudicado": "$671,877.28",
+    "ultima_lectura": "2026-07-03T10:27:02.233603-07:00"
   },
   "CFE-0101-CACON-0038-2026": {
     "numero": "CFE-0101-CACON-0038-2026",
@@ -5880,10 +5880,10 @@
     "numero": "CFE-0614-CSSAN-0026-2026",
     "descripcion": "Servicio de oilflushing para sistemas de aceite lubricante y de control de unidades 7, 10, 12 de la C G Cerro Prieto.",
     "fecha_publicacion": "18-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-18T16:49:32.804878-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,",
+    "monto_adjudicado": "$7,664,776.00",
+    "ultima_lectura": "2026-07-03T10:27:02.127205-07:00"
   },
   "CFE-0604-CSAAA-0015-2026": {
     "numero": "CFE-0604-CSAAA-0015-2026",
@@ -5925,10 +5925,10 @@
     "numero": "CFE-0051-CSSAN-0017-2026",
     "descripcion": "MEDICIÓN DE NIVELES PIEZOMÉTRICOS EN POZOS DE OBSERVACIÓN EN EL CAMPO GEOTÉRMICO DE CERRO PRIETO",
     "fecha_publicacion": "24-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T10:55:06.330937-07:00"
+    "ultima_lectura": "2026-07-03T10:27:01.576356-07:00"
   },
   "CFE-0614-CSSAN-0027-2026": {
     "numero": "CFE-0614-CSSAN-0027-2026",
@@ -5952,28 +5952,28 @@
     "numero": "CFE-0604-CSAAN-0013-2026",
     "descripcion": "“Adquisición de material aislante para cubrir líneas conductoras de fluidos de alta temperatura de las unidades de C.C.C. Presidente Juárez.“",
     "fecha_publicacion": "23-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T10:55:06.585433-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO INSUL THERM SA DE CV,",
+    "monto_adjudicado": "$748,950.50",
+    "ultima_lectura": "2026-07-03T10:27:01.748900-07:00"
   },
   "CFE-0604-CSSAN-0032-2026": {
     "numero": "CFE-0604-CSSAN-0032-2026",
     "descripcion": "Servicio de agua purificada para la Central Termoeléctrica Presidente Juárez - Tercer Evento",
     "fecha_publicacion": "22-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T10:55:06.674880-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA EMBOTELLADORA DEL FUERTE S DE RL DE CV,",
+    "monto_adjudicado": "$132,600.00",
+    "ultima_lectura": "2026-07-03T10:27:01.803474-07:00"
   },
   "CFE-0604-CSSAN-0031-2026": {
     "numero": "CFE-0604-CSSAN-0031-2026",
     "descripcion": "Servicio de mantenimiento a bomba centrifuga 10\" de dragado de la C.C.C. Presidente Juárez - Segundo Evento",
     "fecha_publicacion": "22-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T10:55:06.753187-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MEGAX BUCEO INDUSTRIAL SA DE CV,",
+    "monto_adjudicado": "$2,544,000.00",
+    "ultima_lectura": "2026-07-03T10:27:01.856738-07:00"
   },
   "CFE-0101-CASON-0004-2026": {
     "numero": "CFE-0101-CASON-0004-2026",
@@ -6046,5 +6046,122 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-06-30T16:12:10.972701-07:00"
+  },
+  "CFE-0614-CSSAN-0031-2026": {
+    "numero": "CFE-0614-CSSAN-0031-2026",
+    "descripcion": "Servicio de calibración y mantenimiento de analizador colector de vibraciones para monitoreo y diagnóstico de condiciones de maquinaria de la C G Cerro Prieto",
+    "fecha_publicacion": "03-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.376225-07:00"
+  },
+  "CFE-0604-CSAAN-0015-2026": {
+    "numero": "CFE-0604-CSAAN-0015-2026",
+    "descripcion": "ADQUISICIÓN DE TARJETAS DE LICENCIAS, LIBROS RELATORIOS Y LIBROS DE REGISTROS DE LICENCIAS PARA LA C.T. PRESIDENTE JUÁREZ, LA C.C.C. PRESIDENTE JUÁREZ Y LA C.T.G. TIJUANA",
+    "fecha_publicacion": "02-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.434198-07:00"
+  },
+  "CFE-0101-CSSAN-0023-2026": {
+    "numero": "CFE-0101-CSSAN-0023-2026",
+    "descripcion": "RECOLECCIÓN DE BASURA",
+    "fecha_publicacion": "02-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.489933-07:00"
+  },
+  "CFE-0614-CSAAA-0021-2026": {
+    "numero": "CFE-0614-CSAAA-0021-2026",
+    "descripcion": "Adquisición de servoválvulas para unidades de 110MW, 30MW y 25MW de la C G Cerro Prieto",
+    "fecha_publicacion": "02-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.546883-07:00"
+  },
+  "CFE-0604-CSSAN-0035-2026": {
+    "numero": "CFE-0604-CSSAN-0035-2026",
+    "descripcion": "Servicio de disposición de Residuos Peligrosos de la Central Termoeléctrica Presidente Juárez",
+    "fecha_publicacion": "02-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.607412-07:00"
+  },
+  "CFE-0051-CSAAA-0011-2026": {
+    "numero": "CFE-0051-CSAAA-0011-2026",
+    "descripcion": "ALAMBRE DE ACERO INOXIDABLE",
+    "fecha_publicacion": "02-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.662495-07:00"
+  },
+  "CFE-0614-CSSAN-0030-2026": {
+    "numero": "CFE-0614-CSSAN-0030-2026",
+    "descripcion": "Servicio de Exámenes Médicos para el Personal de la CG Cerro Prieto, Central T.G Mexicali y Personal de SPTBC",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.718701-07:00"
+  },
+  "CFE-0101-CSAAN-0014-2026": {
+    "numero": "CFE-0101-CSAAN-0014-2026",
+    "descripcion": "CUBIERTAS PARA MEDIDOR AUTOGESTION",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.772983-07:00"
+  },
+  "CFE-0614-CSAAN-0010-2026": {
+    "numero": "CFE-0614-CSAAN-0010-2026",
+    "descripcion": "Adquisición de relevadores de sincronización automática y verificación de sincronismo para las unidades generadoras de 25MW, 30MW y 110MW de C G Cerro Prieto",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.836996-07:00"
+  },
+  "CFE-0101-CSAAA-0013-2026": {
+    "numero": "CFE-0101-CSAAA-0013-2026",
+    "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026 (2DO. EVENTO)",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.895189-07:00"
+  },
+  "CFE-0604-CSSAN-0033-2026": {
+    "numero": "CFE-0604-CSSAN-0033-2026",
+    "descripcion": "SERVICIO DE MANTENIMIENTO ANUAL DE CONSERVACIÓN Y MANTENIMIENTO A EQUIPOS DE AIRE ACONDICIONADO PARA LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:00.951944-07:00"
+  },
+  "CFE-0604-CSSAN-0034-2026": {
+    "numero": "CFE-0604-CSSAN-0034-2026",
+    "descripcion": "Servicio de mantenimiento a bombas verticales de agua de circulación de la Unidad 8 y Unidad 9 de la C.C.C. Presidente Juárez",
+    "fecha_publicacion": "01-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:01.007947-07:00"
+  },
+  "CFE-0604-CSCON-0013-2026": {
+    "numero": "CFE-0604-CSCON-0013-2026",
+    "descripcion": "Mantenimiento de baños del complejo presidente Juárez",
+    "fecha_publicacion": "30-06-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-03T10:27:01.064480-07:00"
   }
 }

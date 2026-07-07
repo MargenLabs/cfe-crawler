@@ -5313,10 +5313,10 @@
     "numero": "CFE-0101-CSAAN-0012-2026",
     "descripcion": "HERRAJES",
     "fecha_publicacion": "27-05-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-05-27T11:27:02.595631-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,DISTRIBUCIONES CANTILEVER S DE RL DE CV,FG MANUFACTURING SERVICES S DE RL DE CV,INDUSTRIA REAL SA DE CV,PARTALUM SA DE CV,POWERTRUSION DE MEXICO SA DE CV,SOLUCIONES INDUSTRIALES XHITAO SA DE CV,",
+    "monto_adjudicado": "$6,317,946.30",
+    "ultima_lectura": "2026-07-07T16:01:14.040364-07:00"
   },
   "CFE-0604-CSSAN-0020-2026": {
     "numero": "CFE-0604-CSSAN-0020-2026",
@@ -5565,10 +5565,10 @@
     "numero": "CFE-0101-CSSAN-0016-2026",
     "descripcion": "Reparación y Mantenimiento de Transformadores de Distribución Tipo Pedestal y Sumergibles 2026",
     "fecha_publicacion": "08-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-08T14:11:54.212902-07:00"
+    "ultima_lectura": "2026-07-07T16:01:12.481026-07:00"
   },
   "CFE-0101-ADSAN-0007-2026": {
     "numero": "CFE-0101-ADSAN-0007-2026",
@@ -5763,10 +5763,10 @@
     "numero": "CFE-0101-CSSAN-0019-2026",
     "descripcion": "MANIOBRA DE CARGA Y DESCARGA DE POSTES (SEGUNDO EVENTO)",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T12:37:28.959125-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ZULEMA ELVIRA DOMINGUEZ VERDUGO,",
+    "monto_adjudicado": "$420,420.00",
+    "ultima_lectura": "2026-07-07T16:01:11.143022-07:00"
   },
   "CFE-0101-CACON-0034-2026": {
     "numero": "CFE-0101-CACON-0034-2026",
@@ -5799,10 +5799,10 @@
     "numero": "CFE-0101-CSAAA-0012-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026 ZONA TIJUANA",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T16:23:27.830025-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EEPAT DE MEXICO SA DE CV,PATRICIA GUTIERREZ CASAÑAS,",
+    "monto_adjudicado": "$727,500.00",
+    "ultima_lectura": "2026-07-07T16:01:10.976655-07:00"
   },
   "CFE-0604-CSSAN-0028-2026": {
     "numero": "CFE-0604-CSSAN-0028-2026",
@@ -5844,10 +5844,10 @@
     "numero": "CFE-0101-CSSAN-0021-2026",
     "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES 2026 ZONA TIJUANA",
     "fecha_publicacion": "17-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T11:19:44.144402-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DP3 MEXICALI SA DE CV,",
+    "monto_adjudicado": "$480,469.00",
+    "ultima_lectura": "2026-07-07T16:01:10.864966-07:00"
   },
   "CFE-0101-CSSAN-0020-2026": {
     "numero": "CFE-0101-CSSAN-0020-2026",
@@ -5889,10 +5889,10 @@
     "numero": "CFE-0604-CSAAA-0015-2026",
     "descripcion": "ADQUISICIÓN DE RELEVADORES DE PROTECCIONES ELÉCTRICAS PARA MOTORES ELÉCTRICOS DE BUSES 4.16 kV PARA LA C.C.C. PRESIDENTE JUÁREZ y C.T.G. TIJUANA",
     "fecha_publicacion": "19-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-19T10:59:34.995865-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
+    "monto_adjudicado": "$4,098,064.95",
+    "ultima_lectura": "2026-07-07T16:01:10.485090-07:00"
   },
   "CFE-0101-CACON-0039-2026": {
     "numero": "CFE-0101-CACON-0039-2026",
@@ -5988,10 +5988,10 @@
     "numero": "CFE-0604-CSCON-0010-2026",
     "descripcion": "Mantenimiento almacén de baja rotación de la C.C.C. Presidente Juárez.",
     "fecha_publicacion": "25-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-25T11:11:17.673113-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GRUPO DAYPRO SA DE CV,",
+    "monto_adjudicado": "$7,203,808.93",
+    "ultima_lectura": "2026-07-07T16:01:09.792612-07:00"
   },
   "CFE-0614-CSSAN-0028-2026": {
     "numero": "CFE-0614-CSSAN-0028-2026",
@@ -6150,10 +6150,10 @@
     "numero": "CFE-0604-CSSAN-0034-2026",
     "descripcion": "Servicio de mantenimiento a bombas verticales de agua de circulación de la Unidad 8 y Unidad 9 de la C.C.C. Presidente Juárez",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:01.007947-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CR SERVICIOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$4,557,271.95",
+    "ultima_lectura": "2026-07-07T16:01:09.388939-07:00"
   },
   "CFE-0604-CSCON-0013-2026": {
     "numero": "CFE-0604-CSCON-0013-2026",
@@ -6181,5 +6181,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-04T10:07:07.514008-07:00"
+  },
+  "CFE-0604-CSAAA-0018-2026": {
+    "numero": "CFE-0604-CSAAA-0018-2026",
+    "descripcion": "Adquisición de trajes de bomberos para la C.T. Presidente Juárez-Segundo Evento",
+    "fecha_publicacion": "07-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-07T16:01:08.493630-07:00"
+  },
+  "CFE-0604-CSAAA-0017-2026": {
+    "numero": "CFE-0604-CSAAA-0017-2026",
+    "descripcion": "Adquisición de tornillería y servicio de retiro e instalación en la carcasa del compresor de la turbina de gas Unidad 10 de la Central Ciclo Combinado Presidente Juárez",
+    "fecha_publicacion": "06-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-07T16:01:08.559678-07:00"
   }
 }

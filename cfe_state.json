@@ -5511,10 +5511,10 @@
     "numero": "CFE-0101-CSAAA-0010-2026",
     "descripcion": "HERRAMIENTA MENOR ESPECIALIZADA PARA AUXILIAR DE CAMPO",
     "fecha_publicacion": "05-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-05T13:49:35.958150-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CAROLINA WONG MORENO,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,PRODUCTOS DIELECTRICOS Y HERRAMIENTAS SA DE CV,",
+    "monto_adjudicado": "$937,878.00",
+    "ultima_lectura": "2026-07-08T10:37:52.276020-07:00"
   },
   "CFE-0604-CSSAN-0026-2026": {
     "numero": "CFE-0604-CSSAN-0026-2026",
@@ -5907,10 +5907,10 @@
     "numero": "CFE-0614-CSSAA-0002-2026",
     "descripcion": "Servicio y adquisición de dispositivos de sistema de alertamiento ante emergencias para la C G Cerro Prieto",
     "fecha_publicacion": "20-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-20T10:27:13.391969-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SISTEMAS INTELIGENTES DE SUPRECION SA DE CV,",
+    "monto_adjudicado": "$714,497.26",
+    "ultima_lectura": "2026-07-08T10:37:49.846296-07:00"
   },
   "CFE-0604-CSSAN-0030-2026": {
     "numero": "CFE-0604-CSSAN-0030-2026",
@@ -6199,5 +6199,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-07T16:01:08.559678-07:00"
+  },
+  "CFE-0201-ADSAN-0001-2026": {
+    "numero": "CFE-0201-ADSAN-0001-2026",
+    "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURAS EN LT ENT-73170-MIN POR EMERGENCIA",
+    "fecha_publicacion": "08-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-08T10:37:47.872194-07:00"
+  },
+  "CFE-0101-CSSAN-0025-2026": {
+    "numero": "CFE-0101-CSSAN-0025-2026",
+    "descripcion": "SERVICIO DE DESPONCHE ZONA TIJUANA, ENSENADA, MEXICALI Y SAN LUIS 2026",
+    "fecha_publicacion": "08-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-08T10:37:47.933297-07:00"
+  },
+  "CFE-0101-CSSAN-0024-2026": {
+    "numero": "CFE-0101-CSSAN-0024-2026",
+    "descripcion": "SERVICIO DE LIMPIEZA",
+    "fecha_publicacion": "08-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-08T10:37:47.989430-07:00"
   }
 }

@@ -5997,19 +5997,19 @@
     "numero": "CFE-0614-CSSAN-0028-2026",
     "descripcion": "Servicio monitoreo emisiones en chimeneas, calidad del aire, monitoreo ruido perimetral y medición ruido laboral para la CCI Mexicali Oriente y CTG Glez. Ortega.",
     "fecha_publicacion": "24-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-25T11:11:17.741056-07:00"
+    "ultima_lectura": "2026-07-08T16:06:49.175532-07:00"
   },
   "CFE-0604-CSAAN-0014-2026": {
     "numero": "CFE-0604-CSAAN-0014-2026",
     "descripcion": "ADQUISICIÓN DE REFACCIONES Y MATERIALES PARA MANTENIMIENTO A MOTORES ELÉCTRICOS DE LA CENTRAL TERMOELÉCTRICA PRESIDENTE JUÁREZ",
     "fecha_publicacion": "25-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-25T16:17:32.462454-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,VAESYCO INDUSTRIAL Y MINERO SA DE CV,",
+    "monto_adjudicado": "$6,064,465.05",
+    "ultima_lectura": "2026-07-08T16:06:49.056598-07:00"
   },
   "CFE-0604-CSCON-0011-2026": {
     "numero": "CFE-0604-CSCON-0011-2026",
@@ -6105,10 +6105,10 @@
     "numero": "CFE-0614-CSSAN-0030-2026",
     "descripcion": "Servicio de Exámenes Médicos para el Personal de la CG Cerro Prieto, Central T.G Mexicali y Personal de SPTBC",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.718701-07:00"
+    "ultima_lectura": "2026-07-08T16:06:48.443347-07:00"
   },
   "CFE-0101-CSAAN-0014-2026": {
     "numero": "CFE-0101-CSAAN-0014-2026",

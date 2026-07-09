@@ -6033,10 +6033,10 @@
     "numero": "CFE-0604-CSCON-0012-2026",
     "descripcion": "Mantenimiento a casetas de auxiliares operativos del complejo presidente Juárez",
     "fecha_publicacion": "29-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-29T15:57:09.707952-07:00"
+    "ultima_lectura": "2026-07-09T10:57:25.148336-07:00"
   },
   "CFE-0101-CSAAN-0015-2026": {
     "numero": "CFE-0101-CSAAN-0015-2026",
@@ -6226,5 +6226,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-08T10:37:47.989430-07:00"
+  },
+  "CFE-0101-CSSAN-0026-2026": {
+    "numero": "CFE-0101-CSSAN-0026-2026",
+    "descripcion": "SOPORTE TECNICO A UCM",
+    "fecha_publicacion": "09-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-09T10:57:23.510603-07:00"
+  },
+  "CFE-0101-CSAAN-0017-2026": {
+    "numero": "CFE-0101-CSAAN-0017-2026",
+    "descripcion": "CINTA DE AISLAR",
+    "fecha_publicacion": "09-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-09T10:57:23.604540-07:00"
+  },
+  "CFE-0101-CSSAN-0027-2026": {
+    "numero": "CFE-0101-CSSAN-0027-2026",
+    "descripcion": "SERVICIO DE SUMINISTRO DE GASOLINA MENOR A 92 OCTANOS POR MEDIO DE UN SISTEMA ELECTRÓNICO DE ADMINISTRACIÓN, PARA EL PARQUE EL VEHICULAR DE LA SUBGERENCIA COMERCIAL DE LA DIVISIÓN DE DISTRIBUCIÓN",
+    "fecha_publicacion": "09-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-09T10:57:23.685097-07:00"
   }
 }

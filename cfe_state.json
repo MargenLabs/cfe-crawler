@@ -5682,10 +5682,10 @@
     "numero": "CFE-0051-CSAAN-0012-2026",
     "descripcion": "MATERIAL DE LIMPIEZA",
     "fecha_publicacion": "15-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.256263-07:00"
+    "ultima_lectura": "2026-07-09T16:10:41.936814-07:00"
   },
   "CFE-0604-CSAAA-0014-2026": {
     "numero": "CFE-0604-CSAAA-0014-2026",
@@ -6024,10 +6024,10 @@
     "numero": "CFE-0614-CSSAN-0029-2026",
     "descripcion": "Servicio de poda de árboles, palmeras y deshierbe Central Geotermoeléctrica Cerro Prieto",
     "fecha_publicacion": "26-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-26T10:49:25.547333-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "NODO INGENIERIA SA DE CV,",
+    "monto_adjudicado": "$1,122,937.20",
+    "ultima_lectura": "2026-07-09T16:10:40.262112-07:00"
   },
   "CFE-0604-CSCON-0012-2026": {
     "numero": "CFE-0604-CSCON-0012-2026",
@@ -6123,10 +6123,10 @@
     "numero": "CFE-0614-CSAAN-0010-2026",
     "descripcion": "Adquisición de relevadores de sincronización automática y verificación de sincronismo para las unidades generadoras de 25MW, 30MW y 110MW de C G Cerro Prieto",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.836996-07:00"
+    "ultima_lectura": "2026-07-09T16:10:39.800437-07:00"
   },
   "CFE-0101-CSAAA-0013-2026": {
     "numero": "CFE-0101-CSAAA-0013-2026",
@@ -6253,5 +6253,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-09T10:57:23.685097-07:00"
+  },
+  "CFE-0614-CSAAN-0011-2026": {
+    "numero": "CFE-0614-CSAAN-0011-2026",
+    "descripcion": "Adquisición de Equipo de Protección Personal y equipamiento para atencion de primeros auxilios para el personal de la C G Cerro Prieto dotación 2026",
+    "fecha_publicacion": "09-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-09T16:10:38.699335-07:00"
   }
 }

@@ -5709,10 +5709,10 @@
     "numero": "CFE-0101-CACON-0033-2026",
     "descripcion": "Construcción de obras de electrificación para el Plan de Justicia Energética en el Municipio de San Quintin, B.C. paquete No. 2, pertenecientes a la Zona Ensenada",
     "fecha_publicacion": "12-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-15T12:48:52.430540-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA ELECTRICA KOTKOFF SA DE CV,",
+    "monto_adjudicado": "$7,743,069.25",
+    "ultima_lectura": "2026-07-09T13:49:56.589717-07:00"
   },
   "CFE-0604-CSAAN-0012-2026": {
     "numero": "CFE-0604-CSAAN-0012-2026",

@@ -6262,5 +6262,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-09T16:10:38.699335-07:00"
+  },
+  "CFE-0614-CSSAN-0032-2026": {
+    "numero": "CFE-0614-CSSAN-0032-2026",
+    "descripcion": "Servicio de Exámenes Médicos para el Personal de la CG Cerro Prieto, Central T.G Mexicali y Personal de SPTBC",
+    "fecha_publicacion": "10-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-10T15:58:33.947815-07:00"
   }
 }

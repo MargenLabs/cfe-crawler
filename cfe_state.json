@@ -5772,19 +5772,19 @@
     "numero": "CFE-0101-CACON-0034-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4115, 4145, 4155, 4165, 43095, 43095 CNZ, 4115, 4135, 4155 CTY, 4125, 4165, 43100, 43120, 5110, 5140, 5150 GOR en Me",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T12:37:29.014737-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$3,800,109.64",
+    "ultima_lectura": "2026-07-15T10:18:44.111052-07:00"
   },
   "CFE-0101-CSAAA-0011-2026": {
     "numero": "CFE-0101-CSAAA-0011-2026",
     "descripcion": "SILLA ERGONOMICA CON SOPORTE 150 K",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T12:37:29.071656-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MUEBLES ROAL SA DE CV,",
+    "monto_adjudicado": "$2,604,246.00",
+    "ultima_lectura": "2026-07-15T10:18:44.164101-07:00"
   },
   "CFE-0101-CSSAN-0018-2026": {
     "numero": "CFE-0101-CSSAN-0018-2026",
@@ -5898,10 +5898,10 @@
     "numero": "CFE-0101-CACON-0039-2026",
     "descripcion": "Instalación provisional de transformador en Subestación Monte Real Banco 2 de 10 MVA, en San Jose del Cabo, Baja California Sur",
     "fecha_publicacion": "19-06-2026",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-19T15:57:10.543726-07:00"
+    "ultima_lectura": "2026-07-15T10:18:43.370975-07:00"
   },
   "CFE-0614-CSSAA-0002-2026": {
     "numero": "CFE-0614-CSSAA-0002-2026",
@@ -6060,10 +6060,10 @@
     "numero": "CFE-0604-CSAAN-0015-2026",
     "descripcion": "ADQUISICIÓN DE TARJETAS DE LICENCIAS, LIBROS RELATORIOS Y LIBROS DE REGISTROS DE LICENCIAS PARA LA C.T. PRESIDENTE JUÁREZ, LA C.C.C. PRESIDENTE JUÁREZ Y LA C.T.G. TIJUANA",
     "fecha_publicacion": "02-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.434198-07:00"
+    "ultima_lectura": "2026-07-15T10:18:41.828321-07:00"
   },
   "CFE-0101-CSSAN-0023-2026": {
     "numero": "CFE-0101-CSSAN-0023-2026",
@@ -6087,10 +6087,10 @@
     "numero": "CFE-0604-CSSAN-0035-2026",
     "descripcion": "Servicio de disposición de Residuos Peligrosos de la Central Termoeléctrica Presidente Juárez",
     "fecha_publicacion": "02-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.607412-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
+    "monto_adjudicado": "$323,769.60",
+    "ultima_lectura": "2026-07-15T10:18:41.994634-07:00"
   },
   "CFE-0051-CSAAA-0011-2026": {
     "numero": "CFE-0051-CSAAA-0011-2026",
@@ -6141,10 +6141,10 @@
     "numero": "CFE-0604-CSSAN-0033-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO ANUAL DE CONSERVACIÓN Y MANTENIMIENTO A EQUIPOS DE AIRE ACONDICIONADO PARA LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.951944-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FERNANDO SALGADO SAGUCHI,",
+    "monto_adjudicado": "$445,170.00",
+    "ultima_lectura": "2026-07-15T10:18:42.348323-07:00"
   },
   "CFE-0604-CSSAN-0034-2026": {
     "numero": "CFE-0604-CSSAN-0034-2026",
@@ -6186,28 +6186,28 @@
     "numero": "CFE-0604-CSAAA-0018-2026",
     "descripcion": "Adquisición de trajes de bomberos para la C.T. Presidente Juárez-Segundo Evento",
     "fecha_publicacion": "07-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-07T16:01:08.493630-07:00"
+    "ultima_lectura": "2026-07-15T10:18:41.527450-07:00"
   },
   "CFE-0604-CSAAA-0017-2026": {
     "numero": "CFE-0604-CSAAA-0017-2026",
     "descripcion": "Adquisición de tornillería y servicio de retiro e instalación en la carcasa del compresor de la turbina de gas Unidad 10 de la Central Ciclo Combinado Presidente Juárez",
     "fecha_publicacion": "06-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-07T16:01:08.559678-07:00"
+    "ultima_lectura": "2026-07-15T10:18:41.589548-07:00"
   },
   "CFE-0201-ADSAN-0001-2026": {
     "numero": "CFE-0201-ADSAN-0001-2026",
     "descripcion": "RETIRO Y MONTAJE DE ESTRUCTURAS EN LT ENT-73170-MIN POR EMERGENCIA",
     "fecha_publicacion": "08-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-08T10:37:47.872194-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$440,000.00",
+    "ultima_lectura": "2026-07-15T10:18:41.358493-07:00"
   },
   "CFE-0101-CSSAN-0025-2026": {
     "numero": "CFE-0101-CSSAN-0025-2026",
@@ -6271,5 +6271,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-10T15:58:33.947815-07:00"
+  },
+  "CFE-0101-CSSAN-0029-2026": {
+    "numero": "CFE-0101-CSSAN-0029-2026",
+    "descripcion": "Reparación y Mantenimiento de Transformadores de Distribución Tipo Pedestal y Sumergibles P.D.",
+    "fecha_publicacion": "15-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T10:18:40.877138-07:00"
+  },
+  "CFE-0101-CSSAN-0028-2026": {
+    "numero": "CFE-0101-CSSAN-0028-2026",
+    "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A EQUIPOS DE AIRE ACONDICIONADO",
+    "fecha_publicacion": "14-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T10:18:40.937595-07:00"
+  },
+  "CFE-0604-CSAAN-0016-2026": {
+    "numero": "CFE-0604-CSAAN-0016-2026",
+    "descripcion": "SUMINISTRO DE BIENES Y SERVICIO DE MANTENIMIENTO INTEGRAL PARA MOTORES DIÉSEL DE ARRANQUE DE LAS UNIDADES 1 Y 2 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "13-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T10:18:40.993527-07:00"
   }
 }

@@ -6298,5 +6298,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-15T10:18:40.993527-07:00"
+  },
+  "CFE-0101-CACON-0040-2026": {
+    "numero": "CFE-0101-CACON-0040-2026",
+    "descripcion": "Construcción de 2 alimentadores en 13.8kV + 1.8 MVAr en SE. Punta Prieta, 2 circuitos de L.M.T. 13.8 kV-477-AAC-PC y 13.8kV-750-AL-XLP, en La Paz, B.C.S.",
+    "fecha_publicacion": "15-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T15:57:29.449098-07:00"
+  },
+  "CFE-0604-CSAAN-0017-2026": {
+    "numero": "CFE-0604-CSAAN-0017-2026",
+    "descripcion": "ADQUISICIÓN DE TARJETAS DE LICENCIAS, LIBROS RELATORIOS Y LIBROS DE REGISTROS DE LICENCIAS PARA LA C.T. PRESIDENTE JUÁREZ, LA C.C.C. PRESIDENTE JUÁREZ Y LA C.T.G. TIJUANA-SEGUNDO EVENTO",
+    "fecha_publicacion": "15-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T15:57:29.507746-07:00"
+  },
+  "CFE-0604-CSAAA-0019-2026": {
+    "numero": "CFE-0604-CSAAA-0019-2026",
+    "descripcion": "ADQUISICIÓN DE TORNILLERÍA Y SERVICIO DE RETIRO E INSTALACIÓN EN LA CARCASA DEL COMPRESOR DE LA TURBINA DE GAS UNIDAD 10 DE LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ-SEGUNDO EVENTO",
+    "fecha_publicacion": "15-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-15T15:57:29.564218-07:00"
   }
 }

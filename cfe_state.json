@@ -5754,10 +5754,10 @@
     "numero": "CFE-0101-CACON-0035-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4125, 4135, 43075, 43115 CNZ, 4115 PKD, 4125, 4135 STB en Mexicali, B.C.",
     "fecha_publicacion": "16-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-16T12:37:28.901089-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$4,084,150.10",
+    "ultima_lectura": "2026-07-15T13:14:03.840248-07:00"
   },
   "CFE-0101-CSSAN-0019-2026": {
     "numero": "CFE-0101-CSSAN-0019-2026",

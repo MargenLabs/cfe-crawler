@@ -6334,5 +6334,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-16T10:17:15.568313-07:00"
+  },
+  "CFE-0201-CACON-0003-2026": {
+    "numero": "CFE-0201-CACON-0003-2026",
+    "descripcion": "MODERNIZACION DE LA LÍNEA DE TRANSMISIÓN VIZCAINO-73120-BAHÍA ASUNCIÓN PRIMERA ETAPA DE LA ZONA DE TRANSMISIÓN SUR",
+    "fecha_publicacion": "16-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-16T13:04:24.943452-07:00"
   }
 }

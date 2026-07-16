@@ -6051,10 +6051,10 @@
     "numero": "CFE-0614-CSSAN-0031-2026",
     "descripcion": "Servicio de calibración y mantenimiento de analizador colector de vibraciones para monitoreo y diagnóstico de condiciones de maquinaria de la C G Cerro Prieto",
     "fecha_publicacion": "03-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.376225-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EMERSON PROCESS MANAGEMENT SA DE CV,",
+    "monto_adjudicado": "$392,049.00",
+    "ultima_lectura": "2026-07-16T10:17:16.667078-07:00"
   },
   "CFE-0604-CSAAN-0015-2026": {
     "numero": "CFE-0604-CSAAN-0015-2026",
@@ -6325,5 +6325,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-15T15:57:29.564218-07:00"
+  },
+  "CFE-0051-CSAAN-0013-2026": {
+    "numero": "CFE-0051-CSAAN-0013-2026",
+    "descripcion": "JABÓN Y TOALLAS PARA BAÑO",
+    "fecha_publicacion": "16-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-16T10:17:15.568313-07:00"
   }
 }

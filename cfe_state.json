@@ -6379,5 +6379,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-17T10:13:08.200051-07:00"
+  },
+  "CFE-0604-CSCON-0014-2026": {
+    "numero": "CFE-0604-CSCON-0014-2026",
+    "descripcion": "Mantenimiento a casetas de auxiliares operativos del complejo presidente Juárez - Segundo Evento",
+    "fecha_publicacion": "17-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-17T15:49:46.551566-07:00"
   }
 }

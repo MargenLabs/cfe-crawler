@@ -6222,10 +6222,10 @@
     "numero": "CFE-0101-CSSAN-0024-2026",
     "descripcion": "SERVICIO DE LIMPIEZA",
     "fecha_publicacion": "08-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-08T10:37:47.989430-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CUSPROSEG CORPORATIVO DEL NOROESTE S DE RL DE CV,EFRAIN ORTIZ JIMENEZ,",
+    "monto_adjudicado": "$2,523,306.00",
+    "ultima_lectura": "2026-07-18T09:58:25.386256-07:00"
   },
   "CFE-0101-CSSAN-0026-2026": {
     "numero": "CFE-0101-CSSAN-0026-2026",

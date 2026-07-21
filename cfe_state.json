@@ -5943,10 +5943,10 @@
     "numero": "CFE-0051-CSAAA-0010-2026",
     "descripcion": "MATERIAL DE CALIBRACION Y CONTROL",
     "fecha_publicacion": "23-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T10:55:06.483019-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EMERSON PROCESS MANAGEMENT SA DE CV,INSTRUMENTOS INDUSTRIALES DEL PACIFICO SA DE CV,VAES TECH SA DE CV,",
+    "monto_adjudicado": "$686,299.67",
+    "ultima_lectura": "2026-07-21T15:56:05.363648-07:00"
   },
   "CFE-0604-CSAAN-0013-2026": {
     "numero": "CFE-0604-CSAAN-0013-2026",
@@ -5979,10 +5979,10 @@
     "numero": "CFE-0101-CASON-0004-2026",
     "descripcion": "Servicio de levantamiento topográfico, estudio de resistividad del terreno, estudio geotécnico, diseño de sistema de drenaje y diseño estructural de obras civiles en 6 subestaciones eléctricas corresp",
     "fecha_publicacion": "24-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-24T16:03:00.051529-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SURVEY INTERNACIONAL SA DE CV,",
+    "monto_adjudicado": "$3,187,041.66",
+    "ultima_lectura": "2026-07-21T15:56:05.209436-07:00"
   },
   "CFE-0604-CSCON-0010-2026": {
     "numero": "CFE-0604-CSCON-0010-2026",
@@ -6159,10 +6159,10 @@
     "numero": "CFE-0604-CSCON-0013-2026",
     "descripcion": "Mantenimiento de baños del complejo presidente Juárez",
     "fecha_publicacion": "30-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:01.064480-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "Q-BICA CONSTRUCCIONES S DE RL DE CV,",
+    "monto_adjudicado": "$7,086,809.61",
+    "ultima_lectura": "2026-07-21T15:56:04.792003-07:00"
   },
   "CFE-0101-CSAAN-0016-2026": {
     "numero": "CFE-0101-CSAAN-0016-2026",
@@ -6249,10 +6249,10 @@
     "numero": "CFE-0101-CSSAN-0027-2026",
     "descripcion": "SERVICIO DE SUMINISTRO DE GASOLINA MENOR A 92 OCTANOS POR MEDIO DE UN SISTEMA ELECTRÓNICO DE ADMINISTRACIÓN, PARA EL PARQUE EL VEHICULAR DE LA SUBGERENCIA COMERCIAL DE LA DIVISIÓN DE DISTRIBUCIÓN",
     "fecha_publicacion": "09-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-09T10:57:23.685097-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "OPERADORA RIO COLORADO S DE RL DE CV,",
+    "monto_adjudicado": "$253,003.00",
+    "ultima_lectura": "2026-07-21T15:56:03.764184-07:00"
   },
   "CFE-0614-CSAAN-0011-2026": {
     "numero": "CFE-0614-CSAAN-0011-2026",
@@ -6294,10 +6294,10 @@
     "numero": "CFE-0604-CSAAN-0016-2026",
     "descripcion": "SUMINISTRO DE BIENES Y SERVICIO DE MANTENIMIENTO INTEGRAL PARA MOTORES DIÉSEL DE ARRANQUE DE LAS UNIDADES 1 Y 2 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "13-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-15T10:18:40.993527-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
+    "monto_adjudicado": "$2,859,727.81",
+    "ultima_lectura": "2026-07-21T15:56:03.489874-07:00"
   },
   "CFE-0101-CACON-0040-2026": {
     "numero": "CFE-0101-CACON-0040-2026",
@@ -6388,5 +6388,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-17T15:49:46.551566-07:00"
+  },
+  "CFE-0604-CSAAN-0018-2026": {
+    "numero": "CFE-0604-CSAAN-0018-2026",
+    "descripcion": "ADQUISICIÓN DE TORNILLOS EN ACERO DÚPLEX S32550 CHUMACERAS EN ACERO INOXIDABLE-ALUMINIO VULCANIZADAS Y MANGAS DE INOXIDABLE CARBURIZADO PARA UNIDADES 8 Y 9 DE LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "21-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-21T15:56:02.588316-07:00"
+  },
+  "CFE-0614-CSAAN-0012-2026": {
+    "numero": "CFE-0614-CSAAN-0012-2026",
+    "descripcion": "Adquisición de madera de pino tratada con sales hidrosolubles, lámina de fibra de vidrio y tornillería para torres de enfriamiento de la CG Cerro Prieto",
+    "fecha_publicacion": "20-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-21T15:56:02.644151-07:00"
+  },
+  "CFE-0614-CSSAN-0034-2026": {
+    "numero": "CFE-0614-CSSAN-0034-2026",
+    "descripcion": "Servicio monitoreo emisiones en chimeneas, calidad del aire, monitoreo ruido perimetral y medición ruido laboral para la CCI Mexicali Oriente y CTG Glez. Ortega 2do evento",
+    "fecha_publicacion": "20-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-21T15:56:02.695217-07:00"
+  },
+  "CFE-0101-CSAAN-0018-2026": {
+    "numero": "CFE-0101-CSAAN-0018-2026",
+    "descripcion": "CONECTADORES",
+    "fecha_publicacion": "20-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-21T15:56:02.750394-07:00"
   }
 }

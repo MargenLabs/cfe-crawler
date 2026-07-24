@@ -5817,19 +5817,19 @@
     "numero": "CFE-0101-CACON-0037-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4125 NZI y 4115, 4125, 4135 OZA en Mexicali, B.C.",
     "fecha_publicacion": "17-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T11:19:43.966022-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESPACIOS ARQUITECTONICOS PIMAR SA DE CV,",
+    "monto_adjudicado": "$3,915,197.47",
+    "ultima_lectura": "2026-07-24T10:38:38.136068-07:00"
   },
   "CFE-0101-CACON-0036-2026": {
     "numero": "CFE-0101-CACON-0036-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 4115, 4125, 4135, 4165, 4175, 4185, 4195, 4215, 4225 APD en Mexicali, B.C.",
     "fecha_publicacion": "17-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-17T11:19:44.026083-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$4,061,193.85",
+    "ultima_lectura": "2026-07-24T10:38:38.186792-07:00"
   },
   "CFE-0604-CSSAN-0029-2026": {
     "numero": "CFE-0604-CSSAN-0029-2026",
@@ -6042,10 +6042,10 @@
     "numero": "CFE-0101-CSAAN-0015-2026",
     "descripcion": "CUBIERTA PARA TC´S",
     "fecha_publicacion": "30-06-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-30T16:12:10.972701-07:00"
+    "ultima_lectura": "2026-07-24T10:38:37.020141-07:00"
   },
   "CFE-0614-CSSAN-0031-2026": {
     "numero": "CFE-0614-CSSAN-0031-2026",
@@ -6069,10 +6069,10 @@
     "numero": "CFE-0101-CSSAN-0023-2026",
     "descripcion": "RECOLECCIÓN DE BASURA",
     "fecha_publicacion": "02-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.489933-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DAVID JAVIER ESQUIVEL PEREZ,GEN INDUSTRIAL SA DE CV,RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
+    "monto_adjudicado": "$724,032.00",
+    "ultima_lectura": "2026-07-24T10:38:36.440585-07:00"
   },
   "CFE-0614-CSAAA-0021-2026": {
     "numero": "CFE-0614-CSAAA-0021-2026",
@@ -6114,10 +6114,10 @@
     "numero": "CFE-0101-CSAAN-0014-2026",
     "descripcion": "CUBIERTAS PARA MEDIDOR AUTOGESTION",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.772983-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PLASTICOS BEGOVICH SA DE CV,",
+    "monto_adjudicado": "$1,334,893.64",
+    "ultima_lectura": "2026-07-24T10:38:36.705199-07:00"
   },
   "CFE-0614-CSAAN-0010-2026": {
     "numero": "CFE-0614-CSAAN-0010-2026",
@@ -6132,10 +6132,10 @@
     "numero": "CFE-0101-CSAAA-0013-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026 (2DO. EVENTO)",
     "fecha_publicacion": "01-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-03T10:27:00.895189-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PATRICIA GUTIERREZ CASAÑAS,",
+    "monto_adjudicado": "$173,662.50",
+    "ultima_lectura": "2026-07-24T10:38:36.811190-07:00"
   },
   "CFE-0604-CSSAN-0033-2026": {
     "numero": "CFE-0604-CSSAN-0033-2026",
@@ -6177,10 +6177,10 @@
     "numero": "CFE-0604-CSAAA-0016-2026",
     "descripcion": "ADQUISICIÓN DE INTERCAMBIADORES DE CALOR PARA EVAPORADORES DE LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "03-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-04T10:07:07.514008-07:00"
+    "ultima_lectura": "2026-07-24T10:38:36.228722-07:00"
   },
   "CFE-0604-CSAAA-0018-2026": {
     "numero": "CFE-0604-CSAAA-0018-2026",
@@ -6231,10 +6231,10 @@
     "numero": "CFE-0101-CSSAN-0026-2026",
     "descripcion": "SOPORTE TECNICO A UCM",
     "fecha_publicacion": "09-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-09T10:57:23.510603-07:00"
+    "ultima_lectura": "2026-07-24T10:38:35.801979-07:00"
   },
   "CFE-0101-CSAAN-0017-2026": {
     "numero": "CFE-0101-CSAAN-0017-2026",
@@ -6267,10 +6267,10 @@
     "numero": "CFE-0614-CSSAN-0032-2026",
     "descripcion": "Servicio de Exámenes Médicos para el Personal de la CG Cerro Prieto, Central T.G Mexicali y Personal de SPTBC",
     "fecha_publicacion": "10-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-10T15:58:33.947815-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "LETICIA COTA LOPEZ,",
+    "monto_adjudicado": "$1,849,413.57",
+    "ultima_lectura": "2026-07-24T10:38:35.696603-07:00"
   },
   "CFE-0101-CSSAN-0029-2026": {
     "numero": "CFE-0101-CSSAN-0029-2026",
@@ -6424,5 +6424,104 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-21T15:56:02.750394-07:00"
+  },
+  "CFE-0614-CSSAN-0036-2026": {
+    "numero": "CFE-0614-CSSAN-0036-2026",
+    "descripcion": "Servicio de análisis de agua, aceite y diésel para la Central de Combustión Interna Mexicali Oriente y Central Turbogas González Ortega II",
+    "fecha_publicacion": "23-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.106131-07:00"
+  },
+  "CFE-0614-CSAAN-0013-2026": {
+    "numero": "CFE-0614-CSAAN-0013-2026",
+    "descripcion": "Adquisición de herramienta personal y común del departamento de instrumentación y control de la CG Cerro Prieto",
+    "fecha_publicacion": "23-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.162420-07:00"
+  },
+  "CFE-0604-CSSAN-0036-2026": {
+    "numero": "CFE-0604-CSSAN-0036-2026",
+    "descripcion": "SERVICIO DE ARRENDAMIENTO DE COMPRESORES DE AIRE DE CONTROL PARA LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "23-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.217423-07:00"
+  },
+  "CFE-0201-CSSAN-0004-2026": {
+    "numero": "CFE-0201-CSSAN-0004-2026",
+    "descripcion": "SERVICIO RECOLECCIÓN DE BASURA EN INSTALACIONES GRTBC",
+    "fecha_publicacion": "23-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.273301-07:00"
+  },
+  "CFE-0101-CSSAN-0032-2026": {
+    "numero": "CFE-0101-CSSAN-0032-2026",
+    "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES 2026 ZONA CONSTITUCION",
+    "fecha_publicacion": "23-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.331544-07:00"
+  },
+  "CFE-0614-CSSAN-0035-2026": {
+    "numero": "CFE-0614-CSSAN-0035-2026",
+    "descripcion": "Servicio de mantenimiento a transformadores de las unidades HITACHI PG5341 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "22-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.387069-07:00"
+  },
+  "CFE-0101-CACON-0042-2026": {
+    "numero": "CFE-0101-CACON-0042-2026",
+    "descripcion": "Construcción de obras de media y baja tensión en Zona Los Cabos, en Los Cabos, B.C.S.",
+    "fecha_publicacion": "22-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.443936-07:00"
+  },
+  "CFE-0101-CACON-0041-2026": {
+    "numero": "CFE-0101-CACON-0041-2026",
+    "descripcion": "Construcción de obras de electrificación de extensión de redes programa FSUE: 08 (OCHO) obras del bloque 43, en el Valle de Mexicali, Municipio de Mexicali, B.C. y 11 (ONCE) obras del bloque 43, en el",
+    "fecha_publicacion": "22-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.499560-07:00"
+  },
+  "CFE-0604-CSAAT-0001-2026": {
+    "numero": "CFE-0604-CSAAT-0001-2026",
+    "descripcion": "ADQUISICIÓN DE TOBERA REHABILITADA DE LA 1RA ETAPA DE LA UNIDAD 1 MODELO MS 60001A DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "22-07-2026",
+    "estado": "Cancelado",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.557430-07:00"
+  },
+  "CFE-0101-CSSAN-0031-2026": {
+    "numero": "CFE-0101-CSSAN-0031-2026",
+    "descripcion": "MANTENIMIENTO A SISTEMA SATELITAL",
+    "fecha_publicacion": "21-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.613914-07:00"
+  },
+  "CFE-0614-CSAAA-0023-2026": {
+    "numero": "CFE-0614-CSAAA-0023-2026",
+    "descripcion": "Adquisición de Apartarrayos de 161 KV para la CG Cerro Prieto",
+    "fecha_publicacion": "21-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T10:38:34.676655-07:00"
   }
 }

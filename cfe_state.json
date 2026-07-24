@@ -6532,5 +6532,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-24T13:23:40.332764-07:00"
+  },
+  "CFE-0614-CSSAN-0037-2026": {
+    "numero": "CFE-0614-CSSAN-0037-2026",
+    "descripcion": "Servicio de aseo y limpieza general de las instalaciones de la Central de Combustión Interna Mexicali Oriente",
+    "fecha_publicacion": "24-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-24T16:00:23.204317-07:00"
   }
 }

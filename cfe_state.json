@@ -6447,10 +6447,10 @@
     "numero": "CFE-0604-CSSAN-0036-2026",
     "descripcion": "SERVICIO DE ARRENDAMIENTO DE COMPRESORES DE AIRE DE CONTROL PARA LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ",
     "fecha_publicacion": "23-07-2026",
-    "estado": "Vigente",
+    "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-24T10:38:34.217423-07:00"
+    "ultima_lectura": "2026-07-28T10:35:23.456567-07:00"
   },
   "CFE-0201-CSSAN-0004-2026": {
     "numero": "CFE-0201-CSSAN-0004-2026",
@@ -6559,5 +6559,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-27T16:00:47.853377-07:00"
+  },
+  "CFE-0101-CSAAN-0019-2026": {
+    "numero": "CFE-0101-CSAAN-0019-2026",
+    "descripcion": "Eslabón Fusible",
+    "fecha_publicacion": "28-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-28T10:35:22.970086-07:00"
+  },
+  "CFE-0101-CSSAN-0034-2026": {
+    "numero": "CFE-0101-CSSAN-0034-2026",
+    "descripcion": "SOPORTE TECNICO A UCM PARTIDAS DESIERTAS",
+    "fecha_publicacion": "28-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-28T10:35:23.034198-07:00"
   }
 }

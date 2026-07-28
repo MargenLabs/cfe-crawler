@@ -6577,5 +6577,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-28T10:35:23.034198-07:00"
+  },
+  "CFE-0101-CSAAN-0006-2026": {
+    "numero": "CFE-0101-CSAAN-0006-2026",
+    "descripcion": "TORNILLOS",
+    "fecha_publicacion": "28-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-28T15:57:28.427576-07:00"
+  },
+  "CFE-0604-CSSAN-0037-2026": {
+    "numero": "CFE-0604-CSSAN-0037-2026",
+    "descripcion": "SERVICIO DE MANTENIMIENTO INTEGRAL A VENTILADORES DE ENFRIAMIENTO DE LAS UNIDADES AERODERIVADAS 4, 5 Y 6 DE LA CENTRAL TURBOGAS TIJUANA",
+    "fecha_publicacion": "28-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-28T15:57:28.472386-07:00"
   }
 }

@@ -5871,10 +5871,10 @@
     "numero": "CFE-0101-CACON-0038-2026",
     "descripcion": "Reemplazo de postes en diferentes puntos de la ciudad de Mexicali en los circuitos: 43085 CNZ en Mexicali, B.C.",
     "fecha_publicacion": "18-06-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-06-18T11:26:43.754364-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ESPACIOS ARQUITECTONICOS PIMAR SA DE CV,",
+    "monto_adjudicado": "$4,199,811.39",
+    "ultima_lectura": "2026-07-31T10:39:46.425796-07:00"
   },
   "CFE-0614-CSSAN-0026-2026": {
     "numero": "CFE-0614-CSSAN-0026-2026",
@@ -6240,10 +6240,10 @@
     "numero": "CFE-0101-CSAAN-0017-2026",
     "descripcion": "CINTA DE AISLAR",
     "fecha_publicacion": "09-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-09T10:57:23.604540-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MACO SA,",
+    "monto_adjudicado": "$1,395,230.00",
+    "ultima_lectura": "2026-07-31T10:39:44.262831-07:00"
   },
   "CFE-0101-CSSAN-0027-2026": {
     "numero": "CFE-0101-CSSAN-0027-2026",
@@ -6321,10 +6321,10 @@
     "numero": "CFE-0604-CSAAA-0019-2026",
     "descripcion": "ADQUISICIÓN DE TORNILLERÍA Y SERVICIO DE RETIRO E INSTALACIÓN EN LA CARCASA DEL COMPRESOR DE LA TURBINA DE GAS UNIDAD 10 DE LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ-SEGUNDO EVENTO",
     "fecha_publicacion": "15-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-15T15:57:29.564218-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SIEMENS ENERGY S DE RL DE CV,",
+    "monto_adjudicado": "$7,919,645.97",
+    "ultima_lectura": "2026-07-31T10:39:43.892356-07:00"
   },
   "CFE-0051-CSAAN-0013-2026": {
     "numero": "CFE-0051-CSAAN-0013-2026",
@@ -6366,10 +6366,10 @@
     "numero": "CFE-0614-CSAAA-0022-2026",
     "descripcion": "Adquisición de material para control ambiental CG Cerro Prieto",
     "fecha_publicacion": "16-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-17T10:13:08.142531-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA FLAT ENERGY S DE RL DE CV,SOLUCIONES INDUSTRIALES XHITAO SA DE CV,",
+    "monto_adjudicado": "$662,384.68",
+    "ultima_lectura": "2026-07-31T10:39:43.573575-07:00"
   },
   "CFE-0614-CSSAN-0033-2026": {
     "numero": "CFE-0614-CSSAN-0033-2026",
@@ -6402,19 +6402,19 @@
     "numero": "CFE-0614-CSAAN-0012-2026",
     "descripcion": "Adquisición de madera de pino tratada con sales hidrosolubles, lámina de fibra de vidrio y tornillería para torres de enfriamiento de la CG Cerro Prieto",
     "fecha_publicacion": "20-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-21T15:56:02.644151-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BAYPARK MEXICO SA DE CV,FORESTAL LA REFORMA SA DE CV,IMPREGNACIONES ESPECIALES SA DE CV,",
+    "monto_adjudicado": "$2,752,456.00",
+    "ultima_lectura": "2026-07-31T10:39:43.256967-07:00"
   },
   "CFE-0614-CSSAN-0034-2026": {
     "numero": "CFE-0614-CSSAN-0034-2026",
     "descripcion": "Servicio monitoreo emisiones en chimeneas, calidad del aire, monitoreo ruido perimetral y medición ruido laboral para la CCI Mexicali Oriente y CTG Glez. Ortega 2do evento",
     "fecha_publicacion": "20-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-21T15:56:02.695217-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "ASESORIA Y SERVICIOS ANALITICOS SA DE CV,",
+    "monto_adjudicado": "$1,264,125.50",
+    "ultima_lectura": "2026-07-31T10:39:43.309109-07:00"
   },
   "CFE-0101-CSAAN-0018-2026": {
     "numero": "CFE-0101-CSAAN-0018-2026",
@@ -6483,10 +6483,10 @@
     "numero": "CFE-0101-CACON-0042-2026",
     "descripcion": "Construcción de obras de media y baja tensión en Zona Los Cabos, en Los Cabos, B.C.S.",
     "fecha_publicacion": "22-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-24T10:38:34.443936-07:00"
+    "ultima_lectura": "2026-07-31T10:39:42.924286-07:00"
   },
   "CFE-0101-CACON-0041-2026": {
     "numero": "CFE-0101-CACON-0041-2026",
@@ -6595,5 +6595,86 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-28T15:57:28.472386-07:00"
+  },
+  "CFE-0101-CACON-0046-2026": {
+    "numero": "CFE-0101-CACON-0046-2026",
+    "descripcion": "Contrato de mano de obra consolidada de electrificación Zona Los Cabos, paquete 2",
+    "fecha_publicacion": "31-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.608130-07:00"
+  },
+  "CFE-0101-CACON-0045-2026": {
+    "numero": "CFE-0101-CACON-0045-2026",
+    "descripcion": "Contrato de mano de obra consolidada de electrificación Zona Los Cabos, paquete 1",
+    "fecha_publicacion": "31-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.665461-07:00"
+  },
+  "CFE-0101-CACON-0044-2026": {
+    "numero": "CFE-0101-CACON-0044-2026",
+    "descripcion": "Construcción de obras de electrificación para contrato de mano de obra consolidada, paquete 1, en La Paz, B.C.S. perteneciente a Zona Constitución",
+    "fecha_publicacion": "31-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.720639-07:00"
+  },
+  "CFE-0604-CSABN-0006-2026": {
+    "numero": "CFE-0604-CSABN-0006-2026",
+    "descripcion": "SERVICIO DE ARRENDAMIENTO DE COMPRESORES DE AIRE DE CONTROL PARA LA CENTRAL CICLO COMBINADO PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "30-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.776903-07:00"
+  },
+  "CFE-0614-CSSAN-0039-2026": {
+    "numero": "CFE-0614-CSSAN-0039-2026",
+    "descripcion": "Servicio de desazolve de líneas de drenaje de derrame y registros de torres de enfriamiento de las Unidades 6 y 7 de la C.G. Cerro Prieto",
+    "fecha_publicacion": "30-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.838345-07:00"
+  },
+  "CFE-0101-CSAAA-0015-2026": {
+    "numero": "CFE-0101-CSAAA-0015-2026",
+    "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
+    "fecha_publicacion": "30-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.894251-07:00"
+  },
+  "CFE-0101-CSSAN-0035-2026": {
+    "numero": "CFE-0101-CSSAN-0035-2026",
+    "descripcion": "SUMINISTRO DE GASOLINA MENOR A 92 OCTANOS POR MEDIO DE UN SISTEMA ELECTRÓNICO DE ADMINISTRACIÓN, PARA EL PARQUE EL VEHICULAR DE LA SUBGERENCIA COMERCIAL DE LA DIVISIÓN DE DISTRIBUCIÓN (3er EVENTO)",
+    "fecha_publicacion": "29-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:41.953462-07:00"
+  },
+  "CFE-0101-CACON-0043-2026": {
+    "numero": "CFE-0101-CACON-0043-2026",
+    "descripcion": "Construcción de obras de electrificación de extensión de redes programa FSUE: 02 (DOS) obras del bloque 43, en el Municipio de Gral. Plutarco Elías Calles, Sonora y 06 (SEIS) obras del bloque 43, en e",
+    "fecha_publicacion": "29-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:42.006929-07:00"
+  },
+  "CFE-0614-CSSAN-0038-2026": {
+    "numero": "CFE-0614-CSSAN-0038-2026",
+    "descripcion": "Servicio de mantenimiento a transformadores de la unidad 1 y adquisición de boquillas de baja tensión de la Central Turbogas Mexicali",
+    "fecha_publicacion": "28-07-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-07-31T10:39:42.062292-07:00"
   }
 }

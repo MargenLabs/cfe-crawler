@@ -6303,10 +6303,10 @@
     "numero": "CFE-0101-CACON-0040-2026",
     "descripcion": "Construcción de 2 alimentadores en 13.8kV + 1.8 MVAr en SE. Punta Prieta, 2 circuitos de L.M.T. 13.8 kV-477-AAC-PC y 13.8kV-750-AL-XLP, en La Paz, B.C.S.",
     "fecha_publicacion": "15-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-15T15:57:29.449098-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
+    "monto_adjudicado": "$7,598,749.14",
+    "ultima_lectura": "2026-08-01T10:00:19.958956-07:00"
   },
   "CFE-0604-CSAAN-0017-2026": {
     "numero": "CFE-0604-CSAAN-0017-2026",
@@ -6676,5 +6676,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-07-31T10:39:42.062292-07:00"
+  },
+  "CFE-0604-CSAAA-0020-2026": {
+    "numero": "CFE-0604-CSAAA-0020-2026",
+    "descripcion": "Adquisición simulador trifásico sistema eléctrico para relevadores digitales para la C.C.C. Presidente Juárez",
+    "fecha_publicacion": "01-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-01T10:00:17.515566-07:00"
+  },
+  "CFE-0101-CSAAA-0014-2026": {
+    "numero": "CFE-0101-CSAAA-0014-2026",
+    "descripcion": "AIRE ACONDICIONADO MINI SPLIT 2 TON",
+    "fecha_publicacion": "01-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-01T10:00:17.577294-07:00"
   }
 }

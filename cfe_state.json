@@ -6528,10 +6528,10 @@
     "numero": "CFE-0051-CSCON-0001-2026",
     "descripcion": "“Mantenimiento en zonas reforestadas y áreas verdes en el C.G.C.P.”",
     "fecha_publicacion": "24-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-24T13:23:40.332764-07:00"
+    "ultima_lectura": "2026-08-04T13:38:28.264973-07:00"
   },
   "CFE-0614-CSSAN-0037-2026": {
     "numero": "CFE-0614-CSSAN-0037-2026",
@@ -6721,5 +6721,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-04T10:49:30.257627-07:00"
+  },
+  "CFE-0101-CACON-0047-2026": {
+    "numero": "CFE-0101-CACON-0047-2026",
+    "descripcion": "Construcción de obras de electrificación de extensión de redes programa FSUE: 2 (DOS) obras del bloque 43, en el Municipio de La Paz, Baja California Sur",
+    "fecha_publicacion": "04-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-04T13:38:27.234818-07:00"
   }
 }

@@ -6793,5 +6793,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-05T10:38:36.799086-07:00"
+  },
+  "CFE-0604-CSCON-0017-2026": {
+    "numero": "CFE-0604-CSCON-0017-2026",
+    "descripcion": "MANTENIMIENTO A LA CHIMENEA DE LA UNIDAD 3 DE LA C.T.G. TIJUANA",
+    "fecha_publicacion": "05-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-05T15:57:50.230817-07:00"
   }
 }

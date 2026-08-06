@@ -6591,10 +6591,10 @@
     "numero": "CFE-0604-CSSAN-0037-2026",
     "descripcion": "SERVICIO DE MANTENIMIENTO INTEGRAL A VENTILADORES DE ENFRIAMIENTO DE LAS UNIDADES AERODERIVADAS 4, 5 Y 6 DE LA CENTRAL TURBOGAS TIJUANA",
     "fecha_publicacion": "28-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-28T15:57:28.472386-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HECTOR ALBERTO RAMIREZ CORRAL,",
+    "monto_adjudicado": "$6,531,840.00",
+    "ultima_lectura": "2026-08-06T12:02:11.042341-07:00"
   },
   "CFE-0101-CACON-0046-2026": {
     "numero": "CFE-0101-CACON-0046-2026",
@@ -6802,5 +6802,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-05T15:57:50.230817-07:00"
+  },
+  "CFE-0614-CSSAN-0041-2026": {
+    "numero": "CFE-0614-CSSAN-0041-2026",
+    "descripcion": "Servicio de mantenimiento a transformadores de las unidades HITACHI PG5341 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "06-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-06T12:02:09.555666-07:00"
   }
 }

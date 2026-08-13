@@ -6276,10 +6276,10 @@
     "numero": "CFE-0101-CSSAN-0029-2026",
     "descripcion": "Reparación y Mantenimiento de Transformadores de Distribución Tipo Pedestal y Sumergibles P.D.",
     "fecha_publicacion": "15-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-15T10:18:40.877138-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "FABRICA DE TRANSFORMADORES BUVE SA DE CV,",
+    "monto_adjudicado": "$1,677,243.75",
+    "ultima_lectura": "2026-08-13T12:56:49.360120-07:00"
   },
   "CFE-0101-CSSAN-0028-2026": {
     "numero": "CFE-0101-CSSAN-0028-2026",
@@ -6816,10 +6816,10 @@
     "numero": "CFE-0614-CSAAA-0025-2026",
     "descripcion": "Adquisición de tornillería para actividades de mantenimiento mecánico de la C.G. Cerro Prieto",
     "fecha_publicacion": "06-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-06T17:42:19.159066-07:00"
+    "ultima_lectura": "2026-08-13T12:56:45.978652-07:00"
   },
   "CFE-0604-CSAAN-0020-2026": {
     "numero": "CFE-0604-CSAAN-0020-2026",
@@ -6897,10 +6897,10 @@
     "numero": "CFE-0604-CSAAA-0022-2026",
     "descripcion": "SUMINISTRO, DESMONTAJE, INSTALACIÓN Y PUESTA EN SERVICIO DEL MOTOR DE DIÉSEL DE ARRANQUE PARA LA UNIDAD DE LA C.T.G. TIJUANA",
     "fecha_publicacion": "07-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-12T09:57:18.831225-07:00"
+    "ultima_lectura": "2026-08-13T12:56:45.921339-07:00"
   },
   "CFE-0101-CSSAN-0036-2026": {
     "numero": "CFE-0101-CSSAN-0036-2026",
@@ -6910,5 +6910,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-12T15:39:11.976119-07:00"
+  },
+  "CFE-0101-CSSAN-0038-2026": {
+    "numero": "CFE-0101-CSSAN-0038-2026",
+    "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES 2026",
+    "fecha_publicacion": "13-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-13T12:56:45.453689-07:00"
+  },
+  "CFE-0101-CSAAN-0021-2026": {
+    "numero": "CFE-0101-CSAAN-0021-2026",
+    "descripcion": "TOPES DE HULE PARA VEHICULO 2026 ZONA TIJUANA",
+    "fecha_publicacion": "13-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-13T12:56:45.509797-07:00"
   }
 }

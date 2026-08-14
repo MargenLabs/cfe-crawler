@@ -6456,10 +6456,10 @@
     "numero": "CFE-0201-CSSAN-0004-2026",
     "descripcion": "SERVICIO RECOLECCIÓN DE BASURA EN INSTALACIONES GRTBC",
     "fecha_publicacion": "23-07-2026",
-    "estado": "Adjudicado",
+    "estado": "Impugnado",
     "adjudicado_a": "SAULO EMANUEL DIAZ CORRAL,RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
     "monto_adjudicado": "$511,548.96",
-    "ultima_lectura": "2026-08-12T09:57:20.942642-07:00"
+    "ultima_lectura": "2026-08-14T12:50:16.872748-07:00"
   },
   "CFE-0101-CSSAN-0032-2026": {
     "numero": "CFE-0101-CSSAN-0032-2026",
@@ -6825,10 +6825,10 @@
     "numero": "CFE-0604-CSAAN-0020-2026",
     "descripcion": "Adquisición de sistema de filtrado para evaporadoras 5-6 de C.T. Presidente Juárez",
     "fecha_publicacion": "06-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-06T17:42:19.221385-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PROCESS FACTOR MEXICO SA DE CV,",
+    "monto_adjudicado": "$2,241,334.60",
+    "ultima_lectura": "2026-08-14T12:50:15.414545-07:00"
   },
   "CFE-0101-CACON-0048-2026": {
     "numero": "CFE-0101-CACON-0048-2026",
@@ -6937,5 +6937,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-14T09:53:28.838097-07:00"
+  },
+  "CFE-0101-CSSAN-0037-2026": {
+    "numero": "CFE-0101-CSSAN-0037-2026",
+    "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A EQUIPOS DE AIRE ACONDICIONADO PARTIDAS DESIERTAS",
+    "fecha_publicacion": "14-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-14T12:50:14.914883-07:00"
   }
 }

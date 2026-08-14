@@ -6456,10 +6456,10 @@
     "numero": "CFE-0201-CSSAN-0004-2026",
     "descripcion": "SERVICIO RECOLECCIÓN DE BASURA EN INSTALACIONES GRTBC",
     "fecha_publicacion": "23-07-2026",
-    "estado": "Impugnado",
-    "adjudicado_a": "SAULO EMANUEL DIAZ CORRAL,RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
-    "monto_adjudicado": "$511,548.96",
-    "ultima_lectura": "2026-08-14T12:50:16.872748-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SAULO EMANUEL DIAZ CORRAL, RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV",
+    "monto_adjudicado": "$511,548.93",
+    "ultima_lectura": "2026-08-14T15:21:24.836869-07:00"
   },
   "CFE-0101-CSSAN-0032-2026": {
     "numero": "CFE-0101-CSSAN-0032-2026",
@@ -6946,5 +6946,41 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-14T12:50:14.914883-07:00"
+  },
+  "CFE-0101-ADCON-0014-2026": {
+    "numero": "CFE-0101-ADCON-0014-2026",
+    "descripcion": "Trabajos de restablecimiento eléctrico derivado de los daños por el vandalismo provocado en los postes de los circuitos de la Subestación TEK en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "14-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-14T15:21:22.754866-07:00"
+  },
+  "CFE-0101-ADCON-0013-2026": {
+    "numero": "CFE-0101-ADCON-0013-2026",
+    "descripcion": "Trabajos de restablecimiento eléctrico derivado de los daños por el vandalismo provocado en los postes de los circuitos de la Subestación TEK en Zona Mexicali, en Mexicali, B.C.",
+    "fecha_publicacion": "14-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-14T15:21:22.796067-07:00"
+  },
+  "CFE-0604-CSAAA-0023-2026": {
+    "numero": "CFE-0604-CSAAA-0023-2026",
+    "descripcion": "Suministro, Desmontaje, Instalación y Puesta en servicio del motor diésel de arranque para la Unidad de la C.TG. Tijuana - Segundo evento.",
+    "fecha_publicacion": "14-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-14T15:21:22.834145-07:00"
+  },
+  "CFE-0101-CSSAN-0039-2026": {
+    "numero": "CFE-0101-CSSAN-0039-2026",
+    "descripcion": "MANTENIMIENTO Y RECARGA DE EXTINTORES 2026 ZONA MEXICALI",
+    "fecha_publicacion": "14-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-14T15:21:22.874593-07:00"
   }
 }

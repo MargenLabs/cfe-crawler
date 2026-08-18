@@ -6681,10 +6681,10 @@
     "numero": "CFE-0604-CSAAA-0020-2026",
     "descripcion": "Adquisición simulador trifásico sistema eléctrico para relevadores digitales para la C.C.C. Presidente Juárez",
     "fecha_publicacion": "01-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-01T10:00:17.515566-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DUNCAN ENGINEERING COMPANY SA DE CV,",
+    "monto_adjudicado": "$5,148,000.00",
+    "ultima_lectura": "2026-08-18T15:22:24.859659-07:00"
   },
   "CFE-0101-CSAAA-0014-2026": {
     "numero": "CFE-0101-CSAAA-0014-2026",
@@ -6982,5 +6982,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-14T15:21:22.874593-07:00"
+  },
+  "CFE-0101-CSAAN-0022-2026": {
+    "numero": "CFE-0101-CSAAN-0022-2026",
+    "descripcion": "PAPEL BOND",
+    "fecha_publicacion": "18-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-18T15:22:23.137515-07:00"
   }
 }

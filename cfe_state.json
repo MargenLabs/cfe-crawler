@@ -6348,10 +6348,10 @@
     "numero": "CFE-0051-CSSAN-0018-2026",
     "descripcion": "CERTIFICACIÓN DE INDUSTRIA LIMPIA, SEGUIMIENTO Y CONTROL EN EL CGCP",
     "fecha_publicacion": "17-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-17T10:13:08.023989-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "HAZ MAT CONSULTORES SA DE CV,",
+    "monto_adjudicado": "$350,000.00",
+    "ultima_lectura": "2026-08-19T19:09:09.316508-07:00"
   },
   "CFE-0101-CSSAN-0030-2026": {
     "numero": "CFE-0101-CSSAN-0030-2026",
@@ -6564,10 +6564,10 @@
     "numero": "CFE-0101-CSAAN-0019-2026",
     "descripcion": "Eslabón Fusible",
     "fecha_publicacion": "28-07-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-28T10:35:22.970086-07:00"
+    "ultima_lectura": "2026-08-19T19:09:08.048549-07:00"
   },
   "CFE-0101-CSSAN-0034-2026": {
     "numero": "CFE-0101-CSSAN-0034-2026",
@@ -6645,10 +6645,10 @@
     "numero": "CFE-0101-CSAAA-0015-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
     "fecha_publicacion": "30-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-31T10:39:41.894251-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PATRICIA GUTIERREZ CASAÑAS,",
+    "monto_adjudicado": "$285,111.90",
+    "ultima_lectura": "2026-08-19T19:09:07.701414-07:00"
   },
   "CFE-0101-CSSAN-0035-2026": {
     "numero": "CFE-0101-CSSAN-0035-2026",
@@ -6991,5 +6991,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-18T15:22:23.137515-07:00"
+  },
+  "CFE-0101-CSSAN-0040-2026": {
+    "numero": "CFE-0101-CSSAN-0040-2026",
+    "descripcion": "P.D. SERVICIO DE DESPONCHE ZONA TIJUANA, MEXICALI Y SAN LUIS 2026",
+    "fecha_publicacion": "20-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-19T19:09:04.993166-07:00"
+  },
+  "CFE-0604-CSAAA-0025-2026": {
+    "numero": "CFE-0604-CSAAA-0025-2026",
+    "descripcion": "Adquisición de empaques diversos para la C.C.C. Presidente Juárez",
+    "fecha_publicacion": "19-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-19T19:09:05.067865-07:00"
+  },
+  "CFE-0604-CSAAA-0024-2026": {
+    "numero": "CFE-0604-CSAAA-0024-2026",
+    "descripcion": "ADQUISICIÓN DE EQUIPO DE MEDICIÓN PARA GASES DE COMBUSTIÓN PORTÁTIL Y MEDIDOR DE ESPESORES PARA LA C.C.C. PRESIDENTE JUÁREZ",
+    "fecha_publicacion": "19-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-19T19:09:05.137717-07:00"
   }
 }

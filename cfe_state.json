@@ -6582,10 +6582,10 @@
     "numero": "CFE-0101-CSAAN-0006-2026",
     "descripcion": "TORNILLOS",
     "fecha_publicacion": "28-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-28T15:57:28.427576-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "COMPAÑIA FLAT ENERGY S DE RL DE CV,COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,",
+    "monto_adjudicado": "$989,200.00",
+    "ultima_lectura": "2026-08-21T09:35:10.993799-07:00"
   },
   "CFE-0604-CSSAN-0037-2026": {
     "numero": "CFE-0604-CSSAN-0037-2026",

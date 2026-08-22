@@ -6717,10 +6717,10 @@
     "numero": "CFE-0614-CSAAA-0024-2026",
     "descripcion": "Adquisición de bomba para humedecimiento de torres de enfriamiento de la C.G. Cerro Prieto",
     "fecha_publicacion": "03-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-04T10:49:30.257627-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "RODAMIENTOS Y ACCESORIOS SA DE CV,",
+    "monto_adjudicado": "$911,660.91",
+    "ultima_lectura": "2026-08-21T19:07:19.342530-07:00"
   },
   "CFE-0101-CACON-0047-2026": {
     "numero": "CFE-0101-CACON-0047-2026",
@@ -7036,5 +7036,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-20T19:15:36.773306-07:00"
+  },
+  "CFE-0614-CSSAN-0045-2026": {
+    "numero": "CFE-0614-CSSAN-0045-2026",
+    "descripcion": "Servicio de mantenimiento preventivo y adquisición de componentes de las grúas viajeras de la casa de máquinas uno, dos, tres y cuatro de la CG Cerro Prieto",
+    "fecha_publicacion": "22-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-21T19:07:16.905398-07:00"
   }
 }

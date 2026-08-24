@@ -6618,10 +6618,10 @@
     "numero": "CFE-0101-CACON-0044-2026",
     "descripcion": "Construcción de obras de electrificación para contrato de mano de obra consolidada, paquete 1, en La Paz, B.C.S. perteneciente a Zona Constitución",
     "fecha_publicacion": "31-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-31T10:39:41.720639-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "SANTIAGO NAVA DE LA TORRE,",
+    "monto_adjudicado": "$6,161,681.31",
+    "ultima_lectura": "2026-08-24T15:24:48.293140-07:00"
   },
   "CFE-0604-CSABN-0006-2026": {
     "numero": "CFE-0604-CSABN-0006-2026",
@@ -6780,10 +6780,10 @@
     "numero": "CFE-0604-CSCON-0016-2026",
     "descripcion": "Mantenimiento a casetas de auxiliares operativos del complejo presidente Juárez y Mantenimiento a casetas de las unidades 10 y 11 de la C.C.C. Presidente Juárez",
     "fecha_publicacion": "05-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-05T10:38:36.739299-07:00"
+    "ultima_lectura": "2026-08-24T15:24:47.563962-07:00"
   },
   "CFE-0614-CSSAN-0040-2026": {
     "numero": "CFE-0614-CSSAN-0040-2026",
@@ -6798,10 +6798,10 @@
     "numero": "CFE-0604-CSCON-0017-2026",
     "descripcion": "MANTENIMIENTO A LA CHIMENEA DE LA UNIDAD 3 DE LA C.T.G. TIJUANA",
     "fecha_publicacion": "05-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-05T15:57:50.230817-07:00"
+    "ultima_lectura": "2026-08-24T15:24:47.391587-07:00"
   },
   "CFE-0614-CSSAN-0041-2026": {
     "numero": "CFE-0614-CSSAN-0041-2026",

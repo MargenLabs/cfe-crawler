@@ -6330,10 +6330,10 @@
     "numero": "CFE-0051-CSAAN-0013-2026",
     "descripcion": "JABÓN Y TOALLAS PARA BAÑO",
     "fecha_publicacion": "16-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-16T10:17:15.568313-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,ESSENSTIALWEAR SAS DE CV,",
+    "monto_adjudicado": "$336,285.60",
+    "ultima_lectura": "2026-08-24T12:33:05.242896-07:00"
   },
   "CFE-0201-CACON-0003-2026": {
     "numero": "CFE-0201-CACON-0003-2026",
@@ -6789,10 +6789,10 @@
     "numero": "CFE-0614-CSSAN-0040-2026",
     "descripcion": "Servicio de Evaluación de Condiciones en Materia Laboral para la Central de Combustión Interna Altar 2026 II Evento",
     "fecha_publicacion": "04-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-05T10:38:36.799086-07:00"
+    "ultima_lectura": "2026-08-24T12:33:02.641085-07:00"
   },
   "CFE-0604-CSCON-0017-2026": {
     "numero": "CFE-0604-CSCON-0017-2026",

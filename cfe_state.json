@@ -6600,19 +6600,19 @@
     "numero": "CFE-0101-CACON-0046-2026",
     "descripcion": "Contrato de mano de obra consolidada de electrificación Zona Los Cabos, paquete 2",
     "fecha_publicacion": "31-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-31T10:39:41.608130-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
+    "monto_adjudicado": "$4,247,634.32",
+    "ultima_lectura": "2026-08-26T14:43:38.243870-07:00"
   },
   "CFE-0101-CACON-0045-2026": {
     "numero": "CFE-0101-CACON-0045-2026",
     "descripcion": "Contrato de mano de obra consolidada de electrificación Zona Los Cabos, paquete 1",
     "fecha_publicacion": "31-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-31T10:39:41.665461-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EFREN LIUSSE LOPEZ CASILLAS,",
+    "monto_adjudicado": "$7,793,361.73",
+    "ultima_lectura": "2026-08-26T14:43:38.293411-07:00"
   },
   "CFE-0101-CACON-0044-2026": {
     "numero": "CFE-0101-CACON-0044-2026",

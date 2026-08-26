@@ -6636,10 +6636,10 @@
     "numero": "CFE-0614-CSSAN-0039-2026",
     "descripcion": "Servicio de desazolve de líneas de drenaje de derrame y registros de torres de enfriamiento de las Unidades 6 y 7 de la C.G. Cerro Prieto",
     "fecha_publicacion": "30-07-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-07-31T10:39:41.838345-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
+    "monto_adjudicado": "$1,439,340.00",
+    "ultima_lectura": "2026-08-25T19:16:39.439140-07:00"
   },
   "CFE-0101-CSAAA-0015-2026": {
     "numero": "CFE-0101-CSAAA-0015-2026",
@@ -6690,10 +6690,10 @@
     "numero": "CFE-0101-CSAAA-0014-2026",
     "descripcion": "AIRE ACONDICIONADO MINI SPLIT 2 TON",
     "fecha_publicacion": "01-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-01T10:00:17.577294-07:00"
+    "ultima_lectura": "2026-08-25T19:16:39.178916-07:00"
   },
   "CFE-0051-CSSAN-0019-2026": {
     "numero": "CFE-0051-CSSAN-0019-2026",
@@ -6771,10 +6771,10 @@
     "numero": "CFE-0101-CSAAA-0019-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
     "fecha_publicacion": "05-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-05T10:38:36.682609-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PATRICIA GUTIERREZ CASAÑAS,",
+    "monto_adjudicado": "$136,510.00",
+    "ultima_lectura": "2026-08-25T19:16:38.608183-07:00"
   },
   "CFE-0604-CSCON-0016-2026": {
     "numero": "CFE-0604-CSCON-0016-2026",
@@ -6861,10 +6861,10 @@
     "numero": "CFE-0614-CSAAN-0015-2026",
     "descripcion": "Adquisición de sillas, mesas y escritorios para el personal de área de capacitación, mantenimiento administración y operación de la CG Cerro Prieto",
     "fecha_publicacion": "11-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-12T09:57:18.606930-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "BUSINSO S DE RL DE CV,MOBILI INTERNACIONAL JMS SA DE CV,OFFICE FURNITURE MANUFACTURING S DE RL DE CV,EDVAG CONCEPTOS COMERCIALES SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
+    "monto_adjudicado": "$770,474.70",
+    "ultima_lectura": "2026-08-25T19:16:37.967120-07:00"
   },
   "CFE-0614-CSAAA-0026-2026": {
     "numero": "CFE-0614-CSAAA-0026-2026",
@@ -7045,5 +7045,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-21T19:07:16.905398-07:00"
+  },
+  "CFE-0604-CSAAA-0027-2026": {
+    "numero": "CFE-0604-CSAAA-0027-2026",
+    "descripcion": "“Adquisición de registrador disturbios para las unidades de la C.C.C. Presidente Juárez”",
+    "fecha_publicacion": "25-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-25T19:16:36.933390-07:00"
+  },
+  "CFE-0604-CSAAA-0026-2026": {
+    "numero": "CFE-0604-CSAAA-0026-2026",
+    "descripcion": "“Adquisición de herramienta hidráulica de torque para la C.C.C. Presidente Juárez”",
+    "fecha_publicacion": "25-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-25T19:16:36.991744-07:00"
   }
 }

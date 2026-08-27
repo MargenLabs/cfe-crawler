@@ -6708,10 +6708,10 @@
     "numero": "CFE-0101-CSAAA-0017-2026",
     "descripcion": "EQUIPO DE SEGURIDAD CONTRA FAUNA 2026",
     "fecha_publicacion": "04-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-04T10:49:30.212963-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "PATRICIA GUTIERREZ CASAÑAS,",
+    "monto_adjudicado": "$367,910.00",
+    "ultima_lectura": "2026-08-26T19:57:34.521277-07:00"
   },
   "CFE-0614-CSAAA-0024-2026": {
     "numero": "CFE-0614-CSAAA-0024-2026",
@@ -7063,5 +7063,32 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-25T19:16:36.991744-07:00"
+  },
+  "CFE-0604-CSAAA-0028-2026": {
+    "numero": "CFE-0604-CSAAA-0028-2026",
+    "descripcion": "Adquisición de Equipos para Mantenimiento Preventivo a Transformadores, Banco de Baterías y Motores para el Departamento Eléctrico de la C.C.C. Presidente Juárez 2026 - Segundo Evento",
+    "fecha_publicacion": "27-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-26T19:57:32.122331-07:00"
+  },
+  "CFE-0614-CSSAN-0044-2026": {
+    "numero": "CFE-0614-CSSAN-0044-2026",
+    "descripcion": "Servicio de mantenimiento a motores eléctricos de la Central Turbogas Mexicali",
+    "fecha_publicacion": "26-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-26T19:57:32.186259-07:00"
+  },
+  "CFE-0604-CSSAN-0038-2026": {
+    "numero": "CFE-0604-CSSAN-0038-2026",
+    "descripcion": "Servicio de acondicionamiento de instalaciones del recuperador de calor de las Unidades 8, 9 y 10 de la Central Ciclo Combinado Presidente Juárez",
+    "fecha_publicacion": "26-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-26T19:57:32.241547-07:00"
   }
 }

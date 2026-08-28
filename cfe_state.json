@@ -6870,10 +6870,10 @@
     "numero": "CFE-0614-CSAAA-0026-2026",
     "descripcion": "Adquisición de Simulador de Sistemas Eléctricos de Potencia Portátil para Calibrar Relevadores de Protección y Multimedidores de Energía CG Cerro Prieto",
     "fecha_publicacion": "08-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-12T09:57:18.659507-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "DUNCAN ENGINEERING COMPANY SA DE CV,",
+    "monto_adjudicado": "$7,627,053.03",
+    "ultima_lectura": "2026-08-27T17:46:24.383659-07:00"
   },
   "CFE-0604-CSAAN-0021-2026": {
     "numero": "CFE-0604-CSAAN-0021-2026",
@@ -6933,10 +6933,10 @@
     "numero": "CFE-0614-CSAAA-0027-2026",
     "descripcion": "Suministro de equipo de protección personal para la Central de Combustión Interna Mexicali Oriente",
     "fecha_publicacion": "13-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-14T09:53:28.838097-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EEPAT DE MEXICO SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$1,180,638.36",
+    "ultima_lectura": "2026-08-27T17:46:24.057681-07:00"
   },
   "CFE-0101-CSSAN-0037-2026": {
     "numero": "CFE-0101-CSSAN-0037-2026",
@@ -7005,19 +7005,19 @@
     "numero": "CFE-0604-CSAAA-0025-2026",
     "descripcion": "Adquisición de empaques diversos para la C.C.C. Presidente Juárez",
     "fecha_publicacion": "19-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-19T19:09:05.067865-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "GARLOCK DE MEXICO SA DE CV,INSUMOS INDUSTRIALES Y EMPAQUETADURAS SA DE CV,JEGOS SA DE CV,",
+    "monto_adjudicado": "$2,037,030.98",
+    "ultima_lectura": "2026-08-27T17:46:23.623353-07:00"
   },
   "CFE-0604-CSAAA-0024-2026": {
     "numero": "CFE-0604-CSAAA-0024-2026",
     "descripcion": "ADQUISICIÓN DE EQUIPO DE MEDICIÓN PARA GASES DE COMBUSTIÓN PORTÁTIL Y MEDIDOR DE ESPESORES PARA LA C.C.C. PRESIDENTE JUÁREZ",
     "fecha_publicacion": "19-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-19T19:09:05.137717-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
+    "monto_adjudicado": "$163,622.07",
+    "ultima_lectura": "2026-08-27T17:46:23.677983-07:00"
   },
   "CFE-0614-CSSAN-0043-2026": {
     "numero": "CFE-0614-CSSAN-0043-2026",
@@ -7090,5 +7090,23 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-26T19:57:32.241547-07:00"
+  },
+  "CFE-0614-CSAAA-0028-2026": {
+    "numero": "CFE-0614-CSAAA-0028-2026",
+    "descripcion": "Adquisición de tornillería para actividades de mantenimiento mecánico de la C.G. Cerro Prieto",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-27T17:46:22.974407-07:00"
+  },
+  "CFE-0101-CSSAN-0041-2026": {
+    "numero": "CFE-0101-CSSAN-0041-2026",
+    "descripcion": "PODA DE ÁRBOLES EN MEDIA Y BAJA TENSIÓN RESTO DEL AÑO 2026",
+    "fecha_publicacion": "27-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-27T17:46:23.031123-07:00"
   }
 }

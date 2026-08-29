@@ -6942,28 +6942,28 @@
     "numero": "CFE-0101-CSSAN-0037-2026",
     "descripcion": "MANTENIMIENTO PREVENTIVO CORRECTIVO A EQUIPOS DE AIRE ACONDICIONADO PARTIDAS DESIERTAS",
     "fecha_publicacion": "14-08-2026",
-    "estado": "Vigente",
+    "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-14T12:50:14.914883-07:00"
+    "ultima_lectura": "2026-08-28T17:26:56.440806-07:00"
   },
   "CFE-0101-ADCON-0014-2026": {
     "numero": "CFE-0101-ADCON-0014-2026",
     "descripcion": "Trabajos de restablecimiento eléctrico derivado de los daños por el vandalismo provocado en los postes de los circuitos de la Subestación TEK en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "14-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-14T15:21:22.754866-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
+    "monto_adjudicado": "$84,970.67",
+    "ultima_lectura": "2026-08-28T17:26:56.220418-07:00"
   },
   "CFE-0101-ADCON-0013-2026": {
     "numero": "CFE-0101-ADCON-0013-2026",
     "descripcion": "Trabajos de restablecimiento eléctrico derivado de los daños por el vandalismo provocado en los postes de los circuitos de la Subestación TEK en Zona Mexicali, en Mexicali, B.C.",
     "fecha_publicacion": "14-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-14T15:21:22.796067-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "EDISON CONSTRUCTORA DE BAJA CALIFORNIA S DE RL DE CV,",
+    "monto_adjudicado": "$95,284.85",
+    "ultima_lectura": "2026-08-28T17:26:56.276028-07:00"
   },
   "CFE-0604-CSAAA-0023-2026": {
     "numero": "CFE-0604-CSAAA-0023-2026",
@@ -7108,5 +7108,68 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-27T17:46:23.031123-07:00"
+  },
+  "CFE-0614-CSSAN-0048-2026": {
+    "numero": "CFE-0614-CSSAN-0048-2026",
+    "descripcion": "Servicio de rehabilitación de bomba principal de combustible de unidades Hitachi-General Electric modelo PG5341 de las unidades 2 y 3 de la Central Turbogas Mexicali",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.023711-07:00"
+  },
+  "CFE-0604-CSSAN-0040-2026": {
+    "numero": "CFE-0604-CSSAN-0040-2026",
+    "descripcion": "\"Servicio de mantenimiento integral al sistema de enfriamiento de circuito cerrado de la Unidad 3 de la Central Turbogas Tijuana\"",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.080308-07:00"
+  },
+  "CFE-0614-CSSAN-0047-2026": {
+    "numero": "CFE-0614-CSSAN-0047-2026",
+    "descripcion": "Servicio de rehabilitación a intercambiadores de calor y mantenimiento a aero enfriadores de la Central Turbogas Mexicali",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.135080-07:00"
+  },
+  "CFE-0614-CSAAN-0016-2026": {
+    "numero": "CFE-0614-CSAAN-0016-2026",
+    "descripcion": "Adquisición de empaques para mantenimientos programados 2026 C.G. Cerro Prieto",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.190501-07:00"
+  },
+  "CFE-0201-CSCON-0001-2026": {
+    "numero": "CFE-0201-CSCON-0001-2026",
+    "descripcion": "SUSTITUCION DE ESTRUCTURAS DE MADERA A ESTRUCTURAS DE ACERO DE LA LINEA DE TRANSMISION ERENDIRA-73660-EL TRIUNFO DE LA ZONA DE TRANSMISION SUR",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.250749-07:00"
+  },
+  "CFE-0614-CSSAN-0046-2026": {
+    "numero": "CFE-0614-CSSAN-0046-2026",
+    "descripcion": "“Servicio de reparación y mantenimiento de condensadoras de aire acondicionado, capacidad 55 toneladas, marca Technical Systems de la casa de máquinas cuatro de la CG Cerro Prieto",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.305640-07:00"
+  },
+  "CFE-0604-CSSAN-0039-2026": {
+    "numero": "CFE-0604-CSSAN-0039-2026",
+    "descripcion": "Servicio de mantenimiento a tornos, fresadora, cepillo de codo, taladros eléctricos, sierra eléctrica y prensa hidráulica de la C.C.C. Presidente Juárez",
+    "fecha_publicacion": "28-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-28T17:26:55.361423-07:00"
   }
 }

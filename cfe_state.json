@@ -7171,5 +7171,14 @@
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
     "ultima_lectura": "2026-08-28T17:26:55.361423-07:00"
+  },
+  "CFE-0614-CSAAN-0017-2026": {
+    "numero": "CFE-0614-CSAAN-0017-2026",
+    "descripcion": "Adquisición de herramienta personal y común del departamento de instrumentación y control de la CG Cerro Prieto",
+    "fecha_publicacion": "31-08-2026",
+    "estado": "Vigente",
+    "adjudicado_a": "",
+    "monto_adjudicado": "$0.00",
+    "ultima_lectura": "2026-08-31T14:21:00.664710-07:00"
   }
 }

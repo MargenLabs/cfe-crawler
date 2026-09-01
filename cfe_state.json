@@ -6924,10 +6924,10 @@
     "numero": "CFE-0101-CSAAN-0021-2026",
     "descripcion": "TOPES DE HULE PARA VEHICULO 2026 ZONA TIJUANA",
     "fecha_publicacion": "13-08-2026",
-    "estado": "Vigente",
-    "adjudicado_a": "",
-    "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-08-13T12:56:45.509797-07:00"
+    "estado": "Adjudicado",
+    "adjudicado_a": "MANTENIMIENTO INDUSTRIAL PMK S DE RL DE CV,",
+    "monto_adjudicado": "$88,872.00",
+    "ultima_lectura": "2026-08-31T17:59:45.613398-07:00"
   },
   "CFE-0614-CSAAA-0027-2026": {
     "numero": "CFE-0614-CSAAA-0027-2026",

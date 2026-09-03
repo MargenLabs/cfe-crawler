@@ -1,9 +1,6 @@
 name: CFE Monitor
 
 on:
-  push:
-    branches:
-      - fix/cfe-scraper-sep2026
   schedule:
     - cron: "0 16 * * *"  # 09:00 Tijuana aprox
     - cron: "0 19 * * *"  # 12:00 Tijuana aprox

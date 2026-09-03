@@ -59,10 +59,7 @@ def load_state():
     if not os.path.exists(STATE_FILE):
         return {}
     with open(STATE_FILE, "r", encoding="utf-8") as f:
-        try:
-            return json.load(f)
-        except Exception as exc:
-            raise RuntimeError(f"No se pudo leer {STATE_FILE}: {exc}") from exc
+        return json.load(f)
 
 
 def save_state(data):
@@ -76,17 +73,33 @@ def norm(text):
             .replace("í", "i").replace("ó", "o").replace("ú", "u"))
 
 
-async def find_results_table(page):
-    """Devuelve la tabla que contiene el encabezado Numero de Procedimiento."""
-    tables = page.locator("table, [role='table']")
-    for i in range(await tables.count()):
-        table = tables.nth(i)
+async def dump_page_diagnostics(page):
+    print(f"[DIAG] URL final: {page.url}")
+    print(f"[DIAG] Título: {await page.title()}")
+    print(f"[DIAG] Frames: {len(page.frames)}")
+    for idx, frame in enumerate(page.frames):
         try:
-            text = norm(await table.inner_text(timeout=2000))
-        except Exception:
-            continue
-        if "numero de procedimiento" in text and "fecha publicacion" in text:
-            return table
+            print(f"[DIAG] Frame {idx}: {frame.url}")
+            print(f"[DIAG] Frame {idx} selects={await frame.locator('select').count()} buttons={await frame.locator('button').count()} inputs={await frame.locator('input').count()}")
+            body = norm((await frame.locator('body').inner_text())[:4000])
+            print(f"[DIAG] Frame {idx} body: {body[:2000]}")
+            controls = await frame.locator("select, input, button, [role='combobox'], [role='listbox']").evaluate_all("els => els.slice(0,80).map(e => ({tag:e.tagName, id:e.id, name:e.getAttribute('name'), type:e.getAttribute('type'), role:e.getAttribute('role'), aria:e.getAttribute('aria-label'), placeholder:e.getAttribute('placeholder'), text:(e.innerText||e.value||'').slice(0,120)}))")
+            print(f"[DIAG] Frame {idx} controls: {json.dumps(controls, ensure_ascii=False)}")
+        except Exception as exc:
+            print(f"[DIAG] Error inspeccionando frame {idx}: {exc}")
+
+
+async def find_results_table(page):
+    for frame in page.frames:
+        tables = frame.locator("table, [role='table']")
+        for i in range(await tables.count()):
+            table = tables.nth(i)
+            try:
+                text = norm(await table.inner_text(timeout=2000))
+            except Exception:
+                continue
+            if "numero de procedimiento" in text and "fecha publicacion" in text:
+                return table
     return None
 
 
@@ -94,49 +107,86 @@ async def wait_for_results_table(page, timeout_ms=30000):
     deadline = time.monotonic() + timeout_ms / 1000
     while time.monotonic() < deadline:
         table = await find_results_table(page)
-        if table is not None:
-            rows = table.locator("tr")
-            if await rows.count() >= 2:
-                return table
+        if table is not None and await table.locator("tr").count() >= 2:
+            return table
         await page.wait_for_timeout(500)
     return None
 
 
 async def select_baja_california(page):
-    # La pagina de CFE ha cambiado de tiempos/markup; buscamos el select por sus opciones.
-    selects = page.locator("select")
-    for i in range(await selects.count()):
-        sel = selects.nth(i)
-        try:
-            options = norm(await sel.locator("option").all_inner_texts())
-        except Exception:
-            continue
-        if "baja california" in options:
-            await sel.select_option(label=ESTADO_OBJETIVO)
+    # 1) select HTML tradicional, en cualquier frame
+    for frame in page.frames:
+        selects = frame.locator("select")
+        for i in range(await selects.count()):
+            sel = selects.nth(i)
             try:
-                selected = (await sel.locator("option:checked").inner_text()).strip()
+                options = " ".join(await sel.locator("option").all_inner_texts())
             except Exception:
-                selected = ""
-            if norm(selected) != norm(ESTADO_OBJETIVO):
-                raise RuntimeError(f"Entidad seleccionada inesperada: {selected!r}")
-            print(f"[INFO] Entidad seleccionada: {selected}")
-            return
-    raise RuntimeError("No se encontró el selector de Entidad Federativa con Baja California")
+                continue
+            if "baja california" in norm(options):
+                await sel.select_option(label=ESTADO_OBJETIVO)
+                print(f"[INFO] Entidad seleccionada por <select>: {ESTADO_OBJETIVO}")
+                return
+
+    # 2) controles tipo combobox (Angular/Material/Bootstrap)
+    for frame in page.frames:
+        combos = frame.locator("[role='combobox'], input[aria-haspopup='listbox'], input[autocomplete]")
+        for i in range(await combos.count()):
+            combo = combos.nth(i)
+            try:
+                meta = norm(" ".join(filter(None, [
+                    await combo.get_attribute("aria-label"),
+                    await combo.get_attribute("placeholder"),
+                    await combo.get_attribute("name"),
+                    await combo.get_attribute("id"),
+                ])))
+            except Exception:
+                meta = ""
+            if meta and not any(k in meta for k in ["entidad", "estado", "federativa"]):
+                continue
+            try:
+                await combo.click()
+                await frame.wait_for_timeout(300)
+                option = frame.get_by_text(ESTADO_OBJETIVO, exact=True)
+                if await option.count():
+                    await option.last.click()
+                    print(f"[INFO] Entidad seleccionada por combobox: {ESTADO_OBJETIVO}")
+                    return
+            except Exception:
+                continue
+
+    # 3) fallback: click en texto Entidad y luego Baja California
+    for frame in page.frames:
+        try:
+            labels = frame.get_by_text("Entidad", exact=False)
+            if await labels.count():
+                await labels.first.click()
+                await frame.wait_for_timeout(300)
+                option = frame.get_by_text(ESTADO_OBJETIVO, exact=True)
+                if await option.count():
+                    await option.last.click()
+                    print(f"[INFO] Entidad seleccionada por texto: {ESTADO_OBJETIVO}")
+                    return
+        except Exception:
+            pass
+
+    await dump_page_diagnostics(page)
+    raise RuntimeError("No se encontró el control actual de Entidad Federativa con Baja California")
 
 
 async def click_search(page):
-    for text in ["Buscar", "Consultar", "Filtrar", "Aceptar"]:
-        btn = page.get_by_role("button", name=text, exact=False)
-        if await btn.count():
-            await btn.first.click()
-            print(f"[INFO] Botón de búsqueda: {text}")
+    for frame in page.frames:
+        for text in ["Buscar", "Consultar", "Filtrar", "Aceptar"]:
+            btn = frame.get_by_role("button", name=text, exact=False)
+            if await btn.count():
+                await btn.first.click()
+                print(f"[INFO] Botón de búsqueda: {text}")
+                return
+        submit = frame.locator("input[type='submit'], button[type='submit']")
+        if await submit.count():
+            await submit.first.click()
+            print("[INFO] Botón de búsqueda: submit")
             return
-    # Fallback para inputs tipo submit.
-    submit = page.locator("input[type='submit'], button[type='submit']")
-    if await submit.count():
-        await submit.first.click()
-        print("[INFO] Botón de búsqueda: submit")
-        return
     raise RuntimeError("No se encontró el botón Buscar/Consultar")
 
 
@@ -145,7 +195,6 @@ async def parse_table(table, results):
     row_count = await rows.count()
     header_idx = None
     headers = []
-
     for j in range(min(row_count, 8)):
         cells = rows.nth(j).locator("th,td")
         texts = [norm(await cells.nth(k).inner_text()) for k in range(await cells.count())]
@@ -153,9 +202,8 @@ async def parse_table(table, results):
             header_idx = j
             headers = texts
             break
-
     if header_idx is None:
-        raise RuntimeError("Se encontró una tabla, pero no el encabezado 'Número de Procedimiento'")
+        raise RuntimeError("Se encontró una tabla, pero no el encabezado Número de Procedimiento")
 
     def find_idx(*opts):
         for idx, header in enumerate(headers):
@@ -163,15 +211,12 @@ async def parse_table(table, results):
                 return idx
         return None
 
-    idx_numero = find_idx("número de procedimiento", "numero de procedimiento")
-    idx_desc = find_idx("descripción", "descripcion")
-    idx_fecha = find_idx("fecha publicación", "fecha publicacion")
+    idx_numero = find_idx("numero de procedimiento")
+    idx_desc = find_idx("descripcion")
+    idx_fecha = find_idx("fecha publicacion")
     idx_estado = find_idx("estado")
     idx_adj = find_idx("adjudicado a")
     idx_monto = find_idx("monto adjudicado en pesos", "monto adjudicado", "monto")
-
-    if idx_numero is None:
-        raise RuntimeError("No se pudo mapear la columna Número de Procedimiento")
 
     async def cell_text(cells, idx):
         if idx is None or idx >= await cells.count():
@@ -200,35 +245,27 @@ async def parse_table(table, results):
 
 
 async def go_next_page(page, current_table):
-    # Preferimos controles cuyo texto/aria-label indique siguiente.
-    candidates = page.locator("a, button")
-    for i in range(await candidates.count()):
-        el = candidates.nth(i)
-        try:
-            text = norm((await el.inner_text()) + " " + (await el.get_attribute("aria-label") or "") + " " + (await el.get_attribute("title") or ""))
-        except Exception:
-            continue
-        if not any(token in text for token in ["siguiente", "next"]):
-            continue
-        try:
-            if await el.is_disabled():
+    for frame in page.frames:
+        candidates = frame.locator("a, button")
+        for i in range(await candidates.count()):
+            el = candidates.nth(i)
+            try:
+                text = norm((await el.inner_text()) + " " + (await el.get_attribute("aria-label") or "") + " " + (await el.get_attribute("title") or ""))
+            except Exception:
                 continue
-        except Exception:
-            pass
-        cls = norm(await el.get_attribute("class") or "")
-        if "disabled" in cls:
-            continue
-        old_text = await current_table.inner_text()
-        await el.click()
-        try:
-            await page.wait_for_function(
-                "oldText => Array.from(document.querySelectorAll('table')).some(t => t.innerText !== oldText && /procedimiento/i.test(t.innerText))",
-                old_text,
-                timeout=10000,
-            )
-        except PlaywrightTimeoutError:
-            await page.wait_for_timeout(1500)
-        return True
+            if not any(token in text for token in ["siguiente", "next"]):
+                continue
+            try:
+                if await el.is_disabled():
+                    continue
+            except Exception:
+                pass
+            cls = norm(await el.get_attribute("class") or "")
+            if "disabled" in cls:
+                continue
+            await el.click()
+            await page.wait_for_timeout(1200)
+            return True
     return False
 
 
@@ -243,37 +280,34 @@ async def scrape_listings():
         response = await page.goto(CFE_URL, wait_until="domcontentloaded", timeout=45000)
         if response and response.status >= 400:
             raise RuntimeError(f"CFE respondió HTTP {response.status}")
+        try:
+            await page.wait_for_load_state("networkidle", timeout=20000)
+        except PlaywrightTimeoutError:
+            print("[WARN] networkidle no se alcanzó; continúo con DOM cargado")
 
-        await page.wait_for_load_state("networkidle", timeout=20000)
         await select_baja_california(page)
         await click_search(page)
 
         table = await wait_for_results_table(page, 30000)
         if table is None:
-            title = await page.title()
-            body = (await page.locator("body").inner_text())[:1000]
-            raise RuntimeError(f"CFE no mostró la tabla de resultados. title={title!r}; body={body!r}")
+            await dump_page_diagnostics(page)
+            raise RuntimeError("CFE no mostró la tabla de resultados después de seleccionar Baja California")
 
         for page_idx in range(MAX_PAGES):
-            if page_idx:
-                table = await wait_for_results_table(page, 15000)
-                if table is None:
-                    raise RuntimeError(f"La tabla desapareció al paginar a página {page_idx + 1}")
             found = await parse_table(table, results)
             print(f"[INFO] Página {page_idx + 1}: {found} procedimientos; acumulados: {len(results)}")
-            if page_idx >= MAX_PAGES - 1:
+            if page_idx >= MAX_PAGES - 1 or not await go_next_page(page, table):
                 break
-            if not await go_next_page(page, table):
-                break
+            table = await wait_for_results_table(page, 15000)
+            if table is None:
+                raise RuntimeError(f"La tabla desapareció al paginar a página {page_idx + 2}")
 
         await context.close()
         await browser.close()
 
     if not results:
         raise RuntimeError("El scraping terminó con 0 procedimientos; se aborta para no registrar un falso éxito")
-
-    sample = list(results)[:10]
-    print(f"[INFO] Scraping válido: {len(results)} procedimientos. Primeros: {', '.join(sample)}")
+    print(f"[INFO] Scraping válido: {len(results)} procedimientos. Primeros: {', '.join(list(results)[:10])}")
     return results
 
 
@@ -285,7 +319,6 @@ def compare_and_alert(old, new):
             print("[NEW]", msg)
             send_telegram(msg)
             updated[num] = data
-
     campos = ["descripcion", "fecha_publicacion", "estado", "adjudicado_a", "monto_adjudicado"]
     for num, data in new.items():
         if num not in old:
@@ -296,15 +329,12 @@ def compare_and_alert(old, new):
             pv = (prev.get(c, "") or "").strip()
             nv = (data.get(c, "") or "").strip()
             if pv != nv:
-                pv_show = pv[:180] + "…" if len(pv) > 180 else pv
-                nv_show = nv[:180] + "…" if len(nv) > 180 else nv
-                diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
+                diffs.append(f"{c}: '{pv[:180]}' → '{nv[:180]}'")
         if diffs:
             msg = f"⚠️ Actualización\n{data['descripcion']}\n{data['numero']}\nCambios:\n- " + "\n- ".join(diffs)
             print("[CHG]", msg)
             send_telegram(msg)
             updated[num] = data
-
     return updated
 
 
@@ -312,9 +342,8 @@ async def main():
     if not within_business_hours():
         print("[INFO] Fuera de horario laboral de 09:00–20:00 (America/Tijuana). Saliendo.")
         return
-
     old_state = load_state()
-    new_state = await scrape_listings()  # una excepción debe hacer fallar GitHub Actions
+    new_state = await scrape_listings()
     updated = compare_and_alert(old_state, new_state)
     save_state(updated)
     print(f"[OK] Finalizado. Leídos ahora: {len(new_state)}; total registrados: {len(updated)}")

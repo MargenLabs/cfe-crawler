@@ -22,6 +22,10 @@ def now_tijuana():
     return datetime.now(ZoneInfo("America/Tijuana"))
 
 
+def current_year():
+    return now_tijuana().year
+
+
 def within_business_hours():
     return WORK_START <= now_tijuana().hour < WORK_END
 
@@ -73,6 +77,27 @@ def norm(text):
             .replace("í", "i").replace("ó", "o").replace("ú", "u"))
 
 
+def publication_year(data):
+    fecha = (data.get("fecha_publicacion") or "").strip()
+    for fmt in ("%d-%m-%Y", "%d/%m/%Y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(fecha, fmt).year
+        except ValueError:
+            pass
+    numero = (data.get("numero") or "").strip()
+    try:
+        suffix = numero.rsplit("-", 1)[-1]
+        if len(suffix) == 4 and suffix.isdigit():
+            return int(suffix)
+    except Exception:
+        pass
+    return None
+
+
+def is_current_year_procedure(data):
+    return publication_year(data) == current_year()
+
+
 async def dump_page_diagnostics(page):
     print(f"[DIAG] URL final: {page.url}")
     print(f"[DIAG] Título: {await page.title()}")
@@ -114,7 +139,6 @@ async def wait_for_results_table(page, timeout_ms=30000):
 
 
 async def select_baja_california(page):
-    # 1) select HTML tradicional, en cualquier frame
     for frame in page.frames:
         selects = frame.locator("select")
         for i in range(await selects.count()):
@@ -128,7 +152,6 @@ async def select_baja_california(page):
                 print(f"[INFO] Entidad seleccionada por <select>: {ESTADO_OBJETIVO}")
                 return
 
-    # 2) controles tipo combobox (Angular/Material/Bootstrap)
     for frame in page.frames:
         combos = frame.locator("[role='combobox'], input[aria-haspopup='listbox'], input[autocomplete]")
         for i in range(await combos.count()):
@@ -155,7 +178,6 @@ async def select_baja_california(page):
             except Exception:
                 continue
 
-    # 3) fallback: click en texto Entidad y luego Baja California
     for frame in page.frames:
         try:
             labels = frame.get_by_text("Entidad", exact=False)
@@ -307,21 +329,31 @@ async def scrape_listings():
 
     if not results:
         raise RuntimeError("El scraping terminó con 0 procedimientos; se aborta para no registrar un falso éxito")
-    print(f"[INFO] Scraping válido: {len(results)} procedimientos. Primeros: {', '.join(list(results)[:10])}")
+    current_year_count = sum(1 for data in results.values() if is_current_year_procedure(data))
+    print(f"[INFO] Scraping válido: {len(results)} procedimientos totales; {current_year_count} corresponden a {current_year()}.")
     return results
 
 
 def compare_and_alert(old, new):
     updated = dict(old)
+    ignored_old = 0
     for num, data in new.items():
         if num not in old:
+            if not is_current_year_procedure(data):
+                ignored_old += 1
+                updated[num] = data
+                continue
             msg = f"🚨 Nueva Licitación\n{data['descripcion']}\n{data['numero']}\n{data['fecha_publicacion'] or 'Fecha no disponible'}"
             print("[NEW]", msg)
             send_telegram(msg)
             updated[num] = data
+
     campos = ["descripcion", "fecha_publicacion", "estado", "adjudicado_a", "monto_adjudicado"]
     for num, data in new.items():
         if num not in old:
+            continue
+        if not is_current_year_procedure(data):
+            updated[num] = data
             continue
         prev = old[num]
         diffs = []
@@ -335,6 +367,9 @@ def compare_and_alert(old, new):
             print("[CHG]", msg)
             send_telegram(msg)
             updated[num] = data
+
+    if ignored_old:
+        print(f"[INFO] {ignored_old} procedimientos anteriores a {current_year()} se incorporaron al estado sin enviar Telegram.")
     return updated
 
 

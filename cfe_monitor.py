@@ -1,4 +1,3 @@
-# cfe_monitor.py
 import os
 import json
 import time
@@ -7,93 +6,54 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import requests
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 
-# PARA REALIZAR PRUEBAS
-# Cambiar horario laboral a 0 y 24
-# Cambiar RUNS_PER_DAY a 99
-# Modificar el cfe_state.json ya sea eliminar una licitacion o modificar un dato 
-# Despues regresar todo a su lugar
+CFE_URL = "https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/"
+ESTADO_OBJETIVO = "Baja California"
+STATE_FILE = "cfe_state.json"
+WORK_START = 9
+WORK_END = 20
+MAX_PAGES = int(os.getenv("MAX_PAGES", "5"))
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
 
-# --- Envío a Telegram con control de rate limit 429 y pequeña pausa entre mensajes ---
+def now_tijuana():
+    return datetime.now(ZoneInfo("America/Tijuana"))
+
+
+def within_business_hours():
+    return WORK_START <= now_tijuana().hour < WORK_END
+
+
 def send_telegram_rate_limited(text, bot_token, chat_id):
-    """
-    Envía un mensaje a Telegram, respetando rate limit (429 retry_after)
-    y añadiendo una pausa corta entre mensajes para no saturar el chat.
-    Devuelve True si se envió, False si falló con error no recuperable.
-    """
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    data = {
-        "chat_id": chat_id,
-        "text": text,
-        "disable_web_page_preview": True,
-    }
+    data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
     while True:
         r = requests.post(url, data=data, timeout=30)
         if r.ok:
-            # Pausa mínima para no “floodear” (≈ 1 msg/seg)
             time.sleep(1.2)
             return True
-
-        # Si Telegram responde 429, respeta retry_after y reintenta
         if r.status_code == 429:
-            retry_after = 5
             try:
-                retry_after = r.json().get("parameters", {}).get("retry_after", 5)
+                retry_after = int(r.json().get("parameters", {}).get("retry_after", 5))
             except Exception:
-                pass
-            time.sleep(int(retry_after) + 1)
+                retry_after = 5
+            time.sleep(retry_after + 1)
             continue
-
-        # Otros errores: loguea y no reintentes infinitamente
         print(f"[ERROR] Telegram {r.status_code}: {r.text}")
         return False
 
 
-# Alias por compatibilidad: si en el código se usa send_to_telegram(...),
-# lo redirigimos aquí para NO tener que cambiar llamadas en otras partes.
-def send_to_telegram(text, bot_token, chat_id):
-    return send_telegram_rate_limited(text, bot_token, chat_id)
-
-# ---------------------------
-# CONFIGURACIÓN GENERAL
-# ---------------------------
-CFE_URL = "https://msc.cfe.mx/Aplicaciones/NCFE/Concursos/"
-ESTADO_OBJETIVO = "Baja California"
-STATE_FILE = "cfe_state.json"
-
-# Horario laboral (hora de Tijuana) y número máximo de ejecuciones/día
-WORK_START = 9   # 09:00
-WORK_END   = 20  # 20:00
-RUNS_PER_DAY = 5
-
-# Paginación: ¿cuántas páginas revisar?
-MAX_PAGES = int(os.getenv("MAX_PAGES", "1"))  # 1 = solo la primera página
-
-# Telegram (coloca estos valores como "Secrets" en GitHub)
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-TELEGRAM_CHAT_ID   = os.getenv("TELEGRAM_CHAT_ID", "").strip()
-
-# ---------------------------
-# UTILIDADES
-# ---------------------------
-def now_tijuana():
-    return datetime.now(ZoneInfo("America/Tijuana"))
-
-def within_business_hours():
-    t = now_tijuana()
-    return WORK_START <= t.hour < WORK_END
-
-def send_telegram(msg: str):
+def send_telegram(msg):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
-        print("[WARN] TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID no configurados. Mensaje NO enviado.")
+        print("[WARN] Telegram no configurado; mensaje no enviado.")
         return
-    ok = send_telegram_rate_limited(msg, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
-    if ok:
+    if send_telegram_rate_limited(msg, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID):
         print("[OK] Mensaje enviado a Telegram")
     else:
         print("[ERROR] Falló el envío a Telegram")
+
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -101,323 +61,264 @@ def load_state():
     with open(STATE_FILE, "r", encoding="utf-8") as f:
         try:
             return json.load(f)
-        except Exception:
-            return {}
+        except Exception as exc:
+            raise RuntimeError(f"No se pudo leer {STATE_FILE}: {exc}") from exc
 
-def save_state(data: dict):
+
+def save_state(data):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-# ---------------------------
-# SCRAPING CON PLAYWRIGHT
-# ---------------------------
+
+def norm(text):
+    return ((text or "").lower().replace("\n", " ").strip()
+            .replace("ñ", "n").replace("á", "a").replace("é", "e")
+            .replace("í", "i").replace("ó", "o").replace("ú", "u"))
+
+
+async def find_results_table(page):
+    """Devuelve la tabla que contiene el encabezado Numero de Procedimiento."""
+    tables = page.locator("table, [role='table']")
+    for i in range(await tables.count()):
+        table = tables.nth(i)
+        try:
+            text = norm(await table.inner_text(timeout=2000))
+        except Exception:
+            continue
+        if "numero de procedimiento" in text and "fecha publicacion" in text:
+            return table
+    return None
+
+
+async def wait_for_results_table(page, timeout_ms=30000):
+    deadline = time.monotonic() + timeout_ms / 1000
+    while time.monotonic() < deadline:
+        table = await find_results_table(page)
+        if table is not None:
+            rows = table.locator("tr")
+            if await rows.count() >= 2:
+                return table
+        await page.wait_for_timeout(500)
+    return None
+
+
+async def select_baja_california(page):
+    # La pagina de CFE ha cambiado de tiempos/markup; buscamos el select por sus opciones.
+    selects = page.locator("select")
+    for i in range(await selects.count()):
+        sel = selects.nth(i)
+        try:
+            options = norm(await sel.locator("option").all_inner_texts())
+        except Exception:
+            continue
+        if "baja california" in options:
+            await sel.select_option(label=ESTADO_OBJETIVO)
+            try:
+                selected = (await sel.locator("option:checked").inner_text()).strip()
+            except Exception:
+                selected = ""
+            if norm(selected) != norm(ESTADO_OBJETIVO):
+                raise RuntimeError(f"Entidad seleccionada inesperada: {selected!r}")
+            print(f"[INFO] Entidad seleccionada: {selected}")
+            return
+    raise RuntimeError("No se encontró el selector de Entidad Federativa con Baja California")
+
+
+async def click_search(page):
+    for text in ["Buscar", "Consultar", "Filtrar", "Aceptar"]:
+        btn = page.get_by_role("button", name=text, exact=False)
+        if await btn.count():
+            await btn.first.click()
+            print(f"[INFO] Botón de búsqueda: {text}")
+            return
+    # Fallback para inputs tipo submit.
+    submit = page.locator("input[type='submit'], button[type='submit']")
+    if await submit.count():
+        await submit.first.click()
+        print("[INFO] Botón de búsqueda: submit")
+        return
+    raise RuntimeError("No se encontró el botón Buscar/Consultar")
+
+
+async def parse_table(table, results):
+    rows = table.locator("tr")
+    row_count = await rows.count()
+    header_idx = None
+    headers = []
+
+    for j in range(min(row_count, 8)):
+        cells = rows.nth(j).locator("th,td")
+        texts = [norm(await cells.nth(k).inner_text()) for k in range(await cells.count())]
+        if any("numero de procedimiento" in h for h in texts):
+            header_idx = j
+            headers = texts
+            break
+
+    if header_idx is None:
+        raise RuntimeError("Se encontró una tabla, pero no el encabezado 'Número de Procedimiento'")
+
+    def find_idx(*opts):
+        for idx, header in enumerate(headers):
+            if any(norm(opt) in header for opt in opts):
+                return idx
+        return None
+
+    idx_numero = find_idx("número de procedimiento", "numero de procedimiento")
+    idx_desc = find_idx("descripción", "descripcion")
+    idx_fecha = find_idx("fecha publicación", "fecha publicacion")
+    idx_estado = find_idx("estado")
+    idx_adj = find_idx("adjudicado a")
+    idx_monto = find_idx("monto adjudicado en pesos", "monto adjudicado", "monto")
+
+    if idx_numero is None:
+        raise RuntimeError("No se pudo mapear la columna Número de Procedimiento")
+
+    async def cell_text(cells, idx):
+        if idx is None or idx >= await cells.count():
+            return ""
+        return (await cells.nth(idx).inner_text()).strip()
+
+    found = 0
+    for r in range(header_idx + 1, row_count):
+        cells = rows.nth(r).locator("td")
+        if not await cells.count():
+            continue
+        numero = await cell_text(cells, idx_numero)
+        if not numero:
+            continue
+        results[numero] = {
+            "numero": numero,
+            "descripcion": (await cell_text(cells, idx_desc)).replace("\n", " ").strip(),
+            "fecha_publicacion": await cell_text(cells, idx_fecha),
+            "estado": await cell_text(cells, idx_estado),
+            "adjudicado_a": await cell_text(cells, idx_adj),
+            "monto_adjudicado": await cell_text(cells, idx_monto),
+            "ultima_lectura": now_tijuana().isoformat(),
+        }
+        found += 1
+    return found
+
+
+async def go_next_page(page, current_table):
+    # Preferimos controles cuyo texto/aria-label indique siguiente.
+    candidates = page.locator("a, button")
+    for i in range(await candidates.count()):
+        el = candidates.nth(i)
+        try:
+            text = norm((await el.inner_text()) + " " + (await el.get_attribute("aria-label") or "") + " " + (await el.get_attribute("title") or ""))
+        except Exception:
+            continue
+        if not any(token in text for token in ["siguiente", "next"]):
+            continue
+        try:
+            if await el.is_disabled():
+                continue
+        except Exception:
+            pass
+        cls = norm(await el.get_attribute("class") or "")
+        if "disabled" in cls:
+            continue
+        old_text = await current_table.inner_text()
+        await el.click()
+        try:
+            await page.wait_for_function(
+                "oldText => Array.from(document.querySelectorAll('table')).some(t => t.innerText !== oldText && /procedimiento/i.test(t.innerText))",
+                old_text,
+                timeout=10000,
+            )
+        except PlaywrightTimeoutError:
+            await page.wait_for_timeout(1500)
+        return True
+    return False
+
+
 async def scrape_listings():
-    """
-    Lee SOLO lo que aparece en la tabla de resultados (sin abrir detalle).
-    Devuelve {numero: {numero, descripcion, fecha_publicacion, estado, adjudicado_a, monto_adjudicado, ultima_lectura}}
-    Respeta MAX_PAGES (por defecto 1 = primera página).
-    """
     results = {}
-
-    def norm(text: str) -> str:
-        t = (text or "").lower().replace("\n", " ").strip()
-        # normalización suave para buscar encabezados
-        return (t
-                .replace("ñ", "n")
-                .replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u"))
-
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
+        context = await browser.new_context(viewport={"width": 1440, "height": 1200}, locale="es-MX")
         page = await context.new_page()
+        page.set_default_timeout(15000)
 
-        # 1) Ir al sitio
-        await page.goto(CFE_URL, wait_until="domcontentloaded")
-        await page.wait_for_timeout(3000)
+        response = await page.goto(CFE_URL, wait_until="domcontentloaded", timeout=45000)
+        if response and response.status >= 400:
+            raise RuntimeError(f"CFE respondió HTTP {response.status}")
 
-        # 2) Seleccionar "Baja California"
-        select_locator_candidates = [
-            "select:has(option:text('Baja California'))",
-            "select[formcontrolname*='Entidad'], select[name*='Entidad'], select[id*='Entidad']",
-            "select"
-        ]
-        select = None
-        for cand in select_locator_candidates:
-            loc = page.locator(cand)
-            if await loc.count():
-                try:
-                    await loc.select_option(label=ESTADO_OBJETIVO)
-                    select = loc
-                    break
-                except:
-                    pass
-        if not select:
-            try:
-                await page.get_by_text("Entidad", exact=False).click(timeout=2000)
-                await page.get_by_role("option", name=ESTADO_OBJETIVO, exact=True).click(timeout=2000)
-            except:
-                print("[WARN] No se pudo seleccionar el estado. Revisa el selector.")
+        await page.wait_for_load_state("networkidle", timeout=20000)
+        await select_baja_california(page)
+        await click_search(page)
 
-        # 3) Click en Buscar/Consultar
-        for button_text in ["Buscar", "Consultar", "Filtrar", "Aceptar"]:
-            btn = page.get_by_role("button", name=button_text, exact=False)
-            if await btn.count():
-                await btn.first.click()
-                break
-        await page.wait_for_timeout(3000)
+        table = await wait_for_results_table(page, 30000)
+        if table is None:
+            title = await page.title()
+            body = (await page.locator("body").inner_text())[:1000]
+            raise RuntimeError(f"CFE no mostró la tabla de resultados. title={title!r}; body={body!r}")
 
-        # 4) Recorremos las páginas de resultados (solo lista, sin entrar al detalle)
         for page_idx in range(MAX_PAGES):
-            # Ubicar tabla
-            table = page.locator("table")
-            if not await table.count():
-                table = page.locator("[role='table']")
-        
-            if not await table.count():
-                print("[WARN] No se encontró tabla en la página actual.")
-            else:
-                # Filas de la tabla
-                rows = table.locator("tr")
-                row_count = await rows.count()
-                if row_count == 0:
-                    break
-        
-                # --- Detectar encabezados y mapear índices ---
-                header_row_idx = 0
-                header_cells = None
-                # Busca una fila con <th>
-                for j in range(min(row_count, 5)):
-                    ths = rows.nth(j).locator("th")
-                    if await ths.count():
-                        header_row_idx = j
-                        header_cells = ths
-                        break
-                if header_cells is None:
-                    # Fallback: usa la primera fila como encabezado
-                    header_cells = rows.nth(0).locator("td,th")
-                    header_row_idx = 0
-        
-                hcount = await header_cells.count()
-                headers = []
-                for k in range(hcount):
-                    txt = (await header_cells.nth(k).inner_text()).strip().lower()
-                    headers.append(txt)
-        
-                def find_idx(opts):
-                    opts = [o.lower() for o in opts]
-                    for idx, h in enumerate(headers):
-                        for o in opts:
-                            if o in h:
-                                return idx
-                    return None
-        
-                idx_numero = find_idx(["número de procedimiento", "numero de procedimiento"])
-                idx_desc   = find_idx(["descripción", "descripcion"])
-                idx_fecha  = find_idx(["fecha publicación", "fecha publicacion"])
-                idx_estado = find_idx(["estado"])
-                idx_adj    = find_idx(["adjudicado a"])
-                idx_monto  = find_idx(["monto adjudicado en pesos", "monto adjudicado", "monto"])
-        
-                # Helper async para leer una celda
-                async def get_cell(cells, idx):
-                    if idx is None:
-                        return ""
-                    ccount = await cells.count()
-                    if idx >= ccount:
-                        return ""
-                    return (await cells.nth(idx).inner_text()).strip()
-        
-                # --- Recorrer filas de datos (después del encabezado) ---
-                for r in range(header_row_idx + 1, row_count):
-                    row = rows.nth(r)
-                    cells = row.locator("td")
-                    if not await cells.count():
-                        continue
-                
-                    # Helper para leer celdas ya lo tienes arriba: get_cell(cells, idx)
-                    numero = await get_cell(cells, idx_numero)
-                    if not numero:
-                        continue  # sin número no podemos identificar
-    
-                    descripcion       = (await get_cell(cells, idx_desc))   or ""
-                    fecha_publicacion = (await get_cell(cells, idx_fecha))  or ""
-                    estado            = (await get_cell(cells, idx_estado)) or ""
-                    adjudicado_a      = (await get_cell(cells, idx_adj))    or ""
-                    monto_adjudicado  = (await get_cell(cells, idx_monto))  or ""
-                
-                    results[numero] = {
-                        "numero": numero,
-                        "descripcion": descripcion.replace("\n", " ").strip(),
-                        "fecha_publicacion": fecha_publicacion,
-                        "estado": estado,
-                        "adjudicado_a": adjudicado_a,
-                        "monto_adjudicado": monto_adjudicado,
-                        "ultima_lectura": now_tijuana().isoformat(),
-                    }
-        
-            # --- Paginación ---
+            if page_idx:
+                table = await wait_for_results_table(page, 15000)
+                if table is None:
+                    raise RuntimeError(f"La tabla desapareció al paginar a página {page_idx + 1}")
+            found = await parse_table(table, results)
+            print(f"[INFO] Página {page_idx + 1}: {found} procedimientos; acumulados: {len(results)}")
             if page_idx >= MAX_PAGES - 1:
                 break
-        
-            went_next = False
-            for next_text in ["Siguiente", ">", ">>", "Siguiente »", "Next"]:
-                nxt = page.get_by_role("button", name=next_text, exact=False)
-                if await nxt.count():
-                    try:
-                        disabled = await nxt.first.is_disabled()
-                    except:
-                        disabled = False
-                    if not disabled:
-                        await nxt.first.click()
-                        went_next = True
-                        await page.wait_for_timeout(1500)
-                        break
-        
-            if not went_next:
-                break
-
-
-            # ¿Más páginas? Solo si no alcanzamos el tope
-            if page_idx >= MAX_PAGES:
-                break
-
-            went_next = False
-            for next_text in ["Siguiente", ">", ">>", "Siguiente »", "Next"]:
-                nxt = page.get_by_role("button", name=next_text, exact=False)
-                if await nxt.count():
-                    try:
-                        disabled = await nxt.first.is_disabled()
-                    except:
-                        disabled = False
-                    if not disabled:
-                        await nxt.first.click()
-                        went_next = True
-                        await page.wait_for_timeout(1500)
-                        break
-            if not went_next:
+            if not await go_next_page(page, table):
                 break
 
         await context.close()
         await browser.close()
 
+    if not results:
+        raise RuntimeError("El scraping terminó con 0 procedimientos; se aborta para no registrar un falso éxito")
+
+    sample = list(results)[:10]
+    print(f"[INFO] Scraping válido: {len(results)} procedimientos. Primeros: {', '.join(sample)}")
     return results
 
-# ---------------------------
-# DIF Y ALERTAS
-# ---------------------------
-def compare_and_alert(old: dict, new: dict):
-    """
-    Compara estados, envía alertas a Telegram por:
-     - nuevas licitaciones
-     - cambios en descripción/estado/adjudicado/monto
-    Devuelve el estado combinado actualizado.
-    """
-    updated = dict(old)
 
-    # Nuevas
+def compare_and_alert(old, new):
+    updated = dict(old)
     for num, data in new.items():
         if num not in old:
-            msg = (
-                f"🚨 Nueva Licitación\n"
-                f"{data['descripcion']}\n"
-                f"{data['numero']}\n"
-                f"{data['fecha_publicacion'] or 'Fecha no disponible'}"
-            )
+            msg = f"🚨 Nueva Licitación\n{data['descripcion']}\n{data['numero']}\n{data['fecha_publicacion'] or 'Fecha no disponible'}"
             print("[NEW]", msg)
             send_telegram(msg)
             updated[num] = data
 
-    # Cambios
     campos = ["descripcion", "fecha_publicacion", "estado", "adjudicado_a", "monto_adjudicado"]
     for num, data in new.items():
-        if num in old:
-            prev = old[num]
-            diffs = []
-            for c in campos:
-                pv = (prev.get(c, "") or "").strip()
-                nv = (data.get(c, "") or "").strip()
-                if pv != nv:
-                    # recorta por si hay textos muy largos
-                    pv_show = (pv[:180] + "…") if len(pv) > 180 else pv
-                    nv_show = (nv[:180] + "…") if len(nv) > 180 else nv
-                    diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
-    
-            if diffs:
-                msg = (
-                    f"⚠️ Actualización\n"
-                    f"{data['descripcion']}\n"
-                    f"{data['numero']}\n"
-                    f"Cambios:\n- " + "\n- ".join(diffs)
-                )
-                print("[CHG]", msg)
-                send_telegram(msg)
-                updated[num] = data
-
-    # Mantener entradas previas no vistas esta vez (por si caen temporalmente)
-    for num, pdata in old.items():
-        if num not in new:
-            updated.setdefault(num, pdata)
+        if num not in old:
+            continue
+        prev = old[num]
+        diffs = []
+        for c in campos:
+            pv = (prev.get(c, "") or "").strip()
+            nv = (data.get(c, "") or "").strip()
+            if pv != nv:
+                pv_show = pv[:180] + "…" if len(pv) > 180 else pv
+                nv_show = nv[:180] + "…" if len(nv) > 180 else nv
+                diffs.append(f"{c}: '{pv_show}' → '{nv_show}'")
+        if diffs:
+            msg = f"⚠️ Actualización\n{data['descripcion']}\n{data['numero']}\nCambios:\n- " + "\n- ".join(diffs)
+            print("[CHG]", msg)
+            send_telegram(msg)
+            updated[num] = data
 
     return updated
 
-# ---------------------------
-# CONTROL DE FRECUENCIA DIARIA (OPCIONAL)
-# ---------------------------
-def runs_counter_file():
-    return f".runs_{now_tijuana().date().isoformat()}.txt"
 
-def can_run_today(max_runs=RUNS_PER_DAY):
-    """
-    Garantiza como máximo 'max_runs' ejecuciones por día (solo útil si programas
-    el workflow más veces). Para 4 cron fijos, no es indispensable.
-    """
-    path = runs_counter_file()
-    count = 0
-    if os.path.exists(path):
-        with open(path, "r") as f:
-            try:
-                count = int(f.read().strip())
-            except:
-                count = 0
-    return count < max_runs
-
-def increment_run_counter():
-    path = runs_counter_file()
-    count = 0
-    if os.path.exists(path):
-        with open(path, "r") as f:
-            try:
-                count = int(f.read().strip())
-            except:
-                count = 0
-    with open(path, "w") as f:
-        f.write(str(count + 1))
-
-# ---------------------------
-# MAIN
-# ---------------------------
 async def main():
-    # 1) Limitar a horario laboral
     if not within_business_hours():
         print("[INFO] Fuera de horario laboral de 09:00–20:00 (America/Tijuana). Saliendo.")
         return
 
-    # 2) (Opcional) Limitar número de corridas por día si programaste más triggers
-    if not can_run_today():
-        print("[INFO] Ya se alcanzó el máximo de ejecuciones del día. Saliendo.")
-        return
-
     old_state = load_state()
-    try:
-        new_state = await scrape_listings()
-    except Exception as e:
-        print(f"[ERROR] Falló el scraping: {e}")
-        return
-
+    new_state = await scrape_listings()  # una excepción debe hacer fallar GitHub Actions
     updated = compare_and_alert(old_state, new_state)
     save_state(updated)
-    increment_run_counter()
-    print(f"[OK] Finalizado. Total licitaciones registradas: {len(updated)}")
+    print(f"[OK] Finalizado. Leídos ahora: {len(new_state)}; total registrados: {len(updated)}")
+
 
 if __name__ == "__main__":
     asyncio.run(main())

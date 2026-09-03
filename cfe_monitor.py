@@ -27,7 +27,7 @@ def current_year():
 
 
 def within_business_hours():
-    return WORK_START <= now_tijuana().hour < WORK_END
+    return WORK_START <= now_tijuana().hour <= WORK_END
 
 
 def send_telegram_rate_limited(text, bot_token, chat_id):

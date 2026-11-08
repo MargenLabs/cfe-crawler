@@ -6,7 +6,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MC DISTRIBUIDORA ELECTRICA SA DE CV,",
     "monto_adjudicado": "$371,200.00",
-    "ultima_lectura": "2026-11-07T17:07:40.762113-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.960364-08:00"
   },
   "CFE-0614-CSAAA-0014-2025": {
     "numero": "CFE-0614-CSAAA-0014-2025",
@@ -15,7 +15,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,LAUKA MEXICANA SA DE CV,",
     "monto_adjudicado": "$133,648.90",
-    "ultima_lectura": "2026-11-07T17:07:40.893199-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.061853-08:00"
   },
   "CFE-0101-CSAAA-0008-2025": {
     "numero": "CFE-0101-CSAAA-0008-2025",
@@ -24,7 +24,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ADRIAN ALFREDO AYALA MARTINEZ,AGUSTIN PEREZ LLAMAS,ALAN ENRIQUE AYALA MARTINEZ,",
     "monto_adjudicado": "$3,526,714.00",
-    "ultima_lectura": "2026-11-07T17:07:40.959350-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.112747-08:00"
   },
   "CFE-0301-CSAAA-0007-2025": {
     "numero": "CFE-0301-CSAAA-0007-2025",
@@ -33,7 +33,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:41.025764-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.163628-08:00"
   },
   "CFE-0614-CSAAA-0013-2025": {
     "numero": "CFE-0614-CSAAA-0013-2025",
@@ -42,7 +42,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LIDIA RAMIREZ ZENTENO,PROOIL DE MEXICO SA DE CV,SISTEMAS INTELIGENTES DE SUPRECION SA DE CV,",
     "monto_adjudicado": "$2,044,378.67",
-    "ultima_lectura": "2026-11-07T17:07:41.092330-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.214350-08:00"
   },
   "CFE-0201-CSSAN-0004-2025": {
     "numero": "CFE-0201-CSSAN-0004-2025",
@@ -51,7 +51,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,NODO INGENIERIA SA DE CV,",
     "monto_adjudicado": "$762,400.00",
-    "ultima_lectura": "2026-11-07T17:07:41.159178-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.265085-08:00"
   },
   "CFE-0614-CSAAA-0012-2025": {
     "numero": "CFE-0614-CSAAA-0012-2025",
@@ -60,7 +60,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,PROCESS FACTOR MEXICO SA DE CV,",
     "monto_adjudicado": "$201,641.60",
-    "ultima_lectura": "2026-11-07T17:07:41.225799-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.315806-08:00"
   },
   "CFE-0101-CACON-0032-2025": {
     "numero": "CFE-0101-CACON-0032-2025",
@@ -69,7 +69,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
     "monto_adjudicado": "$724,139.46",
-    "ultima_lectura": "2026-11-07T17:07:41.292285-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.366615-08:00"
   },
   "CFE-0101-CACON-0031-2025": {
     "numero": "CFE-0101-CACON-0031-2025",
@@ -78,7 +78,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:41.360051-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.417347-08:00"
   },
   "CFE-0604-CSAAN-0013-2025": {
     "numero": "CFE-0604-CSAAN-0013-2025",
@@ -87,7 +87,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BALAFF SA DE CV,COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,MARCELA CABRERA GARCIA,",
     "monto_adjudicado": "$846,546.00",
-    "ultima_lectura": "2026-11-07T17:07:41.427820-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.468585-08:00"
   },
   "CFE-0301-CSSAN-0023-2025": {
     "numero": "CFE-0301-CSSAN-0023-2025",
@@ -96,7 +96,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:41.494334-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.519117-08:00"
   },
   "CFE-0101-CSAAN-0015-2025": {
     "numero": "CFE-0101-CSAAN-0015-2025",
@@ -105,7 +105,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUPO TECNOLOGIAS EOS SA DE CV,",
     "monto_adjudicado": "$4,660,150.00",
-    "ultima_lectura": "2026-11-07T17:07:41.561266-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.569962-08:00"
   },
   "CFE-0201-CSSAN-0003-2025": {
     "numero": "CFE-0201-CSSAN-0003-2025",
@@ -114,7 +114,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:41.627944-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.620912-08:00"
   },
   "CFE-0614-CSSAN-0030-2025": {
     "numero": "CFE-0614-CSSAN-0030-2025",
@@ -123,7 +123,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUPO INDUSTRIAL GARCON SA DE CV,",
     "monto_adjudicado": "$1,454,895.00",
-    "ultima_lectura": "2026-11-07T17:07:41.695725-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.671765-08:00"
   },
   "CFE-0101-CSAAN-0016-2025": {
     "numero": "CFE-0101-CSAAN-0016-2025",
@@ -132,7 +132,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MEXICANA DE LUBRICANTES SA DE CV,",
     "monto_adjudicado": "$951,400.00",
-    "ultima_lectura": "2026-11-07T17:07:41.762059-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.722744-08:00"
   },
   "CFE-0604-CSAAN-0012-2025": {
     "numero": "CFE-0604-CSAAN-0012-2025",
@@ -141,7 +141,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,DURO DE MEXICO SA DE CV,ELECTRICA VIRGO SA DE CV,FERNAN CICERON ALFARO HERNANDEZ,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
     "monto_adjudicado": "$1,249,078.70",
-    "ultima_lectura": "2026-11-07T17:07:41.832487-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.773711-08:00"
   },
   "CFE-0614-CSAAN-0005-2025": {
     "numero": "CFE-0614-CSAAN-0005-2025",
@@ -150,7 +150,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,SEGISA CHIHUAHUA SA DE CV,SAFETY SPOT SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,DIQMA SOLUTIONS SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,AEE MARINE SERVICES SA DE CV,",
     "monto_adjudicado": "$829,881.22",
-    "ultima_lectura": "2026-11-07T17:07:41.900689-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.824732-08:00"
   },
   "CFE-0101-CSAAN-0014-2025": {
     "numero": "CFE-0101-CSAAN-0014-2025",
@@ -159,7 +159,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PREFORMADOS DE MEXICO SA DE CV,",
     "monto_adjudicado": "$903,075.00",
-    "ultima_lectura": "2026-11-07T17:07:41.967363-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.875584-08:00"
   },
   "CFE-0301-CSSAN-0022-2025": {
     "numero": "CFE-0301-CSSAN-0022-2025",
@@ -168,7 +168,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$120,000.00",
-    "ultima_lectura": "2026-11-07T17:07:42.033395-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.926453-08:00"
   },
   "CFE-0604-CSSAN-0027-2025": {
     "numero": "CFE-0604-CSSAN-0027-2025",
@@ -177,7 +177,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SUAMMEX BAJA RECYCLING SA DE CV,",
     "monto_adjudicado": "$487,860.00",
-    "ultima_lectura": "2026-11-07T17:07:42.099978-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.977305-08:00"
   },
   "CFE-0301-CSSAN-0021-2025": {
     "numero": "CFE-0301-CSSAN-0021-2025",
@@ -186,7 +186,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.165478-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.028142-08:00"
   },
   "CFE-0301-CSSAN-0020-2025": {
     "numero": "CFE-0301-CSSAN-0020-2025",
@@ -195,7 +195,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.233992-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.079938-08:00"
   },
   "CFE-0201-CSCON-0008-2025": {
     "numero": "CFE-0201-CSCON-0008-2025",
@@ -204,7 +204,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OSCAR ALEJANDRO VAZQUEZ ARIAS,",
     "monto_adjudicado": "$1,428,563.51",
-    "ultima_lectura": "2026-11-07T17:07:42.302465-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.130792-08:00"
   },
   "CFE-0301-CSSAN-0018-2025": {
     "numero": "CFE-0301-CSSAN-0018-2025",
@@ -213,7 +213,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.368716-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.181625-08:00"
   },
   "CFE-0101-CACON-0030-2025": {
     "numero": "CFE-0101-CACON-0030-2025",
@@ -222,7 +222,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
     "monto_adjudicado": "$1,188,644.72",
-    "ultima_lectura": "2026-11-07T17:07:42.460295-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.232276-08:00"
   },
   "CFE-0604-CSAAA-0008-2025": {
     "numero": "CFE-0604-CSAAA-0008-2025",
@@ -231,7 +231,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONTROL TECNICO Y REPRESENTACIONES SA DE CV,DISTRIBUIDORA QUIMICA DE SONORA SA DE CV,LAUKA MEXICANA SA DE CV,QITSA SOLUCIONES QUIMICAS SA DE CV,R.G. REPRESENTACIONES PARA LABORATORIOS SA DE CV,",
     "monto_adjudicado": "$1,121,306.50",
-    "ultima_lectura": "2026-11-07T17:07:42.525711-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.282876-08:00"
   },
   "CFE-0101-CSAAN-0013-2025": {
     "numero": "CFE-0101-CSAAN-0013-2025",
@@ -240,7 +240,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DISTRIBUIDORA MAYECEN SA DE CV,ELECTRAMEX SA DE CV,ELEMENTOS ELECTRICOS SA DE CV,",
     "monto_adjudicado": "$3,269,540.00",
-    "ultima_lectura": "2026-11-07T17:07:42.589087-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.333554-08:00"
   },
   "CFE-0301-CSSAN-0019-2025": {
     "numero": "CFE-0301-CSSAN-0019-2025",
@@ -249,7 +249,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.653346-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.384493-08:00"
   },
   "CFE-0301-CSAAA-0006-2025": {
     "numero": "CFE-0301-CSAAA-0006-2025",
@@ -258,7 +258,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.718341-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.435452-08:00"
   },
   "CFE-0614-CSAAA-0011-2025": {
     "numero": "CFE-0614-CSAAA-0011-2025",
@@ -267,7 +267,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SISTEMAS CENTRALES DE LUBRICACION S A P I DE CV,CARFOX INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$324,831.86",
-    "ultima_lectura": "2026-11-07T17:07:42.783747-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.486453-08:00"
   },
   "CFE-0101-CACON-0029-2025": {
     "numero": "CFE-0101-CACON-0029-2025",
@@ -276,7 +276,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.849724-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.537284-08:00"
   },
   "CFE-0301-CSSAN-0017-2025": {
     "numero": "CFE-0301-CSSAN-0017-2025",
@@ -285,7 +285,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.914553-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.588451-08:00"
   },
   "CFE-0101-CACON-0028-2025": {
     "numero": "CFE-0101-CACON-0028-2025",
@@ -294,7 +294,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:42.979796-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.639281-08:00"
   },
   "CFE-0201-CSSAN-0002-2025": {
     "numero": "CFE-0201-CSSAN-0002-2025",
@@ -303,7 +303,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EQUIPOS ESPECIALES DE SEGURIDAD SA DE CV,",
     "monto_adjudicado": "$435,250.00",
-    "ultima_lectura": "2026-11-07T17:07:43.044396-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.690297-08:00"
   },
   "CFE-0201-CSSAN-0001-2025": {
     "numero": "CFE-0201-CSSAN-0001-2025",
@@ -312,7 +312,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.110815-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.741546-08:00"
   },
   "CFE-0101-CSAAA-0007-2025": {
     "numero": "CFE-0101-CSAAA-0007-2025",
@@ -321,7 +321,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.177509-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.792154-08:00"
   },
   "CFE-0101-CACON-0027-2025": {
     "numero": "CFE-0101-CACON-0027-2025",
@@ -330,7 +330,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.243972-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.842687-08:00"
   },
   "CFE-0301-CSAAN-0004-2025": {
     "numero": "CFE-0301-CSAAN-0004-2025",
@@ -339,7 +339,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$11,745.00",
-    "ultima_lectura": "2026-11-07T17:07:43.309792-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.912520-08:00"
   },
   "CFE-0614-CSSAN-0029-2025": {
     "numero": "CFE-0614-CSSAN-0029-2025",
@@ -348,7 +348,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.375166-08:00"
+    "ultima_lectura": "2026-11-08T12:15:49.963072-08:00"
   },
   "CFE-0614-CSAAN-0004-2025": {
     "numero": "CFE-0614-CSAAN-0004-2025",
@@ -357,7 +357,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS INTEGRADOS EN SISTEMAS DE ENFRIAMIENTO SA DE CV,",
     "monto_adjudicado": "$2,341,394.50",
-    "ultima_lectura": "2026-11-07T17:07:43.440377-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.013680-08:00"
   },
   "CFE-0604-CSSAN-0026-2025": {
     "numero": "CFE-0604-CSSAN-0026-2025",
@@ -366,7 +366,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUPO INDUSTRIAL GARCON SA DE CV,",
     "monto_adjudicado": "$1,544,001.60",
-    "ultima_lectura": "2026-11-07T17:07:43.506400-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.064628-08:00"
   },
   "CFE-0614-CSABN-0003-2025": {
     "numero": "CFE-0614-CSABN-0003-2025",
@@ -375,7 +375,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.570990-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.115566-08:00"
   },
   "CFE-0101-CACON-0026-2025": {
     "numero": "CFE-0101-CACON-0026-2025",
@@ -384,7 +384,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$656,171.11",
-    "ultima_lectura": "2026-11-07T17:07:43.637536-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.166119-08:00"
   },
   "CFE-0101-CSSAN-0024-2025": {
     "numero": "CFE-0101-CSSAN-0024-2025",
@@ -393,7 +393,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,JOSE LUIS ALPIZAR BAUTISTA,VCG LABORATORIO Y CONSTRUCCIONES DE OBRA CIVIL SA DE CV,",
     "monto_adjudicado": "$2,062,912.50",
-    "ultima_lectura": "2026-11-07T17:07:43.704083-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.216832-08:00"
   },
   "CFE-0201-CSAAA-0004-2025": {
     "numero": "CFE-0201-CSAAA-0004-2025",
@@ -402,7 +402,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MBATTERY NORTH AMERICA SA DE CV,",
     "monto_adjudicado": "$4,400,096.00",
-    "ultima_lectura": "2026-11-07T17:07:43.771286-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.267696-08:00"
   },
   "CFE-0614-CSAAA-0010-2025": {
     "numero": "CFE-0614-CSAAA-0010-2025",
@@ -411,7 +411,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GARLOCK DE MEXICO SA DE CV,INSUMOS INDUSTRIALES Y EMPAQUETADURAS SA DE CV,JEGOS SA DE CV,XHITAO SA DE CV,",
     "monto_adjudicado": "$770,733.73",
-    "ultima_lectura": "2026-11-07T17:07:43.840029-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.318588-08:00"
   },
   "CFE-0101-CACON-0025-2025": {
     "numero": "CFE-0101-CACON-0025-2025",
@@ -420,7 +420,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:43.906951-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.369438-08:00"
   },
   "CFE-0101-CACON-0024-2025": {
     "numero": "CFE-0101-CACON-0024-2025",
@@ -429,7 +429,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$1,260,268.53",
-    "ultima_lectura": "2026-11-07T17:07:43.972133-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.420366-08:00"
   },
   "CFE-0028-CSSAN-0003-2025": {
     "numero": "CFE-0028-CSSAN-0003-2025",
@@ -438,7 +438,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TOKA INTERNACIONAL S A P I DE CV,",
     "monto_adjudicado": "$1,276,800.00",
-    "ultima_lectura": "2026-11-07T17:07:44.037640-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.470900-08:00"
   },
   "CFE-0101-CACON-0023-2025": {
     "numero": "CFE-0101-CACON-0023-2025",
@@ -447,7 +447,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:44.105060-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.521739-08:00"
   },
   "CFE-0614-CSSAN-0028-2025": {
     "numero": "CFE-0614-CSSAN-0028-2025",
@@ -456,7 +456,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
     "monto_adjudicado": "$1,337,307.78",
-    "ultima_lectura": "2026-11-07T17:07:44.173244-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.572423-08:00"
   },
   "CFE-0101-CSSAN-0022-2025": {
     "numero": "CFE-0101-CSSAN-0022-2025",
@@ -465,7 +465,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DAVID JAVIER ESQUIVEL PEREZ,GEN INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$402,000.00",
-    "ultima_lectura": "2026-11-07T17:07:44.239721-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.623109-08:00"
   },
   "CFE-0604-CSAAN-0011-2025": {
     "numero": "CFE-0604-CSAAN-0011-2025",
@@ -474,7 +474,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,",
     "monto_adjudicado": "$112,125.00",
-    "ultima_lectura": "2026-11-07T17:07:44.306799-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.673761-08:00"
   },
   "CFE-0101-ADCON-0004-2025": {
     "numero": "CFE-0101-ADCON-0004-2025",
@@ -483,7 +483,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
     "monto_adjudicado": "$133,040.08",
-    "ultima_lectura": "2026-11-07T17:07:44.373234-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.724519-08:00"
   },
   "CFE-0101-ADCON-0003-2025": {
     "numero": "CFE-0101-ADCON-0003-2025",
@@ -492,7 +492,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JORGE ALFREDO MARTINEZ GONZALEZ,",
     "monto_adjudicado": "$151,942.41",
-    "ultima_lectura": "2026-11-07T17:07:44.440173-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.775516-08:00"
   },
   "CFE-0101-ADCON-0002-2025": {
     "numero": "CFE-0101-ADCON-0002-2025",
@@ -501,7 +501,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$155,697.46",
-    "ultima_lectura": "2026-11-07T17:07:44.506404-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.826703-08:00"
   },
   "CFE-0101-ADCON-0001-2025": {
     "numero": "CFE-0101-ADCON-0001-2025",
@@ -510,7 +510,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRALTA CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$90,474.35",
-    "ultima_lectura": "2026-11-07T17:07:44.571777-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.877454-08:00"
   },
   "CFE-0201-ADAAN-0003-2025": {
     "numero": "CFE-0201-ADAAN-0003-2025",
@@ -519,7 +519,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ROE INMOBILIARIA Y ARRENDADORA S DE RL DE CV,",
     "monto_adjudicado": "$3,149,822.00",
-    "ultima_lectura": "2026-11-07T17:07:44.636380-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.928721-08:00"
   },
   "CFE-0028-CSSAN-0002-2025": {
     "numero": "CFE-0028-CSSAN-0002-2025",
@@ -528,7 +528,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LAVADORES TECNICOS SA DE CV,",
     "monto_adjudicado": "$135,610.00",
-    "ultima_lectura": "2026-11-07T17:07:44.701857-08:00"
+    "ultima_lectura": "2026-11-08T12:15:50.979810-08:00"
   },
   "CFE-0201-CSCON-0007-2025": {
     "numero": "CFE-0201-CSCON-0007-2025",
@@ -537,7 +537,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:44.766778-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.031157-08:00"
   },
   "CFE-0614-CSSAN-0027-2025": {
     "numero": "CFE-0614-CSSAN-0027-2025",
@@ -546,7 +546,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:44.832480-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.082505-08:00"
   },
   "CFE-0101-CSSAN-0021-2025": {
     "numero": "CFE-0101-CSSAN-0021-2025",
@@ -555,7 +555,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$5,000,000.00",
-    "ultima_lectura": "2026-11-07T17:07:44.897354-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.133797-08:00"
   },
   "CFE-0614-CSSAA-0002-2025": {
     "numero": "CFE-0614-CSSAA-0002-2025",
@@ -564,7 +564,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$2,374,722.23",
-    "ultima_lectura": "2026-11-07T17:07:44.963555-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.184816-08:00"
   },
   "CFE-0614-CSAAA-0009-2025": {
     "numero": "CFE-0614-CSAAA-0009-2025",
@@ -573,7 +573,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONTROL TECNICO Y REPRESENTACIONES SA DE CV,REACTIVOS Y SEGURIDAD INDUSTRIAL SA DE CV,LAUKA MEXICANA SA DE CV,",
     "monto_adjudicado": "$311,883.02",
-    "ultima_lectura": "2026-11-07T17:07:45.030805-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.236086-08:00"
   },
   "CFE-0101-CACON-0022-2025": {
     "numero": "CFE-0101-CACON-0022-2025",
@@ -582,7 +582,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.098832-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.287391-08:00"
   },
   "CFE-0101-CSSAN-0020-2025": {
     "numero": "CFE-0101-CSSAN-0020-2025",
@@ -591,7 +591,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
     "monto_adjudicado": "$1,620,000.00",
-    "ultima_lectura": "2026-11-07T17:07:45.167073-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.338756-08:00"
   },
   "CFE-0614-CSABN-0002-2025": {
     "numero": "CFE-0614-CSABN-0002-2025",
@@ -600,7 +600,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.234911-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.389926-08:00"
   },
   "CFE-0101-CSSAN-0019-2025": {
     "numero": "CFE-0101-CSSAN-0019-2025",
@@ -609,7 +609,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.302872-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.441007-08:00"
   },
   "CFE-0201-CSCON-0006-2025": {
     "numero": "CFE-0201-CSCON-0006-2025",
@@ -618,7 +618,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.370213-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.492151-08:00"
   },
   "CFE-0301-CSAAN-0003-2025": {
     "numero": "CFE-0301-CSAAN-0003-2025",
@@ -627,7 +627,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$21,342.00",
-    "ultima_lectura": "2026-11-07T17:07:45.438110-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.543240-08:00"
   },
   "CFE-0604-CSAAN-0010-2025": {
     "numero": "CFE-0604-CSAAN-0010-2025",
@@ -636,7 +636,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TUBERIAS VISA SA DE CV,",
     "monto_adjudicado": "$1,472,292.78",
-    "ultima_lectura": "2026-11-07T17:07:45.505204-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.595109-08:00"
   },
   "CFE-0028-CSSAN-0001-2025": {
     "numero": "CFE-0028-CSSAN-0001-2025",
@@ -645,7 +645,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.571405-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.646377-08:00"
   },
   "CFE-0301-CSAAA-0005-2025": {
     "numero": "CFE-0301-CSAAA-0005-2025",
@@ -654,7 +654,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.639264-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.697013-08:00"
   },
   "CFE-0301-CSSAN-0016-2025": {
     "numero": "CFE-0301-CSSAN-0016-2025",
@@ -663,7 +663,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:45.727957-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.748049-08:00"
   },
   "CFE-0604-CSSAN-0025-2025": {
     "numero": "CFE-0604-CSSAN-0025-2025",
@@ -672,7 +672,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$1,934,510.88",
-    "ultima_lectura": "2026-11-07T17:07:45.796436-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.798848-08:00"
   },
   "CFE-0101-CSAAA-0006-2025": {
     "numero": "CFE-0101-CSAAA-0006-2025",
@@ -681,7 +681,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPUPROVEEDORES SA DE CV,SOLUCIONES EN INFORMATICA DEL NOROESTE SA DE CV,SUMIPAC DISTRIBUCION SA DE CV,XHITAO SA DE CV,",
     "monto_adjudicado": "$914,140.00",
-    "ultima_lectura": "2026-11-07T17:07:45.864393-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.850019-08:00"
   },
   "CFE-0301-CSSAN-0015-2025": {
     "numero": "CFE-0301-CSSAN-0015-2025",
@@ -690,7 +690,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FERNANDO SALGADO SAGUCHI,",
     "monto_adjudicado": "$548,631.47",
-    "ultima_lectura": "2026-11-07T17:07:45.931468-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.901045-08:00"
   },
   "CFE-0604-CSAAN-0008-2025": {
     "numero": "CFE-0604-CSAAN-0008-2025",
@@ -699,7 +699,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SUAMMEX BAJA RECYCLING SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$665,818.00",
-    "ultima_lectura": "2026-11-07T17:07:46.000288-08:00"
+    "ultima_lectura": "2026-11-08T12:15:51.952317-08:00"
   },
   "CFE-0201-CSAAA-0003-2025": {
     "numero": "CFE-0201-CSAAA-0003-2025",
@@ -708,7 +708,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SCHWEITZER ENGINEERING LABORATORIES SA DE CV,",
     "monto_adjudicado": "$4,692,050.00",
-    "ultima_lectura": "2026-11-07T17:07:46.066530-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.003461-08:00"
   },
   "CFE-0604-CSAAN-0009-2025": {
     "numero": "CFE-0604-CSAAN-0009-2025",
@@ -717,7 +717,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,",
     "monto_adjudicado": "$1,894,619.58",
-    "ultima_lectura": "2026-11-07T17:07:46.133570-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.054790-08:00"
   },
   "CFE-0101-CSAAN-0012-2025": {
     "numero": "CFE-0101-CSAAN-0012-2025",
@@ -726,7 +726,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:46.200742-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.106394-08:00"
   },
   "CFE-0201-CACON-0001-2025": {
     "numero": "CFE-0201-CACON-0001-2025",
@@ -735,7 +735,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
     "monto_adjudicado": "$9,063,167.04",
-    "ultima_lectura": "2026-11-07T17:07:46.268691-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.157594-08:00"
   },
   "CFE-0101-CACON-0021-2025": {
     "numero": "CFE-0101-CACON-0021-2025",
@@ -744,7 +744,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SIE2004136L1/HIN151117MG3/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
     "monto_adjudicado": "$1,628,032.59",
-    "ultima_lectura": "2026-11-07T17:07:46.335128-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.208417-08:00"
   },
   "CFE-0201-CSSON-0002-2025": {
     "numero": "CFE-0201-CSSON-0002-2025",
@@ -753,7 +753,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:46.402758-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.260425-08:00"
   },
   "CFE-0301-CSAAN-0002-2025": {
     "numero": "CFE-0301-CSAAN-0002-2025",
@@ -762,7 +762,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:46.469002-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.311181-08:00"
   },
   "CFE-0614-CSAAA-0008-2025": {
     "numero": "CFE-0614-CSAAA-0008-2025",
@@ -771,7 +771,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:46.536091-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.362353-08:00"
   },
   "CFE-0201-CSCON-0005-2025": {
     "numero": "CFE-0201-CSCON-0005-2025",
@@ -780,7 +780,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HASHIRO DAMIEEN MAYORAL MEDELLIN,",
     "monto_adjudicado": "$2,809,117.74",
-    "ultima_lectura": "2026-11-07T17:07:46.604477-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.414290-08:00"
   },
   "CFE-0101-CSAAN-0011-2025": {
     "numero": "CFE-0101-CSAAN-0011-2025",
@@ -789,7 +789,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FERRETERIA POPULAR DEL NORTE SA DE CV,MACO SA,NIKSERVI SA DE CV,",
     "monto_adjudicado": "$235,456.00",
-    "ultima_lectura": "2026-11-07T17:07:46.671317-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.465598-08:00"
   },
   "CFE-0101-CSAAN-0010-2025": {
     "numero": "CFE-0101-CSAAN-0010-2025",
@@ -798,7 +798,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FORESTAL LA REFORMA SA DE CV,",
     "monto_adjudicado": "$3,555,433.00",
-    "ultima_lectura": "2026-11-07T17:07:46.736518-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.516430-08:00"
   },
   "CFE-0301-CSAAA-0004-2025": {
     "numero": "CFE-0301-CSAAA-0004-2025",
@@ -807,7 +807,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:46.803494-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.569299-08:00"
   },
   "CFE-0614-CSSAN-0026-2025": {
     "numero": "CFE-0614-CSSAN-0026-2025",
@@ -816,7 +816,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
     "monto_adjudicado": "$651,200.00",
-    "ultima_lectura": "2026-11-07T17:07:46.870748-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.620076-08:00"
   },
   "CFE-0201-CSAAN-0005-2025": {
     "numero": "CFE-0201-CSAAN-0005-2025",
@@ -825,7 +825,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ESSENSTIALWEAR SAS DE CV,FERDINANDO PRIEGO ALMONTE,",
     "monto_adjudicado": "$630,673.48",
-    "ultima_lectura": "2026-11-07T17:07:46.937904-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.690210-08:00"
   },
   "CFE-0101-CSSAN-0018-2025": {
     "numero": "CFE-0101-CSSAN-0018-2025",
@@ -834,7 +834,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
     "monto_adjudicado": "$1,188,500.00",
-    "ultima_lectura": "2026-11-07T17:07:47.003944-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.741784-08:00"
   },
   "CFE-0604-CSSAN-0023-2025": {
     "numero": "CFE-0604-CSSAN-0023-2025",
@@ -843,7 +843,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
     "monto_adjudicado": "$1,057,716.00",
-    "ultima_lectura": "2026-11-07T17:07:47.071004-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.793248-08:00"
   },
   "CFE-0604-CSSAN-0024-2025": {
     "numero": "CFE-0604-CSSAN-0024-2025",
@@ -852,7 +852,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORBERTO TORRES VEA,",
     "monto_adjudicado": "$1,898,560.75",
-    "ultima_lectura": "2026-11-07T17:07:47.136848-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.844135-08:00"
   },
   "CFE-0201-CSCON-0004-2025": {
     "numero": "CFE-0201-CSCON-0004-2025",
@@ -861,7 +861,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LUIS DANIEL GOMEZ VERDUGO,",
     "monto_adjudicado": "$3,754,064.93",
-    "ultima_lectura": "2026-11-07T17:07:47.204372-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.895670-08:00"
   },
   "CFE-0614-CSSAN-0025-2025": {
     "numero": "CFE-0614-CSSAN-0025-2025",
@@ -870,7 +870,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LETICIA COTA LOPEZ,",
     "monto_adjudicado": "$1,081,914.00",
-    "ultima_lectura": "2026-11-07T17:07:47.271326-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.946428-08:00"
   },
   "CFE-0604-CSSAN-0022-2025": {
     "numero": "CFE-0604-CSSAN-0022-2025",
@@ -879,7 +879,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CR SERVICIOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$1,475,150.00",
-    "ultima_lectura": "2026-11-07T17:07:47.338277-08:00"
+    "ultima_lectura": "2026-11-08T12:15:52.997644-08:00"
   },
   "CFE-0604-CSSAN-0021-2025": {
     "numero": "CFE-0604-CSSAN-0021-2025",
@@ -888,7 +888,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ASESORIA Y SERVICIOS ANALITICOS SA DE CV,",
     "monto_adjudicado": "$178,780.00",
-    "ultima_lectura": "2026-11-07T17:07:47.403962-08:00"
+    "ultima_lectura": "2026-11-08T12:15:53.048381-08:00"
   },
   "CFE-0101-CSAAN-0009-2025": {
     "numero": "CFE-0101-CSAAN-0009-2025",
@@ -897,7 +897,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ALEJANDRA COVARRUBIAS TALAMANTE,",
     "monto_adjudicado": "$307,027.50",
-    "ultima_lectura": "2026-11-07T17:07:52.499399-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.293804-08:00"
   },
   "CFE-0614-CSSAN-0024-2025": {
     "numero": "CFE-0614-CSSAN-0024-2025",
@@ -906,7 +906,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCA BEJARANO ARIAS,",
     "monto_adjudicado": "$605,268.00",
-    "ultima_lectura": "2026-11-07T17:07:52.564501-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.345407-08:00"
   },
   "CFE-0101-CACON-0020-2025": {
     "numero": "CFE-0101-CACON-0020-2025",
@@ -915,7 +915,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
     "monto_adjudicado": "$1,603,443.26",
-    "ultima_lectura": "2026-11-07T17:07:52.631104-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.398004-08:00"
   },
   "CFE-0301-CSSAN-0014-2025": {
     "numero": "CFE-0301-CSSAN-0014-2025",
@@ -924,7 +924,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "YUSBIZARETH CORONADO CERVANTES,",
     "monto_adjudicado": "$97,137.00",
-    "ultima_lectura": "2026-11-07T17:07:52.696550-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.450180-08:00"
   },
   "CFE-0604-CSSAN-0020-2025": {
     "numero": "CFE-0604-CSSAN-0020-2025",
@@ -933,7 +933,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORBERTO TORRES VEA,",
     "monto_adjudicado": "$1,323,000.00",
-    "ultima_lectura": "2026-11-07T17:07:52.761127-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.503735-08:00"
   },
   "CFE-0101-CSAAA-0005-2025": {
     "numero": "CFE-0101-CSAAA-0005-2025",
@@ -942,7 +942,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTEGRADORA EN INFRAESTRUCTURA TECNOLOGICA IITESA SA DE CV,",
     "monto_adjudicado": "$202,200.00",
-    "ultima_lectura": "2026-11-07T17:07:52.825571-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.555519-08:00"
   },
   "CFE-0301-CSSAN-0013-2025": {
     "numero": "CFE-0301-CSSAN-0013-2025",
@@ -951,7 +951,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SONIA GUADALUPE CHACON,",
     "monto_adjudicado": "$291,000.00",
-    "ultima_lectura": "2026-11-07T17:07:52.892576-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.608190-08:00"
   },
   "CFE-0604-CSSAN-0019-2025": {
     "numero": "CFE-0604-CSSAN-0019-2025",
@@ -960,7 +960,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$1,915,944.00",
-    "ultima_lectura": "2026-11-07T17:07:52.960085-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.659796-08:00"
   },
   "CFE-0604-CSSAN-0018-2025": {
     "numero": "CFE-0604-CSSAN-0018-2025",
@@ -969,7 +969,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
     "monto_adjudicado": "$801,000.00",
-    "ultima_lectura": "2026-11-07T17:07:53.027547-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.712164-08:00"
   },
   "CFE-0604-CSSAA-0002-2025": {
     "numero": "CFE-0604-CSSAA-0002-2025",
@@ -978,7 +978,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CNR INDUSTRIES DE MEXICO SA DE CV,",
     "monto_adjudicado": "$1,322,046.00",
-    "ultima_lectura": "2026-11-07T17:07:53.093322-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.764008-08:00"
   },
   "CFE-0101-CSAAA-0004-2025": {
     "numero": "CFE-0101-CSAAA-0004-2025",
@@ -987,7 +987,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:53.159062-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.817486-08:00"
   },
   "CFE-0301-CSAAA-0003-2025": {
     "numero": "CFE-0301-CSAAA-0003-2025",
@@ -996,7 +996,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPUPROVEEDORES SA DE CV,",
     "monto_adjudicado": "$188,850.43",
-    "ultima_lectura": "2026-11-07T17:07:53.224446-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.868940-08:00"
   },
   "CFE-0101-CSSAN-0017-2025": {
     "numero": "CFE-0101-CSSAN-0017-2025",
@@ -1005,7 +1005,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GEN INDUSTRIAL SA DE CV,RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
     "monto_adjudicado": "$305,568.00",
-    "ultima_lectura": "2026-11-07T17:07:53.291529-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.921737-08:00"
   },
   "CFE-0101-CSSAN-0016-2025": {
     "numero": "CFE-0101-CSSAN-0016-2025",
@@ -1014,7 +1014,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ALEJANDRA LOPEZ ALDUENDA,ENERGIA Y CONFORT DEL NOROESTE S DE RL DE CV,FERNANDO SALGADO SAGUCHI,GILBERTO IGNACIO PAREDES TRASVIÑA,OSCAR ADOLFO AYALA OSUNA,REFRIGERACION LEAL S DE RL DE CV,",
     "monto_adjudicado": "$4,706,838.40",
-    "ultima_lectura": "2026-11-07T17:07:53.356753-08:00"
+    "ultima_lectura": "2026-11-08T12:15:57.973527-08:00"
   },
   "CFE-0101-CSSAN-0015-2025": {
     "numero": "CFE-0101-CSSAN-0015-2025",
@@ -1023,7 +1023,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EMMA NOELIA VERDUGO CHIHUAHUA,JOSE RAMIRO CONTRERAS RAMIREZ,MARIA ISABEL AVILA RIVERA,OPERADORA RIO COLORADO S DE RL DE CV,",
     "monto_adjudicado": "$248,600.00",
-    "ultima_lectura": "2026-11-07T17:07:53.423839-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.025928-08:00"
   },
   "CFE-0101-CSAAN-0008-2025": {
     "numero": "CFE-0101-CSAAN-0008-2025",
@@ -1032,7 +1032,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MACO SA,",
     "monto_adjudicado": "$650,000.00",
-    "ultima_lectura": "2026-11-07T17:07:53.489405-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.078240-08:00"
   },
   "CFE-0301-CSAAA-0002-2025": {
     "numero": "CFE-0301-CSAAA-0002-2025",
@@ -1041,7 +1041,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELECTROMECANICOS MONTERREY SA DE CV,L Y F INGENIERIA SA DE CV,",
     "monto_adjudicado": "$3,105,090.32",
-    "ultima_lectura": "2026-11-07T17:07:53.557626-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.132036-08:00"
   },
   "CFE-0101-CSSAN-0012-2025": {
     "numero": "CFE-0101-CSSAN-0012-2025",
@@ -1050,7 +1050,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EFRAIN ORTIZ JIMENEZ,",
     "monto_adjudicado": "$1,710,160.00",
-    "ultima_lectura": "2026-11-07T17:07:53.622724-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.183466-08:00"
   },
   "CFE-0201-CSAAN-0004-2025": {
     "numero": "CFE-0201-CSAAN-0004-2025",
@@ -1059,7 +1059,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JOSE MANUEL RODRIGUEZ GAMBOA,",
     "monto_adjudicado": "$1,375,920.00",
-    "ultima_lectura": "2026-11-07T17:07:53.689947-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.236007-08:00"
   },
   "CFE-0614-CSAAN-0003-2025": {
     "numero": "CFE-0614-CSAAN-0003-2025",
@@ -1068,7 +1068,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PRAXAIR MEXICO S DE RL DE CV,INFRA SA DE CV,",
     "monto_adjudicado": "$92,250.65",
-    "ultima_lectura": "2026-11-07T17:07:53.756698-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.287910-08:00"
   },
   "CFE-0101-CSAAN-0007-2025": {
     "numero": "CFE-0101-CSAAN-0007-2025",
@@ -1077,7 +1077,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ANDERSON CONECTORES SA DE CV,",
     "monto_adjudicado": "$928,021.05",
-    "ultima_lectura": "2026-11-07T17:07:53.824585-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.340322-08:00"
   },
   "CFE-0101-CACON-0019-2025": {
     "numero": "CFE-0101-CACON-0019-2025",
@@ -1086,7 +1086,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$6,174,101.99",
-    "ultima_lectura": "2026-11-07T17:07:53.890549-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.392436-08:00"
   },
   "CFE-0201-CSCON-0003-2025": {
     "numero": "CFE-0201-CSCON-0003-2025",
@@ -1095,7 +1095,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:53.959195-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.446397-08:00"
   },
   "CFE-0101-CSAAA-0003-2025": {
     "numero": "CFE-0101-CSAAA-0003-2025",
@@ -1104,7 +1104,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS Y EXPANSIONES DE MEMORIA RAM SA DE CV,",
     "monto_adjudicado": "$2,857,003.00",
-    "ultima_lectura": "2026-11-07T17:07:54.024441-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.498013-08:00"
   },
   "CFE-0301-CSSAN-0012-2025": {
     "numero": "CFE-0301-CSSAN-0012-2025",
@@ -1113,7 +1113,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
     "monto_adjudicado": "$127,194.00",
-    "ultima_lectura": "2026-11-07T17:07:54.094794-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.550352-08:00"
   },
   "CFE-0614-CSAAA-0007-2025": {
     "numero": "CFE-0614-CSAAA-0007-2025",
@@ -1122,7 +1122,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TEKBOM SA DE CV,",
     "monto_adjudicado": "$66,458.66",
-    "ultima_lectura": "2026-11-07T17:07:54.161031-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.628325-08:00"
   },
   "CFE-0101-CSSAN-0014-2025": {
     "numero": "CFE-0101-CSSAN-0014-2025",
@@ -1131,7 +1131,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JOSE MARTIN VAZQUEZ .,",
     "monto_adjudicado": "$1,025,750.00",
-    "ultima_lectura": "2026-11-07T17:07:54.227418-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.681191-08:00"
   },
   "CFE-0201-CSAAN-0003-2025": {
     "numero": "CFE-0201-CSAAN-0003-2025",
@@ -1140,7 +1140,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:54.293686-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.732435-08:00"
   },
   "CFE-0301-CSSAN-0011-2025": {
     "numero": "CFE-0301-CSSAN-0011-2025",
@@ -1149,7 +1149,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:54.359859-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.783780-08:00"
   },
   "CFE-0101-CSAAN-0006-2025": {
     "numero": "CFE-0101-CSAAN-0006-2025",
@@ -1158,7 +1158,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIAL ESPECIALIZADA DE MATERIALES SA DE CV,DISTRIBUIDORA MAYECEN SA DE CV,",
     "monto_adjudicado": "$3,890,494.10",
-    "ultima_lectura": "2026-11-07T17:07:54.428181-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.834876-08:00"
   },
   "CFE-0301-CSSAN-0010-2025": {
     "numero": "CFE-0301-CSSAN-0010-2025",
@@ -1167,7 +1167,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EFRAIN ORTIZ JIMENEZ,MOISES JIMENEZ EMETERIO,",
     "monto_adjudicado": "$3,811,292.99",
-    "ultima_lectura": "2026-11-07T17:07:54.497533-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.886079-08:00"
   },
   "CFE-0101-CSSAN-0013-2025": {
     "numero": "CFE-0101-CSSAN-0013-2025",
@@ -1176,7 +1176,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JOSE FRANCISCO TAPIA LOPEZ,MR ENERGY MANAGER S DE RL DE CV,ROE INMOBILIARIA Y ARRENDADORA S DE RL DE CV,",
     "monto_adjudicado": "$3,932,000.00",
-    "ultima_lectura": "2026-11-07T17:07:54.564283-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.937047-08:00"
   },
   "CFE-0604-ADABN-0001-2025": {
     "numero": "CFE-0604-ADABN-0001-2025",
@@ -1185,7 +1185,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
     "monto_adjudicado": "$1,498,000.00",
-    "ultima_lectura": "2026-11-07T17:07:54.632548-08:00"
+    "ultima_lectura": "2026-11-08T12:15:58.987746-08:00"
   },
   "CFE-0101-CACON-0018-2025": {
     "numero": "CFE-0101-CACON-0018-2025",
@@ -1194,7 +1194,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INGENIERIA ROJO S DE RL DE CV,",
     "monto_adjudicado": "$858,453.60",
-    "ultima_lectura": "2026-11-07T17:07:54.699445-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.038722-08:00"
   },
   "CFE-0604-CSSAN-0017-2025": {
     "numero": "CFE-0604-CSSAN-0017-2025",
@@ -1203,7 +1203,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELECTROEMBOBINADOS DEL PACIFICO S DE RL DE CV,",
     "monto_adjudicado": "$345,000.00",
-    "ultima_lectura": "2026-11-07T17:07:54.766957-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.089337-08:00"
   },
   "CFE-0604-CSSAN-0016-2025": {
     "numero": "CFE-0604-CSSAN-0016-2025",
@@ -1212,7 +1212,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CARFOX INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$1,194,804.00",
-    "ultima_lectura": "2026-11-07T17:07:54.833897-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.141008-08:00"
   },
   "CFE-0604-CSSAN-0015-2025": {
     "numero": "CFE-0604-CSSAN-0015-2025",
@@ -1221,7 +1221,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
     "monto_adjudicado": "$1,395,721.95",
-    "ultima_lectura": "2026-11-07T17:07:54.902885-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.191927-08:00"
   },
   "CFE-0604-CSSAN-0014-2025": {
     "numero": "CFE-0604-CSSAN-0014-2025",
@@ -1230,7 +1230,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARCILLA E HIJOS SA DE CV,",
     "monto_adjudicado": "$717,629.22",
-    "ultima_lectura": "2026-11-07T17:07:54.970908-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.243067-08:00"
   },
   "CFE-0604-CSAAA-0007-2025": {
     "numero": "CFE-0604-CSAAA-0007-2025",
@@ -1239,7 +1239,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$1,076,448.84",
-    "ultima_lectura": "2026-11-07T17:07:55.038656-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.293995-08:00"
   },
   "CFE-0101-CSAAA-0002-2025": {
     "numero": "CFE-0101-CSAAA-0002-2025",
@@ -1248,7 +1248,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIALIZADORA MERC INTERNACIONAL SA DE CV,MAYOREO ELECTROMECANICO SA DE CV,TEMPOEL MEXICO SA DE CV,",
     "monto_adjudicado": "$960,020.25",
-    "ultima_lectura": "2026-11-07T17:07:55.105214-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.344920-08:00"
   },
   "CFE-0301-CSSAN-0009-2025": {
     "numero": "CFE-0301-CSSAN-0009-2025",
@@ -1257,7 +1257,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:55.173467-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.395880-08:00"
   },
   "CFE-0201-CSAAN-0002-2025": {
     "numero": "CFE-0201-CSAAN-0002-2025",
@@ -1266,7 +1266,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL BARRERA MORENO,",
     "monto_adjudicado": "$744,223.00",
-    "ultima_lectura": "2026-11-07T17:07:55.241791-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.447117-08:00"
   },
   "CFE-0201-CSAAN-0001-2025": {
     "numero": "CFE-0201-CSAAN-0001-2025",
@@ -1275,7 +1275,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:55.309115-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.497997-08:00"
   },
   "CFE-0201-CSSON-0001-2025": {
     "numero": "CFE-0201-CSSON-0001-2025",
@@ -1284,7 +1284,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:55.375059-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.549068-08:00"
   },
   "CFE-0614-CSAAN-0002-2025": {
     "numero": "CFE-0614-CSAAN-0002-2025",
@@ -1293,7 +1293,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,ARMANDO FERNANDO RAMIREZ ALVA,FYSI DEL NOROESTE SAS DE CV,CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,EUROELECTRICA SA DE CV,P&R INDUSTRIAL S DE RL DE CV,CONTROLES INDUSTRIALES Y ANALITICOS SA DE CV,VAESYCO INDUSTRIAL Y MINERO SA DE CV,",
     "monto_adjudicado": "$1,128,873.04",
-    "ultima_lectura": "2026-11-07T17:07:55.442066-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.600020-08:00"
   },
   "CFE-0101-CSAAN-0005-2025": {
     "numero": "CFE-0101-CSAAN-0005-2025",
@@ -1302,7 +1302,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FORESTAL LA REFORMA SA DE CV,IMPREGNACIONES ESPECIALES SA DE CV,",
     "monto_adjudicado": "$7,875,308.00",
-    "ultima_lectura": "2026-11-07T17:07:55.507990-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.651074-08:00"
   },
   "CFE-0301-CSSAN-0008-2025": {
     "numero": "CFE-0301-CSSAN-0008-2025",
@@ -1311,7 +1311,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:55.576295-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.701990-08:00"
   },
   "CFE-0101-CASON-0002-2025": {
     "numero": "CFE-0101-CASON-0002-2025",
@@ -1320,7 +1320,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "VIANCA KARINA CASTAÑEDA AMADOR,",
     "monto_adjudicado": "$209,495.05",
-    "ultima_lectura": "2026-11-07T17:07:55.643500-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.753476-08:00"
   },
   "CFE-0101-CACON-0017-2025": {
     "numero": "CFE-0101-CACON-0017-2025",
@@ -1329,7 +1329,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:55.709854-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.805541-08:00"
   },
   "CFE-0604-CSCON-0003-2025": {
     "numero": "CFE-0604-CSCON-0003-2025",
@@ -1338,7 +1338,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
     "monto_adjudicado": "$1,800,376.34",
-    "ultima_lectura": "2026-11-07T17:07:55.774459-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.856681-08:00"
   },
   "CFE-0201-CSCON-0002-2025": {
     "numero": "CFE-0201-CSCON-0002-2025",
@@ -1347,7 +1347,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$4,197,253.95",
-    "ultima_lectura": "2026-11-07T17:07:55.841556-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.907785-08:00"
   },
   "CFE-0604-CSSAN-0012-2025": {
     "numero": "CFE-0604-CSSAN-0012-2025",
@@ -1356,7 +1356,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
     "monto_adjudicado": "$491,798.30",
-    "ultima_lectura": "2026-11-07T17:07:55.910977-08:00"
+    "ultima_lectura": "2026-11-08T12:15:59.958850-08:00"
   },
   "CFE-0101-CSSAN-0011-2025": {
     "numero": "CFE-0101-CSSAN-0011-2025",
@@ -1365,7 +1365,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,NODO INGENIERIA SA DE CV,",
     "monto_adjudicado": "$4,638,975.00",
-    "ultima_lectura": "2026-11-07T17:07:55.978843-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.009621-08:00"
   },
   "CFE-0201-CSCON-0001-2025": {
     "numero": "CFE-0201-CSCON-0001-2025",
@@ -1374,7 +1374,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,466,050.70",
-    "ultima_lectura": "2026-11-07T17:07:56.044859-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.061152-08:00"
   },
   "CFE-0101-CSAAN-0004-2025": {
     "numero": "CFE-0101-CSAAN-0004-2025",
@@ -1383,7 +1383,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CLAUDIA ELENA GARZA MONTEMAYOR,",
     "monto_adjudicado": "$330,000.00",
-    "ultima_lectura": "2026-11-07T17:07:56.112414-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.113438-08:00"
   },
   "CFE-0604-CSAAN-0007-2025": {
     "numero": "CFE-0604-CSAAN-0007-2025",
@@ -1392,7 +1392,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,OFFICE FURNITURE MANUFACTURING S DE RL DE CV,",
     "monto_adjudicado": "$538,572.00",
-    "ultima_lectura": "2026-11-07T17:07:56.177480-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.164942-08:00"
   },
   "CFE-0614-CSAAA-0006-2025": {
     "numero": "CFE-0614-CSAAA-0006-2025",
@@ -1401,7 +1401,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,752,667.91",
-    "ultima_lectura": "2026-11-07T17:07:56.244239-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.215900-08:00"
   },
   "CFE-0101-CSAAA-0001-2025": {
     "numero": "CFE-0101-CSAAA-0001-2025",
@@ -1410,7 +1410,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PATRICIA GUTIERREZ CASAÑAS,",
     "monto_adjudicado": "$1,128,160.00",
-    "ultima_lectura": "2026-11-07T17:07:56.311057-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.267213-08:00"
   },
   "CFE-0604-CSSAN-0013-2025": {
     "numero": "CFE-0604-CSSAN-0013-2025",
@@ -1419,7 +1419,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE B C S DE RL DE CV,",
     "monto_adjudicado": "$786,200.00",
-    "ultima_lectura": "2026-11-07T17:07:56.378665-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.318447-08:00"
   },
   "CFE-0101-CACON-0016-2025": {
     "numero": "CFE-0101-CACON-0016-2025",
@@ -1428,7 +1428,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$2,374,203.91",
-    "ultima_lectura": "2026-11-07T17:07:56.447971-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.369914-08:00"
   },
   "CFE-0101-CSSAN-0010-2025": {
     "numero": "CFE-0101-CSSAN-0010-2025",
@@ -1437,7 +1437,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TRANSMISION Y RECEPCION SA DE CV,",
     "monto_adjudicado": "$1,787,500.00",
-    "ultima_lectura": "2026-11-07T17:07:56.538763-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.421154-08:00"
   },
   "CFE-0301-CSSAN-0007-2025": {
     "numero": "CFE-0301-CSSAN-0007-2025",
@@ -1446,7 +1446,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:56.606836-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.472262-08:00"
   },
   "CFE-0614-CSSAN-0023-2025": {
     "numero": "CFE-0614-CSSAN-0023-2025",
@@ -1455,7 +1455,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,",
     "monto_adjudicado": "$778,701.42",
-    "ultima_lectura": "2026-11-07T17:07:56.672615-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.523274-08:00"
   },
   "CFE-0201-CSAAA-0002-2025": {
     "numero": "CFE-0201-CSAAA-0002-2025",
@@ -1464,7 +1464,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRENCH CHIC SA DE CV,",
     "monto_adjudicado": "$1,474,605.00",
-    "ultima_lectura": "2026-11-07T17:07:56.737474-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.574576-08:00"
   },
   "CFE-0604-CSAAA-0006-2025": {
     "numero": "CFE-0604-CSAAA-0006-2025",
@@ -1473,7 +1473,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TECAM TECNOLOGIAS AMBIENTALES DE MEXICO S DE RL DE CV,",
     "monto_adjudicado": "$1,555,163.64",
-    "ultima_lectura": "2026-11-07T17:07:56.802670-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.625990-08:00"
   },
   "CFE-0101-CACON-0015-2025": {
     "numero": "CFE-0101-CACON-0015-2025",
@@ -1482,7 +1482,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
     "monto_adjudicado": "$2,986,175.08",
-    "ultima_lectura": "2026-11-07T17:07:56.867854-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.677285-08:00"
   },
   "CFE-0614-CSSAN-0022-2025": {
     "numero": "CFE-0614-CSSAN-0022-2025",
@@ -1491,7 +1491,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUAS MANIOBRAS Y MONTAJES SEH ESPECIALIZADOS SA DE CV,",
     "monto_adjudicado": "$1,675,968.00",
-    "ultima_lectura": "2026-11-07T17:07:56.934865-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.728255-08:00"
   },
   "CFE-0604-CSAAA-0005-2025": {
     "numero": "CFE-0604-CSAAA-0005-2025",
@@ -1500,7 +1500,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELECTRICA VIRGO SA DE CV,",
     "monto_adjudicado": "$816,000.00",
-    "ultima_lectura": "2026-11-07T17:07:57.002390-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.779422-08:00"
   },
   "CFE-0101-CACON-0014-2025": {
     "numero": "CFE-0101-CACON-0014-2025",
@@ -1509,7 +1509,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:57.069094-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.830560-08:00"
   },
   "CFE-0101-CACON-0013-2025": {
     "numero": "CFE-0101-CACON-0013-2025",
@@ -1518,7 +1518,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$2,987,833.49",
-    "ultima_lectura": "2026-11-07T17:07:57.135537-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.881968-08:00"
   },
   "CFE-0604-CSSAN-0011-2025": {
     "numero": "CFE-0604-CSSAN-0011-2025",
@@ -1527,7 +1527,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:57.201415-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.933553-08:00"
   },
   "CFE-0604-CSSAN-0010-2025": {
     "numero": "CFE-0604-CSSAN-0010-2025",
@@ -1536,7 +1536,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DYMELEC SA DE CV,",
     "monto_adjudicado": "$370,742.13",
-    "ultima_lectura": "2026-11-07T17:07:57.268280-08:00"
+    "ultima_lectura": "2026-11-08T12:16:00.985479-08:00"
   },
   "CFE-0604-CSCON-0002-2025": {
     "numero": "CFE-0604-CSCON-0002-2025",
@@ -1545,7 +1545,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
     "monto_adjudicado": "$1,822,222.75",
-    "ultima_lectura": "2026-11-07T17:07:57.334775-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.036640-08:00"
   },
   "CFE-0604-CSSAN-0009-2025": {
     "numero": "CFE-0604-CSSAN-0009-2025",
@@ -1554,7 +1554,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROBILL CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,399,829.90",
-    "ultima_lectura": "2026-11-07T17:07:57.400493-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.088077-08:00"
   },
   "CFE-0604-CSSAN-0008-2025": {
     "numero": "CFE-0604-CSSAN-0008-2025",
@@ -1563,7 +1563,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RECONSTRUCTORA ALPHA SA DE CV,",
     "monto_adjudicado": "$1,431,390.72",
-    "ultima_lectura": "2026-11-07T17:07:57.466874-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.139077-08:00"
   },
   "CFE-0101-CACON-0012-2025": {
     "numero": "CFE-0101-CACON-0012-2025",
@@ -1572,7 +1572,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA DE OBRAS Y PROYECTOS ELECTRICOS DE MICHOACAN SA DE,",
     "monto_adjudicado": "$3,777,105.08",
-    "ultima_lectura": "2026-11-07T17:07:57.533005-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.189911-08:00"
   },
   "CFE-0101-CACON-0011-2025": {
     "numero": "CFE-0101-CACON-0011-2025",
@@ -1581,7 +1581,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EDISON CONSTRUCTORA DE BAJA CALIFORNIA S DE RL DE CV,",
     "monto_adjudicado": "$2,368,515.46",
-    "ultima_lectura": "2026-11-07T17:07:57.598387-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.240805-08:00"
   },
   "CFE-0101-CACON-0010-2025": {
     "numero": "CFE-0101-CACON-0010-2025",
@@ -1590,7 +1590,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:57.666087-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.291482-08:00"
   },
   "CFE-0101-CSAAN-0003-2025": {
     "numero": "CFE-0101-CSAAN-0003-2025",
@@ -1599,7 +1599,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ANAEL DEL NOROESTE SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
     "monto_adjudicado": "$1,295,295.00",
-    "ultima_lectura": "2026-11-07T17:07:57.733123-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.342867-08:00"
   },
   "CFE-0301-CSAAA-0001-2025": {
     "numero": "CFE-0301-CSAAA-0001-2025",
@@ -1608,7 +1608,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:57.799472-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.394157-08:00"
   },
   "CFE-0101-CACON-0009-2025": {
     "numero": "CFE-0101-CACON-0009-2025",
@@ -1617,7 +1617,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$613,613.68",
-    "ultima_lectura": "2026-11-07T17:07:57.865961-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.445129-08:00"
   },
   "CFE-0101-CACON-0008-2025": {
     "numero": "CFE-0101-CACON-0008-2025",
@@ -1626,7 +1626,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$2,746,721.21",
-    "ultima_lectura": "2026-11-07T17:07:57.931823-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.496089-08:00"
   },
   "CFE-0101-CACON-0007-2025": {
     "numero": "CFE-0101-CACON-0007-2025",
@@ -1635,7 +1635,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OMAR MONTIEL BONILLA,",
     "monto_adjudicado": "$1,153,374.05",
-    "ultima_lectura": "2026-11-07T17:07:57.998995-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.546990-08:00"
   },
   "CFE-0301-CSSAN-0006-2025": {
     "numero": "CFE-0301-CSSAN-0006-2025",
@@ -1644,7 +1644,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUPO CORPORATIVO PIBC S DE RL DE CV,",
     "monto_adjudicado": "$276,446.70",
-    "ultima_lectura": "2026-11-07T17:07:58.067132-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.598387-08:00"
   },
   "CFE-0301-CSSAN-0004-2025": {
     "numero": "CFE-0301-CSSAN-0004-2025",
@@ -1653,7 +1653,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GEN INDUSTRIAL SA DE CV,",
     "monto_adjudicado": "$316,392.96",
-    "ultima_lectura": "2026-11-07T17:07:58.134668-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.649688-08:00"
   },
   "CFE-0201-ADAAN-0002-2025": {
     "numero": "CFE-0201-ADAAN-0002-2025",
@@ -1662,7 +1662,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NEZCO SA DE CV,",
     "monto_adjudicado": "$1,090,083.68",
-    "ultima_lectura": "2026-11-07T17:07:58.202628-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.700795-08:00"
   },
   "CFE-0614-CSSAN-0021-2025": {
     "numero": "CFE-0614-CSSAN-0021-2025",
@@ -1671,7 +1671,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
     "monto_adjudicado": "$835,413.32",
-    "ultima_lectura": "2026-11-07T17:07:58.268658-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.751758-08:00"
   },
   "CFE-0301-CSSAN-0005-2025": {
     "numero": "CFE-0301-CSSAN-0005-2025",
@@ -1680,7 +1680,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ARMANDINA VALENZUELA VEGA,OPERADORA RIO COLORADO S DE RL DE CV,",
     "monto_adjudicado": "$191,829.40",
-    "ultima_lectura": "2026-11-07T17:07:58.333026-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.802828-08:00"
   },
   "CFE-0101-CSSAN-0009-2025": {
     "numero": "CFE-0101-CSSAN-0009-2025",
@@ -1689,7 +1689,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JOSE FRANCISCO TAPIA LOPEZ,NODO INGENIERIA SA DE CV,",
     "monto_adjudicado": "$1,344,552.00",
-    "ultima_lectura": "2026-11-07T17:07:58.398894-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.853877-08:00"
   },
   "CFE-0604-CSAAA-0004-2025": {
     "numero": "CFE-0604-CSAAA-0004-2025",
@@ -1698,7 +1698,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$199,298.33",
-    "ultima_lectura": "2026-11-07T17:07:58.464323-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.923337-08:00"
   },
   "CFE-0614-CSSAN-0020-2025": {
     "numero": "CFE-0614-CSSAN-0020-2025",
@@ -1707,7 +1707,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SACRAMENTO ZEPEDA GARCIA,",
     "monto_adjudicado": "$227,700.00",
-    "ultima_lectura": "2026-11-07T17:07:58.530548-08:00"
+    "ultima_lectura": "2026-11-08T12:16:01.975806-08:00"
   },
   "CFE-0604-CSAAN-0006-2025": {
     "numero": "CFE-0604-CSAAN-0006-2025",
@@ -1716,7 +1716,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$1,152,973.94",
-    "ultima_lectura": "2026-11-07T17:07:58.595886-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.026790-08:00"
   },
   "CFE-0614-CSSAN-0019-2025": {
     "numero": "CFE-0614-CSSAN-0019-2025",
@@ -1725,7 +1725,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
     "monto_adjudicado": "$332,054.64",
-    "ultima_lectura": "2026-11-07T17:07:58.660919-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.078223-08:00"
   },
   "CFE-0604-CSCON-0001-2025": {
     "numero": "CFE-0604-CSCON-0001-2025",
@@ -1734,7 +1734,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPAÑIA ABASTECEDORA MEXICANA SA DE CV,",
     "monto_adjudicado": "$1,808,665.28",
-    "ultima_lectura": "2026-11-07T17:07:58.726037-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.129555-08:00"
   },
   "CFE-0604-CSAAN-0005-2025": {
     "numero": "CFE-0604-CSAAN-0005-2025",
@@ -1743,7 +1743,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INGENIERIA INSPECCION Y DESAZOLVE SA DE CV,",
     "monto_adjudicado": "$609,319.10",
-    "ultima_lectura": "2026-11-07T17:07:58.790698-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.180363-08:00"
   },
   "CFE-0101-CASON-0001-2025": {
     "numero": "CFE-0101-CASON-0001-2025",
@@ -1752,7 +1752,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ANPAB INGENIERIA & CONSTRUCCION S DE RL DE CV,",
     "monto_adjudicado": "$4,074,842.38",
-    "ultima_lectura": "2026-11-07T17:07:58.855436-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.231072-08:00"
   },
   "CFE-0101-CSSAN-0008-2025": {
     "numero": "CFE-0101-CSSAN-0008-2025",
@@ -1761,7 +1761,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCCIONES SUMINISTROS Y MANTENIMIENTOS RG SA DE CV,FRIENDLY GREEN SAS,",
     "monto_adjudicado": "$5,599,403.80",
-    "ultima_lectura": "2026-11-07T17:07:58.919818-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.281980-08:00"
   },
   "CFE-0604-CSSAN-0007-2025": {
     "numero": "CFE-0604-CSSAN-0007-2025",
@@ -1770,7 +1770,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORBERTO TORRES VEA,OLGA LORENA PADILLA GALVAN,",
     "monto_adjudicado": "$396,399.50",
-    "ultima_lectura": "2026-11-07T17:07:58.982911-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.332971-08:00"
   },
   "CFE-0614-CSSAN-0018-2025": {
     "numero": "CFE-0614-CSSAN-0018-2025",
@@ -1779,7 +1779,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BL DISEÑO Y MANTENIMIENTO EMPRESARIAL SA DE CV,",
     "monto_adjudicado": "$70,109.93",
-    "ultima_lectura": "2026-11-07T17:07:59.045087-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.384004-08:00"
   },
   "CFE-0301-CSSAN-0003-2025": {
     "numero": "CFE-0301-CSSAN-0003-2025",
@@ -1788,7 +1788,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS GOLD & GREEN SA DE CV,",
     "monto_adjudicado": "$3,044,190.00",
-    "ultima_lectura": "2026-11-07T17:07:59.109496-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.435718-08:00"
   },
   "CFE-0101-CACON-0033-2025": {
     "numero": "CFE-0101-CACON-0033-2025",
@@ -1797,7 +1797,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,786,298.19",
-    "ultima_lectura": "2026-11-07T17:07:40.827936-08:00"
+    "ultima_lectura": "2026-11-08T12:15:48.010966-08:00"
   },
   "CFE-0301-CSSAN-0024-2025": {
     "numero": "CFE-0301-CSSAN-0024-2025",
@@ -1806,7 +1806,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RENE RAYMUNDO GUADALUPE OSUNA FUENTES,",
     "monto_adjudicado": "$2,236,000.00",
-    "ultima_lectura": "2026-11-07T17:07:40.695108-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.909548-08:00"
   },
   "CFE-0101-CSSAN-0025-2025": {
     "numero": "CFE-0101-CSSAN-0025-2025",
@@ -1815,7 +1815,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FONKEL MEXICANA SA DE CV,",
     "monto_adjudicado": "$1,397,038.72",
-    "ultima_lectura": "2026-11-07T17:07:40.562951-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.808179-08:00"
   },
   "CFE-0201-CSAAN-0007-2025": {
     "numero": "CFE-0201-CSAAN-0007-2025",
@@ -1824,7 +1824,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUPO SILZ SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,XHITAO SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
     "monto_adjudicado": "$3,022,199.05",
-    "ultima_lectura": "2026-11-07T17:07:40.629122-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.858901-08:00"
   },
   "CFE-0201-CSCON-0009-2025": {
     "numero": "CFE-0201-CSCON-0009-2025",
@@ -1833,7 +1833,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LUIS DANIEL GOMEZ VERDUGO,",
     "monto_adjudicado": "$3,361,094.64",
-    "ultima_lectura": "2026-11-07T17:07:40.367731-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.654673-08:00"
   },
   "CFE-0201-CSSAN-0005-2025": {
     "numero": "CFE-0201-CSSAN-0005-2025",
@@ -1842,7 +1842,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OMAR HERNANDEZ CAZAREZ,",
     "monto_adjudicado": "$390,000.00",
-    "ultima_lectura": "2026-11-07T17:07:40.432724-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.705584-08:00"
   },
   "CFE-0604-CSAAA-0009-2025": {
     "numero": "CFE-0604-CSAAA-0009-2025",
@@ -1851,7 +1851,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$274,816.80",
-    "ultima_lectura": "2026-11-07T17:07:40.497568-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.757587-08:00"
   },
   "CFE-0051-CSAAN-0001-2025": {
     "numero": "CFE-0051-CSAAN-0001-2025",
@@ -1860,7 +1860,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
     "monto_adjudicado": "$736,920.00",
-    "ultima_lectura": "2026-11-07T17:07:40.302125-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.603681-08:00"
   },
   "CFE-0201-CSSON-0003-2025": {
     "numero": "CFE-0201-CSSON-0003-2025",
@@ -1869,7 +1869,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARES PROYECTOS Y CONSTRUCCION S DE RL DE CV,",
     "monto_adjudicado": "$1,168,902.94",
-    "ultima_lectura": "2026-11-07T17:07:40.103266-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.450254-08:00"
   },
   "CFE-0301-CSSAN-0026-2025": {
     "numero": "CFE-0301-CSSAN-0026-2025",
@@ -1878,7 +1878,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ESTAFETA MEXICANA SA DE CV,",
     "monto_adjudicado": "$437,226.80",
-    "ultima_lectura": "2026-11-07T17:07:40.169044-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.501613-08:00"
   },
   "CFE-0301-CSSAN-0025-2025": {
     "numero": "CFE-0301-CSSAN-0025-2025",
@@ -1887,7 +1887,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:40.236620-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.552754-08:00"
   },
   "CFE-0201-CSSAN-0006-2025": {
     "numero": "CFE-0201-CSSAN-0006-2025",
@@ -1896,7 +1896,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FREDY ORTEGA PEREZ,HUGO CORTES RANGEL,LEYSON CORP. INDUSTRIAL AND SERVICE SA DE CV,",
     "monto_adjudicado": "$1,352,340.45",
-    "ultima_lectura": "2026-11-07T17:07:40.037015-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.399044-08:00"
   },
   "CFE-0201-CSAAN-0008-2025": {
     "numero": "CFE-0201-CSAAN-0008-2025",
@@ -1905,7 +1905,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
     "monto_adjudicado": "$634,240.00",
-    "ultima_lectura": "2026-11-07T17:07:39.971939-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.348047-08:00"
   },
   "CFE-0604-CSSAN-0029-2025": {
     "numero": "CFE-0604-CSSAN-0029-2025",
@@ -1914,7 +1914,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HUGO CORTES RANGEL,",
     "monto_adjudicado": "$1,531,142.60",
-    "ultima_lectura": "2026-11-07T17:07:39.840698-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.246049-08:00"
   },
   "CFE-0604-CSSAN-0028-2025": {
     "numero": "CFE-0604-CSSAN-0028-2025",
@@ -1923,7 +1923,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SOLUCIONES PCIM SA DE CV,",
     "monto_adjudicado": "$162,631.30",
-    "ultima_lectura": "2026-11-07T17:07:39.906261-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.297148-08:00"
   },
   "CFE-0201-CACON-0002-2025": {
     "numero": "CFE-0201-CACON-0002-2025",
@@ -1932,7 +1932,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:39.580288-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.019288-08:00"
   },
   "CFE-0614-CSAAN-0006-2025": {
     "numero": "CFE-0614-CSAAN-0006-2025",
@@ -1941,7 +1941,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS INTEGRADOS EN SISTEMAS DE ENFRIAMIENTO SA DE CV,",
     "monto_adjudicado": "$1,037,266.68",
-    "ultima_lectura": "2026-11-07T17:07:39.645423-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.091280-08:00"
   },
   "CFE-0101-CACON-0034-2025": {
     "numero": "CFE-0101-CACON-0034-2025",
@@ -1950,7 +1950,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INGENIERIA ROJO S DE RL DE CV,",
     "monto_adjudicado": "$1,680,002.41",
-    "ultima_lectura": "2026-11-07T17:07:39.710544-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.143739-08:00"
   },
   "CFE-0051-CSSAN-0002-2025": {
     "numero": "CFE-0051-CSSAN-0002-2025",
@@ -1959,7 +1959,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:39.775289-08:00"
+    "ultima_lectura": "2026-11-08T12:15:47.194910-08:00"
   },
   "CFE-0201-CSCON-0010-2025": {
     "numero": "CFE-0201-CSCON-0010-2025",
@@ -1968,7 +1968,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
     "monto_adjudicado": "$2,398,810.60",
-    "ultima_lectura": "2026-11-07T17:07:39.514924-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.967320-08:00"
   },
   "CFE-0604-ADSAN-0001-2025": {
     "numero": "CFE-0604-ADSAN-0001-2025",
@@ -1977,7 +1977,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:39.254314-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.761172-08:00"
   },
   "CFE-0101-ADCON-0007-2025": {
     "numero": "CFE-0101-ADCON-0007-2025",
@@ -1986,7 +1986,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$95,988.96",
-    "ultima_lectura": "2026-11-07T17:07:39.319718-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.812738-08:00"
   },
   "CFE-0101-ADCON-0006-2025": {
     "numero": "CFE-0101-ADCON-0006-2025",
@@ -1995,7 +1995,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JULIO CESAR PERPULY VALENZUELA,",
     "monto_adjudicado": "$81,255.52",
-    "ultima_lectura": "2026-11-07T17:07:39.384728-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.864242-08:00"
   },
   "CFE-0101-ADCON-0005-2025": {
     "numero": "CFE-0101-ADCON-0005-2025",
@@ -2004,7 +2004,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NEZCO SA DE CV,",
     "monto_adjudicado": "$191,409.90",
-    "ultima_lectura": "2026-11-07T17:07:39.449817-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.915959-08:00"
   },
   "CFE-0101-IRAAN-0001-2025": {
     "numero": "CFE-0101-IRAAN-0001-2025",
@@ -2013,7 +2013,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MACRO DISTRIBUIDORA ELECTRICA MRJ SA DE CV,",
     "monto_adjudicado": "$1,382,261.76",
-    "ultima_lectura": "2026-11-07T17:07:39.123974-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.657831-08:00"
   },
   "CFE-0201-CSCON-0011-2025": {
     "numero": "CFE-0201-CSCON-0011-2025",
@@ -2022,7 +2022,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONCRETOS Y OBRAS BAJA S DE RL DE CV,",
     "monto_adjudicado": "$4,428,280.27",
-    "ultima_lectura": "2026-11-07T17:07:39.189340-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.709864-08:00"
   },
   "CFE-0604-ADSAN-0002-2025": {
     "numero": "CFE-0604-ADSAN-0002-2025",
@@ -2031,7 +2031,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:38.927032-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.503602-08:00"
   },
   "CFE-0301-CSSAN-0027-2025": {
     "numero": "CFE-0301-CSSAN-0027-2025",
@@ -2040,7 +2040,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$337,000.00",
-    "ultima_lectura": "2026-11-07T17:07:38.992708-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.555033-08:00"
   },
   "CFE-0201-CACON-0003-2025": {
     "numero": "CFE-0201-CACON-0003-2025",
@@ -2049,7 +2049,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:39.057996-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.606595-08:00"
   },
   "CFE-0604-ADSAN-0003-2025": {
     "numero": "CFE-0604-ADSAN-0003-2025",
@@ -2058,7 +2058,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MAINTENANCE AND ASSET CARE S DE RL DE CV,",
     "monto_adjudicado": "$1,213,550.91",
-    "ultima_lectura": "2026-11-07T17:07:38.861392-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.452261-08:00"
   },
   "CFE-0051-CSSAN-0003-2025": {
     "numero": "CFE-0051-CSSAN-0003-2025",
@@ -2067,7 +2067,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GORGONIO RUIZ CAMPOS,",
     "monto_adjudicado": "$250,000.00",
-    "ultima_lectura": "2026-11-07T17:07:38.535278-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.192860-08:00"
   },
   "CFE-0101-CSAAA-0010-2025": {
     "numero": "CFE-0101-CSAAA-0010-2025",
@@ -2076,7 +2076,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PRODUCTOS DIELECTRICOS Y HERRAMIENTAS SA DE CV,",
     "monto_adjudicado": "$4,090,575.00",
-    "ultima_lectura": "2026-11-07T17:07:38.600895-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.244623-08:00"
   },
   "CFE-0101-ADAAN-0001-2025": {
     "numero": "CFE-0101-ADAAN-0001-2025",
@@ -2085,7 +2085,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SUMINISTROS MEXICANOS TECNICOS S DE RL DE CV,",
     "monto_adjudicado": "$1,218,240.00",
-    "ultima_lectura": "2026-11-07T17:07:38.666370-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.296092-08:00"
   },
   "CFE-0201-CSCON-0013-2025": {
     "numero": "CFE-0201-CSCON-0013-2025",
@@ -2094,7 +2094,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HT INGENIERIA DEL NOROESTE SA DE CV,",
     "monto_adjudicado": "$2,682,269.50",
-    "ultima_lectura": "2026-11-07T17:07:38.731332-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.348759-08:00"
   },
   "CFE-0201-CSCON-0012-2025": {
     "numero": "CFE-0201-CSCON-0012-2025",
@@ -2103,7 +2103,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$4,200,315.64",
-    "ultima_lectura": "2026-11-07T17:07:38.796406-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.400416-08:00"
   },
   "CFE-0614-CSSAN-0031-2025": {
     "numero": "CFE-0614-CSSAN-0031-2025",
@@ -2112,7 +2112,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BAVAL SERVICIOS AMBIENTALES RECIKLAN SA DE CV,",
     "monto_adjudicado": "$68,317.40",
-    "ultima_lectura": "2026-11-07T17:07:38.468773-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.141141-08:00"
   },
   "CFE-0101-CACON-0035-2025": {
     "numero": "CFE-0101-CACON-0035-2025",
@@ -2121,7 +2121,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$1,680,969.44",
-    "ultima_lectura": "2026-11-07T17:07:38.403117-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.089692-08:00"
   },
   "CFE-0614-CSSAN-0032-2025": {
     "numero": "CFE-0614-CSSAN-0032-2025",
@@ -2130,7 +2130,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TURBOMAQUINAS SA DE CV,",
     "monto_adjudicado": "$2,628,281.60",
-    "ultima_lectura": "2026-11-07T17:07:38.271514-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.987603-08:00"
   },
   "CFE-0051-CSSAN-0004-2025": {
     "numero": "CFE-0051-CSSAN-0004-2025",
@@ -2139,7 +2139,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GORGONIO RUIZ CAMPOS,",
     "monto_adjudicado": "$250,000.00",
-    "ultima_lectura": "2026-11-07T17:07:38.336796-08:00"
+    "ultima_lectura": "2026-11-08T12:15:46.038621-08:00"
   },
   "CFE-0201-CSAAN-0009-2025": {
     "numero": "CFE-0201-CSAAN-0009-2025",
@@ -2148,7 +2148,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DRECOMT SA DE CV,",
     "monto_adjudicado": "$5,228,997.00",
-    "ultima_lectura": "2026-11-07T17:07:38.135011-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.882950-08:00"
   },
   "CFE-0614-CSAAA-0015-2025": {
     "numero": "CFE-0614-CSAAA-0015-2025",
@@ -2157,7 +2157,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:38.205402-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.934894-08:00"
   },
   "CFE-0301-CSSAN-0028-2025": {
     "numero": "CFE-0301-CSSAN-0028-2025",
@@ -2166,7 +2166,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:38.041528-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.831552-08:00"
   },
   "CFE-0101-CACON-0036-2025": {
     "numero": "CFE-0101-CACON-0036-2025",
@@ -2175,7 +2175,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TRANS MOTOR DE ORIENTE SA DE CV,",
     "monto_adjudicado": "$825,618.76",
-    "ultima_lectura": "2026-11-07T17:07:37.975180-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.780331-08:00"
   },
   "CFE-0604-CSAAN-0014-2025": {
     "numero": "CFE-0604-CSAAN-0014-2025",
@@ -2184,7 +2184,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:37.908931-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.728820-08:00"
   },
   "CFE-0051-CSAAN-0002-2025": {
     "numero": "CFE-0051-CSAAN-0002-2025",
@@ -2193,7 +2193,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DISTRIBUIDORA DAGAL SA DE CV,",
     "monto_adjudicado": "$229,971.00",
-    "ultima_lectura": "2026-11-07T17:07:37.843221-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.677588-08:00"
   },
   "CFE-0604-CSAAA-0010-2025": {
     "numero": "CFE-0604-CSAAA-0010-2025",
@@ -2202,7 +2202,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "K E N T H O QUIMICA DE MONTERREY SA DE CV,",
     "monto_adjudicado": "$40,982.04",
-    "ultima_lectura": "2026-11-07T17:07:37.708383-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.574547-08:00"
   },
   "CFE-0101-ADSAN-0001-2025": {
     "numero": "CFE-0101-ADSAN-0001-2025",
@@ -2211,7 +2211,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HANZ WALTER ALVAREZ HUERTA,",
     "monto_adjudicado": "$557,000.00",
-    "ultima_lectura": "2026-11-07T17:07:37.775121-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.626067-08:00"
   },
   "CFE-0101-CSSAN-0027-2025": {
     "numero": "CFE-0101-CSSAN-0027-2025",
@@ -2220,7 +2220,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:37.510996-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.420137-08:00"
   },
   "CFE-0201-CSCON-0014-2025": {
     "numero": "CFE-0201-CSCON-0014-2025",
@@ -2229,7 +2229,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$4,231,053.18",
-    "ultima_lectura": "2026-11-07T17:07:37.576923-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.471666-08:00"
   },
   "CFE-0604-CSAAN-0015-2025": {
     "numero": "CFE-0604-CSAAN-0015-2025",
@@ -2238,7 +2238,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$1,574,987.12",
-    "ultima_lectura": "2026-11-07T17:07:37.642502-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.522881-08:00"
   },
   "CFE-0604-CSSAN-0032-2025": {
     "numero": "CFE-0604-CSSAN-0032-2025",
@@ -2247,7 +2247,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:37.312790-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.265526-08:00"
   },
   "CFE-0604-CSSAN-0031-2025": {
     "numero": "CFE-0604-CSSAN-0031-2025",
@@ -2256,7 +2256,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OLAGUE ELECTROMECHANICS & TURBINE SUPPORT SA DE CV,",
     "monto_adjudicado": "$3,293,012.70",
-    "ultima_lectura": "2026-11-07T17:07:37.378811-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.316875-08:00"
   },
   "CFE-0604-CSSAN-0030-2025": {
     "numero": "CFE-0604-CSSAN-0030-2025",
@@ -2265,7 +2265,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LERMA ELECTRICAL MOTORS SA DE CV,",
     "monto_adjudicado": "$2,839,737.60",
-    "ultima_lectura": "2026-11-07T17:07:37.444805-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.369013-08:00"
   },
   "CFE-0604-CSSAA-0003-2025": {
     "numero": "CFE-0604-CSSAA-0003-2025",
@@ -2274,7 +2274,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,583,849.46",
-    "ultima_lectura": "2026-11-07T17:07:37.244538-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.213470-08:00"
   },
   "CFE-0604-CSAAN-0016-2025": {
     "numero": "CFE-0604-CSAAN-0016-2025",
@@ -2283,7 +2283,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "WILCOX MACHINE CO. MEXICO SA DE CV,",
     "monto_adjudicado": "$809,129.72",
-    "ultima_lectura": "2026-11-07T17:07:37.179018-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.161263-08:00"
   },
   "CFE-0604-CSCON-0004-2025": {
     "numero": "CFE-0604-CSCON-0004-2025",
@@ -2292,7 +2292,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
     "monto_adjudicado": "$2,979,194.56",
-    "ultima_lectura": "2026-11-07T17:07:37.048063-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.057212-08:00"
   },
   "CFE-0201-CSCON-0015-2025": {
     "numero": "CFE-0201-CSCON-0015-2025",
@@ -2301,7 +2301,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONCRETOS Y OBRAS BAJA S DE RL DE CV,",
     "monto_adjudicado": "$2,754,240.00",
-    "ultima_lectura": "2026-11-07T17:07:37.112932-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.108720-08:00"
   },
   "CFE-0201-CSSAN-0007-2025": {
     "numero": "CFE-0201-CSSAN-0007-2025",
@@ -2310,7 +2310,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INDUSTRIAS SELECCTRIC SA DE CV,JESUS RAMON SALAZAR GARCIA,",
     "monto_adjudicado": "$5,970,000.00",
-    "ultima_lectura": "2026-11-07T17:07:36.848509-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.901235-08:00"
   },
   "CFE-0101-CACON-0037-2025": {
     "numero": "CFE-0101-CACON-0037-2025",
@@ -2319,7 +2319,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SIE2004136L1/HIN151117MG3 - STEAMTECH INGENIERIA Y EFICIENCIA S DE RL DE CV,",
     "monto_adjudicado": "$506,731.50",
-    "ultima_lectura": "2026-11-07T17:07:36.915504-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.953180-08:00"
   },
   "CFE-0604-CSSAN-0033-2025": {
     "numero": "CFE-0604-CSSAN-0033-2025",
@@ -2328,7 +2328,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ENDRESS + HAUSER MEXICO SA DE CV,",
     "monto_adjudicado": "$225,013.60",
-    "ultima_lectura": "2026-11-07T17:07:36.981103-08:00"
+    "ultima_lectura": "2026-11-08T12:15:45.005625-08:00"
   },
   "CFE-0614-CSAAA-0017-2025": {
     "numero": "CFE-0614-CSAAA-0017-2025",
@@ -2337,7 +2337,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
     "monto_adjudicado": "$152,838.91",
-    "ultima_lectura": "2026-11-07T17:07:36.651141-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.747471-08:00"
   },
   "CFE-0614-CSAAA-0016-2025": {
     "numero": "CFE-0614-CSAAA-0016-2025",
@@ -2346,7 +2346,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DISTRIBUCIONES TECNOLOGICAS INDUSTRIALES Y SERVICIOS SA DE CV,",
     "monto_adjudicado": "$240,035.66",
-    "ultima_lectura": "2026-11-07T17:07:36.716001-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.798497-08:00"
   },
   "CFE-0614-CSAAN-0007-2025": {
     "numero": "CFE-0614-CSAAN-0007-2025",
@@ -2355,7 +2355,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:36.782418-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.850329-08:00"
   },
   "CFE-0301-CSAAN-0005-2025": {
     "numero": "CFE-0301-CSAAN-0005-2025",
@@ -2364,7 +2364,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$114,076.25",
-    "ultima_lectura": "2026-11-07T17:07:36.585316-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.695917-08:00"
   },
   "CFE-0101-CACON-0038-2025": {
     "numero": "CFE-0101-CACON-0038-2025",
@@ -2373,7 +2373,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RAMLIZ CONSTRUCTORES SA DE CV,",
     "monto_adjudicado": "$686,737.96",
-    "ultima_lectura": "2026-11-07T17:07:36.520783-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.644887-08:00"
   },
   "CFE-0101-ADSAN-0002-2025": {
     "numero": "CFE-0101-ADSAN-0002-2025",
@@ -2382,7 +2382,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ENERGIA Y CONFORT DEL NOROESTE S DE RL DE CV,IRIS SUSANA IBARRA BIBIANO,JORGE ALFREDO MARTINEZ GONZALEZ,MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$2,199,603.35",
-    "ultima_lectura": "2026-11-07T17:07:36.255129-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.438611-08:00"
   },
   "CFE-0301-CSSAN-0029-2025": {
     "numero": "CFE-0301-CSSAN-0029-2025",
@@ -2391,7 +2391,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:36.320547-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.489718-08:00"
   },
   "CFE-0604-CSSAN-0034-2025": {
     "numero": "CFE-0604-CSSAN-0034-2025",
@@ -2400,7 +2400,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RAMON REGALADO CASTORENA,",
     "monto_adjudicado": "$2,675,559.60",
-    "ultima_lectura": "2026-11-07T17:07:36.387081-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.541182-08:00"
   },
   "CFE-0101-CSAAN-0021-2025": {
     "numero": "CFE-0101-CSAAN-0021-2025",
@@ -2409,7 +2409,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HANZ WALTER ALVAREZ HUERTA,",
     "monto_adjudicado": "$122,100.00",
-    "ultima_lectura": "2026-11-07T17:07:36.452705-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.593222-08:00"
   },
   "CFE-0101-CACON-0039-2025": {
     "numero": "CFE-0101-CACON-0039-2025",
@@ -2418,7 +2418,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
     "monto_adjudicado": "$315,136.85",
-    "ultima_lectura": "2026-11-07T17:07:36.118696-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.335907-08:00"
   },
   "CFE-0301-CSAAA-0009-2025": {
     "numero": "CFE-0301-CSAAA-0009-2025",
@@ -2427,7 +2427,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HENKI IX DISTRIBUCIONES SA DE CV,",
     "monto_adjudicado": "$549,943.16",
-    "ultima_lectura": "2026-11-07T17:07:36.185862-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.387124-08:00"
   },
   "CFE-0101-CSSAN-0029-2025": {
     "numero": "CFE-0101-CSSAN-0029-2025",
@@ -2436,7 +2436,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:36.050179-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.275847-08:00"
   },
   "CFE-0101-CSAAA-0011-2025": {
     "numero": "CFE-0101-CSAAA-0011-2025",
@@ -2445,7 +2445,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ABEL ALEJANDRO CABRERA RODRIGUEZ,",
     "monto_adjudicado": "$116,595.00",
-    "ultima_lectura": "2026-11-07T17:07:35.917083-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.172342-08:00"
   },
   "CFE-0614-CSAAA-0018-2025": {
     "numero": "CFE-0614-CSAAA-0018-2025",
@@ -2454,7 +2454,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:35.984157-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.223921-08:00"
   },
   "CFE-0301-CSAAN-0006-2025": {
     "numero": "CFE-0301-CSAAN-0006-2025",
@@ -2463,7 +2463,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:35.581335-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.912265-08:00"
   },
   "CFE-0301-CSAAA-0010-2025": {
     "numero": "CFE-0301-CSAAA-0010-2025",
@@ -2472,7 +2472,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:35.646468-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.964800-08:00"
   },
   "CFE-0604-CSSAN-0035-2025": {
     "numero": "CFE-0604-CSSAN-0035-2025",
@@ -2481,7 +2481,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "TURBOALEACIONES SA DE CV,",
     "monto_adjudicado": "$1,149,987.27",
-    "ultima_lectura": "2026-11-07T17:07:35.714083-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.017727-08:00"
   },
   "CFE-0101-ADCON-0008-2025": {
     "numero": "CFE-0101-ADCON-0008-2025",
@@ -2490,7 +2490,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$307,817.37",
-    "ultima_lectura": "2026-11-07T17:07:35.781860-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.069133-08:00"
   },
   "CFE-0614-CSAAN-0008-2025": {
     "numero": "CFE-0614-CSAAN-0008-2025",
@@ -2499,7 +2499,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,ESSENSTIALWEAR SAS DE CV,",
     "monto_adjudicado": "$661,197.40",
-    "ultima_lectura": "2026-11-07T17:07:35.850307-08:00"
+    "ultima_lectura": "2026-11-08T12:15:44.121120-08:00"
   },
   "CFE-0101-CSSAN-0030-2025": {
     "numero": "CFE-0101-CSSAN-0030-2025",
@@ -2508,7 +2508,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ZULEMA ELVIRA DOMINGUEZ VERDUGO,",
     "monto_adjudicado": "$448,000.00",
-    "ultima_lectura": "2026-11-07T17:07:35.448986-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.808449-08:00"
   },
   "CFE-0101-CSAAN-0017-2025": {
     "numero": "CFE-0101-CSAAN-0017-2025",
@@ -2517,7 +2517,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:35.514802-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.860014-08:00"
   },
   "CFE-0604-CSSAN-0036-2025": {
     "numero": "CFE-0604-CSSAN-0036-2025",
@@ -2526,7 +2526,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:35.380254-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.733380-08:00"
   },
   "CFE-0614-CSAAN-0009-2025": {
     "numero": "CFE-0614-CSAAN-0009-2025",
@@ -2535,7 +2535,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RICARDO FLORES MENDOZA,TUBERIAS Y SISTEMAS DE ENERGIA EN GAS NATURAL DEL NOROESTE S DE,EQUIPOS TERMOMECANICOS SA DE CV,",
     "monto_adjudicado": "$1,584,926.70",
-    "ultima_lectura": "2026-11-07T17:07:35.313102-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.679757-08:00"
   },
   "CFE-0614-CSCON-0001-2025": {
     "numero": "CFE-0614-CSCON-0001-2025",
@@ -2544,7 +2544,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IAR091228FA2/JCO071213J46 - INGENIERIA ARGUZ SA DE CV,",
     "monto_adjudicado": "$1,551,760.56",
-    "ultima_lectura": "2026-11-07T17:07:35.243709-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.626159-08:00"
   },
   "CFE-0301-CSAAN-0007-2025": {
     "numero": "CFE-0301-CSAAN-0007-2025",
@@ -2553,7 +2553,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MAKORP SA DE CV,ROXANA ALFARO VALENCIA,",
     "monto_adjudicado": "$415,508.38",
-    "ultima_lectura": "2026-11-07T17:07:35.175386-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.574254-08:00"
   },
   "CFE-0051-CSSAN-0005-2025": {
     "numero": "CFE-0051-CSSAN-0005-2025",
@@ -2562,7 +2562,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LABORATORIOS ABC QUIMICA INVESTIGACION Y ANALISIS SA DE CV,",
     "monto_adjudicado": "$1,589,792.70",
-    "ultima_lectura": "2026-11-07T17:07:35.105975-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.521360-08:00"
   },
   "CFE-0101-CSAAN-0022-2025": {
     "numero": "CFE-0101-CSAAN-0022-2025",
@@ -2571,7 +2571,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,DISTRIBUCIONES CANTILEVER S DE RL DE CV,FG MANUFACTURING SERVICES S DE RL DE CV,INDUSTRIA REAL SA DE CV,POWERTRUSION DE MEXICO SA DE CV,",
     "monto_adjudicado": "$5,187,238.22",
-    "ultima_lectura": "2026-11-07T17:07:35.038072-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.469613-08:00"
   },
   "CFE-0201-CSSAN-0008-2025": {
     "numero": "CFE-0201-CSSAN-0008-2025",
@@ -2580,7 +2580,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRWING ALFREDO RODRIGUEZ LOPEZ,",
     "monto_adjudicado": "$5,197,440.00",
-    "ultima_lectura": "2026-11-07T17:07:34.968154-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.414816-08:00"
   },
   "CFE-0101-ADSAN-0003-2025": {
     "numero": "CFE-0101-ADSAN-0003-2025",
@@ -2589,7 +2589,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,",
     "monto_adjudicado": "$606,515.89",
-    "ultima_lectura": "2026-11-07T17:07:34.899963-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.362392-08:00"
   },
   "CFE-0101-CSSAN-0031-2025": {
     "numero": "CFE-0101-CSSAN-0031-2025",
@@ -2598,7 +2598,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:34.831996-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.309389-08:00"
   },
   "CFE-0101-CSSAN-0032-2025": {
     "numero": "CFE-0101-CSSAN-0032-2025",
@@ -2607,7 +2607,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IDALI MARRON VILLARRUEL,",
     "monto_adjudicado": "$700,000.00",
-    "ultima_lectura": "2026-11-07T17:07:34.764399-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.255425-08:00"
   },
   "CFE-0604-CSCON-0005-2025": {
     "numero": "CFE-0604-CSCON-0005-2025",
@@ -2616,7 +2616,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FASEI-INTECH S DE RL DE CV,",
     "monto_adjudicado": "$1,949,639.94",
-    "ultima_lectura": "2026-11-07T17:07:34.626066-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.148933-08:00"
   },
   "CFE-0201-CSCON-0016-2025": {
     "numero": "CFE-0201-CSCON-0016-2025",
@@ -2625,7 +2625,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HT INGENIERIA DEL NOROESTE SA DE CV,",
     "monto_adjudicado": "$5,088,638.70",
-    "ultima_lectura": "2026-11-07T17:07:34.695984-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.201860-08:00"
   },
   "CFE-0201-CSCON-0017-2025": {
     "numero": "CFE-0201-CSCON-0017-2025",
@@ -2634,7 +2634,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONCRETOS Y OBRAS BAJA S DE RL DE CV,",
     "monto_adjudicado": "$1,381,914.80",
-    "ultima_lectura": "2026-11-07T17:07:34.557019-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.095882-08:00"
   },
   "CFE-0028-CSCON-0001-2025": {
     "numero": "CFE-0028-CSCON-0001-2025",
@@ -2643,7 +2643,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IMA-NIP SA DE CV,",
     "monto_adjudicado": "$489,541.79",
-    "ultima_lectura": "2026-11-07T17:07:34.422035-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.986249-08:00"
   },
   "CFE-0604-CSSAN-0037-2025": {
     "numero": "CFE-0604-CSSAN-0037-2025",
@@ -2652,7 +2652,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE B C S DE RL DE CV,",
     "monto_adjudicado": "$2,097,750.00",
-    "ultima_lectura": "2026-11-07T17:07:34.489549-08:00"
+    "ultima_lectura": "2026-11-08T12:15:43.038908-08:00"
   },
   "CFE-0201-CSCON-0018-2025": {
     "numero": "CFE-0201-CSCON-0018-2025",
@@ -2661,7 +2661,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONCRETOS Y OBRAS BAJA S DE RL DE CV,",
     "monto_adjudicado": "$5,478,599.56",
-    "ultima_lectura": "2026-11-07T17:07:34.355548-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.934327-08:00"
   },
   "CFE-0101-CSSAN-0035-2025": {
     "numero": "CFE-0101-CSSAN-0035-2025",
@@ -2670,7 +2670,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTERNATIONAL DE BAJA CALIFORNIA SA DE CV,JOSE BRANDON LOBO RIVAS,MC 300 BAJA S DE RL DE CV,",
     "monto_adjudicado": "$5,100,000.00",
-    "ultima_lectura": "2026-11-07T17:07:34.215036-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.829639-08:00"
   },
   "CFE-0201-CSSAN-0009-2025": {
     "numero": "CFE-0201-CSSAN-0009-2025",
@@ -2679,7 +2679,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SCHWEITZER ENGINEERING LABORATORIES SA DE CV,",
     "monto_adjudicado": "$1,546,273.08",
-    "ultima_lectura": "2026-11-07T17:07:34.282393-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.881782-08:00"
   },
   "CFE-0604-CSSAN-0038-2025": {
     "numero": "CFE-0604-CSSAN-0038-2025",
@@ -2688,7 +2688,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:34.144708-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.777223-08:00"
   },
   "CFE-0604-CSSAN-0039-2025": {
     "numero": "CFE-0604-CSSAN-0039-2025",
@@ -2697,7 +2697,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MAQUINADOS HEMAQ BAJA S DE RL DE CV,",
     "monto_adjudicado": "$827,400.00",
-    "ultima_lectura": "2026-11-07T17:07:34.076832-08:00"
+    "ultima_lectura": "2026-11-08T12:15:42.725760-08:00"
   },
   "CFE-0101-CSSAN-0034-2025": {
     "numero": "CFE-0101-CSSAN-0034-2025",
@@ -2706,7 +2706,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ENERGY SOLUTIONS SA DE CV,",
     "monto_adjudicado": "$7,923,110.00",
-    "ultima_lectura": "2026-11-07T17:07:28.889523-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.493252-08:00"
   },
   "CFE-0101-ADAAN-0002-2025": {
     "numero": "CFE-0101-ADAAN-0002-2025",
@@ -2715,7 +2715,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:28.823448-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.441700-08:00"
   },
   "CFE-0101-ADSAN-0005-2025": {
     "numero": "CFE-0101-ADSAN-0005-2025",
@@ -2724,7 +2724,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$106,727.33",
-    "ultima_lectura": "2026-11-07T17:07:28.757499-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.390063-08:00"
   },
   "CFE-0301-CSAAN-0008-2025": {
     "numero": "CFE-0301-CSAAN-0008-2025",
@@ -2733,7 +2733,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HENKI IX DISTRIBUCIONES SA DE CV,",
     "monto_adjudicado": "$93,750.00",
-    "ultima_lectura": "2026-11-07T17:07:28.691453-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.338652-08:00"
   },
   "CFE-0101-ADSAN-0004-2025": {
     "numero": "CFE-0101-ADSAN-0004-2025",
@@ -2742,7 +2742,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$304,793.82",
-    "ultima_lectura": "2026-11-07T17:07:28.624734-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.286901-08:00"
   },
   "CFE-0604-CSAAN-0017-2025": {
     "numero": "CFE-0604-CSAAN-0017-2025",
@@ -2751,7 +2751,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,P&R INDUSTRIAL S DE RL DE CV,FERNAN CICERON ALFARO HERNANDEZ,FERRETERIA POPULAR DEL NORTE SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,VICTOR ADAN SANCHEZ MENDEZ,XHITAO SA DE CV,",
     "monto_adjudicado": "$2,687,766.05",
-    "ultima_lectura": "2026-11-07T17:07:28.492147-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.184493-08:00"
   },
   "CFE-0301-CSAAN-0009-2025": {
     "numero": "CFE-0301-CSAAN-0009-2025",
@@ -2760,7 +2760,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MAKORP SA DE CV,MARIA CECILIA CUENCA CALPE,",
     "monto_adjudicado": "$64,636.01",
-    "ultima_lectura": "2026-11-07T17:07:28.558230-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.235792-08:00"
   },
   "CFE-0101-CSAAA-0013-2025": {
     "numero": "CFE-0101-CSAAA-0013-2025",
@@ -2769,7 +2769,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:28.359706-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.081851-08:00"
   },
   "CFE-0101-CSAAA-0012-2025": {
     "numero": "CFE-0101-CSAAA-0012-2025",
@@ -2778,7 +2778,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BL DISEÑO Y MANTENIMIENTO EMPRESARIAL SA DE CV,COMERCIALIZADORA PROAR DEL PACIFICO S DE RL DE CV,MAKORP SA DE CV,MARIA CECILIA CUENCA CALPE,PROVEEDORA DEL ESTADO SA DE CV,SEGURIDAD PRIVADA ADECO DE OCCIDENTE SA DE CV,SERVNOR SA DE CV,",
     "monto_adjudicado": "$2,995,561.08",
-    "ultima_lectura": "2026-11-07T17:07:28.425692-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.133508-08:00"
   },
   "CFE-0101-CSSAN-0033-2025": {
     "numero": "CFE-0101-CSSAN-0033-2025",
@@ -2787,7 +2787,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CRISTINA LUNA AVILA,",
     "monto_adjudicado": "$914,792.00",
-    "ultima_lectura": "2026-11-07T17:07:28.292363-08:00"
+    "ultima_lectura": "2026-11-08T12:15:38.029977-08:00"
   },
   "CFE-0101-CSAAN-0024-2025": {
     "numero": "CFE-0101-CSAAN-0024-2025",
@@ -2796,7 +2796,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ARMANDINA VALENZUELA VEGA,OPERADORA RIO COLORADO S DE RL DE CV,",
     "monto_adjudicado": "$528,360.00",
-    "ultima_lectura": "2026-11-07T17:07:28.225693-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.978600-08:00"
   },
   "CFE-0101-CSAAN-0023-2025": {
     "numero": "CFE-0101-CSAAN-0023-2025",
@@ -2805,7 +2805,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IGSA SA DE CV,",
     "monto_adjudicado": "$6,873,115.20",
-    "ultima_lectura": "2026-11-07T17:07:28.158358-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.927072-08:00"
   },
   "CFE-0101-CSSAN-0036-2025": {
     "numero": "CFE-0101-CSSAN-0036-2025",
@@ -2814,7 +2814,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$2,500,000.00",
-    "ultima_lectura": "2026-11-07T17:07:28.092285-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.875403-08:00"
   },
   "CFE-0101-ADSAN-0007-2025": {
     "numero": "CFE-0101-ADSAN-0007-2025",
@@ -2823,7 +2823,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,NEZCO SA DE CV,",
     "monto_adjudicado": "$1,500,000.00",
-    "ultima_lectura": "2026-11-07T17:07:28.024860-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.823296-08:00"
   },
   "CFE-0101-CSAAN-0025-2025": {
     "numero": "CFE-0101-CSAAN-0025-2025",
@@ -2832,7 +2832,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DIANA GUTIERREZ CASAÑAS,FERRELEX DE MEXICO SA DE CV,GOLDIE AUTHENTIC 2695 SAS DE CV,NIKSERVI SA DE CV,PLASTICOS DEL GOLFO SUR SA DE CV,RAYHSA VALLEJO SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
     "monto_adjudicado": "$2,000,941.98",
-    "ultima_lectura": "2026-11-07T17:07:27.888129-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.700673-08:00"
   },
   "CFE-0101-CSAAA-0014-2025": {
     "numero": "CFE-0101-CSAAA-0014-2025",
@@ -2841,7 +2841,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPUPROVEEDORES SA DE CV,ENERBATERY SA DE CV,SUMIPAC DISTRIBUCION SA DE CV,",
     "monto_adjudicado": "$220,913.00",
-    "ultima_lectura": "2026-11-07T17:07:27.956694-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.751895-08:00"
   },
   "CFE-0101-CSSAN-0037-2025": {
     "numero": "CFE-0101-CSSAN-0037-2025",
@@ -2850,7 +2850,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORA DE SERVICIOS HIDALGOLOZ SA DE CV,",
     "monto_adjudicado": "$1,286,360.00",
-    "ultima_lectura": "2026-11-07T17:07:27.821002-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.649554-08:00"
   },
   "CFE-0101-ADCON-0012-2025": {
     "numero": "CFE-0101-ADCON-0012-2025",
@@ -2859,7 +2859,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JORGE ALFREDO MARTINEZ GONZALEZ,",
     "monto_adjudicado": "$390,081.25",
-    "ultima_lectura": "2026-11-07T17:07:27.487230-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.393035-08:00"
   },
   "CFE-0101-ADCON-0011-2025": {
     "numero": "CFE-0101-ADCON-0011-2025",
@@ -2868,7 +2868,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
     "monto_adjudicado": "$1,074,859.86",
-    "ultima_lectura": "2026-11-07T17:07:27.554271-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.444948-08:00"
   },
   "CFE-0101-ADCON-0010-2025": {
     "numero": "CFE-0101-ADCON-0010-2025",
@@ -2877,7 +2877,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$413,246.34",
-    "ultima_lectura": "2026-11-07T17:07:27.620361-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.495957-08:00"
   },
   "CFE-0101-ADCON-0009-2025": {
     "numero": "CFE-0101-ADCON-0009-2025",
@@ -2886,7 +2886,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRALTA CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$434,483.03",
-    "ultima_lectura": "2026-11-07T17:07:27.688693-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.547268-08:00"
   },
   "CFE-0101-CSAAA-0009-2025": {
     "numero": "CFE-0101-CSAAA-0009-2025",
@@ -2895,7 +2895,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FENIGIA ZEFER SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,MARIO RAMON DIAZ DE LA VEGA HERNANDEZ,",
     "monto_adjudicado": "$4,185,946.16",
-    "ultima_lectura": "2026-11-07T17:07:27.755477-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.598298-08:00"
   },
   "CFE-0101-ADCON-0020-2025": {
     "numero": "CFE-0101-ADCON-0020-2025",
@@ -2904,7 +2904,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NAPTECH SOLUCIONES ELECTROMECANICAS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$215,868.29",
-    "ultima_lectura": "2026-11-07T17:07:26.927790-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.981997-08:00"
   },
   "CFE-0101-ADCON-0019-2025": {
     "numero": "CFE-0101-ADCON-0019-2025",
@@ -2913,7 +2913,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MR ENERGY MANAGER S DE RL DE CV,",
     "monto_adjudicado": "$231,750.51",
-    "ultima_lectura": "2026-11-07T17:07:26.995291-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.033597-08:00"
   },
   "CFE-0101-ADCON-0018-2025": {
     "numero": "CFE-0101-ADCON-0018-2025",
@@ -2922,7 +2922,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ABRAHAM ESTRADA VEGA,",
     "monto_adjudicado": "$146,348.56",
-    "ultima_lectura": "2026-11-07T17:07:27.061762-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.085245-08:00"
   },
   "CFE-0101-ADCON-0017-2025": {
     "numero": "CFE-0101-ADCON-0017-2025",
@@ -2931,7 +2931,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$965,679.59",
-    "ultima_lectura": "2026-11-07T17:07:27.129885-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.137571-08:00"
   },
   "CFE-0101-ADCON-0016-2025": {
     "numero": "CFE-0101-ADCON-0016-2025",
@@ -2940,7 +2940,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ASESORIAS ELECTRICAS DE BAJA CALIFORNIA SUR SA DE CV,",
     "monto_adjudicado": "$1,304,814.55",
-    "ultima_lectura": "2026-11-07T17:07:27.196801-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.188220-08:00"
   },
   "CFE-0101-ADCON-0015-2025": {
     "numero": "CFE-0101-ADCON-0015-2025",
@@ -2949,7 +2949,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CONSTRUCTORA ELECTRICA KOTKOFF SA DE CV,",
     "monto_adjudicado": "$311,270.96",
-    "ultima_lectura": "2026-11-07T17:07:27.286685-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.239489-08:00"
   },
   "CFE-0101-ADCON-0014-2025": {
     "numero": "CFE-0101-ADCON-0014-2025",
@@ -2958,7 +2958,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ABRAHAM ESTRADA VEGA,",
     "monto_adjudicado": "$266,993.25",
-    "ultima_lectura": "2026-11-07T17:07:27.353564-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.290722-08:00"
   },
   "CFE-0101-ADCON-0013-2025": {
     "numero": "CFE-0101-ADCON-0013-2025",
@@ -2967,7 +2967,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$707,564.44",
-    "ultima_lectura": "2026-11-07T17:07:27.420761-08:00"
+    "ultima_lectura": "2026-11-08T12:15:37.341955-08:00"
   },
   "CFE-0101-ADAAN-0004-2025": {
     "numero": "CFE-0101-ADAAN-0004-2025",
@@ -2976,7 +2976,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LUCIA EDITH RAMIREZ VALENZUELA,",
     "monto_adjudicado": "$195,765.00",
-    "ultima_lectura": "2026-11-07T17:07:26.859915-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.930802-08:00"
   },
   "CFE-0201-ADSAN-0004-2025": {
     "numero": "CFE-0201-ADSAN-0004-2025",
@@ -2985,7 +2985,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NEZCO SA DE CV,",
     "monto_adjudicado": "$1,810,390.87",
-    "ultima_lectura": "2026-11-07T17:07:26.183427-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.417963-08:00"
   },
   "CFE-0301-CSSAN-0030-2025": {
     "numero": "CFE-0301-CSSAN-0030-2025",
@@ -2994,7 +2994,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INARK CONSTRUCTORA S DE RL DE CV,",
     "monto_adjudicado": "$203,071.02",
-    "ultima_lectura": "2026-11-07T17:07:26.250042-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.469639-08:00"
   },
   "CFE-0101-ADAAN-0005-2025": {
     "numero": "CFE-0101-ADAAN-0005-2025",
@@ -3003,7 +3003,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LUCIA EDITH RAMIREZ VALENZUELA,",
     "monto_adjudicado": "$473,990.00",
-    "ultima_lectura": "2026-11-07T17:07:26.319150-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.521289-08:00"
   },
   "CFE-0101-ADCON-0021-2025": {
     "numero": "CFE-0101-ADCON-0021-2025",
@@ -3012,7 +3012,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARTIN MAGDALENO ALONSO BARRERA,",
     "monto_adjudicado": "$588,824.53",
-    "ultima_lectura": "2026-11-07T17:07:26.389114-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.572258-08:00"
   },
   "CFE-0201-ADSAN-0003-2025": {
     "numero": "CFE-0201-ADSAN-0003-2025",
@@ -3021,7 +3021,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,511,800.00",
-    "ultima_lectura": "2026-11-07T17:07:26.457390-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.623701-08:00"
   },
   "CFE-0201-ADSAN-0002-2025": {
     "numero": "CFE-0201-ADSAN-0002-2025",
@@ -3030,7 +3030,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$740,000.00",
-    "ultima_lectura": "2026-11-07T17:07:26.524112-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.674728-08:00"
   },
   "CFE-0028-ADSAN-0001-2025": {
     "numero": "CFE-0028-ADSAN-0001-2025",
@@ -3039,7 +3039,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GARCIA ALCOCER ABOGADOS SC,",
     "monto_adjudicado": "$3,165,961.00",
-    "ultima_lectura": "2026-11-07T17:07:26.590567-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.725874-08:00"
   },
   "CFE-0614-CSSAN-0033-2025": {
     "numero": "CFE-0614-CSSAN-0033-2025",
@@ -3048,7 +3048,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:26.657121-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.776943-08:00"
   },
   "CFE-0101-CSSAN-0038-2025": {
     "numero": "CFE-0101-CSSAN-0038-2025",
@@ -3057,7 +3057,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS Y FORMAS GRAFICAS SA DE CV,",
     "monto_adjudicado": "$1,721,802.44",
-    "ultima_lectura": "2026-11-07T17:07:26.724875-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.828343-08:00"
   },
   "CFE-0201-ADSAN-0001-2025": {
     "numero": "CFE-0201-ADSAN-0001-2025",
@@ -3066,7 +3066,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$2,678,880.00",
-    "ultima_lectura": "2026-11-07T17:07:26.792181-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.879577-08:00"
   },
   "CFE-0101-ADSAN-0009-2025": {
     "numero": "CFE-0101-ADSAN-0009-2025",
@@ -3075,7 +3075,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$200,094.06",
-    "ultima_lectura": "2026-11-07T17:07:26.115653-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.366406-08:00"
   },
   "CFE-0201-ADSAN-0005-2025": {
     "numero": "CFE-0201-ADSAN-0005-2025",
@@ -3084,7 +3084,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OSCAR ALEJANDRO VAZQUEZ ARIAS,",
     "monto_adjudicado": "$408,845.83",
-    "ultima_lectura": "2026-11-07T17:07:25.846855-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.160787-08:00"
   },
   "CFE-0101-CSSAN-0040-2025": {
     "numero": "CFE-0101-CSSAN-0040-2025",
@@ -3093,7 +3093,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERMANTT SA DE CV,",
     "monto_adjudicado": "$2,320,000.00",
-    "ultima_lectura": "2026-11-07T17:07:25.913500-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.212021-08:00"
   },
   "CFE-0101-ADSAN-0008-2025": {
     "numero": "CFE-0101-ADSAN-0008-2025",
@@ -3102,7 +3102,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$357,749.96",
-    "ultima_lectura": "2026-11-07T17:07:25.979879-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.263144-08:00"
   },
   "CFE-0201-ADAAN-0004-2025": {
     "numero": "CFE-0201-ADAAN-0004-2025",
@@ -3111,7 +3111,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IMPREGNACIONES ESPECIALES SA DE CV,",
     "monto_adjudicado": "$1,439,130.00",
-    "ultima_lectura": "2026-11-07T17:07:26.046756-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.314981-08:00"
   },
   "CFE-0201-ADSAN-0007-2025": {
     "numero": "CFE-0201-ADSAN-0007-2025",
@@ -3120,7 +3120,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:25.510952-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.904741-08:00"
   },
   "CFE-0101-CSAAA-0015-2025": {
     "numero": "CFE-0101-CSAAA-0015-2025",
@@ -3129,7 +3129,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RTE DE MEXICO SA DE CV,",
     "monto_adjudicado": "$768,275.83",
-    "ultima_lectura": "2026-11-07T17:07:25.577864-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.956077-08:00"
   },
   "CFE-0201-ADSAN-0006-2025": {
     "numero": "CFE-0201-ADSAN-0006-2025",
@@ -3138,7 +3138,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NEZCO SA DE CV,",
     "monto_adjudicado": "$1,184,021.79",
-    "ultima_lectura": "2026-11-07T17:07:25.646654-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.006842-08:00"
   },
   "CFE-0101-CSSAN-0039-2025": {
     "numero": "CFE-0101-CSSAN-0039-2025",
@@ -3147,7 +3147,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:25.713091-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.057935-08:00"
   },
   "CFE-0101-CACON-0040-2025": {
     "numero": "CFE-0101-CACON-0040-2025",
@@ -3156,7 +3156,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$1,407,131.40",
-    "ultima_lectura": "2026-11-07T17:07:25.779325-08:00"
+    "ultima_lectura": "2026-11-08T12:15:36.109467-08:00"
   },
   "CFE-0604-ADABA-0001-2025": {
     "numero": "CFE-0604-ADABA-0001-2025",
@@ -3165,7 +3165,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
     "monto_adjudicado": "$2,211,120.00",
-    "ultima_lectura": "2026-11-07T17:07:25.375255-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.802539-08:00"
   },
   "CFE-0604-ADSAN-0004-2025": {
     "numero": "CFE-0604-ADSAN-0004-2025",
@@ -3174,7 +3174,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "POWER ENGINEERING SERVICES AND SOLUTIONS SA DE CV,",
     "monto_adjudicado": "$1,947,107.00",
-    "ultima_lectura": "2026-11-07T17:07:25.443217-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.853696-08:00"
   },
   "CFE-0201-ADSAN-0008-2025": {
     "numero": "CFE-0201-ADSAN-0008-2025",
@@ -3183,7 +3183,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SAME POTENCIA S DE RL DE CV,",
     "monto_adjudicado": "$711,298.19",
-    "ultima_lectura": "2026-11-07T17:07:25.307657-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.750824-08:00"
   },
   "CFE-0101-ADSAN-0010-2025": {
     "numero": "CFE-0101-ADSAN-0010-2025",
@@ -3192,7 +3192,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EDGAR ADRIAN MEDINA ZENDEJAS,FRALTA CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,500,000.00",
-    "ultima_lectura": "2026-11-07T17:07:25.241047-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.699344-08:00"
   },
   "CFE-0101-ADCON-0022-2025": {
     "numero": "CFE-0101-ADCON-0022-2025",
@@ -3201,7 +3201,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INGENIERIA ROJO S DE RL DE CV,",
     "monto_adjudicado": "$389,852.30",
-    "ultima_lectura": "2026-11-07T17:07:25.173369-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.647863-08:00"
   },
   "CFE-0201-CSSAN-0010-2025": {
     "numero": "CFE-0201-CSSAN-0010-2025",
@@ -3210,7 +3210,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NODO INGENIERIA SA DE CV,OSCAR ALEJANDRO VAZQUEZ ARIAS,",
     "monto_adjudicado": "$4,118,340.00",
-    "ultima_lectura": "2026-11-07T17:07:25.039943-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.544643-08:00"
   },
   "CFE-0201-CSAAN-0011-2025": {
     "numero": "CFE-0201-CSAAN-0011-2025",
@@ -3219,7 +3219,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRENCH CHIC SA DE CV,",
     "monto_adjudicado": "$5,543,764.00",
-    "ultima_lectura": "2026-11-07T17:07:25.107353-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.596133-08:00"
   },
   "CFE-0201-CSAAN-0013-2025": {
     "numero": "CFE-0201-CSAAN-0013-2025",
@@ -3228,7 +3228,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:24.839861-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.384921-08:00"
   },
   "CFE-0201-CSAAN-0010-2025": {
     "numero": "CFE-0201-CSAAN-0010-2025",
@@ -3237,7 +3237,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FENIGIA ZEFER SA DE CV,",
     "monto_adjudicado": "$671,865.00",
-    "ultima_lectura": "2026-11-07T17:07:24.905877-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.436869-08:00"
   },
   "CFE-0201-CSAAN-0012-2025": {
     "numero": "CFE-0201-CSAAN-0012-2025",
@@ -3246,7 +3246,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:24.972810-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.488057-08:00"
   },
   "CFE-0201-CSAAA-0005-2025": {
     "numero": "CFE-0201-CSAAA-0005-2025",
@@ -3255,7 +3255,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:24.707105-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.281845-08:00"
   },
   "CFE-0614-CSSAN-0034-2025": {
     "numero": "CFE-0614-CSSAN-0034-2025",
@@ -3264,7 +3264,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:24.773556-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.333564-08:00"
   },
   "CFE-0604-CSAAN-0018-2025": {
     "numero": "CFE-0604-CSAAN-0018-2025",
@@ -3273,7 +3273,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "CADECO SA DE CV,CONSTRUCTORA INNOVADORA DEL NOROESTE SA DE CV,CORPORATIVO INDUSTRIAL GSEGOLD SA DE CV,INOX VER SA DE CV,RAYHSA VALLEJO SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,ZURIVE INDUSTRIAL DE MEXICO SA DE CV,",
     "monto_adjudicado": "$1,866,206.00",
-    "ultima_lectura": "2026-11-07T17:07:24.640200-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.230278-08:00"
   },
   "CFE-0604-CSSAN-0040-2025": {
     "numero": "CFE-0604-CSSAN-0040-2025",
@@ -3282,7 +3282,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BUCEO INDUSTRIAL BAJA S DE RL DE CV,",
     "monto_adjudicado": "$2,544,112.10",
-    "ultima_lectura": "2026-11-07T17:07:24.573889-08:00"
+    "ultima_lectura": "2026-11-08T12:15:35.178934-08:00"
   },
   "CFE-0101-CACON-0001-2026": {
     "numero": "CFE-0101-CACON-0001-2026",
@@ -7269,7 +7269,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MATILDE LOPEZ GONZALEZ,",
     "monto_adjudicado": "$885,082.50",
-    "ultima_lectura": "2026-11-07T17:07:59.174575-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.487567-08:00"
   },
   "CFE-0301-CSSAN-0002-2025": {
     "numero": "CFE-0301-CSSAN-0002-2025",
@@ -7278,7 +7278,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:07:59.239621-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.538926-08:00"
   },
   "CFE-0604-CSSAN-0006-2025": {
     "numero": "CFE-0604-CSSAN-0006-2025",
@@ -7287,7 +7287,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RAMON REGALADO CASTORENA,",
     "monto_adjudicado": "$1,876,251.90",
-    "ultima_lectura": "2026-11-07T17:07:59.304563-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.590738-08:00"
   },
   "CFE-0614-CSSAN-0017-2025": {
     "numero": "CFE-0614-CSSAN-0017-2025",
@@ -7296,7 +7296,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FYSI DEL NOROESTE SAS DE CV,",
     "monto_adjudicado": "$339,526.42",
-    "ultima_lectura": "2026-11-07T17:07:59.368460-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.641797-08:00"
   },
   "CFE-0101-CSSAN-0007-2025": {
     "numero": "CFE-0101-CSSAN-0007-2025",
@@ -7305,7 +7305,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "IRIS SUSANA IBARRA BIBIANO,",
     "monto_adjudicado": "$1,230,000.00",
-    "ultima_lectura": "2026-11-07T17:07:59.432306-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.692953-08:00"
   },
   "CFE-0614-CSSAN-0013-2025": {
     "numero": "CFE-0614-CSSAN-0013-2025",
@@ -7314,7 +7314,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "YOLANDA DELGADILLO MATEO,",
     "monto_adjudicado": "$643,500.00",
-    "ultima_lectura": "2026-11-07T17:07:59.496877-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.744177-08:00"
   },
   "CFE-0301-CSSAN-0001-2025": {
     "numero": "CFE-0301-CSSAN-0001-2025",
@@ -7323,7 +7323,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ADMINISTRADORA DEL COLORADO S DE RL DE CV,ENERGETICOS EN RED ELECTRONICA SA DE CV,",
     "monto_adjudicado": "$1,514,416.50",
-    "ultima_lectura": "2026-11-07T17:07:59.562106-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.795304-08:00"
   },
   "CFE-0201-ADAAN-0001-2025": {
     "numero": "CFE-0201-ADAAN-0001-2025",
@@ -7332,7 +7332,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$399,370.00",
-    "ultima_lectura": "2026-11-07T17:07:59.628140-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.846573-08:00"
   },
   "CFE-0614-CSSAN-0016-2025": {
     "numero": "CFE-0614-CSSAN-0016-2025",
@@ -7341,7 +7341,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MEXUS GRUAS DE MEXICO S DE RL DE CV,",
     "monto_adjudicado": "$1,752,743.18",
-    "ultima_lectura": "2026-11-07T17:07:59.692279-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.898571-08:00"
   },
   "CFE-0614-CSSAN-0015-2025": {
     "numero": "CFE-0614-CSSAN-0015-2025",
@@ -7350,7 +7350,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DUAL TALLERES METAL MECANICA SA DE CV,",
     "monto_adjudicado": "$1,503,484.88",
-    "ultima_lectura": "2026-11-07T17:07:59.758376-08:00"
+    "ultima_lectura": "2026-11-08T12:16:02.949829-08:00"
   },
   "CFE-0614-CSAAA-0005-2025": {
     "numero": "CFE-0614-CSAAA-0005-2025",
@@ -7359,7 +7359,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$334,893.92",
-    "ultima_lectura": "2026-11-07T17:07:59.824347-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.000724-08:00"
   },
   "CFE-0614-CSAAA-0004-2025": {
     "numero": "CFE-0614-CSAAA-0004-2025",
@@ -7368,7 +7368,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ROGELIO ANTONIO BERBER SEPULVEDA,CONTROLES INDUSTRIALES Y ANALITICOS SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,263,313.44",
-    "ultima_lectura": "2026-11-07T17:07:59.888462-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.051908-08:00"
   },
   "CFE-0614-CSSAN-0014-2025": {
     "numero": "CFE-0614-CSSAN-0014-2025",
@@ -7377,7 +7377,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FYSI DEL NOROESTE SAS DE CV,",
     "monto_adjudicado": "$726,750.00",
-    "ultima_lectura": "2026-11-07T17:07:59.952364-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.103089-08:00"
   },
   "CFE-0604-CSAAA-0003-2025": {
     "numero": "CFE-0604-CSAAA-0003-2025",
@@ -7386,7 +7386,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$289,839.12",
-    "ultima_lectura": "2026-11-07T17:08:00.017689-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.154685-08:00"
   },
   "CFE-0604-CSSAN-0005-2025": {
     "numero": "CFE-0604-CSSAN-0005-2025",
@@ -7395,7 +7395,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "AUTOSERVICIO CORDOVA SA DE CV,",
     "monto_adjudicado": "$829,350.00",
-    "ultima_lectura": "2026-11-07T17:08:00.086079-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.205613-08:00"
   },
   "CFE-0614-CSSAN-0012-2025": {
     "numero": "CFE-0614-CSSAN-0012-2025",
@@ -7404,7 +7404,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,",
     "monto_adjudicado": "$1,316,520.00",
-    "ultima_lectura": "2026-11-07T17:08:00.152917-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.256789-08:00"
   },
   "CFE-0201-CSAAA-0001-2025": {
     "numero": "CFE-0201-CSAAA-0001-2025",
@@ -7413,7 +7413,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:00.218866-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.308089-08:00"
   },
   "CFE-0614-CSSAN-0011-2025": {
     "numero": "CFE-0614-CSSAN-0011-2025",
@@ -7422,7 +7422,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FREDY ORTEGA PEREZ,",
     "monto_adjudicado": "$298,067.00",
-    "ultima_lectura": "2026-11-07T17:08:00.285443-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.359491-08:00"
   },
   "CFE-0301-CSAAN-0001-2025": {
     "numero": "CFE-0301-CSAAN-0001-2025",
@@ -7431,7 +7431,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DISTRIBUIDORA SAJOR SA DE CV,",
     "monto_adjudicado": "$613,750.00",
-    "ultima_lectura": "2026-11-07T17:08:00.349670-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.410864-08:00"
   },
   "CFE-0604-CSAAN-0004-2025": {
     "numero": "CFE-0604-CSAAN-0004-2025",
@@ -7440,7 +7440,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RENDON HERNANDEZ SERVICIOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$655,640.00",
-    "ultima_lectura": "2026-11-07T17:08:00.412656-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.462245-08:00"
   },
   "CFE-0614-CSSAN-0010-2025": {
     "numero": "CFE-0614-CSSAN-0010-2025",
@@ -7449,7 +7449,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:00.477735-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.513401-08:00"
   },
   "CFE-0101-CACON-0006-2025": {
     "numero": "CFE-0101-CACON-0006-2025",
@@ -7458,7 +7458,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OMAR MONTIEL BONILLA,",
     "monto_adjudicado": "$2,515,199.76",
-    "ultima_lectura": "2026-11-07T17:08:00.543401-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.565010-08:00"
   },
   "CFE-0604-CSSAN-0004-2025": {
     "numero": "CFE-0604-CSSAN-0004-2025",
@@ -7467,7 +7467,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORBERTO TORRES VEA,",
     "monto_adjudicado": "$1,854,400.00",
-    "ultima_lectura": "2026-11-07T17:08:00.609215-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.616291-08:00"
   },
   "CFE-0604-CSABN-0002-2025": {
     "numero": "CFE-0604-CSABN-0002-2025",
@@ -7476,7 +7476,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "OLGA LORENA PADILLA GALVAN,",
     "monto_adjudicado": "$1,777,500.00",
-    "ultima_lectura": "2026-11-07T17:08:00.675106-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.667403-08:00"
   },
   "CFE-0614-CSSAN-0009-2025": {
     "numero": "CFE-0614-CSSAN-0009-2025",
@@ -7485,7 +7485,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,",
     "monto_adjudicado": "$883,000.00",
-    "ultima_lectura": "2026-11-07T17:08:00.740347-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.718512-08:00"
   },
   "CFE-0101-CACON-0005-2025": {
     "numero": "CFE-0101-CACON-0005-2025",
@@ -7494,7 +7494,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRANCISCO COTA OLACHEA,",
     "monto_adjudicado": "$3,553,598.45",
-    "ultima_lectura": "2026-11-07T17:08:00.830323-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.769594-08:00"
   },
   "CFE-0101-CSSAN-0006-2025": {
     "numero": "CFE-0101-CSSAN-0006-2025",
@@ -7503,7 +7503,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GENERAL MOTORS DE MEXICO S DE RL DE CV,",
     "monto_adjudicado": "$5,478,387.20",
-    "ultima_lectura": "2026-11-07T17:08:00.896451-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.820768-08:00"
   },
   "CFE-0051-CSSAN-0001-2025": {
     "numero": "CFE-0051-CSSAN-0001-2025",
@@ -7512,7 +7512,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:00.962408-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.872173-08:00"
   },
   "CFE-0614-CSAAA-0003-2025": {
     "numero": "CFE-0614-CSAAA-0003-2025",
@@ -7521,7 +7521,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FERNANDO BERNAL CUEVAS,CLAVOS DE MEXICALI S DE RL DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,GRUPO FERRETERIA CALZADA SA DE CV,INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,",
     "monto_adjudicado": "$508,767.22",
-    "ultima_lectura": "2026-11-07T17:08:01.027057-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.923578-08:00"
   },
   "CFE-0604-CSSAA-0001-2025": {
     "numero": "CFE-0604-CSSAA-0001-2025",
@@ -7530,7 +7530,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,311,349.67",
-    "ultima_lectura": "2026-11-07T17:08:01.092705-08:00"
+    "ultima_lectura": "2026-11-08T12:16:03.974680-08:00"
   },
   "CFE-0101-CACON-0004-2025": {
     "numero": "CFE-0101-CACON-0004-2025",
@@ -7539,7 +7539,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$4,410,019.11",
-    "ultima_lectura": "2026-11-07T17:08:01.160019-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.026234-08:00"
   },
   "CFE-0614-CSAAA-0002-2025": {
     "numero": "CFE-0614-CSAAA-0002-2025",
@@ -7548,7 +7548,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FILTRACION INDUSTRIAL ESPECIALIZADA SA DE CV,CARFOX INDUSTRIAL SA DE CV,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,289,252.12",
-    "ultima_lectura": "2026-11-07T17:08:01.227189-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.077878-08:00"
   },
   "CFE-0604-CSAAN-0003-2025": {
     "numero": "CFE-0604-CSAAN-0003-2025",
@@ -7557,7 +7557,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$360,702.40",
-    "ultima_lectura": "2026-11-07T17:08:01.293405-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.129162-08:00"
   },
   "CFE-0614-CSAAA-0001-2025": {
     "numero": "CFE-0614-CSAAA-0001-2025",
@@ -7566,7 +7566,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DURPLATE S DE RL DE CV,",
     "monto_adjudicado": "$1,000,090.53",
-    "ultima_lectura": "2026-11-07T17:08:01.359788-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.180171-08:00"
   },
   "CFE-0614-CSSAN-0008-2025": {
     "numero": "CFE-0614-CSSAN-0008-2025",
@@ -7575,7 +7575,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.436018-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.231026-08:00"
   },
   "CFE-0614-CSSAN-0005-2025": {
     "numero": "CFE-0614-CSSAN-0005-2025",
@@ -7584,7 +7584,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MIGUEL ANGEL RENTERIA FLORES,INDUSTRIAL MECANICA H SA DE CV,",
     "monto_adjudicado": "$1,740,530.85",
-    "ultima_lectura": "2026-11-07T17:08:01.502141-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.281711-08:00"
   },
   "CFE-0614-CSSAN-0007-2025": {
     "numero": "CFE-0614-CSSAN-0007-2025",
@@ -7593,7 +7593,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "YOLANDA DELGADILLO MATEO,",
     "monto_adjudicado": "$257,400.00",
-    "ultima_lectura": "2026-11-07T17:08:01.567555-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.332517-08:00"
   },
   "CFE-0614-CSSAN-0006-2025": {
     "numero": "CFE-0614-CSSAN-0006-2025",
@@ -7602,7 +7602,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.633149-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.383633-08:00"
   },
   "CFE-0614-CSSAN-0004-2025": {
     "numero": "CFE-0614-CSSAN-0004-2025",
@@ -7611,7 +7611,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.698679-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.434984-08:00"
   },
   "CFE-0101-CSSAN-0005-2025": {
     "numero": "CFE-0101-CSSAN-0005-2025",
@@ -7620,7 +7620,7 @@
     "estado": "Contrato Sin Formalizar",
     "adjudicado_a": "EDIFICACION Y DISEÑO CONVENCIONAL S DE RL DE CV,",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.765722-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.486397-08:00"
   },
   "CFE-0614-CSSAN-0003-2025": {
     "numero": "CFE-0614-CSSAN-0003-2025",
@@ -7629,7 +7629,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.834432-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.548772-08:00"
   },
   "CFE-0604-CSSAN-0003-2025": {
     "numero": "CFE-0604-CSSAN-0003-2025",
@@ -7638,7 +7638,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORBERTO TORRES VEA,",
     "monto_adjudicado": "$1,344,000.00",
-    "ultima_lectura": "2026-11-07T17:08:01.904083-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.607619-08:00"
   },
   "CFE-0614-CSSAN-0002-2025": {
     "numero": "CFE-0614-CSSAN-0002-2025",
@@ -7647,7 +7647,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:01.970872-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.658384-08:00"
   },
   "CFE-0101-CSSAN-0004-2025": {
     "numero": "CFE-0101-CSSAN-0004-2025",
@@ -7656,7 +7656,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "JESUS ARIEL PRIETO ORDOÑEZ,",
     "monto_adjudicado": "$5,000,000.00",
-    "ultima_lectura": "2026-11-07T17:08:02.037932-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.709246-08:00"
   },
   "CFE-0614-CSAAN-0001-2025": {
     "numero": "CFE-0614-CSAAN-0001-2025",
@@ -7665,7 +7665,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
     "monto_adjudicado": "$81,428.64",
-    "ultima_lectura": "2026-11-07T17:08:02.106485-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.759946-08:00"
   },
   "CFE-0614-CSSAA-0001-2025": {
     "numero": "CFE-0614-CSSAA-0001-2025",
@@ -7674,7 +7674,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELVIRA BETANCOURT ZAMORA,",
     "monto_adjudicado": "$880,704.00",
-    "ultima_lectura": "2026-11-07T17:08:02.173408-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.811011-08:00"
   },
   "CFE-0604-CSAAA-0002-2025": {
     "numero": "CFE-0604-CSAAA-0002-2025",
@@ -7683,7 +7683,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIALIZADORA INDUSTRIAL HENZE SA DE CV,SEPAC INGENIERIA SA DE CV,",
     "monto_adjudicado": "$1,390,661.52",
-    "ultima_lectura": "2026-11-07T17:08:02.240511-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.862001-08:00"
   },
   "CFE-0604-CSSAN-0002-2025": {
     "numero": "CFE-0604-CSSAN-0002-2025",
@@ -7692,7 +7692,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "YURENY MONSERRAT FERREIRO AGUIRRE,",
     "monto_adjudicado": "$821,400.00",
-    "ultima_lectura": "2026-11-07T17:08:02.306510-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.913019-08:00"
   },
   "CFE-0101-CACON-0003-2025": {
     "numero": "CFE-0101-CACON-0003-2025",
@@ -7701,7 +7701,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "EL SAUZ CONSTRUCCIONES SA DE CV,",
     "monto_adjudicado": "$1,999,820.79",
-    "ultima_lectura": "2026-11-07T17:08:02.372716-08:00"
+    "ultima_lectura": "2026-11-08T12:16:04.963784-08:00"
   },
   "CFE-0101-CSSAN-0003-2025": {
     "numero": "CFE-0101-CSSAN-0003-2025",
@@ -7710,7 +7710,7 @@
     "estado": "Cancelado",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:02.439150-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.014663-08:00"
   },
   "CFE-0604-CSABN-0001-2025": {
     "numero": "CFE-0604-CSABN-0001-2025",
@@ -7719,7 +7719,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GRUAS MANIOBRAS Y MONTAJES SEH ESPECIALIZADOS SA DE CV,OLGA LORENA PADILLA GALVAN,",
     "monto_adjudicado": "$1,670,400.00",
-    "ultima_lectura": "2026-11-07T17:08:02.505215-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.065856-08:00"
   },
   "CFE-0614-CSSAN-0001-2025": {
     "numero": "CFE-0614-CSSAN-0001-2025",
@@ -7728,7 +7728,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "UNIDADES DE INSPECCION G+10 SA DE CV,",
     "monto_adjudicado": "$1,411,350.00",
-    "ultima_lectura": "2026-11-07T17:08:02.571312-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.117577-08:00"
   },
   "CFE-0604-CSAAN-0002-2025": {
     "numero": "CFE-0604-CSAAN-0002-2025",
@@ -7737,7 +7737,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RICO PROMOSTAR SA DE CV,",
     "monto_adjudicado": "$400,512.00",
-    "ultima_lectura": "2026-11-07T17:08:02.636362-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.168856-08:00"
   },
   "CFE-0604-CSAAN-0001-2025": {
     "numero": "CFE-0604-CSAAN-0001-2025",
@@ -7746,7 +7746,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,FORTIS ALLOY MEXICO SA DE CV,INOX VER SA DE CV,NIKSERVI SA DE CV,P&R INDUSTRIAL S DE RL DE CV,",
     "monto_adjudicado": "$717,168.07",
-    "ultima_lectura": "2026-11-07T17:08:02.703443-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.220031-08:00"
   },
   "CFE-0604-CSAAA-0001-2025": {
     "numero": "CFE-0604-CSAAA-0001-2025",
@@ -7755,7 +7755,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DISTRIBUIDORA QUIMICA DE SONORA SA DE CV,INSUMOS A LA INDUSTRIA QUIMICA SA DE CV,QUIMICA INDUSTRIAL DEL NORTE SA DE CV,",
     "monto_adjudicado": "$1,110,234.80",
-    "ultima_lectura": "2026-11-07T17:08:02.770937-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.271029-08:00"
   },
   "CFE-0604-CSSAN-0001-2025": {
     "numero": "CFE-0604-CSSAN-0001-2025",
@@ -7764,7 +7764,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:02.838101-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.322319-08:00"
   },
   "CFE-0101-CSAAN-0002-2025": {
     "numero": "CFE-0101-CSAAN-0002-2025",
@@ -7773,7 +7773,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,INDUSTRIAL PERMONT SA DE CV,",
     "monto_adjudicado": "$1,453,166.00",
-    "ultima_lectura": "2026-11-07T17:08:02.904942-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.373341-08:00"
   },
   "CFE-0101-CSAAN-0001-2025": {
     "numero": "CFE-0101-CSAAN-0001-2025",
@@ -7782,7 +7782,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:02.973292-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.424574-08:00"
   },
   "CFE-0101-CSSAN-0002-2025": {
     "numero": "CFE-0101-CSSAN-0002-2025",
@@ -7791,7 +7791,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FRIENDLY GREEN SAS,GEORGOS CONSTRUCTORA SA DE CV,",
     "monto_adjudicado": "$2,192,616.30",
-    "ultima_lectura": "2026-11-07T17:08:03.041717-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.475721-08:00"
   },
   "CFE-0101-CSSAN-0001-2025": {
     "numero": "CFE-0101-CSSAN-0001-2025",
@@ -7800,7 +7800,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "FABRICA DE TRANSFORMADORES BUVE SA DE CV,",
     "monto_adjudicado": "$1,038,038.17",
-    "ultima_lectura": "2026-11-07T17:08:03.110707-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.527155-08:00"
   },
   "CFE-0101-CACON-0002-2025": {
     "numero": "CFE-0101-CACON-0002-2025",
@@ -7809,7 +7809,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "NORESA OIL SERVICE SA DE CV,",
     "monto_adjudicado": "$9,689,129.64",
-    "ultima_lectura": "2026-11-07T17:08:03.177200-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.578242-08:00"
   },
   "CFE-0101-CACON-0001-2025": {
     "numero": "CFE-0101-CACON-0001-2025",
@@ -7818,7 +7818,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MA. DEL SOCORRO LOZANO AGUILAR,",
     "monto_adjudicado": "$394,852.15",
-    "ultima_lectura": "2026-11-07T17:08:03.246240-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.629720-08:00"
   },
   "CFE-0614-CSAAA-0025-2024": {
     "numero": "CFE-0614-CSAAA-0025-2024",
@@ -7827,7 +7827,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:03.313470-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.680765-08:00"
   },
   "CFE-0614-CSAAN-0023-2024": {
     "numero": "CFE-0614-CSAAN-0023-2024",
@@ -7836,7 +7836,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DANIA ABIGAIL MONTES DIAZ,BOGA DE OCCIDENTE SA DE CV,DAFNE VARGAS DIAZ,",
     "monto_adjudicado": "$658,674.58",
-    "ultima_lectura": "2026-11-07T17:08:03.378765-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.731988-08:00"
   },
   "CFE-0614-CSAAN-0022-2024": {
     "numero": "CFE-0614-CSAAN-0022-2024",
@@ -7845,7 +7845,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "BOGA DE OCCIDENTE SA DE CV,SERVICIOS E INSUMOS SYM DE MEXICO SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,DAFNE VARGAS DIAZ,ELECTRICAL CONSULTING AND SERVICIES SAMA S DE RL DE CV,",
     "monto_adjudicado": "$991,168.02",
-    "ultima_lectura": "2026-11-07T17:08:03.446273-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.783723-08:00"
   },
   "CFE-0614-CSAAA-0024-2024": {
     "numero": "CFE-0614-CSAAA-0024-2024",
@@ -7854,7 +7854,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$1,772,573.83",
-    "ultima_lectura": "2026-11-07T17:08:03.513480-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.834998-08:00"
   },
   "CFE-0614-CSAAN-0020-2024": {
     "numero": "CFE-0614-CSAAN-0020-2024",
@@ -7863,7 +7863,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ELASTOCONTROL SA DE CV,",
     "monto_adjudicado": "$131,500.00",
-    "ultima_lectura": "2026-11-07T17:08:03.580633-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.886084-08:00"
   },
   "CFE-0614-CSAAN-0021-2024": {
     "numero": "CFE-0614-CSAAN-0021-2024",
@@ -7872,7 +7872,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "GENERAL PAINT SA DE CV,MACO SA,CHAMPION COAT, PINTURAS Y RECUBRIMIENTOS SA DE CV,",
     "monto_adjudicado": "$581,223.12",
-    "ultima_lectura": "2026-11-07T17:08:03.647324-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.937555-08:00"
   },
   "CFE-0614-CSAAA-0022-2024": {
     "numero": "CFE-0614-CSAAA-0022-2024",
@@ -7881,7 +7881,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$533,822.36",
-    "ultima_lectura": "2026-11-07T17:08:03.713934-08:00"
+    "ultima_lectura": "2026-11-08T12:16:05.988545-08:00"
   },
   "CFE-0614-CSSAN-0029-2024": {
     "numero": "CFE-0614-CSSAN-0029-2024",
@@ -7890,7 +7890,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERVICIOS INDUSTRIALES HIGIENICOS DEL BAJIO SA DE CV,",
     "monto_adjudicado": "$450,571.40",
-    "ultima_lectura": "2026-11-07T17:08:03.780890-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.039789-08:00"
   },
   "CFE-0614-CSAAA-0023-2024": {
     "numero": "CFE-0614-CSAAA-0023-2024",
@@ -7899,7 +7899,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROCESS FACTOR MEXICO SA DE CV,",
     "monto_adjudicado": "$176,210.00",
-    "ultima_lectura": "2026-11-07T17:08:03.847073-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.091162-08:00"
   },
   "CFE-0101-CSSAN-0059-2024": {
     "numero": "CFE-0101-CSSAN-0059-2024",
@@ -7908,7 +7908,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:03.938008-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.147147-08:00"
   },
   "CFE-0614-CSAAN-0018-2024": {
     "numero": "CFE-0614-CSAAN-0018-2024",
@@ -7917,7 +7917,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "INTEGRADORA DE SERVICIOS Y ADQUISICIONES DE MEXICO SA DE CV,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$199,300.70",
-    "ultima_lectura": "2026-11-07T17:08:04.012397-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.199387-08:00"
   },
   "CFE-0614-CSAAN-0019-2024": {
     "numero": "CFE-0614-CSAAN-0019-2024",
@@ -7926,7 +7926,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ZURIVE INDUSTRIAL DE MEXICO SA DE CV,AEE MARINE SERVICES SA DE CV,DAFNE VARGAS DIAZ,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
     "monto_adjudicado": "$540,950.77",
-    "ultima_lectura": "2026-11-07T17:08:04.080312-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.251020-08:00"
   },
   "CFE-0614-CSSAN-0028-2024": {
     "numero": "CFE-0614-CSSAN-0028-2024",
@@ -7935,7 +7935,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DP3 MEXICALI SA DE CV,",
     "monto_adjudicado": "$143,124.56",
-    "ultima_lectura": "2026-11-07T17:08:04.146171-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.303182-08:00"
   },
   "CFE-0604-CSAAA-0029-2024": {
     "numero": "CFE-0604-CSAAA-0029-2024",
@@ -7944,7 +7944,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$712,511.36",
-    "ultima_lectura": "2026-11-07T17:08:04.215277-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.355173-08:00"
   },
   "CFE-0604-CSAAN-0030-2024": {
     "numero": "CFE-0604-CSAAN-0030-2024",
@@ -7953,7 +7953,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DAFNE VARGAS DIAZ,",
     "monto_adjudicado": "$270,332.00",
-    "ultima_lectura": "2026-11-07T17:08:04.281743-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.407143-08:00"
   },
   "CFE-0604-CSAAA-0028-2024": {
     "numero": "CFE-0604-CSAAA-0028-2024",
@@ -7962,7 +7962,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SICMA DESARROLLO TECNOLOGICO SA DE CV,",
     "monto_adjudicado": "$816,115.50",
-    "ultima_lectura": "2026-11-07T17:08:04.348544-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.459020-08:00"
   },
   "CFE-0604-CSAAA-0027-2024": {
     "numero": "CFE-0604-CSAAA-0027-2024",
@@ -7971,7 +7971,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,",
     "monto_adjudicado": "$141,961.60",
-    "ultima_lectura": "2026-11-07T17:08:04.414507-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.510425-08:00"
   },
   "CFE-0614-CSAAA-0021-2024": {
     "numero": "CFE-0614-CSAAA-0021-2024",
@@ -7980,7 +7980,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "AEE MARINE SERVICES SA DE CV,AMJ EQUIPO INDUSTRIAL SA DE CV,SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,",
     "monto_adjudicado": "$398,346.76",
-    "ultima_lectura": "2026-11-07T17:08:04.481401-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.562303-08:00"
   },
   "CFE-0614-CSAAN-0017-2024": {
     "numero": "CFE-0614-CSAAN-0017-2024",
@@ -7989,7 +7989,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "SERGO EQUIPOS Y HERRAMIENTAS SA DE CV,SUMEXSA SA DE CV,",
     "monto_adjudicado": "$822,742.57",
-    "ultima_lectura": "2026-11-07T17:08:04.547639-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.613849-08:00"
   },
   "CFE-0201-CSCON-0021-2024": {
     "numero": "CFE-0201-CSCON-0021-2024",
@@ -7998,7 +7998,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "HT INGENIERIA DEL NOROESTE SA DE CV,",
     "monto_adjudicado": "$717,939.96",
-    "ultima_lectura": "2026-11-07T17:08:04.614383-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.665350-08:00"
   },
   "CFE-0604-CSAAN-0029-2024": {
     "numero": "CFE-0604-CSAAN-0029-2024",
@@ -8007,7 +8007,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,TECNOLOGIA MATERIALES Y EQUIPOS INDUSTRIALES SA DE CV,XHITAO SA DE CV,",
     "monto_adjudicado": "$1,011,432.50",
-    "ultima_lectura": "2026-11-07T17:08:04.680780-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.717133-08:00"
   },
   "CFE-0201-CSSON-0003-2024": {
     "numero": "CFE-0201-CSSON-0003-2024",
@@ -8016,7 +8016,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:04.748000-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.777609-08:00"
   },
   "CFE-0201-CSAAA-0014-2024": {
     "numero": "CFE-0201-CSAAA-0014-2024",
@@ -8025,7 +8025,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMERCIALIZADORA DE SERVICIOS INDUSTRIALES Y SUMINISTROS FH SA D,PROVEEDORES INDUSTRIALES DE EQUIPOS Y REFACCIONES UNIVERSALES SA,TECJOYNET COMUNICACIONES SA DE CV,XHITAO SA DE CV,",
     "monto_adjudicado": "$2,823,383.69",
-    "ultima_lectura": "2026-11-07T17:08:04.819685-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.828842-08:00"
   },
   "CFE-0201-CSSAN-0016-2024": {
     "numero": "CFE-0201-CSSAN-0016-2024",
@@ -8034,7 +8034,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "AIDA GARCIA ORTEGA,JOSE LUIS VILLARREAL GONZALEZ,",
     "monto_adjudicado": "$1,305,510.00",
-    "ultima_lectura": "2026-11-07T17:08:04.885544-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.880614-08:00"
   },
   "CFE-0604-CSSAN-0036-2024": {
     "numero": "CFE-0604-CSSAN-0036-2024",
@@ -8043,7 +8043,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ASESORIA Y SERVICIOS ANALITICOS SA DE CV,",
     "monto_adjudicado": "$784,620.00",
-    "ultima_lectura": "2026-11-07T17:08:04.951774-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.932850-08:00"
   },
   "CFE-0201-CSSON-0002-2024": {
     "numero": "CFE-0201-CSSON-0002-2024",
@@ -8052,7 +8052,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "MARES PROYECTOS Y CONSTRUCCION S DE RL DE CV,",
     "monto_adjudicado": "$1,678,081.26",
-    "ultima_lectura": "2026-11-07T17:08:05.018425-08:00"
+    "ultima_lectura": "2026-11-08T12:16:06.984550-08:00"
   },
   "CFE-0604-CSSAN-0035-2024": {
     "numero": "CFE-0604-CSSAN-0035-2024",
@@ -8061,7 +8061,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:05.086030-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.035962-08:00"
   },
   "CFE-0201-CSAAA-0013-2024": {
     "numero": "CFE-0201-CSAAA-0013-2024",
@@ -8070,7 +8070,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DAFNE VARGAS DIAZ,",
     "monto_adjudicado": "$547,500.00",
-    "ultima_lectura": "2026-11-07T17:08:05.152995-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.087791-08:00"
   },
   "CFE-0201-CSSAN-0015-2024": {
     "numero": "CFE-0201-CSSAN-0015-2024",
@@ -8079,7 +8079,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "ALEJANDRA LOPEZ ALDUENDA,FREDY ORTEGA PEREZ,POLIZAS DE MANTENIMIENTO S DE RL DE CV,",
     "monto_adjudicado": "$1,109,910.00",
-    "ultima_lectura": "2026-11-07T17:08:05.219833-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.139053-08:00"
   },
   "CFE-0101-CASON-0001-2024": {
     "numero": "CFE-0101-CASON-0001-2024",
@@ -8088,7 +8088,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "LAMSYCO LABORATORIOS SA DE CV,",
     "monto_adjudicado": "$912,280.43",
-    "ultima_lectura": "2026-11-07T17:08:05.286530-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.190538-08:00"
   },
   "CFE-0101-CSAAN-0030-2024": {
     "numero": "CFE-0101-CSAAN-0030-2024",
@@ -8097,7 +8097,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "DAFNE VARGAS DIAZ,DELTA CONECTORES SA DE CV,PARTALUM SA DE CV,",
     "monto_adjudicado": "$3,385,372.10",
-    "ultima_lectura": "2026-11-07T17:08:05.352529-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.241953-08:00"
   },
   "CFE-0101-CSAAN-0029-2024": {
     "numero": "CFE-0101-CSAAN-0029-2024",
@@ -8106,7 +8106,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMPAÑIA NACIONAL DE HERRAJES ELECTRICOS SA DE CV,DISTRIBUCIONES CANTILEVER S DE RL DE CV,",
     "monto_adjudicado": "$4,067,050.00",
-    "ultima_lectura": "2026-11-07T17:08:05.419677-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.293563-08:00"
   },
   "CFE-0201-CSAAA-0012-2024": {
     "numero": "CFE-0201-CSAAA-0012-2024",
@@ -8115,7 +8115,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "UNIFORMES JULIAN SA DE CV,",
     "monto_adjudicado": "$1,313,856.00",
-    "ultima_lectura": "2026-11-07T17:08:05.486277-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.345078-08:00"
   },
   "CFE-0201-CSAAA-0011-2024": {
     "numero": "CFE-0201-CSAAA-0011-2024",
@@ -8124,7 +8124,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "VIMA SUMINISTROS INDUSTRIALES SA DE CV,",
     "monto_adjudicado": "$4,042,500.00",
-    "ultima_lectura": "2026-11-07T17:08:05.552706-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.396876-08:00"
   },
   "CFE-0201-CSAAA-0010-2024": {
     "numero": "CFE-0201-CSAAA-0010-2024",
@@ -8133,7 +8133,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:05.617999-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.448242-08:00"
   },
   "CFE-0604-CSAAA-0026-2024": {
     "numero": "CFE-0604-CSAAA-0026-2024",
@@ -8142,7 +8142,7 @@
     "estado": "Desierto",
     "adjudicado_a": "",
     "monto_adjudicado": "$0.00",
-    "ultima_lectura": "2026-11-07T17:08:05.684427-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.521653-08:00"
   },
   "CFE-0201-CSSAN-0014-2024": {
     "numero": "CFE-0201-CSSAN-0014-2024",
@@ -8151,7 +8151,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "RECOLECTORA DE DESECHOS Y RESIDUOS KING KONG SA DE CV,",
     "monto_adjudicado": "$400,656.00",
-    "ultima_lectura": "2026-11-07T17:08:05.749404-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.573074-08:00"
   },
   "CFE-0201-CSAAN-0011-2024": {
     "numero": "CFE-0201-CSAAN-0011-2024",
@@ -8160,7 +8160,7 @@
     "estado": "Adjudicado",
     "adjudicado_a": "COMANDO SA DE CV,",
     "monto_adjudicado": "$796,500.00",
-    "ultima_lectura": "2026-11-07T17:08:05.818485-08:00"
+    "ultima_lectura": "2026-11-08T12:16:07.625168-08:00"
   },
   "CFE-0604-CSABN-0002-2024": {
     "numero": "CFE-0604-CSABN-0002-2024",
